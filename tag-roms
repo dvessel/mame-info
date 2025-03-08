@@ -1,0 +1,129 @@
+#!/usr/bin/env zsh
+
+
+function main {
+  zparseopts -D -E -F - {d,-dry-run}=dryrun || return 1
+
+  local scandir=${1:a}
+  if test -z $scandir && type mame >/dev/null; then
+    scandir=`eval print $( mame -showconfig | awk '$1=="rompath" { $1=""; print $0 }')`
+  fi
+  scandir=${scandir:-`pwd`}
+
+  if [[ ! -d $scandir ]]; then
+    print "Scan directory does not exist:\n$scandir"  >&2
+    return 1
+  fi
+
+  __infodir=$__selfdir/info
+  __scanlog=$__selfdir/scan.log
+  mkdir -p $__scanlog:h $__infodir
+
+  self-log info "initiating scan:$scandir"
+
+  local file
+
+  for file in $scandir/*.(zip|7z|chd)(N); do
+    CURRENT=$file:t:r
+
+    if [[ ! -s $__infodir/$CURRENT ]]; then
+      self-log warning "$file:t is not recognized."
+      continue
+    fi
+
+    unset tags
+    unset __files
+    unset __incomplete
+
+    typeset -a tags tagfilters=(
+      "MAME Incomplete"
+      "MAME Preliminary"
+      "MAME BIOS"
+      "MAME Device"
+      "MAME Mechanical"
+    )
+
+    while read -r info; do
+      case $info in
+        description:*)  description=${info#*:}  ;;
+        manufacturer:*) manufacturer=${info#*:} ;;
+        year:*)         year=${info#*:}         ;;
+        status:preliminary) tags+="MAME Preliminary"  ;;
+        kind:bios)          tags+="MAME BIOS"         ;;
+        kind:device)        tags+="MAME Device"       ;;
+        kind:mechanical)    tags+="MAME Mechanical"   ;;
+        (device|romof|disk):*)
+          dependency=${info/*:}
+          case ${info/:*} in
+            device|romof) __files=( $scandir/$dependency.(zip|7z)(N) ) ;;
+            disk)         __files=( $scandir/$dependency.chd(N) )      ;;
+          esac
+          tagfilters+=( +$dependency -$dependency )
+          if [[ -n $__files ]]; then
+            tags+="+$dependency"
+          else
+            tags+="-$dependency"
+            if [[ ! -v __incomplete ]]; then
+              tags=( "MAME Incomplete" $tags )
+              __incomplete=1
+            fi
+            self-log warning "$(
+              printf "[%s] \"%s\" is missing %s [%s]\n" \
+                $CURRENT "$description" ${info/:*} $dependency
+            )"
+          fi
+        ;;
+      esac
+    done < <( cat $__infodir/$CURRENT )
+
+    if [[ -n $tags ]]; then
+      if [[ ! -n $dryrun ]]; then
+        () {
+          local IFS=$'\n' currenttags outsidetags rm ad
+          # do not alter tags set outside of this script.
+          currenttags=( `tag -gN $file` )
+          outsidetags=( ${currenttags:|tagfilters} )
+          rm=( `print -l -- ${currenttags:|outsidetags} | sort` )
+          ad=( `print -l -- $tags | sort | uniq` )
+          if [[ $rm != $ad ]]; then
+            tag -r ${(j[,])rm} $file
+            tag -a ${(j[,])tags} $file
+            self-log info "Added [${(j[,])tags}] to $file."
+          fi
+        }
+      fi
+      printf "%-20s %s\n" $file:t "`present-tags $tags`"
+    fi
+  done
+}
+
+function present-tags {
+  typeset -a tags
+  for t in $@; do
+    t=${t/MAME /}
+    case $t in
+      Preliminary) tags+="\033[0;35m$t\033[0m" ;;
+      BIOS)        tags+="\033[0;33m$t\033[0m" ;;
+      Device)      tags+="\033[0;33m$t\033[0m" ;;
+      Mechanical)  tags+="\033[0;34m$t\033[0m" ;;
+      Incomplete)  tags+="\033[0;31m$t\033[0m" ;;
+      \+*)         tags+="\033[0;32m$t\033[0m" ;;
+      \-*)         tags+="\033[4;31m$t\033[0m" ;;
+    esac
+  done
+  printf "${(j[,])tags}"
+}
+
+function self-log {
+  local category=$1; shift
+  printf "%s\t%s\t%s\n" "`date -u +%Y-%m-%dT%H:%M:%SZ`" $category "$@" >> $__scanlog
+}
+
+if ! type tag &>/dev/null; then
+  print "tag not installed. install through \`brew install tag\` or visit https://github.com/jdberry/tag" >&2
+  return 1
+fi
+
+__selfdir=$(dirname `realpath $0`)
+
+main $@
