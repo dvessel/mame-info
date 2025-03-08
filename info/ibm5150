@@ -1,0 +1,7 @@
+description:IBM PC 5150
+manufacturer:International Business Machines
+year:1981
+status:imperfect
+device:cga
+device:isa_hdc
+device:keytronic_pc3270

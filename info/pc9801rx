@@ -1,0 +1,7 @@
+description:PC-9801RX
+manufacturer:NEC
+year:1988
+status:preliminary
+device:pc9801_26
+device:upd7220
+romof:pc9801rs

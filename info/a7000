@@ -1,0 +1,7 @@
+description:Archimedes A7000
+manufacturer:Acorn
+year:1995
+status:preliminary
+device:kb_pcat101
+device:ps2_keybc
+romof:rpc600

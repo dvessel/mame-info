@@ -1,0 +1,7 @@
+description:MasterPieCe 900 Series
+manufacturer:G2 Systems
+year:1988
+status:preliminary
+device:saa5050
+device:bbc_tube_65c102
+romof:bbcm

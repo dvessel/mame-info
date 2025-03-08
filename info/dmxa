@@ -1,0 +1,9 @@
+description:Dance Maniax (G*874 VER. AAA)
+manufacturer:Konami
+year:2000
+status:preliminary
+device:k573_dio
+romof:dncfrks
+romof:sys573
+disk:dncfrks/874aaa02
+disk:dncfrks/874kaa

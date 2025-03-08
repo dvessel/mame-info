@@ -1,0 +1,9 @@
+description:MegaTouch XL 6000 (Version r02)
+manufacturer:Merit Industries
+year:1999
+status:good
+device:dm_clgd5430
+device:microtouch
+romof:mtchxl6k
+disk:mtchxl6k/r02
+disk:mtchxl6k/r07

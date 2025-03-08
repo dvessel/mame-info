@@ -1,0 +1,6 @@
+description:Indiana University 68030 board
+manufacturer:Indiana University
+year:1993
+status:preliminary
+device:ibm_vga
+device:kb_pcat84

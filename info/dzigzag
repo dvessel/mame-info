@@ -1,0 +1,7 @@
+description:Zig Zag (Dig Dug hardware)
+manufacturer:bootleg
+year:1982
+status:good
+device:namco51
+device:namco53
+romof:digdug

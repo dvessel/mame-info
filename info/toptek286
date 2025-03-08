@@ -1,0 +1,8 @@
+description:286 Turbo
+manufacturer:Toptek Micro Computer
+year:19??
+status:preliminary
+device:at_keybc
+device:cga
+device:kb_pcat84
+romof:ibm5170

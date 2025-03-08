@@ -1,0 +1,9 @@
+description:MegaTouch XL Gold (Version r00)
+manufacturer:Merit Industries
+year:2000
+status:preliminary
+device:dm_clgd5430
+device:microtouch
+romof:mtchxlgld
+disk:mtchxlgld/r00
+disk:mtchxlgld/r01

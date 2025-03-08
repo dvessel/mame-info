@@ -1,0 +1,10 @@
+description:Dance Dance Revolution 3rd Mix - Ver.Korea (GN887 VER. KAA)
+manufacturer:Konami
+year:2000
+status:preliminary
+device:k573_dio
+device:k573mcr
+romof:ddr3mk
+romof:sys573
+disk:ddr3mk/887kaa02
+disk:ddr3mk/887kba02

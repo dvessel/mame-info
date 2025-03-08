@@ -1,0 +1,9 @@
+description:Sega Network Taisen Mahjong MJ 3 Firmware Update (GDX-0019)
+manufacturer:Sega
+year:2005
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:mj3up/gdx-0019

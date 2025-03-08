@@ -1,0 +1,7 @@
+description:386 motherboards using the UMC UM82C491F + UM82C493F chipset or BIOTEQ equivalents
+year:199?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

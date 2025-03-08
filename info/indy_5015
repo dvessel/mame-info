@@ -1,0 +1,7 @@
+description:Indy (R5000, 150MHz)
+manufacturer:Silicon Graphics Inc
+year:1996
+status:imperfect
+device:kb_ms_natural
+device:ps2_keybc
+romof:indy_4610

@@ -1,0 +1,7 @@
+description:PC6
+manufacturer:NCR
+year:1985
+status:preliminary
+device:cga
+device:kb_pcxt83
+romof:ibm5150

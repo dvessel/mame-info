@@ -1,0 +1,11 @@
+description:Virtua Fighter 4: Evolution (Japan) (GDS-0024A)
+manufacturer:Sega
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:vf4evo
+romof:naomi2
+disk:vf4evo/gds-0024a
+disk:vf4evo/gds-0024c

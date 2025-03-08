@@ -1,0 +1,8 @@
+description:M21
+manufacturer:Olivetti
+year:1984
+status:preliminary
+device:cga_m24
+device:m24_kbd
+device:m24_z8000
+romof:ibm5150

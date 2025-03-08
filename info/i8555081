@@ -1,0 +1,7 @@
+description:IBM PS/2 8555-081 (Model 55SX)
+manufacturer:International Business Machines
+year:1989
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural

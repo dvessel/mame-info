@@ -1,0 +1,7 @@
+description:386sx motherboards using the ALi M1217 chipset
+year:199?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

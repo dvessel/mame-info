@@ -1,0 +1,7 @@
+description:CBM 8032 (Germany)
+manufacturer:Commodore Business Machines
+year:1981
+status:good
+device:c8050
+device:c8050fdc
+romof:pet8032

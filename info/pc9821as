@@ -1,0 +1,7 @@
+description:PC-9821As (98MATE A)
+manufacturer:NEC
+year:1993
+status:preliminary
+device:pc9801_86
+device:ym2608
+device:upd7220

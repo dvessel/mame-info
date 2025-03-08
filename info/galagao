@@ -1,0 +1,7 @@
+description:Galaga (Namco)
+manufacturer:Namco
+year:1981
+status:good
+device:namco51
+device:namco54
+romof:galaga

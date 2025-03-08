@@ -1,0 +1,6 @@
+description:Amiga 1000 (NTSC)
+manufacturer:Commodore
+year:1985
+status:preliminary
+device:a1000kbd_us
+romof:a1000

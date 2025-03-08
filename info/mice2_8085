@@ -1,0 +1,5 @@
+description:MICE-II 8085 (Rev-M)
+manufacturer:Microtek International
+year:1987
+status:preliminary
+romof:mice2_z80

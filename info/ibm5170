@@ -1,0 +1,7 @@
+description:PC/AT 5170
+manufacturer:International Business Machines
+year:1984
+status:preliminary
+device:at_keybc
+device:ega
+device:kb_pcat84

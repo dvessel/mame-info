@@ -1,0 +1,6 @@
+description:Gold Medalist (bootleg, Alpha68k III PCB)
+manufacturer:bootleg
+year:1988
+status:imperfect
+device:ym2413
+romof:goldmedl

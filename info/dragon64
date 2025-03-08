@@ -1,0 +1,6 @@
+description:Dragon 64
+manufacturer:Dragon Data Ltd
+year:1983
+status:good
+device:dragon_fdc
+romof:dragon32

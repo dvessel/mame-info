@@ -1,0 +1,6 @@
+description:PC-8801mkIIMR
+manufacturer:NEC
+year:1985
+status:imperfect
+device:pc80s31k
+romof:pc8801mk2sr

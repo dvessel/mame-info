@@ -1,0 +1,9 @@
+description:Chaos Field (Japan) (GDL-0025)
+manufacturer:Able
+year:2004
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:cfield/gdl-0025

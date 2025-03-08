@@ -1,0 +1,7 @@
+description:PC1
+manufacturer:Atari
+year:1987
+status:good
+device:ega
+device:kb_pcxt83
+romof:ibm5150

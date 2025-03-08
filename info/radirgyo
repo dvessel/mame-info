@@ -1,0 +1,11 @@
+description:Radirgy (Japan) (GDL-0032)
+manufacturer:Milestone
+year:2005
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:radirgy
+romof:naomigd
+disk:radirgy/gdl-0032
+disk:radirgy/gdl-0032a

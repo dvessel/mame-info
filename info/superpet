@@ -1,0 +1,8 @@
+description:SuperPET SP-9000
+manufacturer:Commodore Business Machines
+year:1981
+status:preliminary
+device:c8050
+device:c8050fdc
+device:pet_superpet
+romof:pet8032

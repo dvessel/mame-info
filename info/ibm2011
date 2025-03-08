@@ -1,0 +1,8 @@
+description:PS/1 2011
+manufacturer:International Business Machines
+year:1989
+status:preliminary
+device:at_keybc
+device:ibm_vga
+device:kb_ms_natural
+romof:ibm5170

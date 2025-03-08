@@ -1,0 +1,9 @@
+description:Initial D Arcade Stage Ver. 3 (Japan, Rev C) (GDS-0032C)
+manufacturer:Sega
+year:2004
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomi2
+disk:initdv3j/gds-0032c

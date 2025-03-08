@@ -1,0 +1,9 @@
+description:Dragon Treasure (Rev B) (GDS-0030B)
+manufacturer:Sega
+year:2003
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:dragntr/gds-0030b

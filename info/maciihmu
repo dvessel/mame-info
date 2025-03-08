@@ -1,0 +1,7 @@
+description:Macintosh II (w/o 68851 MMU)
+manufacturer:Apple Computer
+year:1987
+status:imperfect
+device:nb_mdc824
+device:adbmodem
+romof:macii

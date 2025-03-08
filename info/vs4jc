@@ -1,0 +1,9 @@
+description:Virtua Striker 4 (Japan, Rev C) (GDT-0013C)
+manufacturer:Sega
+year:2004
+status:preliminary
+device:segadimm
+romof:vs4j
+romof:triforce
+disk:vs4j/gdt-0013c
+disk:vs4j/gdt-0013e

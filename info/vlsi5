@@ -1,0 +1,7 @@
+description:286 motherboards with 5-chip VLSI chipset
+year:198?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

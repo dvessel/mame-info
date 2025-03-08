@@ -1,0 +1,5 @@
+description:NMS 8250/19 (MSX2, France)
+manufacturer:Philips
+year:1987
+status:good
+romof:nms8255

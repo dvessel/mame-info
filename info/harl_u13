@@ -1,0 +1,7 @@
+description:Harley Davidson (Sega, CPU 1.03, display A1.04, UK)
+manufacturer:Sega
+year:1999
+status:preliminary
+kind:mechanical
+device:bsmt2000
+romof:harl_a13

@@ -1,0 +1,7 @@
+description:CBM 8296-D
+manufacturer:Commodore Business Machines
+year:1984
+status:good
+device:c8250lp
+device:c8050fdc
+romof:cbm8296

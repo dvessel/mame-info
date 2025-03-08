@@ -1,0 +1,7 @@
+description:PC-9821Ra20 (98MATE R)
+manufacturer:NEC
+year:1996
+status:preliminary
+device:pc9801_86
+device:ym2608
+device:upd7220

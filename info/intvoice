@@ -1,0 +1,7 @@
+description:Intellivision w/IntelliVoice expansion
+manufacturer:Mattel Electronics
+year:1982
+status:good
+device:stic
+device:intv_voice
+romof:intv

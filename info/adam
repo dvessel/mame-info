@@ -1,0 +1,8 @@
+description:Adam
+manufacturer:Coleco
+year:1982
+status:good
+device:adam_kb
+device:adam_prn
+device:adam_ddp
+device:adam_fdc

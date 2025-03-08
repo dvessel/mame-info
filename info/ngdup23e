@@ -1,0 +1,9 @@
+description:Naomi DIMM Firmware Updater (3.17) (GDS-0023E)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:ngdup23e/gds-0023e

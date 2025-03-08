@@ -1,0 +1,7 @@
+description:PC-7000
+manufacturer:Sharp
+year:1985
+status:preliminary
+device:cga
+device:kb_pcxt83
+romof:ibm5150

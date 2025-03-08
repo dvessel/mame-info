@@ -1,0 +1,8 @@
+description:IBM PC 5155
+manufacturer:International Business Machines
+year:1982
+status:imperfect
+device:cga
+device:isa_hdc
+device:keytronic_pc3270
+romof:ibm5150

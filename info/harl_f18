@@ -1,0 +1,7 @@
+description:Harley Davidson (Stern, CPU 1.08, display F1.05, France)
+manufacturer:Stern
+year:2003
+status:preliminary
+kind:mechanical
+device:bsmt2000
+romof:harl_a40

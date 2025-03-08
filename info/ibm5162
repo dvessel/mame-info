@@ -1,0 +1,8 @@
+description:PC/XT-286 5162
+manufacturer:International Business Machines
+year:1985
+status:preliminary
+device:at_keybc
+device:cga
+device:kb_pcat84
+romof:ibm5170

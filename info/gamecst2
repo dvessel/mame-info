@@ -1,0 +1,11 @@
+description:GameCristal (version 2.613)
+manufacturer:Cristaltec
+year:2002
+status:preliminary
+device:ps2_keybc
+device:kb_ms_natural
+device:sis900_eth
+device:sis630_gui
+romof:gamecstl
+disk:gamecstl/gamecst2
+disk:gamecstl/gamecstl

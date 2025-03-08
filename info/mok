@@ -1,0 +1,9 @@
+description:The Maze of the Kings (GDS-0022)
+manufacturer:Sega
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:mok/gds-0022

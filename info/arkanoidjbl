@@ -1,0 +1,6 @@
+description:Arkanoid (bootleg with MCU, set 1)
+manufacturer:bootleg
+year:1986
+status:good
+device:m68705p3
+romof:arkanoid

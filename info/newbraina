@@ -1,0 +1,7 @@
+description:NewBrain A
+manufacturer:Grundy Business Systems Ltd
+year:1981
+status:preliminary
+device:newbrain_eim
+device:newbrain_fdc
+romof:newbrain

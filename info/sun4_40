@@ -1,0 +1,6 @@
+description:SPARCstation IPC (Sun 4/40)
+manufacturer:Sun Microsystems
+year:1990
+status:preliminary
+device:bwtwo
+romof:sun4_300

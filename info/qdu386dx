@@ -1,0 +1,7 @@
+description:QD-U386DX VER 1.0
+year:199?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

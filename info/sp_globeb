@@ -1,0 +1,8 @@
+description:Globe Trotter (Ace) (sp.ACE) (set 3)
+manufacturer:Ace
+year:199?
+status:preliminary
+kind:mechanical
+device:ace_sp_reelctrl
+device:m68705p3
+romof:sp_globe

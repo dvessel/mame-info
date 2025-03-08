@@ -1,0 +1,11 @@
+description:Wangan Midnight Maximum Tune 2 (Japan, Rev A) (GDX-0015A)
+manufacturer:Namco
+year:2005
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:wangmid2
+romof:chihiro
+disk:wangmid2/gdx-0015a
+disk:wangmid2/gdx-0016a

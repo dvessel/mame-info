@@ -1,0 +1,10 @@
+description:Quest of D (CDV-10005C)
+manufacturer:Sega
+year:2004
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:questofd/cdv-10005c
+disk:questofd/cdv-10018

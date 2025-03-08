@@ -1,0 +1,8 @@
+description:PC-9821Nw150 (98NOTE Lavie)
+manufacturer:NEC
+year:1997
+status:preliminary
+device:pc9801_86
+device:ym2608
+device:upd7220
+romof:pc9821nr15

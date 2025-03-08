@@ -1,0 +1,9 @@
+description:Ghost Squad (Rev A) (GDX-0012A)
+manufacturer:Sega
+year:2004
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:ghostsqu/gdx-0012a

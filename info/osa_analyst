@@ -1,0 +1,4 @@
+description:Saitek OSA Analyst
+kind:device
+device:hd44780
+romof:osa_maestro

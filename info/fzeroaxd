@@ -1,0 +1,9 @@
+description:F-Zero AX (Rev D) (GDT-0004D)
+manufacturer:Sega / Amusement Vision / Nintendo
+year:2003
+status:preliminary
+device:segadimm
+romof:fzeroax
+romof:triforce
+disk:fzeroax/gdt-0004d
+disk:fzeroax/gdt-0004e

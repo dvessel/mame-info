@@ -1,0 +1,6 @@
+description:Gaplus (GP2 rev D, alternate hardware)
+manufacturer:Namco
+year:1984
+status:imperfect
+device:namco62
+romof:gaplus

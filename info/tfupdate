@@ -1,0 +1,7 @@
+description:Triforce DIMM Updater (3.17) (GDT-0011)
+manufacturer:Sega
+year:2003
+status:preliminary
+device:segadimm
+romof:triforce
+disk:tfupdate/gdt-0011

@@ -1,0 +1,6 @@
+description:Mephisto Vancouver 16 Bit
+manufacturer:Hegener + Glaser
+year:1991
+status:good
+device:hd44780
+romof:van32

@@ -1,0 +1,10 @@
+description:Dance Dance Revolution 4th Mix Solo (G*A33 VER. JBA)
+manufacturer:Konami
+year:2000
+status:preliminary
+device:k573_dio
+device:k573mcr
+romof:ddr4ms
+romof:sys573
+disk:ddr4ms/a33jba02
+disk:ddr4ms/a33aba02

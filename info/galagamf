@@ -1,0 +1,7 @@
+description:Galaga (Midway set 1 with fast shoot hack)
+manufacturer:Namco (Midway license)
+year:1981
+status:good
+device:namco51
+device:namco54
+romof:galaga

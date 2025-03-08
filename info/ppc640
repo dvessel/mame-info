@@ -1,0 +1,6 @@
+description:Amstrad PPC640
+manufacturer:Amstrad plc
+year:1987
+status:preliminary
+device:isa_aga_pc200
+romof:ibm5150

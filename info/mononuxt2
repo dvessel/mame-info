@@ -1,0 +1,8 @@
+description:NuXT v2
+manufacturer:Monotech
+year:2020
+status:preliminary
+device:ibm_vga
+device:xtide
+device:kb_pcxt83
+romof:ibm5150

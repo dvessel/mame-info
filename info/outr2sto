@@ -1,0 +1,11 @@
+description:OutRun 2 Special Tours (GDX-0014)
+manufacturer:Sega
+year:2004
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:outr2st
+romof:chihiro
+disk:outr2st/gdx-0014
+disk:outr2st/gdx-0014a

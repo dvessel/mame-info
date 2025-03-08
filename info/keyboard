@@ -1,0 +1,9 @@
+description:La Keyboard (GDS-0017)
+manufacturer:Sega / G.Rev
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:keyboard/gds-0017

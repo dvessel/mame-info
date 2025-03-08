@@ -1,0 +1,6 @@
+description:Pac-Man (bootleg on World Cup '90 hardware)
+manufacturer:bootleg (Macro)
+year:199?
+status:imperfect
+device:ym2608
+romof:puckman

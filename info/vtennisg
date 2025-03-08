@@ -1,0 +1,9 @@
+description:Virtua Tennis / Power Smash (GDS-0011)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:vtennisg/gds-0011

@@ -1,0 +1,9 @@
+description:Confidential Mission (GDS-0001)
+manufacturer:Sega
+year:2000
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:confmiss/gds-0001

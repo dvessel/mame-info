@@ -1,0 +1,8 @@
+description:Cisco SIST1 Terminal
+manufacturer:Cisco Systems
+year:198?
+status:preliminary
+device:saa5050
+device:bbc_acorn8271
+device:bbc_cisco
+romof:bbcb

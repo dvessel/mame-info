@@ -1,0 +1,7 @@
+description:Commodore PC 10
+manufacturer:Commodore Business Machines
+year:1984
+status:preliminary
+device:isa_ibm_mda
+device:kb_pcxt83
+romof:ibm5150

@@ -1,0 +1,8 @@
+description:Sega Strike Fighter (Rev A, no training mode)
+manufacturer:Sega
+year:2000
+status:preliminary
+device:mie
+device:jvs13551
+romof:sstrkfgt
+romof:naomi

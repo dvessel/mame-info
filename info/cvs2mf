@@ -1,0 +1,11 @@
+description:Capcom Vs. SNK 2: Millionaire Fighting 2001 (Japan, Rev A) (GDL-0007A)
+manufacturer:Capcom / SNK
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:cvs2
+romof:naomigd
+disk:cvs2/gdl-0007a
+disk:cvs2/gdl-0008

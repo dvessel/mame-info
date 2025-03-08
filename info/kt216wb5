@@ -1,0 +1,8 @@
+description:KT216WB5-HI Rev.2
+manufacturer:KT Technology
+year:19??
+status:preliminary
+device:at_keybc
+device:cga
+device:kb_pcat84
+romof:ibm5170

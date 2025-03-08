@@ -1,0 +1,7 @@
+description:IBM PS/2 8530-H31 (Model 30/286)
+manufacturer:International Business Machines
+year:1990
+status:preliminary
+device:at_keybc
+device:ibm_vga
+device:kb_pcat84

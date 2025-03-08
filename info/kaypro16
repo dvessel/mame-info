@@ -1,0 +1,7 @@
+description:Kaypro 16
+manufacturer:Kaypro Corporation
+year:1985
+status:imperfect
+device:cga
+device:kb_pcxt83
+romof:ibm5150

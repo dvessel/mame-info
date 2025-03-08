@@ -1,0 +1,7 @@
+description:Z-180 Series
+manufacturer:Zenith Data Systems
+year:1987
+status:preliminary
+device:cga
+device:kb_pcxt83
+romof:ibm5150

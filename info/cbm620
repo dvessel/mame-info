@@ -1,0 +1,7 @@
+description:CBM 620
+manufacturer:Commodore Business Machines
+year:1983
+status:good
+device:c8050
+device:c8050fdc
+romof:b500

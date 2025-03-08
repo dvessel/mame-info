@@ -1,0 +1,9 @@
+description:Virtua Athletics / Virtua Athlete (GDS-0019)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:vathlete/gds-0019

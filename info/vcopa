@@ -1,0 +1,7 @@
+description:Virtua Cop (Revision A)
+manufacturer:Sega
+year:1994
+status:preliminary
+device:model1io2
+device:hd44780
+romof:vcop

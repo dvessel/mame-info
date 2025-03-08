@@ -1,0 +1,9 @@
+description:World Series Baseball / Super Major League (GDS-0010)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:wsbbgd/gds-0010

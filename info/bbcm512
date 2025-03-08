@@ -1,0 +1,7 @@
+description:BBC Master 512
+manufacturer:Acorn Computers
+year:1986
+status:imperfect
+device:saa5050
+device:bbc_tube_80186
+romof:bbcm

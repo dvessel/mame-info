@@ -1,0 +1,7 @@
+description:Iskra 1030M
+manufacturer:Schetmash
+year:1989
+status:preliminary
+device:cga_iskr1030m
+device:kb_ec1841
+romof:ibm5150

@@ -1,0 +1,8 @@
+description:ISA-386C
+manufacturer:Asus
+year:1989
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

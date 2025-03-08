@@ -1,0 +1,8 @@
+description:Silverball Bulova (4.09, set 1)
+manufacturer:TAB Austria
+year:199?
+status:preliminary
+device:virge_pci
+romof:slvrball806
+disk:slvrball806/silverball_bulova_4.09_1
+disk:slvrball806/silverball_8.06

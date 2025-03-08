@@ -1,0 +1,6 @@
+description:ROLM 9751 Model 10
+manufacturer:ROLM Systems, Inc.
+year:1988
+status:preliminary
+device:rolm_smioc
+device:rolm_pdc

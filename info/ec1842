@@ -1,0 +1,7 @@
+description:EC-1842
+year:1989
+status:preliminary
+device:at_keybc
+device:ega
+device:kb_pcat84
+romof:ibm5150

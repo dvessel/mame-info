@@ -1,0 +1,7 @@
+description:BI-025C HT-12 286 (HT12/A chipset)
+year:199?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

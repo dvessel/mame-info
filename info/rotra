@@ -1,0 +1,8 @@
+description:Rise of the Robots (prototype, older)
+manufacturer:BFM/Mirage
+year:1994
+status:good
+device:tms32031
+romof:rotr
+disk:rotr/rotra
+disk:rotr/rotr

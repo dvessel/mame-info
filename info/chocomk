@@ -1,0 +1,9 @@
+description:Musapey's Choco Marker (Rev A) (GDL-0014A)
+manufacturer:Ecole Software
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:chocomk/gdl-0014a

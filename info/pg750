@@ -1,0 +1,9 @@
+description:PG 750
+manufacturer:Siemens
+year:199?
+status:preliminary
+device:at_keybc
+device:ega
+device:isa_hdc
+device:kb_ms_natural
+romof:ibm5170

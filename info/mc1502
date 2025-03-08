@@ -1,0 +1,6 @@
+description:Elektronika MS 1502
+manufacturer:NPO Microprocessor
+year:1989
+status:imperfect
+device:cga_mc1502
+device:mc1502_rom

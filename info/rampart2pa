@@ -1,0 +1,6 @@
+description:Rampart (Joystick, smaller ROMs)
+manufacturer:Atari Games
+year:1990
+status:good
+device:ym2413
+romof:rampart

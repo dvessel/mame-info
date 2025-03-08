@@ -1,0 +1,11 @@
+description:Wangan Midnight Maximum Tune (Japan, Rev B) (GDX-0008B)
+manufacturer:Namco
+year:2004
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:wangmid
+romof:chihiro
+disk:wangmid/gdx-0008b
+disk:wangmid/gdx-0009b

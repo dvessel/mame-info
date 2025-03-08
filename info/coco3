@@ -1,0 +1,6 @@
+description:Color Computer 3 (NTSC)
+manufacturer:Tandy Radio Shack
+year:1986
+status:good
+device:coco_fdc
+romof:coco

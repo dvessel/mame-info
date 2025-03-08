@@ -1,0 +1,6 @@
+description:PC-D
+manufacturer:Siemens
+year:1984
+status:preliminary
+device:pcd_video
+device:pcd_kbd

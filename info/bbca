@@ -1,0 +1,6 @@
+description:BBC Micro Model A
+manufacturer:Acorn Computers
+year:1981
+status:imperfect
+device:saa5050
+romof:bbcb

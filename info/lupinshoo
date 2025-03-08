@@ -1,0 +1,11 @@
+description:Lupin The Third - The Shooting (GDS-0018)
+manufacturer:Sega / Eighting
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:lupinsho
+romof:naomigd
+disk:lupinsho/gds-0018
+disk:lupinsho/gds-0018a

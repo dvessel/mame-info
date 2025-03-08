@@ -1,0 +1,7 @@
+description:EC-1845
+year:1989
+status:preliminary
+device:ec1841_0002
+device:isa_hdc_ec1841
+device:kb_ec1841
+romof:ibm5150

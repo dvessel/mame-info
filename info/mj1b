@@ -1,0 +1,11 @@
+description:Sega Yonin Uchi Mahjong MJ (Update Disc Ver.1.008, Japan) (CDP-10002B)
+manufacturer:Sega
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:mj1
+romof:naomigd
+disk:mj1/cdp-10002b
+disk:mj1/cdp-10002f

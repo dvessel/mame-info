@@ -1,0 +1,11 @@
+description:Sega Network Taisen Mahjong MJ 3 (Rev C) (GDX-0017C)
+manufacturer:Sega
+year:2005
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:mj3
+romof:chihiro
+disk:mj3/gdx-0017c
+disk:mj3/gdx-0017f

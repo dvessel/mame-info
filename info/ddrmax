@@ -1,0 +1,8 @@
+description:DDRMAX - Dance Dance Revolution 6th Mix (G*B19 VER. JAA)
+manufacturer:Konami
+year:2001
+status:preliminary
+device:k573_dio
+device:k573mcr
+romof:sys573
+disk:ddrmax/b19jaa02

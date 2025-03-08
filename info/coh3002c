@@ -1,0 +1,6 @@
+description:Capcom ZN-2
+manufacturer:Capcom
+year:1997
+status:imperfect
+kind:bios
+device:qsound_hle

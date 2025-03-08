@@ -1,0 +1,7 @@
+description:PC-9821Cx3 (98MULTi CanBe)
+manufacturer:NEC
+year:1995
+status:preliminary
+device:ym2608
+device:upd7220
+romof:pc9821ce2

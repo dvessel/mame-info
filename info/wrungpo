@@ -1,0 +1,8 @@
+description:Wave Runner GP (USA, Rev A)
+manufacturer:CRI / Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+romof:wrungp
+romof:naomi

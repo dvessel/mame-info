@@ -1,0 +1,9 @@
+description:Virtua Cop 3 (Rev B) (GDX-0003B)
+manufacturer:Sega
+year:2003
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:vcop3/gdx-0003b

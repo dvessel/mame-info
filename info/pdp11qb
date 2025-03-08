@@ -1,0 +1,6 @@
+description:PDP-11 [Q-BUS] (M7195 - MXV11-B)
+manufacturer:Digital Equipment Corporation
+year:198?
+status:preliminary
+device:rx01
+romof:pdp11ub

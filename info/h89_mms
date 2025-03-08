@@ -1,0 +1,8 @@
+description:H-89 with MMS Equipment
+manufacturer:Heath Company
+year:1981
+status:good
+device:heath_tlb
+device:mm5740
+device:h89bus
+romof:h89

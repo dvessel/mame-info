@@ -1,0 +1,7 @@
+description:CBM 4032 (Fat 40)
+manufacturer:Commodore Business Machines
+year:1980
+status:good
+device:c4040
+device:c2040_fdc
+romof:pet4016

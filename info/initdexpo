@@ -1,0 +1,11 @@
+description:Initial D Arcade Stage (Export) (GDS-0025)
+manufacturer:Sega
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:initdexp
+romof:naomi2
+disk:initdexp/gds-0025
+disk:initdexp/gds-0025a

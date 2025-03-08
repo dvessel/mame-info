@@ -1,0 +1,9 @@
+description:Ollie King (GDX-0007)
+manufacturer:Sega / Amusement Vision
+year:2003
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:ollie/gdx-0007

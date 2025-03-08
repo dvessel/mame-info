@@ -1,0 +1,7 @@
+description:Eagle 1600
+manufacturer:Eagle
+year:1983
+status:preliminary
+device:cga
+device:kb_pcxt83
+romof:ibm5150

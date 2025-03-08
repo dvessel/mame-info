@@ -1,0 +1,6 @@
+description:Commodore 64C (NTSC)
+manufacturer:Commodore Business Machines
+year:1986
+status:good
+device:c1541
+romof:c64

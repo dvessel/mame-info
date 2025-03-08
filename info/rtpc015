@@ -1,0 +1,6 @@
+description:IBM RT PC Model 015
+manufacturer:International Business Machines
+year:1986
+status:preliminary
+device:rtpc_kbd
+device:isa_ibm_mda

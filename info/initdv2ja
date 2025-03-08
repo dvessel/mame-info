@@ -1,0 +1,11 @@
+description:Initial D Arcade Stage Ver. 2 (Japan, Rev A) (GDS-0026A)
+manufacturer:Sega
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:initdv2j
+romof:naomi2
+disk:initdv2j/gds-0026a
+disk:initdv2j/gds-0026b

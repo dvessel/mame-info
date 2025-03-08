@@ -1,0 +1,11 @@
+description:Senko no Ronde (Japan) (GDL-0030)
+manufacturer:G.Rev
+year:2005
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:senko
+romof:naomigd
+disk:senko/gdl-0030
+disk:senko/gdl-0030a

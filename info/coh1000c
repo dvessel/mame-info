@@ -1,0 +1,6 @@
+description:Capcom ZN-1
+manufacturer:Capcom
+year:1995
+status:imperfect
+kind:bios
+device:qsound_hle

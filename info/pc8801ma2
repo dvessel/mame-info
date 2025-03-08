@@ -1,0 +1,7 @@
+description:PC-8801MA2
+manufacturer:NEC
+year:1988
+status:imperfect
+device:pc80s31k
+device:ym2608
+romof:pc8801ma

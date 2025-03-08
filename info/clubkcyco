@@ -1,0 +1,11 @@
+description:Club Kart for Cycraft (GDS-0029)
+manufacturer:Sega
+year:2003
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:clubkcyc
+romof:naomi2
+disk:clubkcyc/gds-0029a
+disk:clubkcyc/cycraft_clubkart_smcp_v1.65

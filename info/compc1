@@ -1,0 +1,7 @@
+description:PC-1
+manufacturer:Commodore Business Machines
+year:198?
+status:preliminary
+device:isa_ibm_mda
+device:kb_pcxt83
+romof:ibm5150

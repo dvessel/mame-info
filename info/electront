@@ -1,0 +1,7 @@
+description:Acorn Electron (Trial)
+manufacturer:Acorn Computers
+year:1983
+status:imperfect
+device:electron_plus3
+device:electron_plus1
+romof:electron

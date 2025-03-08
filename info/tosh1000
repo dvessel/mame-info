@@ -1,0 +1,7 @@
+description:Toshiba T1000
+manufacturer:Toshiba
+year:1987
+status:preliminary
+device:cga
+device:keytronic_pc3270
+romof:ibm5150

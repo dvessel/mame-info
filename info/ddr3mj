@@ -1,0 +1,10 @@
+description:Dance Dance Revolution 3rd Mix (GN887 VER. JAA)
+manufacturer:Konami
+year:1999
+status:preliminary
+device:k573_dio
+device:k573mcr
+romof:ddr3mk
+romof:sys573
+disk:ddr3mk/887jaa02
+disk:ddr3mk/887kba02

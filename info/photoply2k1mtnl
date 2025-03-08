@@ -1,0 +1,13 @@
+description:Photo Play Masters 2001 (Netherlands)
+manufacturer:Funworld
+year:2001
+status:preliminary
+device:at_keybc
+device:kb_ms_natural
+device:clgd5446_pci
+romof:photoply2k1it
+disk:photoply2k1it/photoplay2k1mtnl
+disk:photoply2k1it/photoplay2k1it
+disk:photoply2k1it/update_2001_cd1
+disk:photoply2k1it/update_2001_cd2
+disk:photoply2k1it/nokia_snake_ii_service_release_update_2001

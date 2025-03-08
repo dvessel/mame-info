@@ -1,0 +1,11 @@
+description:DrumMania 7th Mix power-up ver. (G*C07 VER. JBA)
+manufacturer:Konami
+year:2002
+status:preliminary
+device:k573_dio
+device:k573msu
+romof:pcnfrk7m
+romof:sys573
+disk:pcnfrk7m/c07jca02
+disk:pcnfrk7m/c07jda02
+disk:pcnfrk7m/c07aaa02

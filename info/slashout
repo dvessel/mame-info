@@ -1,0 +1,9 @@
+description:Slashout (GDS-0004)
+manufacturer:Sega
+year:2000
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:slashout/gds-0004

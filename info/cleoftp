@@ -1,0 +1,9 @@
+description:Cleopatra Fortune Plus (GDL-0012)
+manufacturer:Altron / Taito
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:cleoftp/gdl-0012

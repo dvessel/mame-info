@@ -1,0 +1,7 @@
+description:Macintosh IIx
+manufacturer:Apple Computer
+year:1988
+status:imperfect
+device:nb_mdc824
+device:adbmodem
+romof:mac2fdhd

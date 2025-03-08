@@ -1,0 +1,9 @@
+description:OutRun 2 (Rev A) (GDX-0004A)
+manufacturer:Sega
+year:2003
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:outr2/gdx-0004a

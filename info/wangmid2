@@ -1,0 +1,9 @@
+description:Wangan Midnight Maximum Tune 2 (Export, Rev A) (GDX-0016A)
+manufacturer:Namco
+year:2005
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:wangmid2/gdx-0016a

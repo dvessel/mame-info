@@ -1,0 +1,7 @@
+description:Intellivision w/Entertainment Computer System + Intellivoice expansions
+manufacturer:Mattel Electronics
+year:1983
+status:good
+device:stic
+device:intv_ecs
+romof:intv

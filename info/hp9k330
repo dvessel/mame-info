@@ -1,0 +1,8 @@
+description:HP9000/330
+manufacturer:Hewlett-Packard
+year:1987
+status:preliminary
+device:human_interface
+device:hp9122c
+device:dio98544
+device:dio98603b

@@ -1,0 +1,7 @@
+description:Macintosh 512ke
+manufacturer:Apple Computer
+year:1986
+status:good
+device:mackbd_m0120
+device:mackbd_m0110
+romof:macplus

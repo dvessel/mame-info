@@ -1,0 +1,9 @@
+description:Crazy Taxi High Roller (Rev B) (GDX-0002B)
+manufacturer:Sega / Hitmaker
+year:2003
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:crtaxihr/gdx-0002b

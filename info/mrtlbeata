@@ -1,0 +1,9 @@
+description:Martial Beat (G*B47 VER. JAB)
+manufacturer:Konami
+year:2002
+status:preliminary
+device:k573_dio
+device:k573mcr
+romof:mrtlbeat
+romof:sys573
+disk:mrtlbeat/b47jxb02

@@ -1,0 +1,7 @@
+description:HP9000/382
+manufacturer:Hewlett-Packard
+year:1991
+status:preliminary
+device:human_interface
+device:hp9122c
+device:dio98550

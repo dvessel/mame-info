@@ -1,0 +1,7 @@
+description:South Park (CPU 0.90, display A0.90)
+manufacturer:Sega
+year:1999
+status:preliminary
+kind:mechanical
+device:bsmt2000
+romof:sprk_103

@@ -1,0 +1,8 @@
+description:PC-9821Xa16 (98MATE X)
+manufacturer:NEC
+year:1996
+status:preliminary
+device:pc9801_86
+device:ym2608
+device:upd7220
+romof:pc9821xs

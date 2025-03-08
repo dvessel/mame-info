@@ -1,0 +1,9 @@
+description:Puyo Pop Fever (World) (GDS-0034)
+manufacturer:Sega
+year:2003
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:puyofev/gds-0034

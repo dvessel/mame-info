@@ -1,0 +1,9 @@
+description:HP9000/340
+manufacturer:Hewlett-Packard
+year:1989
+status:preliminary
+device:human_interface
+device:hp9122c
+device:dio98543
+device:dio98603b
+romof:hp9k330

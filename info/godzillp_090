@@ -1,0 +1,7 @@
+description:Godzilla (pinball, CPU 0.90, display A0.991)
+manufacturer:Sega
+year:1998
+status:preliminary
+kind:mechanical
+device:bsmt2000
+romof:godzillp

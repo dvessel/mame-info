@@ -1,0 +1,6 @@
+description:VIC-20 (NTSC)
+manufacturer:Commodore Business Machines
+year:1981
+status:imperfect
+device:c1541
+romof:vic1001

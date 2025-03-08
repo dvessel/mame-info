@@ -1,0 +1,7 @@
+description:MU2000
+manufacturer:Yamaha
+year:1999
+status:preliminary
+device:mulcd
+device:hd44780
+romof:mu500

@@ -1,0 +1,9 @@
+description:Noukone Puzzle Takoron (Japan) (GDL-0042)
+manufacturer:Compile Heart
+year:2006
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:takoron/gdl-0042

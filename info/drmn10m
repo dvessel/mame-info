@@ -1,0 +1,13 @@
+description:DrumMania 10th Mix (G*D40 VER. JAA)
+manufacturer:Konami
+year:2004
+status:preliminary
+device:k573_dio
+device:k573msu
+romof:pcnfrk10m
+romof:sys573
+disk:pcnfrk10m/d40jca02
+disk:pcnfrk10m/d40jaa02
+disk:pcnfrk10m/d40jba02
+disk:pcnfrk10m/d40aca02
+disk:pcnfrk10m/d40aaa02

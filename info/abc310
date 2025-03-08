@@ -1,0 +1,7 @@
+description:ABC 310
+manufacturer:Acorn Computers
+year:1985
+status:preliminary
+device:saa5050
+device:bbc_tube_80286
+romof:bbcbp

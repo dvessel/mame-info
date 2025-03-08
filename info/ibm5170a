@@ -1,0 +1,8 @@
+description:PC/AT 5170 8MHz
+manufacturer:International Business Machines
+year:1985
+status:preliminary
+device:at_keybc
+device:ega
+device:kb_pcat84
+romof:ibm5170

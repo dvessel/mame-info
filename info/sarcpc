@@ -1,0 +1,7 @@
+description:80286 Standard System (SARC RC2015 chipset)
+year:199?
+status:preliminary
+device:at_keybc
+device:cga
+device:kb_pcat84
+romof:ibm5170

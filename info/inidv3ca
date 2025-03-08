@@ -1,0 +1,11 @@
+description:Initial D Arcade Stage Ver. 3 Cycraft Edition (Export, Rev A) (GDS-0039A)
+manufacturer:Sega
+year:2004
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:inidv3cy
+romof:naomi2
+disk:inidv3cy/gds-0039b
+disk:inidv3cy/initiald3_smcp_v1.66

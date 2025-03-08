@@ -1,0 +1,7 @@
+description:CPS3 Multi-game bootleg for dead security cart (V5)
+manufacturer:bootleg
+year:1999
+status:good
+romof:cps3boot
+disk:cps3boot/unicd-cps3_for_custom_sh2_v5
+disk:cps3boot/unicd-cps3_for_standard_sh2_v4

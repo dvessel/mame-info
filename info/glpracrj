@@ -1,0 +1,7 @@
+description:Gallop Racer (Japanese Ver 9.01.12)
+manufacturer:Tecmo
+year:1996
+status:imperfect
+device:qsound_hle
+romof:glpracr
+romof:coh1000c

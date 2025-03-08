@@ -1,0 +1,8 @@
+description:IBM XT 5160
+manufacturer:International Business Machines
+year:1982
+status:imperfect
+device:cga
+device:isa_hdc
+device:kb_pcxt83
+romof:ibm5150

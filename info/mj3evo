@@ -1,0 +1,9 @@
+description:Sega Network Taisen Mahjong MJ 3 Evolution (Rev B) (GDX-0021B)
+manufacturer:Sega
+year:2007
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:mj3evo/gdx-0021b

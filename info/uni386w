@@ -1,0 +1,8 @@
+description:386W 367C REV 1.0
+manufacturer:UNICHIP
+year:199?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

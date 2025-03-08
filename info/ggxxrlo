@@ -1,0 +1,11 @@
+description:Guilty Gear XX #Reload (Japan) (GDL-0019)
+manufacturer:Arc System Works
+year:2003
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:ggxxrl
+romof:naomigd
+disk:ggxxrl/gdl-0019
+disk:ggxxrl/gdl-0019a

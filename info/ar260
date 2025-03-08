@@ -1,0 +1,7 @@
+description:Acorn R260
+manufacturer:Acorn Computers
+year:1990
+status:preliminary
+device:archimedes_keyboard
+device:arc_ether1_aka25
+romof:aa310

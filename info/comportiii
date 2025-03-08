@@ -1,0 +1,8 @@
+description:Portable III
+manufacturer:Compaq
+year:1987
+status:preliminary
+device:at_keybc
+device:isa_hdc
+device:kb_pcat84
+romof:ibm5170

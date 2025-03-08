@@ -1,0 +1,7 @@
+description:PC-X
+manufacturer:Siemens
+year:1984
+status:preliminary
+device:pcx_video
+device:pcd_kbd
+romof:pcd

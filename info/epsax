@@ -1,0 +1,8 @@
+description:PC AX
+manufacturer:Epson
+year:198?
+status:preliminary
+device:at_keybc
+device:cga
+device:kb_pcat84
+romof:ibm5170

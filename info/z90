@@ -1,0 +1,8 @@
+description:Z-90
+manufacturer:Zenith Data Systems
+year:1981
+status:good
+device:heath_tlb
+device:mm5740
+device:h89bus
+romof:h89

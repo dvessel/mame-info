@@ -1,0 +1,11 @@
+description:Virtua Fighter 4 (GDS-0012)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:vf4
+romof:naomi2
+disk:vf4/gds-0012
+disk:vf4/gds-0012c

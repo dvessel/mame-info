@@ -1,0 +1,6 @@
+description:Mephisto London 16 Bit
+manufacturer:Richard Lang
+year:1996
+status:good
+device:hd44780
+romof:lond32

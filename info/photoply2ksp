@@ -1,0 +1,10 @@
+description:Photo Play 2000 (Spain)
+manufacturer:Funworld
+year:2000
+status:preliminary
+device:at_keybc
+device:kb_ms_natural
+device:clgd5446_pci
+romof:photoply2k
+disk:photoply2k/photoplay2ksp
+disk:photoply2k/pp201

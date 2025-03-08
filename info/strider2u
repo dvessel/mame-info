@@ -1,0 +1,7 @@
+description:Strider 2 (USA 991213)
+manufacturer:Capcom
+year:1999
+status:imperfect
+device:qsound_hle
+romof:strider2
+romof:coh3002c

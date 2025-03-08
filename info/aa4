@@ -1,0 +1,7 @@
+description:Acorn A4
+manufacturer:Acorn Computers
+year:1992
+status:preliminary
+device:archimedes_keyboard
+romof:aa5000
+disk:aa5000/riscos311_apps

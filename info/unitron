@@ -1,0 +1,7 @@
+description:Mac 512
+manufacturer:bootleg (Unitron)
+year:1985
+status:good
+device:mackbd_m0120
+device:mackbd_m0110
+romof:macplus

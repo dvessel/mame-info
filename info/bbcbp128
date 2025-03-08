@@ -1,0 +1,6 @@
+description:BBC Micro Model B+ 128K
+manufacturer:Acorn Computers
+year:1985
+status:imperfect
+device:saa5050
+romof:bbcbp

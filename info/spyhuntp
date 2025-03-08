@@ -1,0 +1,7 @@
+description:Spy Hunter (Playtronic license)
+manufacturer:Bally Midway (Playtronic license)
+year:1983
+status:good
+device:midssio
+device:midcsd
+romof:spyhunt

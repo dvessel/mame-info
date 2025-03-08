@@ -1,0 +1,8 @@
+description:PC-9821Ra333 (98MATE R)
+manufacturer:NEC
+year:1998
+status:preliminary
+device:pc9801_86
+device:ym2608
+device:upd7220
+romof:pc9821ra20

@@ -1,0 +1,9 @@
+description:Monkey Ball (GDS-0008)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:monkeyba/gds-0008

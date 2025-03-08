@@ -1,0 +1,7 @@
+description:386 motherboards using the MX83C305(A)(FC)/MX83C05(A)(FC) chipset
+year:199?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

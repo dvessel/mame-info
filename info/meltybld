@@ -1,0 +1,9 @@
+description:Melty Blood Act Cadenza Ver. A (Japan) (GDL-0028C)
+manufacturer:Ecole Software
+year:2005
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:meltybld/gdl-0028c

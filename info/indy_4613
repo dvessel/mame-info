@@ -1,0 +1,7 @@
+description:Indy (R4600, 133MHz)
+manufacturer:Silicon Graphics Inc
+year:1993
+status:imperfect
+device:kb_ms_natural
+device:ps2_keybc
+romof:indy_4610

@@ -1,0 +1,9 @@
+description:The Key Of Avalon - The Wizard Master (client, Rev C) (GDT-0006C)
+manufacturer:Sega / Hitmaker
+year:2003
+status:preliminary
+device:segadimm
+romof:avalonc
+romof:triforce
+disk:avalonc/gdt-0006c
+disk:avalonc/gdt-0006g

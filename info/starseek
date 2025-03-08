@@ -1,0 +1,9 @@
+description:Doki Doki Idol Star Seeker (GDL-0005)
+manufacturer:G.Rev
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:starseek/gdl-0005

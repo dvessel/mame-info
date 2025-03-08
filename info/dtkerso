@@ -1,0 +1,7 @@
+description:PC-XT-Clones with DTK/ERSO-BIOS
+manufacturer:DTK Group
+year:198?
+status:imperfect
+device:cga
+device:kb_pcxt83
+romof:ibm5150

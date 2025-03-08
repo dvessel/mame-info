@@ -1,0 +1,8 @@
+description:unknown 386 AT clone with Forex chipset
+manufacturer:Forex Computer Company
+year:19??
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

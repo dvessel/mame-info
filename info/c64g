@@ -1,0 +1,6 @@
+description:Commodore 64G (PAL)
+manufacturer:Commodore Business Machines
+year:1986
+status:good
+device:c1541
+romof:c64

@@ -1,0 +1,5 @@
+description:VT100 w/VT1xx-AC STP
+manufacturer:Digital Equipment Corporation
+year:1979
+status:preliminary
+romof:vt100

@@ -1,0 +1,9 @@
+description:Super Shanghai 2005 (Japan, Rev A) (GDL-0031A)
+manufacturer:Starfish
+year:2005
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:ss2005/gdl-0031a

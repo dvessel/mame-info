@@ -1,0 +1,8 @@
+description:Emmerdale (Ace) (sp.ACE) (set 16)
+manufacturer:Ace
+year:1995
+status:preliminary
+kind:mechanical
+device:ace_sp_reelctrl
+device:m68705p3
+romof:sp_emmrd

@@ -1,0 +1,5 @@
+description:Mephisto Dallas 68000 (Glasgow hardware)
+manufacturer:Hegener + Glaser
+year:1986
+status:good
+romof:dallas32

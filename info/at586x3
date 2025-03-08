@@ -1,0 +1,6 @@
+description:PC/AT 586 (PIIX3)
+manufacturer:&lt;generic>
+year:1990
+status:preliminary
+device:et4000
+romof:ibm5170

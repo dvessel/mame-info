@@ -1,0 +1,8 @@
+description:Walkstation 386 SX
+manufacturer:Triumph-Adler
+year:1992
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

@@ -1,0 +1,9 @@
+description:Virtua Golf / Dynamic Golf (prototype)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+romof:dygolf
+romof:naomigd
+disk:dygolf/gds-0009a

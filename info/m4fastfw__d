@@ -1,0 +1,7 @@
+description:Fast Forward (Barcrest) (MPU4) (SFF 3.0, set 5)
+manufacturer:Bwb / Barcrest
+year:199?
+status:preliminary
+kind:mechanical
+device:ym2413
+romof:m4fastfw

@@ -1,0 +1,7 @@
+description:AB-PI4 / AB-PI4T (SiS 85C496/85C497)
+manufacturer:ABit
+year:1995
+status:preliminary
+device:at_keybc
+device:kb_ms_natural
+device:wd90c31_lr

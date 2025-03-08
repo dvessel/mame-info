@@ -1,0 +1,9 @@
+description:Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Update Disc Ver.3.000, Japan) (CDP-10002F)
+manufacturer:Sega
+year:2003
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:mj1/cdp-10002f

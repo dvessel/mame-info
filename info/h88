@@ -1,0 +1,8 @@
+description:H-88
+manufacturer:Heath Company
+year:1979
+status:good
+device:heath_tlb
+device:mm5740
+device:h89bus
+romof:h89

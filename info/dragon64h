@@ -1,0 +1,6 @@
+description:Dragon 64 (HD6309E CPU)
+manufacturer:Dragon Data Ltd
+year:19??
+status:good
+device:dragon_fdc
+romof:dragon32

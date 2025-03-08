@@ -1,0 +1,8 @@
+description:Terminator P-3 "Cusc" (SiS630 chipset)
+manufacturer:Asus
+year:2001
+status:preliminary
+device:ps2_keybc
+device:kb_ms_natural
+device:sis900_eth
+device:sis630_gui

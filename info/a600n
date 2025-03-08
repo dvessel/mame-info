@@ -1,0 +1,6 @@
+description:Amiga 600 (NTSC)
+manufacturer:Commodore
+year:1992
+status:preliminary
+device:a600kbd_us
+romof:a600

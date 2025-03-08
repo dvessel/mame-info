@@ -1,0 +1,9 @@
+description:Beach Spikers (GDS-0014)
+manufacturer:CRI / Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomi2
+disk:beachspi/gds-0014

@@ -1,0 +1,8 @@
+description:Model M
+manufacturer:Leading Edge Hardware Products, Inc.
+year:198?
+status:preliminary
+device:isa_hercules
+device:isa_hdc
+device:kb_pcxt83
+romof:ibm5150

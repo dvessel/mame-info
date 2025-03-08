@@ -1,0 +1,8 @@
+description:8810 M55
+manufacturer:Nixdorf Computer AG
+year:1986
+status:preliminary
+device:at_keybc
+device:ega
+device:kb_pcat84
+romof:ibm5170

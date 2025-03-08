@@ -1,0 +1,11 @@
+description:Initial D Arcade Stage (Japan) (GDS-0020)
+manufacturer:Sega
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:initd
+romof:naomi2
+disk:initd/gds-0020
+disk:initd/gds-0020b

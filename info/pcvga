@@ -1,0 +1,8 @@
+description:PC (VGA)
+manufacturer:&lt;generic>
+year:1987
+status:good
+device:ibm_vga
+device:isa_hdc
+device:kb_pcxt83
+romof:ibm5150

@@ -1,0 +1,9 @@
+description:The Key Of Avalon - The Wizard Master (server, Rev A) (GDT-0005A)
+manufacturer:Sega / Hitmaker
+year:2003
+status:preliminary
+device:segadimm
+romof:avalons
+romof:triforce
+disk:avalons/gdt-0005a
+disk:avalons/gdt-0005g

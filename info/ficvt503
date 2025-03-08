@@ -1,0 +1,8 @@
+description:VT-503
+manufacturer:FIC
+year:1997
+status:preliminary
+device:at_keybc
+device:kb_ms_natural
+device:et4000
+romof:ibm5170

@@ -1,0 +1,7 @@
+description:BBC Micro Model B (US)
+manufacturer:Acorn Computers
+year:1983
+status:imperfect
+device:saa5050
+device:bbc_acorn8271
+romof:bbcb

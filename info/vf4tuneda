@@ -1,0 +1,11 @@
+description:Virtua Fighter 4: Final Tuned (Rev A) (GDS-0036A)
+manufacturer:Sega
+year:2004
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:vf4tuned
+romof:naomi2
+disk:vf4tuned/gds-0036a
+disk:vf4tuned/gds-0036f

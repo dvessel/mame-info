@@ -1,0 +1,9 @@
+description:Spikers Battle (GDS-0005)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:spkrbtl/gds-0005

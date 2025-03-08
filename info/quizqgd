@@ -1,0 +1,9 @@
+description:Quiz Keitai Q mode (GDL-0017)
+manufacturer:Amedio (Taito license)
+year:2002
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:quizqgd/gdl-0017

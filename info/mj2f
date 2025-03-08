@@ -1,0 +1,11 @@
+description:Sega Network Taisen Mahjong MJ 2 (Rev F) (GDX-0006F)
+manufacturer:Sega
+year:2005
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:mj2
+romof:chihiro
+disk:mj2/gdx-0006f
+disk:mj2/gdx-0006g

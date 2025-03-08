@@ -1,0 +1,7 @@
+description:Data General/One
+manufacturer:Data General
+year:1984
+status:preliminary
+device:cga
+device:kb_pcxt83
+romof:ibm5150

@@ -1,0 +1,8 @@
+description:MS11 PC (SiS630 chipset)
+manufacturer:Shuttle
+year:2000
+status:preliminary
+device:ps2_keybc
+device:kb_ms_natural
+device:sis900_eth
+device:sis630_gui

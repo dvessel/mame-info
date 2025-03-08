@@ -1,0 +1,7 @@
+description:486 motherboards using the SiS 85C471/85C407 chipset
+year:199?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

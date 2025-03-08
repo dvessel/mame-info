@@ -1,0 +1,6 @@
+description:Commodore 16 (PAL)
+manufacturer:Commodore Business Machines
+year:1984
+status:good
+device:c1541
+romof:c264

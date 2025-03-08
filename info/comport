@@ -1,0 +1,7 @@
+description:Compaq Portable
+manufacturer:Compaq
+year:1983
+status:preliminary
+device:ega
+device:kb_pcxt83
+romof:ibm5150

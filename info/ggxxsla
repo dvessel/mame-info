@@ -1,0 +1,9 @@
+description:Guilty Gear XX Slash (Japan, Rev A) (GDL-0033A)
+manufacturer:Arc System Works
+year:2005
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:ggxxsla/gdl-0033a

@@ -1,0 +1,9 @@
+description:Ikaruga (GDL-0010)
+manufacturer:Treasure
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:ikaruga/gdl-0010

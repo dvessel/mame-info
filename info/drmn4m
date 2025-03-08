@@ -1,0 +1,12 @@
+description:DrumMania 4th Mix (G*A25 VER. JAA)
+manufacturer:Konami
+year:2001
+status:preliminary
+device:k573_dio
+device:k573msu
+romof:pcnfrk4m
+romof:sys573
+disk:pcnfrk4m/a25jaa02
+disk:pcnfrk4m/a25jba02
+disk:pcnfrk4m/a25aaa02
+disk:pcnfrk4m/a25aba02

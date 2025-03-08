@@ -1,0 +1,8 @@
+description:8810 M16 VGA version
+manufacturer:Nixdorf Computer AG
+year:1990
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

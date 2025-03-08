@@ -1,0 +1,7 @@
+description:Street Fighter EX Plus (Japan 970311)
+manufacturer:Capcom / Arika
+year:1997
+status:imperfect
+device:qsound_hle
+romof:sfexp
+romof:coh1000c

@@ -1,0 +1,8 @@
+description:PC (CGA)
+manufacturer:&lt;generic>
+year:1987
+status:imperfect
+device:cga
+device:isa_hdc
+device:kb_pcxt83
+romof:ibm5150

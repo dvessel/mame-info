@@ -1,0 +1,9 @@
+description:Karous (Japan) (GDL-0040)
+manufacturer:Milestone
+year:2006
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:karous/gdl-0040

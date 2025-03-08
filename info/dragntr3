@@ -1,0 +1,9 @@
+description:Dragon Treasure 3 (Rev A) (GDS-0041A)
+manufacturer:Sega
+year:2005
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:dragntr3/gds-0041a

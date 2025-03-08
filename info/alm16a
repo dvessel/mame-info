@@ -1,0 +1,6 @@
+description:Mephisto Almeria 16 Bit (v0.121)
+manufacturer:Hegener + Glaser
+year:1988
+status:good
+device:hd44780
+romof:alm32

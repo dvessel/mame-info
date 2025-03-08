@@ -1,0 +1,8 @@
+description:Fate: Unlimited Codes (bootleg)
+manufacturer:bootleg
+year:2008
+status:preliminary
+romof:fateulc
+romof:sys246
+disk:fateulc/fateulcb
+disk:fateulc/fud-hdd0-a

@@ -1,0 +1,7 @@
+description:Ericsson Portable PC
+manufacturer:Ericsson Information System
+year:1985
+status:preliminary
+device:cga
+device:kb_pcxt83
+romof:ibm5150

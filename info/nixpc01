@@ -1,0 +1,7 @@
+description:8810/25 CPC - PC01
+manufacturer:Nixdorf Computer AG
+year:198?
+status:preliminary
+device:cga
+device:kb_pcxt83
+romof:ibm5150

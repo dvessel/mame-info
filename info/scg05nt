@@ -1,0 +1,9 @@
+description:Sega Golf Club Network Pro Tour 2005 (Rev C) (GDX-0010C)
+manufacturer:Sega
+year:2004
+status:preliminary
+device:jvs13551
+device:segadimm
+device:seganetw
+romof:chihiro
+disk:scg05nt/gdx-0010c

@@ -1,0 +1,8 @@
+description:Twilight Zone (Ace/Bwb) (sp.ACE)
+manufacturer:Ace / Bwb
+year:199?
+status:preliminary
+kind:mechanical
+device:ace_sp_reelctrl
+device:m68705p3
+romof:sp_tz

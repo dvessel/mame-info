@@ -1,0 +1,7 @@
+description:Street Fighter EX (Japan 961130)
+manufacturer:Capcom / Arika
+year:1996
+status:imperfect
+device:qsound_hle
+romof:sfex
+romof:coh1000c

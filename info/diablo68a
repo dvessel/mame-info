@@ -1,0 +1,6 @@
+description:Diablo 68000 (set 2)
+manufacturer:Novag Industries / Intelligent Heuristic Programming
+year:1991
+status:good
+device:hd44780
+romof:diablo68

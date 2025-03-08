@@ -1,0 +1,9 @@
+description:Virtua Golf / Dynamic Golf (Rev A) (GDS-0009A)
+manufacturer:Sega
+year:2001
+status:preliminary
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:dygolf/gds-0009a

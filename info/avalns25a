@@ -1,0 +1,9 @@
+description:The Key Of Avalon 2.5 - War of the Key (server, Rev A) (GDT-0018A)
+manufacturer:Sega / Hitmaker
+year:2005
+status:preliminary
+device:segadimm
+romof:avalns25
+romof:triforce
+disk:avalns25/gdt-0018a
+disk:avalns25/gdt-0018b

@@ -1,0 +1,6 @@
+description:SPARCstation IPX (Sun 4/50)
+manufacturer:Sun Microsystems
+year:1991
+status:preliminary
+device:turbogx
+romof:sun4_300

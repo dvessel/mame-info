@@ -1,0 +1,6 @@
+description:Amstrad PC2086
+manufacturer:Amstrad plc
+year:1988
+status:preliminary
+device:isa_aga_pc200
+romof:ibm5150

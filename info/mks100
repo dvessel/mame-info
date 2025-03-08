@@ -1,0 +1,6 @@
+description:MKS-100 Digital Sampler
+manufacturer:Roland
+year:1987
+status:preliminary
+device:hd44780
+romof:s10

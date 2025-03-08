@@ -1,0 +1,8 @@
+description:PC 30-III
+manufacturer:Commodore Business Machines
+year:1988
+status:preliminary
+device:at_keybc
+device:ibm_vga
+device:kb_pcat84
+romof:ibm5170

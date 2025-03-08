@@ -1,0 +1,7 @@
+description:PC1512 HD20
+manufacturer:Amstrad plc
+year:1986
+status:good
+device:pc1512kb
+device:isa_hdc
+romof:pc1512

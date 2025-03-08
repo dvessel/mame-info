@@ -1,0 +1,7 @@
+description:unknown 386sx AT clones (HT18/C chipset)
+year:19??
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

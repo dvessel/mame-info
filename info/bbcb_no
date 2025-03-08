@@ -1,0 +1,7 @@
+description:BBC Micro Model B (Norway)
+manufacturer:Acorn Computers
+year:1984
+status:imperfect
+device:saa5050
+device:bbc_acorn8271
+romof:bbcb

@@ -1,0 +1,8 @@
+description:JX30GP, Motherboard P/N: 09-00189-10 REV B1
+manufacturer:Micronics
+year:199?
+status:preliminary
+device:at_keybc
+device:et4000
+device:kb_ms_natural
+romof:ibm5170

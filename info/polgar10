@@ -1,0 +1,6 @@
+description:Mephisto Polgar 10 MHz (v10.0)
+manufacturer:Hegener + Glaser
+year:1990
+status:good
+device:hd44780
+romof:polgar

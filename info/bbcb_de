@@ -1,0 +1,7 @@
+description:BBC Micro Model B (German)
+manufacturer:Acorn Computers
+year:1982
+status:imperfect
+device:saa5050
+device:bbc_acorn8271
+romof:bbcb

@@ -1,0 +1,8 @@
+description:Ericsson WS286
+manufacturer:Ericsson
+year:1986
+status:preliminary
+device:at_keybc
+device:ega
+device:kb_pcat84
+romof:ibm5170
