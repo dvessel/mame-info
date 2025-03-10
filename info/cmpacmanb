@@ -2,3 +2,4 @@ description:Super Pacman (v1.2) + Cherry Master (Corsica, v8.31, encrypted)
 year:198?
 status:good
 romof:cmpacman
+cloneof:cmpacman

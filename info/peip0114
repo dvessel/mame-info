@@ -3,3 +3,4 @@ manufacturer:IGT - International Game Technology
 year:1987
 status:good
 romof:peip0031
+cloneof:peip0031

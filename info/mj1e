@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:mj1
 romof:naomigd
-disk:mj1/cdp-10002e
-disk:mj1/cdp-10002f
+cloneof:mj1
+disk:cdp-10002e
+disk:cdp-10002f

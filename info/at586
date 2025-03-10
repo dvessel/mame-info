@@ -6,3 +6,4 @@ device:at_keybc
 device:kb_ms_natural
 device:et4000
 romof:ibm5170
+cloneof:ibm5170

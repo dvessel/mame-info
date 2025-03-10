@@ -5,6 +5,7 @@ status:preliminary
 device:k573_dio
 romof:gtfrk10m
 romof:sys573
-disk:gtfrk10m/d10jab01
-disk:gtfrk10m/d10jba02
-disk:gtfrk10m/d10jaa02
+cloneof:gtfrk10m
+disk:d10jab01
+disk:d10jba02
+disk:d10jaa02

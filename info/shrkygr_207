@@ -5,3 +5,4 @@ status:preliminary
 kind:mechanical
 device:bsmt2000
 romof:shrkysht
+cloneof:shrkysht

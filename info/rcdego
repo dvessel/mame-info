@@ -4,5 +4,6 @@ year:1999
 status:imperfect
 romof:gobyrc
 romof:coh3002t
-disk:gobyrc/rcdego
-disk:gobyrc/gobyrc
+cloneof:gobyrc
+disk:rcdego
+disk:gobyrc

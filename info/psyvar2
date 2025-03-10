@@ -6,4 +6,4 @@ device:mie
 device:jvs13551
 device:segadimm
 romof:naomigd
-disk:psyvar2/gdl-0024
+disk:gdl-0024

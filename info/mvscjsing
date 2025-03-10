@@ -4,3 +4,4 @@ year:1998
 status:good
 device:qsound_hle
 romof:mvsc
+cloneof:mvsc

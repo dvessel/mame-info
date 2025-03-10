@@ -6,3 +6,4 @@ device:archimedes_keyboard
 device:arc_ether1_aka25
 device:arc_rom_r225
 romof:aa310
+cloneof:aa310

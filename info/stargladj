@@ -5,3 +5,4 @@ status:imperfect
 device:qsound_hle
 romof:starglad
 romof:coh1000c
+cloneof:starglad

@@ -4,3 +4,4 @@ year:2009
 status:good
 device:hd44780u
 romof:atm18mcc
+cloneof:atm18mcc

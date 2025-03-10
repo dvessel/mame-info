@@ -5,3 +5,4 @@ status:good
 device:c8050
 device:c8050fdc
 romof:b500
+cloneof:b500

@@ -3,5 +3,6 @@ manufacturer:Atari Games
 year:1998
 status:good
 romof:gauntleg
-disk:gauntleg/gauntl12
-disk:gauntleg/gauntleg
+cloneof:gauntleg
+disk:gauntl12
+disk:gauntleg

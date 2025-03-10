@@ -6,4 +6,4 @@ device:jvs13551
 device:segadimm
 device:seganetw
 romof:chihiro
-disk:ollie/gdx-0007
+disk:gdx-0007

@@ -4,3 +4,4 @@ status:imperfect
 device:cga_iskr1031
 device:kb_ec1841
 romof:ibm5150
+cloneof:ibm5150

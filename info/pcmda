@@ -6,3 +6,4 @@ device:isa_ibm_mda
 device:isa_hdc
 device:kb_pcxt83
 romof:ibm5150
+cloneof:ibm5150

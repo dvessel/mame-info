@@ -3,3 +3,4 @@ manufacturer:bootleg (Artic)
 year:1979
 status:imperfect
 romof:lrescue
+cloneof:lrescue

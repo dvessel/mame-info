@@ -4,3 +4,4 @@ year:1986
 status:preliminary
 device:hd44780
 romof:ajuno2
+cloneof:ajuno2

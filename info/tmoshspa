@@ -4,5 +4,6 @@ year:1997
 status:preliminary
 romof:tmoshsp
 romof:konamigv
-disk:tmoshsp/756jaa01
-disk:tmoshsp/756jab01
+cloneof:tmoshsp
+disk:756jaa01
+disk:756jab01

@@ -4,3 +4,4 @@ year:1992
 status:preliminary
 device:a1200kbd_rb
 romof:a1200
+cloneof:a1200

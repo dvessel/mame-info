@@ -4,3 +4,4 @@ year:1987
 status:preliminary
 device:cga
 romof:ibm5150
+cloneof:ibm5150

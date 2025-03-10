@@ -5,3 +5,4 @@ status:imperfect
 device:segabill
 romof:sandor
 romof:stvbios
+cloneof:sandor

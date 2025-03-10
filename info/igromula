@@ -3,3 +3,4 @@ manufacturer:bootleg
 year:2003
 status:preliminary
 romof:igromult
+cloneof:igromult

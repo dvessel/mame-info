@@ -4,3 +4,4 @@ year:199?
 status:preliminary
 device:isa_aga_pc200
 romof:ibm5150
+cloneof:ibm5150

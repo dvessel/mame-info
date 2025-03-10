@@ -1,5 +1,12 @@
-description:Aliens (World set 2)
+description:Aliens (World set 2) Aliens (World set 2)
+description:Aliens (World set 2) Aliens (World set 2)
+manufacturer:Konami
 manufacturer:Konami
 year:1990
+year:1990
+status:good
 status:good
 romof:aliens
+romof:aliens
+cloneof:aliens
+cloneof:aliens

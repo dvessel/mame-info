@@ -3,5 +3,6 @@ manufacturer:Midway
 year:2000
 status:preliminary
 romof:mwskins
-disk:mwskins/mwskins104
-disk:mwskins/mwskins
+cloneof:mwskins
+disk:mwskins104
+disk:mwskins

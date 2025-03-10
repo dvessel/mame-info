@@ -4,4 +4,5 @@ year:2009
 status:preliminary
 romof:kingyo
 romof:segasp
-disk:kingyo/kingyo
+cloneof:kingyo
+disk:kingyo

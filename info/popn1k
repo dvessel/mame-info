@@ -3,4 +3,5 @@ manufacturer:Konami
 year:1998
 status:imperfect
 romof:popn1
-disk:popn1/803_ta_hdd
+cloneof:popn1
+disk:803_ta_hdd

@@ -5,5 +5,6 @@ status:preliminary
 device:segadimm
 romof:avalonc
 romof:triforce
-disk:avalonc/gdt-0006e
-disk:avalonc/gdt-0006g
+cloneof:avalonc
+disk:gdt-0006e
+disk:gdt-0006g

@@ -5,3 +5,4 @@ status:good
 device:c4040
 device:c2040_fdc
 romof:pet4032b
+cloneof:pet4032b

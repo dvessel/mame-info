@@ -3,3 +3,4 @@ manufacturer:Intel
 year:1979
 status:good
 romof:isbc8010
+cloneof:isbc8010

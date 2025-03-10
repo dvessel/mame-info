@@ -4,6 +4,7 @@ year:1999
 status:preliminary
 romof:bmiidxc
 romof:gq863
-disk:bmiidxc/896jabbm
-disk:bmiidxc/gq863a04
-disk:bmiidxc/863hdda01
+cloneof:bmiidxc
+disk:896jabbm
+disk:gq863a04
+disk:863hdda01

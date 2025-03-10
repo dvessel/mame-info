@@ -6,3 +6,4 @@ device:mie
 device:jvs13551
 romof:f355twin
 romof:f355bios
+cloneof:f355twin

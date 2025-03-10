@@ -6,5 +6,5 @@ device:mie
 device:jvs13551
 device:segadimm
 romof:naomi2
-disk:clubkcyc/gds-0029a
-disk:clubkcyc/cycraft_clubkart_smcp_v1.65
+disk:gds-0029a
+disk:cycraft_clubkart_smcp_v1.65

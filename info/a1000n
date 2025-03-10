@@ -4,3 +4,4 @@ year:1985
 status:preliminary
 device:a1000kbd_us
 romof:a1000
+cloneof:a1000

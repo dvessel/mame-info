@@ -4,5 +4,6 @@ year:2008
 status:preliminary
 romof:fateulc
 romof:sys246
-disk:fateulc/fateulcb
-disk:fateulc/fud-hdd0-a
+cloneof:fateulc
+disk:fateulcb
+disk:fud-hdd0-a

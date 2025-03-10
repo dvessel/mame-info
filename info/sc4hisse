@@ -3,3 +3,4 @@ manufacturer:Qps
 year:200?
 status:preliminary
 romof:sc4hiss
+cloneof:sc4hiss

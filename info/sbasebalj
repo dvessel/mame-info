@@ -4,3 +4,4 @@ year:1989
 status:preliminary
 device:ym2413
 romof:sbasebal
+cloneof:sbasebal

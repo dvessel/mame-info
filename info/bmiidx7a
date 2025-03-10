@@ -4,6 +4,7 @@ year:2002
 status:imperfect
 romof:bmiidx7
 romof:gq863
-disk:bmiidx7/b44jab01
-disk:bmiidx7/b44jaa02
-disk:bmiidx7/b44jaa03
+cloneof:bmiidx7
+disk:b44jab01
+disk:b44jaa02
+disk:b44jaa03

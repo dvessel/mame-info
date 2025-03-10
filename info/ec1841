@@ -5,3 +5,4 @@ device:ec1841_0002
 device:isa_hdc_ec1841
 device:kb_ec1841
 romof:ibm5150
+cloneof:ibm5150

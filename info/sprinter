@@ -5,3 +5,4 @@ status:good
 device:betadisk
 device:kb_ms_natural
 romof:spec128
+cloneof:spec128

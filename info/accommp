@@ -4,3 +4,4 @@ year:1985
 status:preliminary
 device:saa5240a
 romof:accomm
+cloneof:accomm

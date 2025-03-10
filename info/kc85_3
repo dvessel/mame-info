@@ -3,3 +3,4 @@ manufacturer:VEB Mikroelektronik "Wilhelm Pieck" Mühlhausen
 year:1987
 status:preliminary
 romof:kc85_2
+cloneof:kc85_2

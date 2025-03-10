@@ -6,4 +6,5 @@ device:k573_dio
 device:k573mcr
 romof:mrtlbeat
 romof:sys573
-disk:mrtlbeat/b47jxb02
+cloneof:mrtlbeat
+disk:b47jxb02

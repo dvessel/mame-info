@@ -3,4 +3,5 @@ manufacturer:Capcom
 year:1997
 status:good
 romof:sfiii2
-disk:sfiii2/cap-3ga000
+cloneof:sfiii2
+disk:cap-3ga000

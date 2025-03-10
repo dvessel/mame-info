@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:clubkcyc
 romof:naomi2
-disk:clubkcyc/gds-0029a
-disk:clubkcyc/cycraft_clubkart_smcp_v1.65
+cloneof:clubkcyc
+disk:gds-0029a
+disk:cycraft_clubkart_smcp_v1.65

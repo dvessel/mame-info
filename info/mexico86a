@@ -4,3 +4,4 @@ year:1986
 status:preliminary
 device:m68705p3
 romof:kicknrun
+cloneof:kicknrun

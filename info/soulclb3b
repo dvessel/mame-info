@@ -4,5 +4,6 @@ year:2006
 status:preliminary
 romof:soulclb3
 romof:sys246
-disk:soulclb3/sc31001-na-dvd0-a
-disk:soulclb3/sc31001-na-dvd0-b
+cloneof:soulclb3
+disk:sc31001-na-dvd0-a
+disk:sc31001-na-dvd0-b

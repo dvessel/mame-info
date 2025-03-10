@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:inidv3cy
 romof:naomi2
-disk:inidv3cy/gds-0039b
-disk:inidv3cy/initiald3_smcp_v1.66
+cloneof:inidv3cy
+disk:gds-0039b
+disk:initiald3_smcp_v1.66

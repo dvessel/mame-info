@@ -6,4 +6,4 @@ device:mie
 device:jvs13551
 device:segadimm
 romof:naomi2
-disk:initdexp/gds-0025a
+disk:gds-0025a

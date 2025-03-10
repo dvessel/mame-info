@@ -5,3 +5,4 @@ status:preliminary
 kind:mechanical
 device:ibm_vga
 romof:rfmpb
+cloneof:rfmpb

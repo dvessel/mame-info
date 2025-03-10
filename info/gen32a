@@ -4,3 +4,4 @@ year:1993
 status:imperfect
 device:hd44780
 romof:gen32
+cloneof:gen32

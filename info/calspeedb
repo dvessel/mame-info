@@ -3,5 +3,6 @@ manufacturer:Atari Games
 year:1998
 status:good
 romof:calspeed
-disk:calspeed/calspeda
-disk:calspeed/calspeed
+cloneof:calspeed
+disk:calspeda
+disk:calspeed

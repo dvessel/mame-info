@@ -6,3 +6,4 @@ device:abc80kb
 device:abc830
 device:sn74s263
 romof:abc80
+cloneof:abc80

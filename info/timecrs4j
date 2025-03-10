@@ -4,4 +4,5 @@ year:2006
 status:preliminary
 romof:timecrs4
 romof:sys256
-disk:timecrs4/tsf1-ha
+cloneof:timecrs4
+disk:tsf1-ha

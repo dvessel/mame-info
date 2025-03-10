@@ -6,4 +6,5 @@ device:mie
 device:jvs13551
 romof:vathlete
 romof:naomigd
-disk:vathlete/gds-0019
+cloneof:vathlete
+disk:gds-0019

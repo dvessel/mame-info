@@ -6,3 +6,4 @@ device:cga
 device:isa_hdc
 device:keytronic_pc3270
 romof:ibm5150
+cloneof:ibm5150

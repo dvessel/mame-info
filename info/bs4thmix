@@ -3,5 +3,6 @@ manufacturer:Konami
 year:1999
 status:imperfect
 romof:bm4thmix
-disk:bm4thmix/847kaa01
-disk:bm4thmix/847jaa11
+cloneof:bm4thmix
+disk:847kaa01
+disk:847jaa11

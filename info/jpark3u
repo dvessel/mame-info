@@ -4,4 +4,5 @@ year:2001
 status:preliminary
 romof:jpark3
 romof:kviper
-disk:jpark3/b41c02
+cloneof:jpark3
+disk:b41c02

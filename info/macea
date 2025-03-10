@@ -3,5 +3,6 @@ manufacturer:Atari Games
 year:1997
 status:good
 romof:mace
-disk:mace/macea
-disk:mace/mace
+cloneof:mace
+disk:macea
+disk:mace

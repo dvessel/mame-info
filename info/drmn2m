@@ -5,5 +5,6 @@ status:preliminary
 device:k573_dio
 romof:pcnfrk2m
 romof:sys573
-disk:pcnfrk2m/912jab02
-disk:pcnfrk2m/912aaa02
+cloneof:pcnfrk2m
+disk:912jab02
+disk:912aaa02

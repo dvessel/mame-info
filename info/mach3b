@@ -4,4 +4,5 @@ year:1983
 status:good
 device:pr8210
 romof:mach3
-disk:mach3/mach3
+cloneof:mach3
+disk:mach3

@@ -1,5 +1,12 @@
-description:Ambush (Volt Electronics)
+description:Ambush (Volt Electronics) Ambush (Volt Electronics)
+description:Ambush (Volt Electronics) Ambush (Volt Electronics)
+manufacturer:Tecfri (Volt Electronics license)
 manufacturer:Tecfri (Volt Electronics license)
 year:1983
+year:1983
+status:good
 status:good
 romof:ambush
+romof:ambush
+cloneof:ambush
+cloneof:ambush

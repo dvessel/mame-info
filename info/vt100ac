@@ -3,3 +3,4 @@ manufacturer:Digital Equipment Corporation
 year:1979
 status:preliminary
 romof:vt100
+cloneof:vt100

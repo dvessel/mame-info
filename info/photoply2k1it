@@ -5,7 +5,7 @@ status:preliminary
 device:at_keybc
 device:kb_ms_natural
 device:clgd5446_pci
-disk:photoply2k1it/photoplay2k1it
-disk:photoply2k1it/update_2001_cd1
-disk:photoply2k1it/update_2001_cd2
-disk:photoply2k1it/nokia_snake_ii_service_release_update_2001
+disk:photoplay2k1it
+disk:update_2001_cd1
+disk:update_2001_cd2
+disk:nokia_snake_ii_service_release_update_2001

@@ -6,3 +6,4 @@ device:ibm_vga
 device:at_keybc
 device:kb_ms_natural
 romof:megapc
+cloneof:megapc

@@ -4,6 +4,7 @@ year:1999
 status:preliminary
 romof:pcnfrk
 romof:sys573
-disk:pcnfrk/881jad01
-disk:pcnfrk/881jaa02
-disk:pcnfrk/881xxb02
+cloneof:pcnfrk
+disk:881jad01
+disk:881jaa02
+disk:881xxb02

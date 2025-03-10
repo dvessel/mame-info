@@ -4,3 +4,4 @@ year:1989
 status:preliminary
 romof:v4tmach
 romof:v4bios
+cloneof:v4tmach

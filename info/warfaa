@@ -3,5 +3,6 @@ manufacturer:Atari Games
 year:1999
 status:good
 romof:warfa
-disk:warfa/warfaa
-disk:warfa/warfa
+cloneof:warfa
+disk:warfaa
+disk:warfa

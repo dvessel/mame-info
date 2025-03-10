@@ -6,3 +6,4 @@ device:pc9801_86
 device:ym2608
 device:upd7220
 romof:pc9821nr15
+cloneof:pc9821nr15

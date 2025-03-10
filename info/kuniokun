@@ -4,3 +4,4 @@ year:1986
 status:good
 device:m68705p5
 romof:renegade
+cloneof:renegade

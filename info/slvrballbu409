@@ -4,5 +4,6 @@ year:199?
 status:preliminary
 device:virge_pci
 romof:slvrball806
-disk:slvrball806/silverball_bulova_4.09_1
-disk:slvrball806/silverball_8.06
+cloneof:slvrball806
+disk:silverball_bulova_4.09_1
+disk:silverball_8.06

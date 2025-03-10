@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:cvs2
 romof:naomigd
-disk:cvs2/gdl-0007a
-disk:cvs2/gdl-0008
+cloneof:cvs2
+disk:gdl-0007a
+disk:gdl-0008

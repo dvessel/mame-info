@@ -4,3 +4,4 @@ year:1994
 status:imperfect
 device:m68hc05pge
 romof:macpd280
+cloneof:macpd280

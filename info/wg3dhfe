@@ -3,5 +3,6 @@ manufacturer:Atari Games
 year:1996
 status:good
 romof:wg3dh
-disk:wg3dh/wg3dhfe
-disk:wg3dh/wg3dh
+cloneof:wg3dh
+disk:wg3dhfe
+disk:wg3dh

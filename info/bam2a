@@ -4,5 +4,6 @@ year:1999
 status:preliminary
 romof:bam2
 romof:coh1002e
-disk:bam2/bam2cd
-disk:bam2/bam2
+cloneof:bam2
+disk:bam2cd
+disk:bam2

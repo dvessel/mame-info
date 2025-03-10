@@ -4,4 +4,5 @@ year:1984
 status:good
 device:22vp931
 romof:firefox
-disk:firefox/firefox
+cloneof:firefox
+disk:firefox

@@ -4,5 +4,6 @@ year:2002
 status:preliminary
 romof:raizpin
 romof:taitotz
-disk:raizpin/raizin ping pong ver 2.01j
-disk:raizpin/raizpin
+cloneof:raizpin
+disk:raizin ping pong ver 2.01j
+disk:raizpin

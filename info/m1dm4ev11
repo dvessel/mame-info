@@ -5,3 +5,4 @@ status:preliminary
 kind:mechanical
 device:ym2413
 romof:m1dm4ev
+cloneof:m1dm4ev

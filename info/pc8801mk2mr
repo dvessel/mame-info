@@ -4,3 +4,4 @@ year:1985
 status:imperfect
 device:pc80s31k
 romof:pc8801mk2sr
+cloneof:pc8801mk2sr

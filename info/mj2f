@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:mj2
 romof:chihiro
-disk:mj2/gdx-0006f
-disk:mj2/gdx-0006g
+cloneof:mj2
+disk:gdx-0006f
+disk:gdx-0006g

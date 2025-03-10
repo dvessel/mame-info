@@ -4,3 +4,4 @@ year:1993
 status:good
 device:qsound_hle
 romof:ssf2
+cloneof:ssf2

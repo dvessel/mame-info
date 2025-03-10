@@ -4,3 +4,4 @@ status:good
 device:ec1840_0002
 device:kb_ec1841
 romof:ibm5150
+cloneof:ibm5150

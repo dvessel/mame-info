@@ -5,3 +5,4 @@ status:preliminary
 device:segabill
 romof:twcup98
 romof:stvbios
+cloneof:twcup98

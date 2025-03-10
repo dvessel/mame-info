@@ -4,5 +4,6 @@ year:1998
 status:imperfect
 romof:raycris
 romof:coh3002t
-disk:raycris/raycrisj
-disk:raycris/raycris
+cloneof:raycris
+disk:raycrisj
+disk:raycris

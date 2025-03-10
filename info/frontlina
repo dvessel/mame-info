@@ -4,3 +4,4 @@ year:1982
 status:good
 device:m68705p5
 romof:frontlin
+cloneof:frontlin

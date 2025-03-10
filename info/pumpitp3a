@@ -5,3 +5,4 @@ status:preliminary
 device:banshee_x86
 romof:pumpitp3
 romof:pumpitup
+cloneof:pumpitp3

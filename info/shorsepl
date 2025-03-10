@@ -6,3 +6,4 @@ device:mie
 device:jvs13551
 romof:shorsep
 romof:naomi
+cloneof:shorsep

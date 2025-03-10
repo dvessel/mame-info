@@ -1,5 +1,10 @@
-description:Amidar (bootleg, set 2)
+description:Amidar (bootleg, set 2) Amidar (bootleg, set 2)
+description:Amidar (bootleg, set 2) Amidar (bootleg, set 2)
+manufacturer:bootleg
 manufacturer:bootleg
 year:1982
+year:1982
 status:good
-romof:amidar
+status:good
+cloneof:amidar
+cloneof:amidar

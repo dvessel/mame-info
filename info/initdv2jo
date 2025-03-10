@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:initdv2j
 romof:naomi2
-disk:initdv2j/gds-0026
-disk:initdv2j/gds-0026b
+cloneof:initdv2j
+disk:gds-0026
+disk:gds-0026b

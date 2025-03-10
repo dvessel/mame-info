@@ -3,3 +3,4 @@ manufacturer:VTech
 year:2011
 status:preliminary
 romof:vreader
+cloneof:vreader

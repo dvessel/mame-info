@@ -2,3 +2,4 @@ description:Orion 128 + Z80 Card II
 year:1990
 status:good
 romof:orion128
+cloneof:orion128

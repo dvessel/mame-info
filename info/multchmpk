@@ -3,3 +3,4 @@ manufacturer:ESD
 year:1998
 status:good
 romof:multchmp
+cloneof:multchmp

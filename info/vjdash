@@ -5,4 +5,5 @@ status:preliminary
 device:jaleco_vj_pc
 device:virgedx_pci
 romof:vjslap
-disk:vjslap/vj_ver1
+cloneof:vjslap
+disk:vj_ver1

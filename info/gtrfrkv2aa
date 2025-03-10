@@ -4,5 +4,6 @@ year:2005
 status:preliminary
 romof:gtrfrkv2a
 romof:kpython2
-disk:gtrfrkv2a/f03_aaa_2005112800
-disk:gtrfrkv2a/f03_aaa_2006011201
+cloneof:gtrfrkv2a
+disk:f03_aaa_2005112800
+disk:f03_aaa_2006011201

@@ -6,4 +6,4 @@ device:ps2_keybc
 device:kb_ms_natural
 device:sis900_eth
 device:sis630_gui
-disk:gmfamily/gamesfamily_1.1
+disk:gamesfamily_1.1

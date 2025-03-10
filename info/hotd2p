@@ -7,3 +7,4 @@ device:jvs13551
 device:gunsense
 romof:hotd2
 romof:hod2bios
+cloneof:hotd2

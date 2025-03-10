@@ -3,3 +3,4 @@ year:1985
 status:preliminary
 device:x820kb
 romof:bigboard
+cloneof:bigboard

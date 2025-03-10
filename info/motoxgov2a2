@@ -5,3 +5,4 @@ status:preliminary
 device:namco_asca3a
 device:namco_amc
 romof:motoxgo
+cloneof:motoxgo

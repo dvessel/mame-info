@@ -4,4 +4,5 @@ year:2005
 status:preliminary
 romof:tekken51
 romof:sys256
-disk:tekken51/te51-dvd0
+cloneof:tekken51
+disk:te51-dvd0

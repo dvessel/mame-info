@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:outr2st
 romof:chihiro
-disk:outr2st/gdx-0014
-disk:outr2st/gdx-0014a
+cloneof:outr2st
+disk:gdx-0014
+disk:gdx-0014a

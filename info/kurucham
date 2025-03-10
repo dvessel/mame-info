@@ -6,4 +6,4 @@ device:mie
 device:jvs13551
 device:segadimm
 romof:naomigd
-disk:kurucham/gdl-0034
+disk:gdl-0034

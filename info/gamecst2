@@ -7,5 +7,6 @@ device:kb_ms_natural
 device:sis900_eth
 device:sis630_gui
 romof:gamecstl
-disk:gamecstl/gamecst2
-disk:gamecstl/gamecstl
+cloneof:gamecstl
+disk:gamecst2
+disk:gamecstl

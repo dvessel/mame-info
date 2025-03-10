@@ -4,5 +4,6 @@ year:2004
 status:good
 romof:gtfore05
 romof:iteagle
-disk:gtfore05/golf_fore_2005_v5.01.02
-disk:gtfore05/golf_fore_2005_v5.01.06
+cloneof:gtfore05
+disk:golf_fore_2005_v5.01.02
+disk:golf_fore_2005_v5.01.06

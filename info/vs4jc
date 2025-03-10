@@ -5,5 +5,6 @@ status:preliminary
 device:segadimm
 romof:vs4j
 romof:triforce
-disk:vs4j/gdt-0013c
-disk:vs4j/gdt-0013e
+cloneof:vs4j
+disk:gdt-0013c
+disk:gdt-0013e

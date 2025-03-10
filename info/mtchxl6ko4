@@ -5,5 +5,6 @@ status:good
 device:dm_clgd5430
 device:microtouch
 romof:mtchxl6k
-disk:mtchxl6k/r04
-disk:mtchxl6k/r07
+cloneof:mtchxl6k
+disk:r04
+disk:r07

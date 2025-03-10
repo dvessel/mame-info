@@ -1,5 +1,10 @@
-description:Aliens (World set 4)
+description:Aliens (World set 4) Aliens (World set 4)
+description:Aliens (World set 4) Aliens (World set 4)
+manufacturer:Konami
 manufacturer:Konami
 year:1990
+year:1990
 status:good
-romof:aliens
+status:good
+cloneof:aliens
+cloneof:aliens

@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:wccf322e
 romof:naomigd
-disk:wccf322e/cdv-10015
-disk:wccf322e/cdv-10015p
+cloneof:wccf322e
+disk:cdv-10015
+disk:cdv-10015p

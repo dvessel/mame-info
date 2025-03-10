@@ -3,3 +3,4 @@ manufacturer:SAM SKB VM
 year:1987
 status:preliminary
 romof:radio86
+cloneof:radio86

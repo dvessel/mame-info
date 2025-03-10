@@ -4,4 +4,5 @@ year:1998
 status:imperfect
 romof:konam80s
 romof:sys573
-disk:konam80s/826eaa01
+cloneof:konam80s
+disk:826eaa01

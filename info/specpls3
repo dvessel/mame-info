@@ -3,3 +3,4 @@ manufacturer:Amstrad plc
 year:1987
 status:good
 romof:specpl2a
+cloneof:specpl2a

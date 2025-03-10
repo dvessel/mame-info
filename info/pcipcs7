@@ -4,3 +4,4 @@ year:1998
 status:preliminary
 device:virge_pci
 romof:pcipc
+cloneof:pcipc

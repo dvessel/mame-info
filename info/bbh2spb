@@ -4,5 +4,6 @@ year:2003
 status:good
 romof:bbh2sp
 romof:iteagle
-disk:bbh2sp/bbh2sp_v2.02.08
-disk:bbh2sp/bbh2sp_v2.02.11
+cloneof:bbh2sp
+disk:bbh2sp_v2.02.08
+disk:bbh2sp_v2.02.11

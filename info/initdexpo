@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:initdexp
 romof:naomi2
-disk:initdexp/gds-0025
-disk:initdexp/gds-0025a
+cloneof:initdexp
+disk:gds-0025
+disk:gds-0025a

@@ -5,3 +5,4 @@ status:preliminary
 kind:mechanical
 device:ym2413
 romof:m1jbond
+cloneof:m1jbond

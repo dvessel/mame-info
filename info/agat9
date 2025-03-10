@@ -6,3 +6,4 @@ device:agat_fdc
 device:agat9_flop
 device:d2fdc
 romof:apple2
+cloneof:apple2

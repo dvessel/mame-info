@@ -6,3 +6,4 @@ device:at_keybc
 device:ibm_vga
 device:kb_pcat84
 romof:i8550061
+cloneof:i8550061

@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:meltyb
 romof:naomigd
-disk:meltyb/gdl-0039
-disk:meltyb/gdl-0039a
+cloneof:meltyb
+disk:gdl-0039
+disk:gdl-0039a

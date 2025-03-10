@@ -4,4 +4,5 @@ year:2003
 status:preliminary
 romof:timecrs3
 romof:sys246
-disk:timecrs3/tst1dvd0
+cloneof:timecrs3
+disk:tst1dvd0

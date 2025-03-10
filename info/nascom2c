@@ -3,3 +3,4 @@ manufacturer:Nascom Microcomputers
 year:1980
 status:good
 romof:nascom2
+cloneof:nascom2

@@ -3,3 +3,4 @@ manufacturer:Intel
 year:1985
 status:good
 romof:basic52
+cloneof:basic52

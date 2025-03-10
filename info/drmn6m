@@ -6,6 +6,7 @@ device:k573_dio
 device:k573msu
 romof:pcnfrk6m
 romof:sys573
-disk:pcnfrk6m/b16jaa02
-disk:pcnfrk6m/b16jba02
-disk:pcnfrk6m/b16aaa02
+cloneof:pcnfrk6m
+disk:b16jaa02
+disk:b16jba02
+disk:b16aaa02

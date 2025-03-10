@@ -3,5 +3,6 @@ manufacturer:Midway Games
 year:1998
 status:good
 romof:blitz99
-disk:blitz99/blitz99a
-disk:blitz99/blitz99
+cloneof:blitz99
+disk:blitz99a
+disk:blitz99

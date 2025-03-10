@@ -3,5 +3,6 @@ manufacturer:Midway Games
 year:1999
 status:good
 romof:gauntdl
-disk:gauntdl/gauntd24
-disk:gauntdl/gauntdl
+cloneof:gauntdl
+disk:gauntd24
+disk:gauntdl

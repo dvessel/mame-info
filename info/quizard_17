@@ -4,5 +4,6 @@ year:1995
 status:imperfect
 romof:quizard
 romof:cdibios
-disk:quizard/quizard17
-disk:quizard/quizard18
+cloneof:quizard
+disk:quizard17
+disk:quizard18

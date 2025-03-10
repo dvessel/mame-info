@@ -4,3 +4,4 @@ year:1981
 status:imperfect
 device:c1541
 romof:vic1001
+cloneof:vic1001

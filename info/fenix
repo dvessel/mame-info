@@ -3,3 +3,4 @@ manufacturer:bootleg (Orio)
 year:1980
 status:preliminary
 romof:phoenix
+cloneof:phoenix

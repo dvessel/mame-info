@@ -3,3 +3,4 @@ manufacturer:Nuova Elettronica
 year:1980
 status:good
 romof:z80ne
+cloneof:z80ne

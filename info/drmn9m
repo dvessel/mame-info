@@ -6,9 +6,10 @@ device:k573_dio
 device:k573msu
 romof:pcnfrk9m
 romof:sys573
-disk:pcnfrk9m/d09jab01
-disk:pcnfrk9m/d09jca02
-disk:pcnfrk9m/d09jaa02
-disk:pcnfrk9m/d09jba02
-disk:pcnfrk9m/d09aba02
-disk:pcnfrk9m/d09aaa02
+cloneof:pcnfrk9m
+disk:d09jab01
+disk:d09jca02
+disk:d09jaa02
+disk:d09jba02
+disk:d09aba02
+disk:d09aaa02

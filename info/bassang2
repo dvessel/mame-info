@@ -4,5 +4,6 @@ year:1998
 status:imperfect
 romof:fbait2bc
 romof:sys573
-disk:fbait2bc/865jaa02
-disk:fbait2bc/865uab02
+cloneof:fbait2bc
+disk:865jaa02
+disk:865uab02

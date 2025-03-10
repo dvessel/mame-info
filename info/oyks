@@ -3,5 +3,6 @@ manufacturer:Cave
 year:2009
 status:preliminary
 romof:fstgfish
-disk:fstgfish/oyks
-disk:fstgfish/x11_15305
+cloneof:fstgfish
+disk:oyks
+disk:x11_15305

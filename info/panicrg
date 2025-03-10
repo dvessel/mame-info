@@ -4,3 +4,4 @@ year:1986
 status:preliminary
 device:t5182
 romof:panicr
+cloneof:panicr

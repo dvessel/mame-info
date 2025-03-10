@@ -6,5 +6,6 @@ device:k573_dio
 device:k573mcr
 romof:ddr3mk
 romof:sys573
-disk:ddr3mk/887aaa02
-disk:ddr3mk/887kba02
+cloneof:ddr3mk
+disk:887aaa02
+disk:887kba02

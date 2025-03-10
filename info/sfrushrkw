@@ -4,4 +4,5 @@ year:1997
 status:preliminary
 device:tms32031
 romof:sfrushrk
-disk:sfrushrk/sfrushrk
+cloneof:sfrushrk
+disk:sfrushrk

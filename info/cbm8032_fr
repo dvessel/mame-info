@@ -5,3 +5,4 @@ status:preliminary
 device:c8050
 device:c8050fdc
 romof:pet8032
+cloneof:pet8032

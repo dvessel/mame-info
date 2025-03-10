@@ -4,6 +4,7 @@ year:1999
 status:imperfect
 romof:bmiidxs
 romof:gq863
-disk:bmiidxs/gc983a01
-disk:bmiidxs/gc983a04
-disk:bmiidxs/983hdda01
+cloneof:bmiidxs
+disk:gc983a01
+disk:gc983a04
+disk:983hdda01

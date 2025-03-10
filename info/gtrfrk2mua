@@ -4,5 +4,6 @@ year:1999
 status:imperfect
 romof:gtrfrk2m
 romof:sys573
-disk:gtrfrk2m/883__a01
-disk:gtrfrk2m/929jbb02
+cloneof:gtrfrk2m
+disk:883__a01
+disk:929jbb02

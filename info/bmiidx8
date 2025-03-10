@@ -3,6 +3,6 @@ manufacturer:Konami
 year:2002
 status:imperfect
 romof:gq863
-disk:bmiidx8/c44jaa01
-disk:bmiidx8/c44jaa02
-disk:bmiidx8/c44jaa03
+disk:c44jaa01
+disk:c44jaa02
+disk:c44jaa03

@@ -5,3 +5,4 @@ status:good
 device:ef9340_1
 device:i8245
 romof:videopacp
+cloneof:videopacp

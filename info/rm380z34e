@@ -4,3 +4,4 @@ year:1978
 status:good
 device:sn74s262
 romof:rm380z
+cloneof:rm380z

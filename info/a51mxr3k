@@ -3,4 +3,5 @@ manufacturer:Atari Games
 year:1998
 status:good
 romof:area51mx
-disk:area51mx/area51mx
+cloneof:area51mx
+disk:area51mx

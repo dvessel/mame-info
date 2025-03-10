@@ -6,4 +6,4 @@ device:mie
 device:jvs13551
 device:segadimm
 romof:naomigd
-disk:wccf420e/cdv-10027
+disk:cdv-10027

@@ -4,4 +4,5 @@ year:199?
 status:preliminary
 kind:mechanical
 romof:ep_pharo
-disk:ep_pharo/ep_pharo
+cloneof:ep_pharo
+disk:ep_pharo

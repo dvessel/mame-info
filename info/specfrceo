@@ -3,5 +3,6 @@ manufacturer:ICE/Play Mechanix
 year:2002
 status:preliminary
 romof:specfrce
-disk:specfrce/sf010101
-disk:specfrce/sf010200
+cloneof:specfrce
+disk:sf010101
+disk:sf010200

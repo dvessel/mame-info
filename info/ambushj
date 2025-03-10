@@ -1,5 +1,12 @@
-description:Ambush (Japan)
+description:Ambush (Japan) Ambush (Japan)
+description:Ambush (Japan) Ambush (Japan)
+manufacturer:Tecfri (Nippon Amuse license)
 manufacturer:Tecfri (Nippon Amuse license)
 year:1983
+year:1983
+status:good
 status:good
 romof:ambush
+romof:ambush
+cloneof:ambush
+cloneof:ambush

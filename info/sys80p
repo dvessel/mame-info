@@ -3,3 +3,4 @@ manufacturer:EACA Computers Ltd
 year:1980
 status:preliminary
 romof:eg3003
+cloneof:eg3003

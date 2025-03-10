@@ -4,4 +4,5 @@ year:2001
 status:preliminary
 romof:ppp2nd
 romof:kviper
-disk:ppp2nd/ppp2nd
+cloneof:ppp2nd
+disk:ppp2nd

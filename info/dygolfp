@@ -6,4 +6,5 @@ device:mie
 device:jvs13551
 romof:dygolf
 romof:naomigd
-disk:dygolf/gds-0009a
+cloneof:dygolf
+disk:gds-0009a

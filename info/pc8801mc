@@ -5,3 +5,4 @@ status:preliminary
 device:pc80s31k
 device:ym2608
 romof:pc8801ma
+cloneof:pc8801ma

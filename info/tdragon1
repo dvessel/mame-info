@@ -4,3 +4,4 @@ year:1991
 status:good
 device:nmk004
 romof:tdragon
+cloneof:tdragon

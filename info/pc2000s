@@ -4,3 +4,4 @@ year:1993
 status:preliminary
 device:sed1278
 romof:pc2000
+cloneof:pc2000

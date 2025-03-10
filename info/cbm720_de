@@ -5,3 +5,4 @@ status:preliminary
 device:c8050
 device:c8050fdc
 romof:b128hp
+cloneof:b128hp

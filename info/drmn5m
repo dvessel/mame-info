@@ -6,6 +6,7 @@ device:k573_dio
 device:k573msu
 romof:pcnfrk5m
 romof:sys573
-disk:pcnfrk5m/b05jaa02
-disk:pcnfrk5m/b05jba02
-disk:pcnfrk5m/b05aaa02
+cloneof:pcnfrk5m
+disk:b05jaa02
+disk:b05jba02
+disk:b05aaa02

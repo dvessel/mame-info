@@ -3,3 +3,4 @@ manufacturer:Philips
 year:1986
 status:good
 romof:nms8280
+cloneof:nms8280

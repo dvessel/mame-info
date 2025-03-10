@@ -5,3 +5,4 @@ status:preliminary
 device:namcoc68
 device:namcoc67
 romof:aircomb
+cloneof:aircomb

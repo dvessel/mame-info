@@ -7,3 +7,4 @@ device:ega
 device:isa_hdc
 device:kb_ms_natural
 romof:ibm5170
+cloneof:ibm5170

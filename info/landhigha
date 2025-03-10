@@ -4,5 +4,6 @@ year:1999
 status:preliminary
 romof:landhigh
 romof:taitotz
-disk:landhigh/landhigha
-disk:landhigh/landhigh
+cloneof:landhigh
+disk:landhigha
+disk:landhigh

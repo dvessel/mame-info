@@ -4,3 +4,4 @@ year:2006
 status:preliminary
 device:hd44780
 romof:hprot1
+cloneof:hprot1

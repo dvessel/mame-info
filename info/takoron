@@ -6,4 +6,4 @@ device:mie
 device:jvs13551
 device:segadimm
 romof:naomigd
-disk:takoron/gdl-0042
+disk:gdl-0042

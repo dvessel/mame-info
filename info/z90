@@ -6,3 +6,4 @@ device:heath_tlb
 device:mm5740
 device:h89bus
 romof:h89
+cloneof:h89

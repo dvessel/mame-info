@@ -4,3 +4,4 @@ year:2000
 status:preliminary
 device:ks0066
 romof:psr260
+cloneof:psr260

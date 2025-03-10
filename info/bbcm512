@@ -5,3 +5,4 @@ status:imperfect
 device:saa5050
 device:bbc_tube_80186
 romof:bbcm
+cloneof:bbcm

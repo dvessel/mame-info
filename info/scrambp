@@ -3,3 +3,4 @@ manufacturer:bootleg (Billport S.A.)
 year:1981
 status:good
 romof:scramble
+cloneof:scramble

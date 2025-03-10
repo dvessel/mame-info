@@ -3,5 +3,6 @@ manufacturer:Midway Games
 year:1998
 status:good
 romof:carnevil
-disk:carnevil/carnevi1
-disk:carnevil/carnevil
+cloneof:carnevil
+disk:carnevi1
+disk:carnevil

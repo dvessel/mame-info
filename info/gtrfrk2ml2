@@ -5,4 +5,5 @@ status:imperfect
 device:k573mcr
 romof:gtrfrk2m
 romof:sys573
-disk:gtrfrk2m/929jbb02
+cloneof:gtrfrk2m
+disk:929jbb02

@@ -4,3 +4,4 @@ year:198?
 status:preliminary
 device:rx01
 romof:pdp11ub
+cloneof:pdp11ub

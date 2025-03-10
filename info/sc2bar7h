@@ -5,3 +5,4 @@ status:preliminary
 kind:mechanical
 device:ym2413
 romof:sc2bar7
+cloneof:sc2bar7

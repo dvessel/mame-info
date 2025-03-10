@@ -3,3 +3,4 @@ manufacturer:Sanyo
 year:1985
 status:good
 romof:mpc200
+cloneof:mpc200

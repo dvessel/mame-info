@@ -3,3 +3,4 @@ manufacturer:bootleg (Elektronika)
 year:1984
 status:good
 romof:gnw_mmouse
+cloneof:gnw_mmouse

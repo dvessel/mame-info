@@ -4,3 +4,4 @@ year:1985
 status:preliminary
 device:m68705p5
 romof:tigerh
+cloneof:tigerh

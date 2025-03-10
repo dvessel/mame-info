@@ -3,4 +3,5 @@ manufacturer:Capcom
 year:2007
 status:preliminary
 romof:dkbanana
-disk:dkbanana/dkbanana
+cloneof:dkbanana
+disk:dkbanana

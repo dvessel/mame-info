@@ -6,3 +6,4 @@ device:mie
 device:jvs13551
 romof:wldkicks
 romof:naomi
+cloneof:wldkicks

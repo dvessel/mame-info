@@ -4,5 +4,6 @@ year:2001
 status:preliminary
 romof:mocapb
 romof:kviper
-disk:mocapb/a29a02
-disk:mocapb/a29b02
+cloneof:mocapb
+disk:a29a02
+disk:a29b02

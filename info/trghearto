@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:trgheart
 romof:naomigd
-disk:trgheart/gdl-0036
-disk:trgheart/gdl-0036a
+cloneof:trgheart
+disk:gdl-0036
+disk:gdl-0036a

@@ -4,3 +4,4 @@ year:1991
 status:preliminary
 device:turbogx
 romof:sun4_300
+cloneof:sun4_300

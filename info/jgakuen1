@@ -5,3 +5,4 @@ status:imperfect
 device:qsound_hle
 romof:rvschool
 romof:coh3002c
+cloneof:rvschool

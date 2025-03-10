@@ -6,4 +6,4 @@ device:mie
 device:jvs13551
 device:segadimm
 romof:naomigd
-disk:shaktmsp/gds-0013
+disk:gds-0013

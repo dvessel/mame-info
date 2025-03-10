@@ -4,5 +4,6 @@ year:2000
 status:preliminary
 romof:batlgr2
 romof:taitotz
-disk:batlgr2/bg2_201j
-disk:batlgr2/bg2_204j
+cloneof:batlgr2
+disk:bg2_201j
+disk:bg2_204j

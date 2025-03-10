@@ -7,3 +7,4 @@ device:ega
 device:isa_hdc
 device:kb_pcat84
 romof:ibm5170
+cloneof:ibm5170

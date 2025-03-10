@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:mj3
 romof:chihiro
-disk:mj3/gdx-0017c
-disk:mj3/gdx-0017f
+cloneof:mj3
+disk:gdx-0017c
+disk:gdx-0017f

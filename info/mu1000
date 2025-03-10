@@ -5,3 +5,4 @@ status:preliminary
 device:mulcd
 device:hd44780
 romof:mu500
+cloneof:mu500

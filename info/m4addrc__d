@@ -4,3 +4,4 @@ year:199?
 status:good
 device:ym2413
 romof:m4addr
+cloneof:m4addr

@@ -3,4 +3,5 @@ manufacturer:Capcom
 year:1999
 status:good
 romof:jojoba
-disk:jojoba/cap-jjm-0
+cloneof:jojoba
+disk:cap-jjm-0

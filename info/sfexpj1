@@ -5,3 +5,4 @@ status:imperfect
 device:qsound_hle
 romof:sfexp
 romof:coh1000c
+cloneof:sfexp

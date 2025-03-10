@@ -5,3 +5,4 @@ status:good
 device:abc830
 device:abc800kb
 romof:abc800c
+cloneof:abc800c

@@ -3,3 +3,4 @@ manufacturer:Mars Electronics
 year:1990
 status:preliminary
 romof:apvm110
+cloneof:apvm110

@@ -4,3 +4,4 @@ year:1995
 status:preliminary
 romof:fastdraw
 romof:alg_bios
+cloneof:fastdraw

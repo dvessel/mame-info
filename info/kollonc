@@ -4,5 +4,6 @@ year:2003
 status:imperfect
 romof:kollon
 romof:coh3002t
-disk:kollon/kollonc
-disk:kollon/kollon
+cloneof:kollon
+disk:kollonc
+disk:kollon

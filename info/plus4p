@@ -4,3 +4,4 @@ year:1984
 status:good
 device:c1541
 romof:c264
+cloneof:c264

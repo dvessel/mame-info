@@ -4,3 +4,4 @@ year:1994
 status:good
 device:ti99_evpc
 romof:ti99_4a
+cloneof:ti99_4a

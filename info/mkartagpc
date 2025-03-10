@@ -4,4 +4,5 @@ year:2006
 status:preliminary
 romof:mkartagp
 romof:triforce
-disk:mkartagp/update_software_mka1_ver_c
+cloneof:mkartagp
+disk:update_software_mka1_ver_c

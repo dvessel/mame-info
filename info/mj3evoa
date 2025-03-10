@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:mj3evo
 romof:chihiro
-disk:mj3evo/gdx-0021a
-disk:mj3evo/gdx-0021b
+cloneof:mj3evo
+disk:gdx-0021a
+disk:gdx-0021b

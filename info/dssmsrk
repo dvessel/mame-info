@@ -4,3 +4,4 @@ year:1987
 status:preliminary
 device:hd44780
 romof:dss1
+cloneof:dss1

@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:scg05nt
 romof:chihiro
-disk:scg05nt/gdx-0010b
-disk:scg05nt/gdx-0010c
+cloneof:scg05nt
+disk:gdx-0010b
+disk:gdx-0010c

@@ -6,4 +6,4 @@ device:jvs13551
 device:segadimm
 device:seganetw
 romof:chihiro
-disk:crtaxihr/gdx-0002b
+disk:gdx-0002b

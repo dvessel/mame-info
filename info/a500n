@@ -4,3 +4,4 @@ year:1987
 status:preliminary
 device:a500kbd_us
 romof:a500
+cloneof:a500

@@ -3,7 +3,8 @@ manufacturer:Konami
 year:2000
 status:imperfect
 romof:ppp
-disk:ppp/a11jaa01
-disk:ppp/a11jaa02
-disk:ppp/977jaa01
-disk:ppp/977jaa02
+cloneof:ppp
+disk:a11jaa01
+disk:a11jaa02
+disk:977jaa01
+disk:977jaa02

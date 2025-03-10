@@ -3,3 +3,4 @@ manufacturer:Digital Equipment Corporation
 year:1981
 status:preliminary
 romof:vt102
+cloneof:vt102

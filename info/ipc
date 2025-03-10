@@ -3,3 +3,4 @@ manufacturer:Intel
 year:19??
 status:preliminary
 romof:ipb
+cloneof:ipb

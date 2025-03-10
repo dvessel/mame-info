@@ -4,3 +4,4 @@ year:2000
 status:imperfect
 device:hd44780
 romof:wk1800
+cloneof:wk1800

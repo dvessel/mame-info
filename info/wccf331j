@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:wccf341j
 romof:naomigd
-disk:wccf341j/cdv-10020
-disk:wccf341j/cdv-10021
+cloneof:wccf341j
+disk:cdv-10020
+disk:cdv-10021

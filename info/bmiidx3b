@@ -4,6 +4,7 @@ year:2000
 status:imperfect
 romof:bmiidx3
 romof:gq863
-disk:bmiidx3/gc992-jac01
-disk:bmiidx3/gc992-jaa04
-disk:bmiidx3/992hdda01
+cloneof:bmiidx3
+disk:gc992-jac01
+disk:gc992-jaa04
+disk:992hdda01

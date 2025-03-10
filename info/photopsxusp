@@ -3,5 +3,6 @@ manufacturer:Funworld
 year:2004?
 status:preliminary
 romof:photopsxsp
-disk:photopsxsp/photoply_sprt_xt_2004_sp_u
-disk:photopsxsp/photoply_sprt_xt_2004_sp
+cloneof:photopsxsp
+disk:photoply_sprt_xt_2004_sp_u
+disk:photoply_sprt_xt_2004_sp

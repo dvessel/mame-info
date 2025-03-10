@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:vf4
 romof:naomi2
-disk:vf4/gds-0012b
-disk:vf4/gds-0012c
+cloneof:vf4
+disk:gds-0012b
+disk:gds-0012c

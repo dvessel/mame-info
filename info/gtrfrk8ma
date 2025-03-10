@@ -5,5 +5,6 @@ status:preliminary
 device:k573_dio
 romof:gtrfrk8m
 romof:sys573
-disk:gtrfrk8m/c08jaa02
-disk:gtrfrk8m/c08jba02
+cloneof:gtrfrk8m
+disk:c08jaa02
+disk:c08jba02

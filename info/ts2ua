@@ -5,3 +5,4 @@ status:imperfect
 device:qsound_hle
 romof:ts2
 romof:coh1000c
+cloneof:ts2

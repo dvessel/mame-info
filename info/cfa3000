@@ -4,3 +4,4 @@ year:1989
 status:preliminary
 device:saa5050
 romof:bbcm
+cloneof:bbcm

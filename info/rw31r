@@ -3,3 +3,4 @@ manufacturer:Rockwell
 year:1975
 status:good
 romof:rw30r
+cloneof:rw30r

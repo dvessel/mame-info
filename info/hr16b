@@ -4,3 +4,4 @@ year:1989
 status:preliminary
 device:hd44780
 romof:hr16
+cloneof:hr16

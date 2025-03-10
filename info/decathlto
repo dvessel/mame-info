@@ -5,3 +5,4 @@ status:preliminary
 device:segabill
 romof:decathlt
 romof:stvbios
+cloneof:decathlt

@@ -4,5 +4,6 @@ year:1998
 status:imperfect
 romof:nagano98
 romof:konamigv
-disk:nagano98/720jaa01
-disk:nagano98/nagano98
+cloneof:nagano98
+disk:720jaa01
+disk:nagano98

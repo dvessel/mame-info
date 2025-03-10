@@ -4,3 +4,4 @@ year:1997
 status:good
 device:tms32031
 romof:offroadc
+cloneof:offroadc

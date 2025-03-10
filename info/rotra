@@ -4,5 +4,6 @@ year:1994
 status:good
 device:tms32031
 romof:rotr
-disk:rotr/rotra
-disk:rotr/rotr
+cloneof:rotr
+disk:rotra
+disk:rotr

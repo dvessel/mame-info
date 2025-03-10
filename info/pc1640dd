@@ -5,3 +5,4 @@ status:imperfect
 device:pc1512kb
 device:pc1640_iga
 romof:pc1640
+cloneof:pc1640

@@ -4,3 +4,4 @@ year:1993
 status:imperfect
 device:lm24014h
 romof:tascr30
+cloneof:tascr30

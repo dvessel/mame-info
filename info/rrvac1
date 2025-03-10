@@ -4,4 +4,5 @@ year:2000
 status:preliminary
 romof:rrvac
 romof:sys246
-disk:rrvac/rrv1-a
+cloneof:rrvac
+disk:rrv1-a

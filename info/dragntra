@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:dragntr
 romof:naomigd
-disk:dragntr/gds-0030a
-disk:dragntr/gds-0030b
+cloneof:dragntr
+disk:gds-0030a
+disk:gds-0030b

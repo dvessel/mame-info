@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:radirgy
 romof:naomigd
-disk:radirgy/gdl-0032
-disk:radirgy/gdl-0032a
+cloneof:radirgy
+disk:gdl-0032
+disk:gdl-0032a

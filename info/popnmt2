@@ -3,5 +3,6 @@ manufacturer:Konami
 year:2000
 status:imperfect
 romof:popnmt
-disk:popnmt/976jaa01
-disk:popnmt/976jaa02
+cloneof:popnmt
+disk:976jaa01
+disk:976jaa02

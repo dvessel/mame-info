@@ -4,3 +4,4 @@ year:1981
 status:good
 device:m68705p3
 romof:sdungeon
+cloneof:sdungeon

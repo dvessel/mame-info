@@ -4,3 +4,4 @@ year:2000?
 status:preliminary
 device:ym2413
 romof:spk306us
+cloneof:spk306us

@@ -4,5 +4,6 @@ year:1999
 status:preliminary
 device:oti64111_pci
 romof:gammagic
-disk:gammagic/99bottles
-disk:gammagic/gammagic
+cloneof:gammagic
+disk:99bottles
+disk:gammagic

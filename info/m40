@@ -4,3 +4,4 @@ year:1981
 status:preliminary
 device:m20_8086
 romof:m20
+cloneof:m20

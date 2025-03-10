@@ -3,5 +3,6 @@ manufacturer:Konami
 year:1999
 status:imperfect
 romof:bmcompmx
-disk:bmcompmx/858aac11
-disk:bmcompmx/858jaa11
+cloneof:bmcompmx
+disk:858aac11
+disk:858jaa11

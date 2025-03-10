@@ -5,3 +5,4 @@ status:preliminary
 device:archimedes_keyboard
 device:arc_ether1_aka25
 romof:aa310
+cloneof:aa310

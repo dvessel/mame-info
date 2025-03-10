@@ -5,3 +5,4 @@ status:preliminary
 kind:mechanical
 device:hd44780
 romof:hoopitup
+cloneof:hoopitup

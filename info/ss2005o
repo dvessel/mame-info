@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:ss2005
 romof:naomigd
-disk:ss2005/gdl-0031
-disk:ss2005/gdl-0031a
+cloneof:ss2005
+disk:gdl-0031
+disk:gdl-0031a

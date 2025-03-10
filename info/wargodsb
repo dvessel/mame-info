@@ -4,5 +4,6 @@ year:1995
 status:good
 device:tms32031
 romof:wargods
-disk:wargods/wargods_12-11-1995
-disk:wargods/wargods_11-07-1996
+cloneof:wargods
+disk:wargods_12-11-1995
+disk:wargods_11-07-1996

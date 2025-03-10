@@ -7,3 +7,4 @@ device:namco51
 device:namco52
 device:namco54
 romof:bosco
+cloneof:bosco

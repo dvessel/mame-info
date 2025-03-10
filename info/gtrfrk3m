@@ -5,5 +5,5 @@ status:preliminary
 device:k573_dio
 device:k573mcr
 romof:sys573
-disk:gtrfrk3m/949jac01
-disk:gtrfrk3m/949jab02
+disk:949jac01
+disk:949jab02

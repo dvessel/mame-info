@@ -4,3 +4,4 @@ year:1992
 status:preliminary
 device:bwtwo
 romof:sun4_300
+cloneof:sun4_300

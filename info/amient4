@@ -1,8 +1,17 @@
-description:EISA Enterprise-IV
+description:EISA Enterprise-IV EISA Enterprise-IV EISA Enterprise-IV
+description:EISA Enterprise-IV EISA Enterprise-IV EISA Enterprise-IV
+description:EISA Enterprise-IV EISA Enterprise-IV EISA Enterprise-IV
 manufacturer:AMI
-year:199?
+manufacturer:AMI
+status:preliminary
 status:preliminary
 device:at_keybc
+device:at_keybc
+device:et4000
 device:et4000
 device:kb_ms_natural
+device:kb_ms_natural
 romof:ibm5170
+romof:ibm5170
+cloneof:ibm5170
+cloneof:ibm5170

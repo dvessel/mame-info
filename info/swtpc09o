@@ -3,3 +3,4 @@ manufacturer:SWTPC
 year:1980
 status:good
 romof:swtpc09
+cloneof:swtpc09

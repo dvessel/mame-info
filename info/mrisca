@@ -5,3 +5,4 @@ status:good
 device:chessmachine
 device:hd44780
 romof:mrisc
+cloneof:mrisc

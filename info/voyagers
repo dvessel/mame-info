@@ -3,5 +3,6 @@ manufacturer:Team Play/Game Refuge/Monaco Entertainment
 year:2002
 status:preliminary
 romof:voyager
-disk:voyager/voyagers
-disk:voyager/voyager
+cloneof:voyager
+disk:voyagers
+disk:voyager

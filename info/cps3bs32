@@ -3,5 +3,6 @@ manufacturer:bootleg
 year:1999
 status:good
 romof:cps3boot
-disk:cps3boot/sfiii_2nd_impact_converted_for_standard_sh2_v3
-disk:cps3boot/unicd-cps3_for_standard_sh2_v4
+cloneof:cps3boot
+disk:sfiii_2nd_impact_converted_for_standard_sh2_v3
+disk:unicd-cps3_for_standard_sh2_v4

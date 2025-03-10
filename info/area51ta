@@ -3,5 +3,6 @@ manufacturer:Atari Games (Time Warner license)
 year:1995
 status:good
 romof:area51
-disk:area51/area51t
-disk:area51/area51
+cloneof:area51
+disk:area51t
+disk:area51

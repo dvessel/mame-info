@@ -6,3 +6,4 @@ device:c8050
 device:c8050fdc
 device:pet_superpet
 romof:pet8032
+cloneof:pet8032

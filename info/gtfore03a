@@ -4,5 +4,6 @@ year:2002
 status:good
 romof:gtfore03
 romof:iteagle
-disk:gtfore03/golf_fore_2003_v3.00.09
-disk:gtfore03/golf_fore_2003_v3.00.10
+cloneof:gtfore03
+disk:golf_fore_2003_v3.00.09
+disk:golf_fore_2003_v3.00.10

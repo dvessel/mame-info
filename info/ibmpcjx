@@ -3,3 +3,4 @@ manufacturer:International Business Machines
 year:1985
 status:preliminary
 romof:ibm5150
+cloneof:ibm5150

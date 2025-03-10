@@ -5,3 +5,4 @@ status:good
 device:ega
 device:kb_pcxt83
 romof:ibm5150
+cloneof:ibm5150

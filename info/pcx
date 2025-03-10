@@ -5,3 +5,4 @@ status:preliminary
 device:pcx_video
 device:pcd_kbd
 romof:pcd
+cloneof:pcd

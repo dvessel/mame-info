@@ -4,3 +4,4 @@ year:1985
 status:good
 device:hd44780
 romof:ti74
+cloneof:ti74

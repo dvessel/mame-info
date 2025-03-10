@@ -4,5 +4,6 @@ year:2000
 status:preliminary
 romof:gticlub2
 romof:kviper
-disk:gticlub2/941a02
-disk:gticlub2/941b02
+cloneof:gticlub2
+disk:941a02
+disk:941b02

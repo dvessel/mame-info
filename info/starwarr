@@ -3,3 +3,4 @@ manufacturer:bootleg (Potomac Mortgage)
 year:1980
 status:imperfect
 romof:spacefb
+cloneof:spacefb

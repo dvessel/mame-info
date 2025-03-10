@@ -4,5 +4,6 @@ year:1996
 status:imperfect
 romof:jdredd
 romof:coh1000a
-disk:jdredd/jdreddb
-disk:jdredd/jdreddc
+cloneof:jdredd
+disk:jdreddb
+disk:jdreddc

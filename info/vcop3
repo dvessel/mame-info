@@ -6,4 +6,4 @@ device:jvs13551
 device:segadimm
 device:seganetw
 romof:chihiro
-disk:vcop3/gdx-0003b
+disk:gdx-0003b

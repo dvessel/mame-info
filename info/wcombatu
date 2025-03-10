@@ -4,4 +4,5 @@ year:2002
 status:preliminary
 romof:wcombat
 romof:kviper
-disk:wcombat/c22d02
+cloneof:wcombat
+disk:c22d02

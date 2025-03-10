@@ -4,4 +4,5 @@ year:2000
 status:preliminary
 romof:fghtmn
 romof:sys573
-disk:fghtmn/918xxb02
+cloneof:fghtmn
+disk:918xxb02

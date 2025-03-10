@@ -4,5 +4,6 @@ year:1999
 status:imperfect
 romof:dstage
 romof:sys573
-disk:dstage/845uaa02
-disk:dstage/gc845eba
+cloneof:dstage
+disk:845uaa02
+disk:gc845eba

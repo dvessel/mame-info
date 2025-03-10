@@ -3,5 +3,6 @@ manufacturer:Konami
 year:1997
 status:preliminary
 romof:totlvice
-disk:totlvice/639jad01
-disk:totlvice/639eba01
+cloneof:totlvice
+disk:639jad01
+disk:639eba01

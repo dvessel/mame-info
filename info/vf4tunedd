@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:vf4tuned
 romof:naomi2
-disk:vf4tuned/gds-0036d
-disk:vf4tuned/gds-0036f
+cloneof:vf4tuned
+disk:gds-0036d
+disk:gds-0036f

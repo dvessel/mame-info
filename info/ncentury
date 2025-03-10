@@ -3,3 +3,4 @@ manufacturer:bootleg (Petaco S.A.)
 year:1981
 status:preliminary
 romof:scramble
+cloneof:scramble

@@ -5,3 +5,4 @@ status:preliminary
 device:cga
 device:kb_pcxt83
 romof:ibm5150
+cloneof:ibm5150

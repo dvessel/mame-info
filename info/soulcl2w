@@ -4,5 +4,6 @@ year:2002
 status:preliminary
 romof:soulclb2
 romof:sys246
-disk:soulclb2/sc21-dvd0b
-disk:soulclb2/sc21-dvd0d
+cloneof:soulclb2
+disk:sc21-dvd0b
+disk:sc21-dvd0d

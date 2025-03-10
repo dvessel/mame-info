@@ -5,3 +5,4 @@ status:preliminary
 device:pc9801_26
 device:upd7220
 romof:pc486mu
+cloneof:pc486mu

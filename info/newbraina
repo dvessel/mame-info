@@ -5,3 +5,4 @@ status:preliminary
 device:newbrain_eim
 device:newbrain_fdc
 romof:newbrain
+cloneof:newbrain

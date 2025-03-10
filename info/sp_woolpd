@@ -6,3 +6,4 @@ kind:mechanical
 device:ace_sp_reelctrl
 device:m68705p3
 romof:sp_woolp
+cloneof:sp_woolp

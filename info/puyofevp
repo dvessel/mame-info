@@ -6,4 +6,5 @@ device:mie
 device:jvs13551
 romof:puyofev
 romof:naomigd
-disk:puyofev/gds-0034
+cloneof:puyofev
+disk:gds-0034

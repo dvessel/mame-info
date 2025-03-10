@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:ghostsqu
 romof:chihiro
-disk:ghostsqu/gdx-0012
-disk:ghostsqu/gdx-0012a
+cloneof:ghostsqu
+disk:gdx-0012
+disk:gdx-0012a

@@ -4,4 +4,5 @@ year:1983
 status:preliminary
 device:pr8210
 romof:cliffhgr
-disk:cliffhgr/cliffhgr
+cloneof:cliffhgr
+disk:cliffhgr

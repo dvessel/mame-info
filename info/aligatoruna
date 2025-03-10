@@ -1,5 +1,9 @@
 description:Alligator Hunt (unprotected, set 2)
+description:Alligator Hunt (unprotected, set 2)
 manufacturer:Gaelco
 year:1994
 status:good
 romof:aligator
+romof:aligator
+cloneof:aligator
+cloneof:aligator

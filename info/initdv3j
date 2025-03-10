@@ -6,4 +6,4 @@ device:mie
 device:jvs13551
 device:segadimm
 romof:naomi2
-disk:initdv3j/gds-0032c
+disk:gds-0032c

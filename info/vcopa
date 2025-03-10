@@ -5,3 +5,4 @@ status:preliminary
 device:model1io2
 device:hd44780
 romof:vcop
+cloneof:vcop

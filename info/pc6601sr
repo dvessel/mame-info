@@ -4,3 +4,4 @@ year:1984
 status:preliminary
 device:pc80s31
 romof:pc6001
+cloneof:pc6001

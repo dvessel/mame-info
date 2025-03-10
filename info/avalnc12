@@ -5,5 +5,6 @@ status:preliminary
 device:segadimm
 romof:avalnc13
 romof:triforce
-disk:avalnc13/gdt-0010a
-disk:avalnc13/gdt-0010c
+cloneof:avalnc13
+disk:gdt-0010a
+disk:gdt-0010c

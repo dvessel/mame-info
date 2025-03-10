@@ -3,3 +3,4 @@ manufacturer:Osborne
 year:1983
 status:good
 romof:osborne1
+cloneof:osborne1

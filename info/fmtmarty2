@@ -3,3 +3,4 @@ manufacturer:Fujitsu
 year:1993
 status:preliminary
 romof:fmtmarty
+cloneof:fmtmarty

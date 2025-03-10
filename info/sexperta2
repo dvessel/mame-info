@@ -4,3 +4,4 @@ year:1987
 status:good
 device:hd44780
 romof:sexperta
+cloneof:sexperta

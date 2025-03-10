@@ -3,3 +3,4 @@ manufacturer:ESD
 year:2001
 status:good
 romof:spec2k
+cloneof:spec2k

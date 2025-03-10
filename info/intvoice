@@ -5,3 +5,4 @@ status:good
 device:stic
 device:intv_voice
 romof:intv
+cloneof:intv

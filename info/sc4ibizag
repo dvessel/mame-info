@@ -3,3 +3,4 @@ manufacturer:BFM
 year:200?
 status:preliminary
 romof:sc4ibiza
+cloneof:sc4ibiza

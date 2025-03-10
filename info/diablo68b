@@ -4,3 +4,4 @@ year:1991
 status:good
 device:hd44780
 romof:diablo68
+cloneof:diablo68

@@ -3,3 +3,4 @@ manufacturer:bootleg (Datamat)
 year:1992
 status:good
 romof:mspacman
+cloneof:mspacman

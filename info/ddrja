@@ -4,5 +4,6 @@ year:1998
 status:preliminary
 romof:dstage
 romof:sys573
-disk:dstage/845jaa02
-disk:dstage/gc845eba
+cloneof:dstage
+disk:845jaa02
+disk:gc845eba

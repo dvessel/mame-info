@@ -5,3 +5,4 @@ status:good
 device:mm1kb
 device:upd7220
 romof:mm1m6
+cloneof:mm1m6

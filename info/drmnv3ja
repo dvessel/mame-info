@@ -4,5 +4,6 @@ year:2006
 status:preliminary
 romof:drmnv3j
 romof:kpython2
-disk:drmnv3j/f32_jaa_2006072600
-disk:drmnv3j/f32_jaa_2006101800
+cloneof:drmnv3j
+disk:f32_jaa_2006072600
+disk:f32_jaa_2006101800

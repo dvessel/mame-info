@@ -6,3 +6,4 @@ device:mie
 device:jvs13551
 romof:mushik4e
 romof:naomi
+cloneof:mushik4e

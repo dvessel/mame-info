@@ -4,5 +4,6 @@ year:1995
 status:preliminary
 device:segabill
 romof:sfish2
-disk:sfish2/cdp-00386b
-disk:sfish2/cdp-00428
+cloneof:sfish2
+disk:cdp-00386b
+disk:cdp-00428

@@ -3,3 +3,4 @@ manufacturer:bootleg
 year:2007
 status:good
 romof:gnome_9
+cloneof:gnome_9

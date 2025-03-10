@@ -4,5 +4,6 @@ year:1998
 status:imperfect
 romof:chaoshea
 romof:coh3002t
-disk:chaoshea/chaosheatj
-disk:chaoshea/chaosheat
+cloneof:chaoshea
+disk:chaosheatj
+disk:chaosheat

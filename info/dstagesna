@@ -4,5 +4,6 @@ year:2006
 status:preliminary
 romof:dstagesn
 romof:kpython2
-disk:dstagesn/fdh_eaa_2006032200
-disk:dstagesn/fdh_eaa_2006072500
+cloneof:dstagesn
+disk:fdh_eaa_2006032200
+disk:fdh_eaa_2006072500

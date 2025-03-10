@@ -4,5 +4,6 @@ year:2007
 status:preliminary
 romof:ddrsn2a
 romof:kpython2
-disk:ddrsn2a/gdj_aaa_2007071100
-disk:ddrsn2a/gdj_aaa_2007100800
+cloneof:ddrsn2a
+disk:gdj_aaa_2007071100
+disk:gdj_aaa_2007100800

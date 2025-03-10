@@ -3,4 +3,5 @@ manufacturer:Midway Games
 year:2004
 status:preliminary
 romof:ultarctc
-disk:ultarctc/uarctict
+cloneof:ultarctc
+disk:uarctict

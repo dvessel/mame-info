@@ -4,4 +4,5 @@ year:1999
 status:imperfect
 romof:gtrfrks
 romof:sys573
-disk:gtrfrks/886__d02
+cloneof:gtrfrks
+disk:886__d02

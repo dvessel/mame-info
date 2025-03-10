@@ -4,3 +4,4 @@ year:1980
 status:good
 device:dg640
 romof:pipbug
+cloneof:pipbug

@@ -4,3 +4,4 @@ year:1989
 status:imperfect
 device:adbmodem
 romof:mac2fdhd
+cloneof:mac2fdhd

@@ -5,3 +5,4 @@ status:good
 device:microtan_kbd_mt009
 device:tanbus_tanex
 romof:mt65
+cloneof:mt65

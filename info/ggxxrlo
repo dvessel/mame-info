@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:ggxxrl
 romof:naomigd
-disk:ggxxrl/gdl-0019
-disk:ggxxrl/gdl-0019a
+cloneof:ggxxrl
+disk:gdl-0019
+disk:gdl-0019a

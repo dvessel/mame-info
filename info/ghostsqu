@@ -6,4 +6,4 @@ device:jvs13551
 device:segadimm
 device:seganetw
 romof:chihiro
-disk:ghostsqu/gdx-0012a
+disk:gdx-0012a

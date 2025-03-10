@@ -3,3 +3,4 @@ manufacturer:Texas Instruments
 year:1984
 status:imperfect
 romof:snmath
+cloneof:snmath

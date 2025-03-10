@@ -4,5 +4,6 @@ year:2002
 status:preliminary
 romof:netchu02c
 romof:sys246
-disk:netchu02c/npy1cd0b
-disk:netchu02c/npy1cd0c
+cloneof:netchu02c
+disk:npy1cd0b
+disk:npy1cd0c

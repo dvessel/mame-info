@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:wangmid2
 romof:chihiro
-disk:wangmid2/gdx-0015
-disk:wangmid2/gdx-0016a
+cloneof:wangmid2
+disk:gdx-0015
+disk:gdx-0016a

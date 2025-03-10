@@ -6,3 +6,4 @@ device:mie
 device:jvs13551
 romof:vstrik3c
 romof:naomi2
+cloneof:vstrik3c

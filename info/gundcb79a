@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:gundcb79
 romof:chihiro
-disk:gundcb79/cdv-10024b
-disk:gundcb79/cdv-10010
+cloneof:gundcb79
+disk:cdv-10024b
+disk:cdv-10010

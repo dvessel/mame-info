@@ -3,3 +3,4 @@ manufacturer:APF Electronics Inc.
 year:1979
 status:good
 romof:apfm1000
+cloneof:apfm1000

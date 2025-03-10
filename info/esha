@@ -4,4 +4,5 @@ year:1983
 status:preliminary
 device:ldv1000
 romof:esh
-disk:esh/esh_ver2_en
+cloneof:esh
+disk:esh_ver2_en

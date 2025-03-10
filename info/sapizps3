@@ -3,3 +3,4 @@ manufacturer:Tesla
 year:1985
 status:preliminary
 romof:sapi1
+cloneof:sapi1

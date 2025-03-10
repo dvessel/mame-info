@@ -3,3 +3,4 @@ manufacturer:Ensoniq
 year:1991
 status:preliminary
 romof:sd1
+cloneof:sd1

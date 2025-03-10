@@ -3,3 +3,4 @@ manufacturer:bootleg (Gaelco / Ervisa)
 year:1991
 status:preliminary
 romof:blktiger
+cloneof:blktiger

@@ -7,5 +7,6 @@ device:segadimm
 device:seganetw
 romof:vcop3
 romof:chihiro
-disk:vcop3/gdx-0003a
-disk:vcop3/gdx-0003b
+cloneof:vcop3
+disk:gdx-0003a
+disk:gdx-0003b

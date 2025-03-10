@@ -4,3 +4,4 @@ year:1986
 status:imperfect
 device:m68705p5
 romof:empcity
+cloneof:empcity

@@ -4,5 +4,6 @@ year:2000
 status:preliminary
 romof:code1d
 romof:kviper
-disk:code1d/922b02
-disk:code1d/922d02
+cloneof:code1d
+disk:922b02
+disk:922d02

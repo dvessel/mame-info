@@ -5,3 +5,4 @@ status:preliminary
 device:kb_pcat101
 device:ps2_keybc
 romof:rpc600
+cloneof:rpc600

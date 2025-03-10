@@ -4,3 +4,4 @@ year:199?
 status:preliminary
 device:ym2413
 romof:mv1cpc
+cloneof:mv1cpc

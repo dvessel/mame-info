@@ -5,3 +5,4 @@ status:imperfect
 device:kb_ms_natural
 device:ps2_keybc
 romof:indy_4610
+cloneof:indy_4610

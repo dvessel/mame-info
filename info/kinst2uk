@@ -3,4 +3,5 @@ manufacturer:Rare (Midway license)
 year:1996
 status:good
 romof:kinst2
-disk:kinst2/kinst2
+cloneof:kinst2
+disk:kinst2

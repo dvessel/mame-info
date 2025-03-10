@@ -5,3 +5,4 @@ status:good
 device:pc1512kb
 device:isa_hdc
 romof:pc1512
+cloneof:pc1512

@@ -4,5 +4,6 @@ year:2005
 status:preliminary
 romof:drmnv2j
 romof:kpython2
-disk:drmnv2j/f02_jaa_2005101600
-disk:drmnv2j/f02_jaa_2006011201
+cloneof:drmnv2j
+disk:f02_jaa_2005101600
+disk:f02_jaa_2006011201

@@ -6,6 +6,6 @@ device:jvs13551
 device:segadimm
 device:seganetw
 romof:chihiro
-disk:qofd3/cdv-10026d
-disk:qofd3/cdp-10062
-disk:qofd3/cdv-10028
+disk:cdv-10026d
+disk:cdp-10062
+disk:cdv-10028

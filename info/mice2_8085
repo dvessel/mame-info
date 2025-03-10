@@ -3,3 +3,4 @@ manufacturer:Microtek International
 year:1987
 status:preliminary
 romof:mice2_z80
+cloneof:mice2_z80

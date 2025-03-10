@@ -4,3 +4,4 @@ year:1996
 status:good
 device:qsound_hle
 romof:spf2t
+cloneof:spf2t

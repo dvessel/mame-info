@@ -5,5 +5,5 @@ status:preliminary
 device:k573_dio
 device:k573msu
 romof:sys573
-disk:pcnfrk10m/d40aca02
-disk:pcnfrk10m/d40aaa02
+disk:d40aca02
+disk:d40aaa02

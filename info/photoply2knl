@@ -6,5 +6,6 @@ device:at_keybc
 device:kb_ms_natural
 device:clgd5446_pci
 romof:photoply2k
-disk:photoply2k/photoplay2knl
-disk:photoply2k/pp201
+cloneof:photoply2k
+disk:photoplay2knl
+disk:pp201

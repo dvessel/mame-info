@@ -4,5 +4,6 @@ year:1996
 status:imperfect
 romof:lacrazyc
 romof:konamigv
-disk:lacrazyc/gv027j1
-disk:lacrazyc/gv027-a1
+cloneof:lacrazyc
+disk:gv027j1
+disk:gv027-a1

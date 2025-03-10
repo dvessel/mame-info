@@ -4,3 +4,4 @@ year:1986
 status:preliminary
 device:bk_kmd
 romof:bk0010
+cloneof:bk0010

@@ -3,5 +3,6 @@ manufacturer:Virtual Image Productions (Sega license)
 year:1991
 status:good
 romof:timetrv
-disk:timetrv/timetrv2
-disk:timetrv/timetrv
+cloneof:timetrv
+disk:timetrv2
+disk:timetrv

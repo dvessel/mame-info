@@ -1,5 +1,15 @@
 description:Amerug (Shoei bootleg of Atari Football)
+description:Amerug (Shoei bootleg of Atari Football)
+description:Amerug (Shoei bootleg of Atari Football)
 manufacturer:Shoei
 year:1980
+year:1980
+status:good
+status:good
 status:good
 romof:atarifb
+romof:atarifb
+romof:atarifb
+cloneof:atarifb
+cloneof:atarifb
+cloneof:atarifb

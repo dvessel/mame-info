@@ -4,3 +4,4 @@ year:1996
 status:good
 device:hd44780
 romof:berl16
+cloneof:berl16

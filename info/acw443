@@ -5,3 +5,4 @@ status:preliminary
 device:saa5050
 device:bbc_tube_32016l
 romof:bbcbp
+cloneof:bbcbp

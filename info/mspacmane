@@ -3,3 +3,4 @@ manufacturer:bootleg (Elmac)
 year:1983
 status:good
 romof:mspacman
+cloneof:mspacman

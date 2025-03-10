@@ -4,3 +4,4 @@ year:1987
 status:preliminary
 device:st_kbd
 romof:st
+cloneof:st

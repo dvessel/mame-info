@@ -3,6 +3,6 @@ manufacturer:Konami
 year:1999
 status:preliminary
 romof:gq863
-disk:bmiidx/gq863-jab01
-disk:bmiidx/gq863a04
-disk:bmiidx/863hdda01
+disk:gq863-jab01
+disk:gq863a04
+disk:863hdda01

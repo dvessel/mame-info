@@ -4,5 +4,6 @@ year:2010
 status:preliminary
 romof:loveber3
 romof:segasp
-disk:loveber3/mda-c0071
-disk:loveber3/mda-c0042
+cloneof:loveber3
+disk:mda-c0071
+disk:mda-c0042

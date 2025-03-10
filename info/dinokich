@@ -4,5 +4,6 @@ year:2010
 status:preliminary
 romof:dinoki25
 romof:segasp
-disk:dinoki25/mda-c0081
-disk:dinoki25/mda-c0047
+cloneof:dinoki25
+disk:mda-c0081
+disk:mda-c0047

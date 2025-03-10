@@ -4,5 +4,6 @@ year:2000
 status:preliminary
 romof:p911
 romof:kviper
-disk:p911/a00kac02
-disk:p911/a00uad02
+cloneof:p911
+disk:a00kac02
+disk:a00uad02

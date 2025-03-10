@@ -4,3 +4,4 @@ year:1991
 status:good
 device:m68705r3
 romof:bballs
+cloneof:bballs

@@ -4,5 +4,6 @@ year:1999
 status:imperfect
 romof:spuzbobl
 romof:coh3002t
-disk:spuzbobl/spuzbobj
-disk:spuzbobl/spuzbobl
+cloneof:spuzbobl
+disk:spuzbobj
+disk:spuzbobl

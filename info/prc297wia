@@ -5,3 +5,4 @@ status:preliminary
 device:segabill
 romof:prc297wi
 romof:stvbios
+cloneof:prc297wi

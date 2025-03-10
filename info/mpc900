@@ -5,3 +5,4 @@ status:preliminary
 device:saa5050
 device:bbc_tube_65c102
 romof:bbcm
+cloneof:bbcm

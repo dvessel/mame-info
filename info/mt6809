@@ -6,3 +6,4 @@ device:microtan_kbd_mt009
 device:saa5055
 device:tanbus_ra32krom
 romof:mt65
+cloneof:mt65

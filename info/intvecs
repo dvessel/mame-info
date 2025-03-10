@@ -5,3 +5,4 @@ status:good
 device:stic
 device:intv_ecs
 romof:intv
+cloneof:intv

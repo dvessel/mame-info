@@ -3,5 +3,6 @@ manufacturer:Atari Games
 year:1998
 status:good
 romof:vaportrx
-disk:vaportrx/vaportrp
-disk:vaportrx/vaportrx
+cloneof:vaportrx
+disk:vaportrp
+disk:vaportrx

@@ -6,3 +6,4 @@ device:pc1512kb
 device:isa_hdc
 device:pc1640_iga
 romof:pc1640
+cloneof:pc1640

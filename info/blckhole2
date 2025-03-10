@@ -5,3 +5,4 @@ status:preliminary
 kind:mechanical
 device:votrsc01a
 romof:blckhole
+cloneof:blckhole

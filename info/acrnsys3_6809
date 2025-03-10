@@ -4,3 +4,4 @@ year:1980
 status:good
 device:saa5050
 romof:acrnsys3
+cloneof:acrnsys3

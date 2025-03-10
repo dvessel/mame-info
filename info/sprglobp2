@@ -3,3 +3,4 @@ manufacturer:bootleg (Elsys Software)
 year:1985
 status:preliminary
 romof:suprglob
+cloneof:suprglob

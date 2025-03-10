@@ -4,4 +4,5 @@ year:1995
 status:imperfect
 romof:quizard3
 romof:cdibios
-disk:quizard3/quizard34
+cloneof:quizard3
+disk:quizard34

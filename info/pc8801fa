@@ -5,3 +5,4 @@ status:imperfect
 device:pc80s31k
 device:ym2608
 romof:pc8801mh
+cloneof:pc8801mh

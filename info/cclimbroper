@@ -3,3 +3,4 @@ manufacturer:bootleg (Operamatic)
 year:1980
 status:good
 romof:cclimber
+cloneof:cclimber

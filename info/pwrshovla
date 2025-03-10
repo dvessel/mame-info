@@ -4,5 +4,6 @@ year:1999
 status:preliminary
 romof:pwrshovl
 romof:taitotz
-disk:pwrshovl/power shovel ver.2.07j
-disk:pwrshovl/pwrshovl
+cloneof:pwrshovl
+disk:power shovel ver.2.07j
+disk:pwrshovl

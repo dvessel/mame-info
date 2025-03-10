@@ -3,3 +3,4 @@ manufacturer:Atari
 year:1979
 status:good
 romof:atarifb
+cloneof:atarifb

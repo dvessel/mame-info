@@ -1,7 +1,24 @@
-description:486 motherboards using the ALi 1487/1489 chipset
+description:486 motherboards using the ALi 1487/1489 chipset 486 motherboards using the ALi 1487/1489 chipset 486 motherboards using the ALi 1487/1489 chipset
+description:486 motherboards using the ALi 1487/1489 chipset 486 motherboards using the ALi 1487/1489 chipset 486 motherboards using the ALi 1487/1489 chipset
+description:486 motherboards using the ALi 1487/1489 chipset 486 motherboards using the ALi 1487/1489 chipset 486 motherboards using the ALi 1487/1489 chipset
+year:199?
+year:199?
 year:199?
 status:preliminary
+status:preliminary
+status:preliminary
+device:at_keybc
+device:at_keybc
 device:at_keybc
 device:et4000
+device:et4000
+device:et4000
+device:kb_ms_natural
+device:kb_ms_natural
 device:kb_ms_natural
 romof:ibm5170
+romof:ibm5170
+romof:ibm5170
+cloneof:ibm5170
+cloneof:ibm5170
+cloneof:ibm5170

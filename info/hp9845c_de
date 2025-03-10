@@ -4,3 +4,4 @@ year:1980
 status:good
 device:hp9845_prt
 romof:hp9845c
+cloneof:hp9845c

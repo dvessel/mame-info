@@ -4,5 +4,6 @@ year:2000
 status:imperfect
 romof:psyvaria
 romof:coh3002t
-disk:psyvaria/psyvarij
-disk:psyvaria/psyvaria
+cloneof:psyvaria
+disk:psyvarij
+disk:psyvaria

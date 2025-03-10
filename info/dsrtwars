@@ -3,3 +3,4 @@ manufacturer:bootleg (Andra S.A.)
 year:1981
 status:preliminary
 romof:bzone
+cloneof:bzone

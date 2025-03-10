@@ -4,4 +4,5 @@ year:1999
 status:imperfect
 romof:hypbbc2p
 romof:sys573
-disk:hypbbc2p/908a02
+cloneof:hypbbc2p
+disk:908a02

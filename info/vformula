@@ -5,3 +5,4 @@ status:imperfect
 device:model1io
 device:m1comm
 romof:vr
+cloneof:vr

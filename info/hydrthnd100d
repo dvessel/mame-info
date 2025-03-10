@@ -4,5 +4,6 @@ year:1999
 status:preliminary
 device:virge_pci
 romof:hydrthnd
-disk:hydrthnd/hydro_100d
-disk:hydrthnd/hydro
+cloneof:hydrthnd
+disk:hydro_100d
+disk:hydro

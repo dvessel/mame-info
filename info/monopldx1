@@ -4,3 +4,4 @@ year:1995
 status:preliminary
 device:ym2413
 romof:monopldx
+cloneof:monopldx

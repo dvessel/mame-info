@@ -3,3 +3,4 @@ manufacturer:bootleg (Karateco)
 year:1981
 status:good
 romof:brdrline
+cloneof:brdrline

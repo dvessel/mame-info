@@ -5,4 +5,4 @@ status:preliminary
 device:k573_dio
 device:k573mcr
 romof:sys573
-disk:ddr4mps/a34jba02
+disk:a34jba02

@@ -3,5 +3,6 @@ manufacturer:Capcom
 year:1998
 status:good
 romof:jojo
-disk:jojo/cap-jjk000
-disk:jojo/cap-jjk-3
+cloneof:jojo
+disk:cap-jjk000
+disk:cap-jjk-3

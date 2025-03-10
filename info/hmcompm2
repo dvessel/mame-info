@@ -3,4 +3,5 @@ manufacturer:Konami
 year:2000
 status:imperfect
 romof:bmcompm2
-disk:bmcompm2/988jaa11
+cloneof:bmcompm2
+disk:988jaa11

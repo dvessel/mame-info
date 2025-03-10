@@ -3,4 +3,5 @@ manufacturer:Atari Games
 year:1995
 status:good
 romof:area51
-disk:area51/area51
+cloneof:area51
+disk:area51

@@ -7,5 +7,6 @@ device:jvs13551
 device:segadimm
 romof:puyofev
 romof:naomigd
-disk:puyofev/gds-0031
-disk:puyofev/gds-0034
+cloneof:puyofev
+disk:gds-0031
+disk:gds-0034

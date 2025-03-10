@@ -1,8 +1,27 @@
-description:AM100
+description:AM100 AM100 AM100
+description:AM100 AM100 AM100
+description:AM100 AM100 AM100
+manufacturer:ASEM S.p.A.
+manufacturer:ASEM S.p.A.
 manufacturer:ASEM S.p.A.
 year:198?
+year:198?
+year:198?
+status:good
+status:good
 status:good
 device:votrsc01a
+device:votrsc01a
+device:votrsc01a
+device:a2diskiing
+device:a2diskiing
 device:a2diskiing
 device:d2fdc
+device:d2fdc
+device:d2fdc
 romof:apple2
+romof:apple2
+romof:apple2
+cloneof:apple2
+cloneof:apple2
+cloneof:apple2

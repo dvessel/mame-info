@@ -6,3 +6,4 @@ device:mie
 device:jvs13551
 romof:pstone2
 romof:naomi
+cloneof:pstone2

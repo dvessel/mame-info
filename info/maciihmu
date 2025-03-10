@@ -5,3 +5,4 @@ status:imperfect
 device:nb_mdc824
 device:adbmodem
 romof:macii
+cloneof:macii

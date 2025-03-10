@@ -3,4 +3,5 @@ manufacturer:Konami
 year:1998
 status:imperfect
 romof:bm2ndmix
-disk:bm2ndmix/853jaa11
+cloneof:bm2ndmix
+disk:853jaa11
