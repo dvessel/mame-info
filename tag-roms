@@ -26,7 +26,7 @@ function main {
 
   local current{,file,info}
 
-  for currentfile in $scandir/*.(zip|7z|chd)(N); do
+  for currentfile in $scandir/*.(zip|7z)(N); do
 
     current=$currentfile:t:r
     currentinfo=$infodir/$current
@@ -54,6 +54,7 @@ function main {
 
     local settags=() ftags=(
       "MAME Incomplete"
+      "MAME Imperfect"
       "MAME Preliminary"
       "MAME BIOS"
       "MAME Device"
@@ -62,7 +63,7 @@ function main {
 
     case $workstatus in
       good)                                     ;;
-      imperfect)                                ;;
+      imperfect)    settags+="MAME Imperfect"   ;;
       preliminary)  settags+="MAME Preliminary" ;;
     esac
 
@@ -128,7 +129,6 @@ function main {
 function set-tags {
   local IFS=$'\n'
   typeset -gaU settags ftags
-  typeset -aU currenttags
 
   currenttags=( `tag -gN $currentfile` )
   filetags=( ${currenttags:*ftags} )
