@@ -1,12 +1,6 @@
-description:Ameri Darts (set 3) Ameri Darts (set 3)
-description:Ameri Darts (set 3) Ameri Darts (set 3)
-manufacturer:Ameri
+description:Ameri Darts (set 3)
 manufacturer:Ameri
 year:1989
-year:1989
-status:good
 status:good
 romof:amerdart
-romof:amerdart
-cloneof:amerdart
 cloneof:amerdart

@@ -6,3 +6,4 @@ device:saa5050
 device:bbc_tube_80286
 romof:bbcbp
 cloneof:bbcbp
+sampleof:bbc

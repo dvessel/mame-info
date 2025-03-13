@@ -1,10 +1,6 @@
-description:Aliens (Japan set 2) Aliens (Japan set 2)
-description:Aliens (Japan set 2) Aliens (Japan set 2)
-manufacturer:Konami
+description:Aliens (Japan set 2)
 manufacturer:Konami
 year:1990
-year:1990
 status:good
-status:good
-cloneof:aliens
+romof:aliens
 cloneof:aliens

@@ -1,10 +1,6 @@
-description:Amidar (Olympia) Amidar (Olympia)
-description:Amidar (Olympia) Amidar (Olympia)
-manufacturer:Konami (Olympia license)
+description:Amidar (Olympia)
 manufacturer:Konami (Olympia license)
 year:1982
-year:1982
 status:good
-status:good
-cloneof:amidar
+romof:amidar
 cloneof:amidar

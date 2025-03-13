@@ -6,3 +6,4 @@ kind:mechanical
 device:bsmt2000
 romof:mav_402
 cloneof:mav_402
+sampleof:genpin

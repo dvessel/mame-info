@@ -6,3 +6,4 @@ kind:mechanical
 device:votrsc01
 romof:marsp
 cloneof:marsp
+sampleof:genpin

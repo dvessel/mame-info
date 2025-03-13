@@ -6,3 +6,4 @@ kind:mechanical
 device:bsmt2000
 romof:rab_320
 cloneof:rab_320
+sampleof:genpin

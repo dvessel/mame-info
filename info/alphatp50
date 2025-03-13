@@ -1,32 +1,8 @@
-description:Alphatronic P50 Alphatronic P50 Alphatronic P50 Alphatronic P50
-description:Alphatronic P50 Alphatronic P50 Alphatronic P50 Alphatronic P50
-description:Alphatronic P50 Alphatronic P50 Alphatronic P50 Alphatronic P50
-description:Alphatronic P50 Alphatronic P50 Alphatronic P50 Alphatronic P50
-manufacturer:Triumph-Adler
-manufacturer:Triumph-Adler
-manufacturer:Triumph-Adler
+description:Alphatronic P50
 manufacturer:Triumph-Adler
 year:1985
-year:1985
-year:1985
-year:1985
-status:imperfect
-status:imperfect
-status:imperfect
 status:imperfect
 device:cga
-device:cga
-device:cga
-device:cga
-device:kb_pcxt83
-device:kb_pcxt83
-device:kb_pcxt83
 device:kb_pcxt83
 romof:ibm5150
-romof:ibm5150
-romof:ibm5150
-romof:ibm5150
-cloneof:ibm5150
-cloneof:ibm5150
-cloneof:ibm5150
 cloneof:ibm5150

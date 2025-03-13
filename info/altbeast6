@@ -1,15 +1,6 @@
-description:Altered Beast (set 6) (8751 317-0076) Altered Beast (set 6) (8751 317-0076) Altered Beast (set 6) (8751 317-0076)
-description:Altered Beast (set 6) (8751 317-0076) Altered Beast (set 6) (8751 317-0076) Altered Beast (set 6) (8751 317-0076)
-description:Altered Beast (set 6) (8751 317-0076) Altered Beast (set 6) (8751 317-0076) Altered Beast (set 6) (8751 317-0076)
-manufacturer:Sega
-manufacturer:Sega
+description:Altered Beast (set 6) (8751 317-0076)
 manufacturer:Sega
 year:1988
-year:1988
-year:1988
 status:good
-status:good
-status:good
-cloneof:altbeast
-cloneof:altbeast
+romof:altbeast
 cloneof:altbeast

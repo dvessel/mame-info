@@ -6,3 +6,4 @@ device:saa5050
 device:bbc_acorn8271
 romof:bbcb
 cloneof:bbcb
+sampleof:bbc

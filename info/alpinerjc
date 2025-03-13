@@ -3,4 +3,5 @@ manufacturer:Namco
 year:1994
 status:imperfect
 device:namcoc71
+romof:alpinerd
 cloneof:alpinerd

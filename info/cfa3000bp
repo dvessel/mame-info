@@ -5,3 +5,4 @@ status:preliminary
 device:saa5050
 romof:bbcbp
 cloneof:bbcbp
+sampleof:bbc

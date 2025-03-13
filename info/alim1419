@@ -1,24 +1,8 @@
-description:386 motherboards using the ALi M1419 chipset 386 motherboards using the ALi M1419 chipset 386 motherboards using the ALi M1419 chipset
-description:386 motherboards using the ALi M1419 chipset 386 motherboards using the ALi M1419 chipset 386 motherboards using the ALi M1419 chipset
-description:386 motherboards using the ALi M1419 chipset 386 motherboards using the ALi M1419 chipset 386 motherboards using the ALi M1419 chipset
-year:199?
-year:199?
+description:386 motherboards using the ALi M1419 chipset
 year:199?
 status:preliminary
-status:preliminary
-status:preliminary
-device:at_keybc
-device:at_keybc
 device:at_keybc
 device:et4000
-device:et4000
-device:et4000
-device:kb_ms_natural
-device:kb_ms_natural
 device:kb_ms_natural
 romof:ibm5170
-romof:ibm5170
-romof:ibm5170
-cloneof:ibm5170
-cloneof:ibm5170
 cloneof:ibm5170

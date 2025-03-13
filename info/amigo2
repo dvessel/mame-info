@@ -2,4 +2,5 @@ description:Amigo (bootleg of Amidar, set 2)
 manufacturer:bootleg
 year:1982
 status:imperfect
+romof:amidar
 cloneof:amidar

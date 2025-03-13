@@ -1,13 +1,8 @@
 description:Amazon Hunt III (rev. 1, French)
 manufacturer:Gottlieb
-manufacturer:Gottlieb
 year:1987
-status:preliminary
 status:preliminary
 kind:mechanical
 romof:amazonh3
-romof:amazonh3
-romof:amazonh3
 cloneof:amazonh3
-cloneof:amazonh3
-cloneof:amazonh3
+sampleof:genpin

@@ -6,3 +6,4 @@ kind:mechanical
 device:bsmt2000
 romof:wwfr_106
 cloneof:wwfr_106
+sampleof:genpin

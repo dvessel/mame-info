@@ -1,18 +1,9 @@
-description:Alien Front (Rev A) Alien Front (Rev A)
-description:Alien Front (Rev A) Alien Front (Rev A)
-manufacturer:Sega
+description:Alien Front (Rev A)
 manufacturer:Sega
 year:2001
-year:2001
-status:preliminary
 status:preliminary
 device:mie
-device:mie
-device:jvs13551
 device:jvs13551
 romof:alienfnt
-romof:alienfnt
 romof:naomi
-romof:naomi
-cloneof:alienfnt
 cloneof:alienfnt

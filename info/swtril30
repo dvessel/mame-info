@@ -6,3 +6,4 @@ kind:mechanical
 device:bsmt2000
 romof:swtril43
 cloneof:swtril43
+sampleof:genpin

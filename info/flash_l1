@@ -5,3 +5,4 @@ status:preliminary
 kind:mechanical
 romof:flash_l2
 cloneof:flash_l2
+sampleof:genpin

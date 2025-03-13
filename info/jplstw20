@@ -6,3 +6,4 @@ kind:mechanical
 device:bsmt2000
 romof:jplstw22
 cloneof:jplstw22
+sampleof:genpin

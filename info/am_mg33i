@@ -1,15 +1,6 @@
-description:Multi Game III (S.Ita 3.3) Multi Game III (S.Ita 3.3) Multi Game III (S.Ita 3.3)
-description:Multi Game III (S.Ita 3.3) Multi Game III (S.Ita 3.3) Multi Game III (S.Ita 3.3)
-description:Multi Game III (S.Ita 3.3) Multi Game III (S.Ita 3.3) Multi Game III (S.Ita 3.3)
-manufacturer:Amatic Trading GmbH
-manufacturer:Amatic Trading GmbH
+description:Multi Game III (S.Ita 3.3)
 manufacturer:Amatic Trading GmbH
 year:2000
-year:2000
-year:2000
 status:preliminary
-status:preliminary
-status:preliminary
-cloneof:am_mg35i
-cloneof:am_mg35i
+romof:am_mg35i
 cloneof:am_mg35i

@@ -6,3 +6,4 @@ kind:mechanical
 device:votrsc01a
 romof:ladylukt
 cloneof:ladylukt
+sampleof:genpin

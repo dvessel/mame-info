@@ -1,10 +1,6 @@
-description:Amigo (bootleg of Amidar, set 1) Amigo (bootleg of Amidar, set 1)
-description:Amigo (bootleg of Amidar, set 1) Amigo (bootleg of Amidar, set 1)
-manufacturer:bootleg
+description:Amigo (bootleg of Amidar, set 1)
 manufacturer:bootleg
 year:1982
-year:1982
 status:good
-status:good
-cloneof:amidar
+romof:amidar
 cloneof:amidar

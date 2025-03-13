@@ -7,3 +7,4 @@ device:bbc_acorn8271
 device:bbc_tube_zep100
 romof:bbcb
 cloneof:bbcb
+sampleof:bbc

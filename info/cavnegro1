@@ -6,3 +6,4 @@ kind:mechanical
 device:votrsc01a
 romof:cavnegro
 cloneof:cavnegro
+sampleof:genpin

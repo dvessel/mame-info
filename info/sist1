@@ -7,3 +7,4 @@ device:bbc_acorn8271
 device:bbc_cisco
 romof:bbcb
 cloneof:bbcb
+sampleof:bbc

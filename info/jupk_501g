@@ -6,3 +6,4 @@ kind:mechanical
 device:bsmt2000
 romof:jupk_513
 cloneof:jupk_513
+sampleof:genpin
