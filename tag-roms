@@ -1,15 +1,53 @@
 #!/usr/bin/env zsh
 
+function help {
+cat <<EOF
+
+Usage: $__self:t [options] [directory]
+Scan ROMs and set tags based on MAME metadata.
+
+Options:
+  -v, --verify-dependencies Verify dependencies (BIOS, devices, etc.) are present
+                            and prefix with '+' if it exists, '-' if it doesn't
+                            'MAME Incomplete' is added if any are missing.
+  -r, --reset-tags          Remove existing tags before applying new ones
+                            Usually unnecessary unless you want to clear all tags
+  -d, --dry-run             Show actions without modifying tags
+  -h, --help                Show this help message
+
+Directory:
+  Path to scan for ROMs (default: MAME's configured rompath if available)
+
+Dependencies:
+  Requires the 'tag' utility (install with \`brew install tag\`)
+
+Examples:
+  $__self:t /path/to/roms     # Scan ROMs in specified directory
+  $__self:t -d                # Dry-run using default directory
+  $__self:t -vr roms          # Verify dependencies and reset tags
+
+EOF
+}
 
 function main {
-  zparseopts -D -E -F - {d,-dry-run}=dryrun || return 1
+  zparseopts -D -E -F - \
+    {v,-verify-dependencies}=verifydependencies \
+    {r,-reset-tags}=resettags \
+    {d,-dry-run}=dryrun \
+    {h,-help}=help || {
+      help; return 1
+    }
 
-  if test -z $1 && type mame >/dev/null; then
+  if (( #help )); then
+    help; return
+  fi
+
+  if ! (( #1 )) && type mame >/dev/null; then
     scandir=`eval print $( mame -showconfig | awk '$1=="rompath" { $1=""; print $0 }')`
   fi
   scandir=${scandir:-${1:a}}
 
-  if [[ -z $scandir ]]; then
+  if ! (( #scandir )); then
     print "No scan directory specified." >&2
     return 1
   fi
@@ -17,9 +55,13 @@ function main {
     print "Scan directory does not exist:\n$scandir"  >&2
     return 1
   fi
+  if ! (( #dryrun )) && ! type tag &>/dev/null; then
+    print "tag not installed. install through \`brew install tag\` or visit https://github.com/jdberry/tag" >&2
+    return 1
+  fi
 
-  scanlog=$__selfdir/scan.log
-  infodir=$__selfdir/info
+  scanlog=$__self:h/scan.log
+  infodir=$__self:h/info
   mkdir -p $scanlog:h $infodir
 
   self-log info "initiating scan:$scandir"
@@ -30,135 +72,162 @@ function main {
 
     current=$currentfile:t:r
     currentinfo=$infodir/$current
+    __current=$current
 
     if [[ ! -s $currentinfo ]]; then
       self-log warning "$currentfile:t not recognized."
       continue
     fi
 
-    unset {description,manufacturer,year,workstatus,kind,parent,sample,devices,romof,disks}
+    unset description manufacturer year workstatus kind parent sample devices romof disks
+    typeset -a kind devices romof parent sample disks
 
     while read -r info; do
       case $info in
         description:*)  description=${info#*:}  ;;
         manufacturer:*) manufacturer=${info#*:} ;;
         year:*)         year=${info#*:}         ;;
-        status:*)       workstatus=${info#*:}   ;;
-        kind:*)         kind=${info#*:}         ;;
-        cloneof:*)      parent=${info#*:}       ;;
-        sampleof:*)     sample=${info#*:}       ;;
-        device:*)       devices+=( ${info#*:} ) ;;
-        romof:*)        romof+=( ${info#*:} )   ;;
-        disk:*)         disks+=( ${info#*:} )   ;;
+        status:*)       workstatus=${info#*:}   ;; # good|imperfect|preliminary
+        kind:*)         kind+=(${info#*:})      ;; # bios|device|mechanical,coinop
+        device:*)       devices+=(${info#*:})   ;;
+        romof:*)        romof+=(${info#*:})     ;; # bios,parent
+        cloneof:*)      parent=(${info#*:})     ;;
+        sampleof:*)     sample=(${info#*:})     ;;
+        disk:*)         disks+=(${info#*:})     ;;
       esac
     done < <( cat $currentinfo )
 
-    local settags=() ftags=(
-      "MAME Incomplete"
+    typeset -U __tags=()
+
+    tag-set status $workstatus
+    tag-set kind $kind
+    tag-set-dependencies device $devices
+    tag-set-dependencies bios ${romof:|parent}
+    tag-set-dependencies parent $parent
+    tag-set-dependencies disk $disks
+    tag-set-dependencies sample $sample
+
+    if (( #__tags )); then
+      (( #dryrun )) || tag-apply
+      printf "%-20s %s\n" $currentfile:t "`present-tags $__tags`"
+    fi
+  done
+}
+
+function tag-set {
+  local key=$1 value
+  shift
+
+  if [[ ! -v __ftags ]]; then
+    typeset -gU __ftags=(
       "MAME Imperfect"
       "MAME Preliminary"
       "MAME BIOS"
       "MAME Device"
       "MAME Mechanical"
     )
+  fi
 
-    case $workstatus in
-      good)                                     ;;
-      imperfect)    settags+="MAME Imperfect"   ;;
-      preliminary)  settags+="MAME Preliminary" ;;
-    esac
-
-    case $kind in
-      bios)         settags+="MAME BIOS"        ;;
-      device)       settags+="MAME Device"      ;;
-      mechanical)   settags+="MAME Mechanical"  ;;
-    esac
-
-    if [[ -n $sample ]]; then
-      settags+="sample:$sample"
-    fi
-
-    for _type in device romof disk; do
-      case $_type in
-        device) dependencies=( $devices ) ;;
-        romof)  dependencies=( $romof )   ;;
-        disk)   dependencies=( $disks )   ;;
-      esac
-      for dependency in $dependencies; do
-        case $_type in
-          device)
-            type=device
-            __depexists=( $scandir/$dependency.(zip|7z)(N) )
-          ;;
-          romof)
-            # romof is either a parent rom or bios.
-            if [[ $dependency == $parent ]]; then
-              type=parent
-            else
-              type=bios
-            fi
-            __depexists=( $scandir/$dependency.(zip|7z)(N) )
-          ;;
-          disk)
-            type=disk
-            # check both parent and clone if that relationship exists.
-            __depexists=( $scandir/{$parent,$current}/$dependency.chd(N) )
-            # disk names with a comma are tagged with ':comma:' instead of a literal comma.
-            # This is a limitation of the tag command. it's exceedingly rare but it's there.
-            dependency=${dependency/,/:comma:}
-          ;;
-        esac
-
-        ftags+=( +$type:$dependency -$type:$dependency )
-        if [[ ! -z $__depexists ]]; then
-          settags+="+$type:$dependency"
-        else
-          settags=( "MAME Incomplete" -$type:$dependency $settags )
-          self-log warning "[$current] \"$description\" is missing $type [$dependency]."
-        fi
-      done
-    done
-
-    if [[ -n $settags ]]; then
-      [[ -n $dryrun ]] || set-tags
-      printf "%-20s %s\n" $currentfile:t "`present-tags $settags`"
-    fi
-  done
+  for value in $@; case $key:$value in
+    status:imperfect)   __tags+="MAME Imperfect"  ;;
+    status:preliminar)  __tags+="MAME Preliminary";;
+    kind:bios)          __tags+="MAME BIOS"       ;;
+    kind:device)        __tags+="MAME Device"     ;;
+    kind:mechanical)    __tags+="MAME Mechanical" ;;
+  esac
 }
 
-# ignores tags set outside the scope of this script run.
-function set-tags {
+function tag-set-dependencies {
+  local IFS=$'\n' kind=$1; shift
+  typeset -aU exists missed dependencies=( $@ )
+
+  (( #dependencies )) || return
+
+  __ftags+=(
+    "MAME Incomplete"
+    `printf "+$kind:%s\n" $dependencies`
+    `printf "-$kind:%s\n" $dependencies`
+    `printf  "$kind:%s\n" $dependencies`
+  )
+
+  # not verified by default.
+  if ! (( #verifydependencies )); then
+    __tags+=( `printf "$kind:%s\n" $dependencies` )
+    return
+  fi
+
+  # verify existance of dependencies
+  case $kind in
+    device|bios|parent)
+      # eval to give $dependencies a chance to expand early.
+      eval "exists=( $scandir:q/(${(j[|])dependencies}).(zip|7z)(N:t:r) )"
+      missed=( ${dependencies:|exists} )
+    ;;
+    disk)
+      # check both parent and clone if that relationship exists.
+      eval "exists=( $scandir:q/($parent|$current)/(${(j[|])dependencies}).chd(N:t:r) )"
+      missed=( ${dependencies:|exists} )
+      # disk names with a comma are tagged with ':comma:' instead of a literal comma.
+      # This is a limitation of the tag command. it's exceedingly rare but it's there.
+      exists=( ${exists/,/:comma:} )
+      missed=( ${missed/,/:comma:} )
+    ;;
+    sample)
+      # sample location can vary. no existance check for now, maybe never.
+      __tags+=( `printf "$kind:%s\n" $dependencies` )
+      return
+    ;;
+  esac
+
+  if (( #exists )); then
+    __tags+=( `printf "+$kind:%s\n" $exists` )
+  fi
+  if (( #missed )); then
+    __tags=( "MAME Incomplete" `printf "-$kind:%s\n" $missed` $__tags )
+    self-log warning "[$__current] \"$description\" is missing $kind [${(j[,])missed}]."
+  fi
+}
+
+function tag-apply {
   local IFS=$'\n'
-  typeset -gaU settags ftags
+  typeset -aU currenttags filetags
 
   currenttags=( `tag -gN $currentfile` )
-  filetags=( ${currenttags:*ftags} )
+  # when resetting, use all current tags.
+  # otherwise, limit to tags set in __ftags.
+  (( #resettags )) \
+    && filetags=( $currenttags ) \
+    || filetags=( ${currenttags:*__ftags} )
+  # reset filters.
+  unset __ftags
 
-  # intersection of settags and filetags compared with settags.
-  if [[ ${settags:*filetags} != ${settags} ]]; then
+  # intersection ${__tags:*filetags} maintains order for comparison.
+  if [[ ${__tags:*filetags} != $__tags ]]; then
     tag -r ${(j[,])filetags} $currentfile
-    tag -a ${(j[,])settags} $currentfile
-    self-log info "[$current] \"$description\" was tagged [${(j[,])settags}]."
+    tag -a ${(j[,])__tags} $currentfile
+    self-log info "[$current] \"$description\" was tagged [${(j[,])__tags}]."
   fi
 }
 
 function present-tags {
-  typeset -a tags
+  typeset -aU tags
+
   for t in $@; do
     t=${t/MAME /}
     case $t in
-      Incomplete)  tags+="\033[3;31m$t\033[0m" ;;
-      Imperfect)   tags+="\033[3;35m$t\033[0m" ;;
-      Preliminary) tags+="\033[3;35m$t\033[0m" ;;
-      BIOS)        tags+="\033[0;33m$t\033[0m" ;;
-      Device)      tags+="\033[0;33m$t\033[0m" ;;
-      Mechanical)  tags+="\033[0;33m$t\033[0m" ;;
-      sample:*)    tags+="\033[0;36m${t/:*}:\033[0m${t/*:}" ;;
-      \-*)         tags+="\033[4;31m$t\033[0m" ;;
-      \+bios:*)    tags+="\033[0;33m${t/:*}:\033[0m${t/*:}" ;;
-      \+device:*)  tags+="\033[0;33m${t/:*}:\033[0m${t/*:}" ;;
-      \+parent:*)  tags+="\033[0;34m${t/:*}:\033[0m${t/*:}" ;;
-      \+disk:*)    tags+="\033[0;36m${t/:*}:\033[0m${t/*:}" ;;
+      Incomplete)     tags+="\033[3;31m$t\033[0m" ;;
+      Imperfect)      tags+="\033[3;35m$t\033[0m" ;;
+      Preliminary)    tags+="\033[3;35m$t\033[0m" ;;
+      BIOS)           tags+="\033[0;33m$t\033[0m" ;;
+      Device)         tags+="\033[0;33m$t\033[0m" ;;
+      Mechanical)     tags+="\033[0;33m$t\033[0m" ;;
+      sample:*)       tags+="\033[0;36m${t/:*}:\033[0m${t/*:}" ;;
+      \-*)            tags+="\033[4;31m$t\033[0m" ;;
+      (\+|)bios:*)    tags+="\033[0;33m${t/:*}:\033[0m${t/*:}" ;;
+      (\+|)device:*)  tags+="\033[0;33m${t/:*}:\033[0m${t/*:}" ;;
+      (\+|)parent:*)  tags+="\033[0;34m${t/:*}:\033[0m${t/*:}" ;;
+      (\+|)disk:*)    tags+="\033[0;36m${t/:*}:\033[0m${t/*:}" ;;
+      *)              tags+="\033[4;30m$t\033[0m" ;;
     esac
   done
   printf "${(j[,])tags}"
@@ -169,11 +238,6 @@ function self-log {
   printf "%s\t%s\t%s\n" "`date -u +%Y-%m-%dT%H:%M:%SZ`" $category "$@" >> $scanlog
 }
 
-if ! type tag &>/dev/null; then
-  print "tag not installed. install through \`brew install tag\` or visit https://github.com/jdberry/tag" >&2
-  return 1
-fi
-
-__selfdir=$(dirname `realpath $0`)
+__self=`realpath $0`
 
 main $@
