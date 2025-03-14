@@ -36,7 +36,7 @@ function main {
       continue
     fi
 
-    unset {description,manufacturer,year,workstatus,kind,parent,devices,romof,disks}
+    unset {description,manufacturer,year,workstatus,kind,parent,sample,devices,romof,disks}
 
     while read -r info; do
       case $info in
@@ -46,6 +46,7 @@ function main {
         status:*)       workstatus=${info#*:}   ;;
         kind:*)         kind=${info#*:}         ;;
         cloneof:*)      parent=${info#*:}       ;;
+        sampleof:*)     sample=${info#*:}       ;;
         device:*)       devices+=( ${info#*:} ) ;;
         romof:*)        romof+=( ${info#*:} )   ;;
         disk:*)         disks+=( ${info#*:} )   ;;
@@ -73,13 +74,16 @@ function main {
       mechanical)   settags+="MAME Mechanical"  ;;
     esac
 
+    if [[ -n $sample ]]; then
+      settags+="sample:$sample"
+    fi
+
     for _type in device romof disk; do
       case $_type in
         device) dependencies=( $devices ) ;;
         romof)  dependencies=( $romof )   ;;
         disk)   dependencies=( $disks )   ;;
       esac
-
       for dependency in $dependencies; do
         case $_type in
           device)
@@ -149,6 +153,7 @@ function present-tags {
       BIOS)        tags+="\033[0;33m$t\033[0m" ;;
       Device)      tags+="\033[0;33m$t\033[0m" ;;
       Mechanical)  tags+="\033[0;33m$t\033[0m" ;;
+      sample:*)    tags+="\033[0;36m${t/:*}:\033[0m${t/*:}" ;;
       \-*)         tags+="\033[4;31m$t\033[0m" ;;
       \+bios:*)    tags+="\033[0;33m${t/:*}:\033[0m${t/*:}" ;;
       \+device:*)  tags+="\033[0;33m${t/:*}:\033[0m${t/*:}" ;;
