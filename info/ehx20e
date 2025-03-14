@@ -1,7 +1,0 @@
-description:Epson HX-20 (Europe)
-manufacturer:Epson
-year:1983
-status:preliminary
-device:epson_tf20
-romof:ehx20
-cloneof:ehx20

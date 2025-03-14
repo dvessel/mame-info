@@ -1,8 +1,0 @@
-description:Corona PPC-21
-manufacturer:Corona Data Systems, Inc.
-year:198?
-status:preliminary
-device:cga
-device:kb_pcxt83
-romof:ibm5150
-cloneof:ibm5150

@@ -1,9 +1,0 @@
-description:286i
-manufacturer:Kaypro
-year:1985
-status:preliminary
-device:at_keybc
-device:cga
-device:kb_ms_natural
-romof:ibm5170
-cloneof:ibm5170
