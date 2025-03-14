@@ -2,5 +2,6 @@ description:Jumping (set 1)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:rbisland
 cloneof:rbisland

@@ -2,5 +2,6 @@ description:Punk Shot (World 2 Players)
 manufacturer:Konami
 year:1990
 status:good
+kind:coinop
 romof:punkshot
 cloneof:punkshot

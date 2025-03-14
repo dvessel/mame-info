@@ -2,4 +2,5 @@ description:Poitto! (revision D)
 manufacturer:Metro / Able Corp.
 year:1993
 status:good
+kind:coinop
 device:ym2413

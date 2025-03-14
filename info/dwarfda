@@ -2,5 +2,6 @@ description:Draw Poker III / Dwarfs Den (Card Gfx)
 manufacturer:Electro-Sport
 year:1981
 status:imperfect
+kind:coinop
 romof:dwarfd
 cloneof:dwarfd

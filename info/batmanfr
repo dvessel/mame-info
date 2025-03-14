@@ -2,5 +2,6 @@ description:Batman Forever (JUE 960507 V1.000)
 manufacturer:Acclaim
 year:1996
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

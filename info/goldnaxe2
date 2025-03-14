@@ -2,5 +2,6 @@ description:Golden Axe (set 2, US) (8751 317-0112)
 manufacturer:Sega
 year:1989
 status:good
+kind:coinop
 romof:goldnaxe
 cloneof:goldnaxe

@@ -2,5 +2,6 @@ description:Section 16 (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4s16
 cloneof:sc4s16

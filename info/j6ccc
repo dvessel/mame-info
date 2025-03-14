@@ -3,5 +3,6 @@ manufacturer:Crystal
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j6casclb
 cloneof:j6casclb

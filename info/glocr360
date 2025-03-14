@@ -2,5 +2,6 @@ description:G-LOC R360 (World)
 manufacturer:Sega
 year:1990
 status:good
+kind:coinop
 romof:gloc
 cloneof:gloc

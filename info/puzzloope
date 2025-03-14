@@ -2,6 +2,7 @@ description:Puzz Loop (Europe, v0.93)
 manufacturer:Mitchell
 year:1998
 status:imperfect
+kind:coinop
 romof:puzzloop
 romof:skns
 cloneof:puzzloop

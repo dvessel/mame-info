@@ -2,5 +2,6 @@ description:Wild Cat 3 (CMV4 hardware)
 manufacturer:E.A.I.
 year:199?
 status:preliminary
+kind:coinop
 romof:wcat3
 cloneof:wcat3

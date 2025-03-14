@@ -2,5 +2,6 @@ description:Alien Storm (US, 3 Players) (FD1094 317-0147)
 manufacturer:Sega
 year:1990
 status:good
+kind:coinop
 romof:astorm
 cloneof:astorm

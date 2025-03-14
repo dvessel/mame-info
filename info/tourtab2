@@ -2,5 +2,6 @@ description:Tournament Table (set 2)
 manufacturer:Atari
 year:1978
 status:good
+kind:coinop
 romof:tourtabl
 cloneof:tourtabl

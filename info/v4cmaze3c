@@ -2,6 +2,7 @@ description:The Crystal Maze Team Challenge (v0.6) (MPU4 Video)
 manufacturer:Barcrest
 year:1994
 status:preliminary
+kind:coinop
 romof:v4cmaze3
 romof:v4bios
 cloneof:v4cmaze3

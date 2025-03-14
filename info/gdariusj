@@ -2,6 +2,7 @@ description:G-Darius (Ver 2.01J)
 manufacturer:Taito
 year:1997
 status:imperfect
+kind:coinop
 romof:gdarius2
 romof:coh1000t
 cloneof:gdarius2

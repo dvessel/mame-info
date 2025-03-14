@@ -2,6 +2,7 @@ description:Street Fighter III 2nd Impact: Giant Attack (Asia 970930, NO CD)
 manufacturer:Capcom
 year:1997
 status:good
+kind:coinop
 romof:sfiii2
 cloneof:sfiii2
 disk:cap-3ga000

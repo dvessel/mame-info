@@ -2,5 +2,6 @@ description:US AAF Mustang (TAB Austria bootleg)
 manufacturer:bootleg (TAB Austria)
 year:1990
 status:good
+kind:coinop
 romof:mustang
 cloneof:mustang

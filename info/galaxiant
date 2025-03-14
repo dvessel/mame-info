@@ -2,5 +2,6 @@ description:Galaxian (Taito)
 manufacturer:Namco (Taito license)
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

@@ -2,6 +2,7 @@ description:Versus Net Soccer (ver UAB)
 manufacturer:Konami
 year:1996
 status:imperfect
+kind:coinop
 romof:vsnetscr
 romof:konamigx
 cloneof:vsnetscr

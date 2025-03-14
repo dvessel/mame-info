@@ -2,6 +2,7 @@ description:Knights of Valour Super Heroes / Sanguo Zhan Ji Fengyun Zaiqi / Sang
 manufacturer:IGS
 year:1999
 status:imperfect
+kind:coinop
 romof:kovsh
 romof:pgm
 cloneof:kovsh

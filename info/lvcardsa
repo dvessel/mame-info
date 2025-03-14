@@ -2,5 +2,6 @@ description:Lovely Cards (encrypted)
 manufacturer:Tehkan
 year:1985
 status:good
+kind:coinop
 romof:lvcards
 cloneof:lvcards

@@ -2,6 +2,7 @@ description:Hyper Street Fighter II: The Anniversary Edition (Japan 040123)
 manufacturer:Capcom
 year:2004
 status:good
+kind:coinop
 device:qsound_hle
 romof:hsf2
 cloneof:hsf2

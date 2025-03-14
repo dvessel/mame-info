@@ -2,5 +2,6 @@ description:Bay Route (set 1, US) (unprotected)
 manufacturer:Sunsoft / Sega
 year:1989
 status:preliminary
+kind:coinop
 romof:bayroute
 cloneof:bayroute

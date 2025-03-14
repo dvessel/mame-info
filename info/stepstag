@@ -2,5 +2,6 @@ description:Stepping Stage Special
 manufacturer:Jaleco
 year:1999
 status:preliminary
+kind:coinop
 device:jaleco_vj_pc
 device:virgedx_pci

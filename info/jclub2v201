@@ -2,5 +2,6 @@ description:Jockey Club II (v2.01X, newer hardware)
 manufacturer:Seta
 year:1996
 status:imperfect
+kind:coinop
 romof:jclub2v112
 cloneof:jclub2v112

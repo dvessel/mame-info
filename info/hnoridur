@@ -2,6 +2,7 @@ description:Hana Oriduru (Japan)
 manufacturer:Dynax
 year:1989
 status:good
+kind:coinop
 device:ym2413
 romof:hjingi
 cloneof:hjingi

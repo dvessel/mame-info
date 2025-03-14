@@ -2,5 +2,6 @@ description:Bugs Fever (Version 1.6R CGA)
 manufacturer:Amcoe
 year:2006
 status:good
+kind:coinop
 romof:bugfever
 cloneof:bugfever

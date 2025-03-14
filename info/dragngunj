@@ -2,5 +2,6 @@ description:Dragon Gun (Japan)
 manufacturer:Data East Corporation
 year:1993
 status:imperfect
+kind:coinop
 romof:dragngun
 cloneof:dragngun

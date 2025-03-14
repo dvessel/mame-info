@@ -2,6 +2,7 @@ description:beatmania IIDX Substream (983-AA JAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:bmiidxs
 romof:gq863
 cloneof:bmiidxs

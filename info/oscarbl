@@ -2,5 +2,6 @@ description:Psycho-Nics Oscar (World revision 0, bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:oscar
 cloneof:oscar

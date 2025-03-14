@@ -2,5 +2,6 @@ description:Heavy Unit (Japan, older)
 manufacturer:Kaneko / Taito
 year:1988
 status:good
+kind:coinop
 romof:hvyunit
 cloneof:hvyunit

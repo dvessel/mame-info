@@ -2,5 +2,6 @@ description:Soreyuke Anpanman Crayon Kids (J 001026 V1.000)
 manufacturer:Sega
 year:2000
 status:preliminary
+kind:coinop
 device:segabill
 romof:stvbios

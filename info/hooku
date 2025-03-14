@@ -2,5 +2,6 @@ description:Hook (US)
 manufacturer:Irem America
 year:1992
 status:good
+kind:coinop
 romof:hook
 cloneof:hook

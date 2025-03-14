@@ -3,5 +3,6 @@ manufacturer:hack
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4goodtm
 cloneof:m4goodtm

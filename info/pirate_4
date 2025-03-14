@@ -2,5 +2,6 @@ description:Pirate (070412 Russia)
 manufacturer:Igrosoft
 year:2005
 status:good
+kind:coinop
 romof:pirate_3
 cloneof:pirate_3

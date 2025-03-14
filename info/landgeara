@@ -2,5 +2,6 @@ description:Landing Gear (Ver 3.1 O)
 manufacturer:Taito
 year:1995
 status:imperfect
+kind:coinop
 romof:landgear
 cloneof:landgear

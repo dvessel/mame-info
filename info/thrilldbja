@@ -2,5 +2,6 @@ description:Thrill Drive (JAB)
 manufacturer:Konami
 year:1998
 status:preliminary
+kind:coinop
 romof:thrilld
 cloneof:thrilld

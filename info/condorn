@@ -2,5 +2,6 @@ description:Condor (S C Novar bootleg of Phoenix)
 manufacturer:bootleg (S C Novar)
 year:1981
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

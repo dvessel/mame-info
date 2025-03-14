@@ -2,5 +2,6 @@ description:Super Heli (bootleg of Super Cobra)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:scobra
 cloneof:scobra

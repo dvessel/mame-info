@@ -2,6 +2,7 @@ description:Time Soldiers (US Rev 1)
 manufacturer:Alpha Denshi Co. (SNK/Romstar license)
 year:1987
 status:good
+kind:coinop
 device:ym2413
 romof:timesold
 cloneof:timesold

@@ -2,5 +2,6 @@ description:Ocean Paradise (V101US)
 manufacturer:IGS
 year:1999
 status:imperfect
+kind:coinop
 romof:oceanpar
 cloneof:oceanpar

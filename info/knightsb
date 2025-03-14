@@ -2,5 +2,6 @@ description:Knights of the Round (bootleg with 2xMSM5205, set 1)
 manufacturer:bootleg
 year:1991
 status:good
+kind:coinop
 romof:knights
 cloneof:knights

@@ -2,5 +2,6 @@ description:Psycho-Nics Oscar (US)
 manufacturer:Data East USA
 year:1988
 status:good
+kind:coinop
 romof:oscar
 cloneof:oscar

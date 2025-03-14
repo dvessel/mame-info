@@ -2,5 +2,6 @@ description:Cook Race
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:btime
 cloneof:btime

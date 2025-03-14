@@ -2,5 +2,6 @@ description:TeddyBoy Blues (315-5115, Old Ver.)
 manufacturer:Sega
 year:1985
 status:good
+kind:coinop
 romof:teddybb
 cloneof:teddybb

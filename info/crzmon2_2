@@ -2,5 +2,6 @@ description:Crazy Monkey 2 (100311 Lottery)
 manufacturer:Igrosoft
 year:2010
 status:preliminary
+kind:coinop
 romof:crzmon2
 cloneof:crzmon2

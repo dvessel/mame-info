@@ -2,6 +2,7 @@ description:Mambo A Go-Go (GQA40 VER. JRB, Rental)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:mamboagg
 romof:sys573

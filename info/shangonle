@@ -2,5 +2,6 @@ description:Limited Edition Hang-On
 manufacturer:Sega
 year:1991
 status:good
+kind:coinop
 romof:shangon
 cloneof:shangon

@@ -2,5 +2,6 @@ description:Alien Syndrome (set 1, Japan, old, System 16A, FD1089A 317-0033)
 manufacturer:Sega
 year:1987
 status:good
+kind:coinop
 romof:aliensyn
 cloneof:aliensyn

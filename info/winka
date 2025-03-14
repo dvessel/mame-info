@@ -2,5 +2,6 @@ description:Wink (set 2)
 manufacturer:Midcoin
 year:1985
 status:preliminary
+kind:coinop
 romof:wink
 cloneof:wink

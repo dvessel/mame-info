@@ -2,6 +2,7 @@ description:Arctic Wins (4XF5227H03, US)
 manufacturer:Aristocrat
 year:1996
 status:good
+kind:coinop
 romof:arcwins
 cloneof:arcwins
 sampleof:3bagfull

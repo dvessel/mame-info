@@ -2,5 +2,6 @@ description:Sonic Boom (bootleg of FD1094 317-0053 set)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:sonicbom
 cloneof:sonicbom

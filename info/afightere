@@ -2,5 +2,6 @@ description:Action Fighter (System 16B, unprotected, analog controls)
 manufacturer:Sega
 year:1986
 status:good
+kind:coinop
 romof:afighter
 cloneof:afighter

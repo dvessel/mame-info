@@ -2,5 +2,6 @@ description:Scorpion (Moon Cresta hardware)
 manufacturer:bootleg? (Dorneer)
 year:19??
 status:good
+kind:coinop
 romof:scorpion
 cloneof:scorpion

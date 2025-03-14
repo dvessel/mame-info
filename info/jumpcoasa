@@ -2,5 +2,6 @@ description:Jump Coaster
 manufacturer:Kaneko
 year:1983
 status:good
+kind:coinop
 romof:jumpcoas
 cloneof:jumpcoas

@@ -2,5 +2,6 @@ description:Xybots (French, rev 3)
 manufacturer:Atari Games
 year:1987
 status:good
+kind:coinop
 romof:xybots
 cloneof:xybots

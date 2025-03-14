@@ -2,6 +2,7 @@ description:Oscar (0100348V, NSW/ACT)
 manufacturer:Aristocrat
 year:1996
 status:imperfect
+kind:coinop
 romof:oscara5
 romof:aristmk5
 cloneof:oscara5

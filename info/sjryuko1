@@ -2,5 +2,6 @@ description:Sukeban Jansi Ryuko (set 1, System 16A, FD1089B 317-5021)
 manufacturer:White Board
 year:1987
 status:good
+kind:coinop
 romof:sjryuko
 cloneof:sjryuko

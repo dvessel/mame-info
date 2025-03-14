@@ -2,5 +2,6 @@ description:Invader's Revenge (Dutchford, single PCB)
 manufacturer:Zenitone-Microsec Ltd. (Dutchford license)
 year:1980?
 status:good
+kind:coinop
 romof:invrvnge
 cloneof:invrvnge

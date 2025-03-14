@@ -2,6 +2,7 @@ description:Fantastic Journey (ver AAA)
 manufacturer:Konami
 year:1994
 status:imperfect
+kind:coinop
 romof:fantjour
 romof:konamigx
 cloneof:fantjour

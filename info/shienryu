@@ -2,5 +2,6 @@ description:Shienryu (JUET 961226 V1.000)
 manufacturer:Warashi
 year:1997
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

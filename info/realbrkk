@@ -2,6 +2,7 @@ description:Billiard Academy Real Break (Korea)
 manufacturer:Nakanihon
 year:1998
 status:imperfect
+kind:coinop
 device:ym2413
 romof:realbrk
 cloneof:realbrk

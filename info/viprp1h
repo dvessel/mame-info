@@ -2,5 +2,6 @@ description:Viper Phase 1 (New Version, Holland)
 manufacturer:Seibu Kaihatsu
 year:1995
 status:imperfect
+kind:coinop
 romof:viprp1
 cloneof:viprp1

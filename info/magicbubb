@@ -2,5 +2,6 @@ description:Magic Bubble (Adult version, YS1302 PCB, set 2)
 manufacturer:Yun Sung
 year:199?
 status:good
+kind:coinop
 romof:magicbub
 cloneof:magicbub

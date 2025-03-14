@@ -2,5 +2,6 @@ description:Ambush (Volt Electronics)
 manufacturer:Tecfri (Volt Electronics license)
 year:1983
 status:good
+kind:coinop
 romof:ambush
 cloneof:ambush

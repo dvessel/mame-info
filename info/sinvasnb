@@ -2,5 +2,6 @@ description:Space Invasion (bootleg)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:commando
 cloneof:commando

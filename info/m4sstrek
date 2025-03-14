@@ -3,6 +3,7 @@ manufacturer:bootleg
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:m4supst
 cloneof:m4supst

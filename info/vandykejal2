@@ -2,6 +2,7 @@ description:Vandyke (Jaleco, set 2)
 manufacturer:UPL (Jaleco license)
 year:1990
 status:good
+kind:coinop
 device:nmk004
 romof:vandyke
 cloneof:vandyke

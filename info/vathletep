@@ -2,6 +2,7 @@ description:Virtua Athletics / Virtua Athlete (prototype)
 manufacturer:Sega
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:vathlete

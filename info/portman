@@ -2,5 +2,6 @@ description:Port Man
 manufacturer:Taito Corporation (Nova Games Ltd. license)
 year:1982
 status:good
+kind:coinop
 romof:dockman
 cloneof:dockman

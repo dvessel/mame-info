@@ -2,6 +2,7 @@ description:Rally X (Video Game bootleg)
 manufacturer:bootleg (Video Game / Electrogame)
 year:1981
 status:imperfect
+kind:coinop
 romof:rallyx
 cloneof:rallyx
 sampleof:rallyx

@@ -2,6 +2,7 @@ description:Monsters World 2 (bootleg of Super Pang)
 manufacturer:bootleg
 year:1994
 status:imperfect
+kind:coinop
 device:ym2413
 romof:mstworld
 cloneof:mstworld

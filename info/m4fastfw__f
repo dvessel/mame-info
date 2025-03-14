@@ -3,6 +3,7 @@ manufacturer:hack
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:m4fastfw
 cloneof:m4fastfw

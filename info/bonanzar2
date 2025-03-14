@@ -2,6 +2,7 @@ description:Touchstar Bonanza (Revision 2)
 manufacturer:New Image Technologies
 year:1994
 status:preliminary
+kind:coinop
 device:microtouch
 romof:bonanza
 cloneof:bonanza

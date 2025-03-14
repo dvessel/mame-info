@@ -2,6 +2,7 @@ description:Plasma Sword: Nightmare of Bilstein (Asia 980316)
 manufacturer:Capcom
 year:1998
 status:imperfect
+kind:coinop
 device:qsound_hle
 romof:plsmaswd
 romof:coh3002c

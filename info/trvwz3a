@@ -2,5 +2,6 @@ description:Trivia ? Whiz Edition 3 (6221-05, U5-0C)
 manufacturer:Merit
 year:1985
 status:good
+kind:coinop
 romof:trvwz3
 cloneof:trvwz3

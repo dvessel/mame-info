@@ -2,4 +2,5 @@ description:Mega Man 2: The Power Fighters (USA 960708)
 manufacturer:Capcom
 year:1996
 status:good
+kind:coinop
 device:qsound_hle

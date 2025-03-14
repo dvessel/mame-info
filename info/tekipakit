@@ -2,5 +2,6 @@ description:Teki Paki (location test)
 manufacturer:Toaplan
 year:1991
 status:good
+kind:coinop
 romof:tekipaki
 cloneof:tekipaki

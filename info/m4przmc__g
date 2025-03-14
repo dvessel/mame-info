@@ -3,6 +3,7 @@ manufacturer:Barcrest
 year:1991
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:m4przmc
 cloneof:m4przmc

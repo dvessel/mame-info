@@ -2,5 +2,6 @@ description:Golden Game Club (Mazooma) (Scorpion 4) (GLDC, set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4gnc
 cloneof:sc4gnc

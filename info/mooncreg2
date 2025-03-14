@@ -2,5 +2,6 @@ description:Moon Cresta (Electrogame S.A. Spanish bootleg, set 2)
 manufacturer:bootleg (Electrogame S.A.)
 year:1980
 status:good
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

@@ -2,5 +2,6 @@ description:Air Inferno (Japan)
 manufacturer:Taito Corporation Japan
 year:1990
 status:preliminary
+kind:coinop
 romof:ainferno
 cloneof:ainferno

@@ -2,5 +2,6 @@ description:X80 - War Command (ManilaMatic bootleg of Missile Command)
 manufacturer:bootleg (ManilaMatic)
 year:1981
 status:preliminary
+kind:coinop
 romof:missile
 cloneof:missile

@@ -2,6 +2,7 @@ description:Sweet Heart (DECO Cassette) (US)
 manufacturer:Data East Corporation
 year:1982
 status:good
+kind:coinop
 romof:cdiscon1
 romof:decocass
 cloneof:cdiscon1

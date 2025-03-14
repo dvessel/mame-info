@@ -2,6 +2,7 @@ description:Front Line (FL, 5 PCB version)
 manufacturer:Taito Corporation
 year:1982
 status:good
+kind:coinop
 device:m68705p5
 romof:frontlin
 cloneof:frontlin

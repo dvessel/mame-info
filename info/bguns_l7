@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1987
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bguns_l8
 cloneof:bguns_l8
 sampleof:genpin

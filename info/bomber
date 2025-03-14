@@ -2,5 +2,6 @@ description:Bomber (bootleg of Scramble)
 manufacturer:bootleg (Alca)
 year:198?
 status:good
+kind:coinop
 romof:scramble
 cloneof:scramble

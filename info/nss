@@ -3,5 +3,6 @@ manufacturer:Nintendo
 year:199?
 status:good
 kind:bios
+kind:coinop
 device:s_smp
 device:m50458

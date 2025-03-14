@@ -2,5 +2,6 @@ description:Champion Golf
 manufacturer:Nasco Japan
 year:1984
 status:good
+kind:coinop
 romof:crgolf
 cloneof:crgolf

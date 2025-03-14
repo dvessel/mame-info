@@ -3,5 +3,6 @@ manufacturer:Mdm
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4blztrl
 cloneof:m4blztrl

@@ -2,5 +2,6 @@ description:Gnome (bootleg, 090406, banking address hack, payout percentage 70)
 manufacturer:bootleg
 year:2007
 status:good
+kind:coinop
 romof:gnome_9
 cloneof:gnome_9

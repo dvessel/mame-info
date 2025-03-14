@@ -2,5 +2,6 @@ description:Red Baron
 manufacturer:Atari
 year:1980
 status:good
+kind:coinop
 romof:redbaron
 cloneof:redbaron

@@ -2,6 +2,7 @@ description:beatmania IIDX 2nd style (GC985 JAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:gq863
 disk:gc985a01
 disk:gc985a04

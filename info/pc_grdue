@@ -2,6 +2,7 @@ description:Gradius (PlayChoice-10, older)
 manufacturer:Konami
 year:1986
 status:good
+kind:coinop
 romof:pc_grdus
 romof:playch10
 cloneof:pc_grdus

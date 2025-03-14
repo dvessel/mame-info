@@ -3,5 +3,6 @@ manufacturer:AET/Coinworld
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4sbx
 cloneof:m4sbx

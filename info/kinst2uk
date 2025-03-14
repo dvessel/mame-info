@@ -2,6 +2,7 @@ description:Killer Instinct 2 (upgrade kit)
 manufacturer:Rare (Midway license)
 year:1996
 status:good
+kind:coinop
 romof:kinst2
 cloneof:kinst2
 disk:kinst2

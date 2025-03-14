@@ -2,6 +2,7 @@ description:Silver Wolf (0100673V, NSW/ACT)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+kind:coinop
 romof:lonewolf
 romof:aristmk5
 cloneof:lonewolf

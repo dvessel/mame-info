@@ -2,6 +2,7 @@ description:Astro Laser (bootleg of Space Laser)
 manufacturer:bootleg (Leisure Time Electronics)
 year:1980
 status:preliminary
+kind:coinop
 romof:spcewarl
 cloneof:spcewarl
 sampleof:invaders

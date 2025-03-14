@@ -2,5 +2,6 @@ description:Golden Axe: The Revenge of Death Adder (US, Rev A)
 manufacturer:Sega
 year:1992
 status:imperfect
+kind:coinop
 romof:ga2
 cloneof:ga2

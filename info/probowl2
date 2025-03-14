@@ -3,5 +3,6 @@ manufacturer:Zuck / Able Corp
 year:1996
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:nprobowl
 cloneof:nprobowl

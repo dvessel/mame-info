@@ -2,6 +2,7 @@ description:Megatouch III (9255-20-01 R0A, Standard version)
 manufacturer:Merit
 year:1995
 status:imperfect
+kind:coinop
 device:microtouch
 romof:megat3
 cloneof:megat3

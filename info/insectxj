@@ -2,5 +2,6 @@ description:Insector X (Japan)
 manufacturer:Taito Corporation
 year:1989
 status:good
+kind:coinop
 romof:insectx
 cloneof:insectx

@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:eatpm_l4
 cloneof:eatpm_l4
 sampleof:genpin

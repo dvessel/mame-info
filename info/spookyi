@@ -3,6 +3,7 @@ manufacturer:Zaccaria
 year:1987
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:spookyp
 cloneof:spookyp
 sampleof:genpin

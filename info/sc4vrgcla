@@ -2,5 +2,6 @@ description:Very Rich Geezer Club (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4vrgcl
 cloneof:sc4vrgcl

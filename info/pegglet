@@ -2,5 +2,6 @@ description:Peggle (Trackball, v1.0)
 manufacturer:Strata / Incredible Technologies
 year:1991
 status:good
+kind:coinop
 romof:peggle
 cloneof:peggle

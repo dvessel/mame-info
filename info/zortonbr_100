@@ -2,6 +2,7 @@ description:Zorton Brothers / Los Justicieros (v1.00)
 manufacturer:Picmatic
 year:1993
 status:preliminary
+kind:coinop
 romof:zortonbr
 romof:alg_bios
 cloneof:zortonbr

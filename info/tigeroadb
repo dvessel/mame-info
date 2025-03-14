@@ -2,5 +2,6 @@ description:Tiger Road (US bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:tigeroad
 cloneof:tigeroad

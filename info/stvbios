@@ -3,4 +3,5 @@ manufacturer:Sega
 year:1996
 status:imperfect
 kind:bios
+kind:coinop
 device:segabill

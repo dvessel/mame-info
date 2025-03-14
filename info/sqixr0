@@ -2,5 +2,6 @@ description:Super Qix (World/Japan, V1.0)
 manufacturer:Kaneko / Taito
 year:1987
 status:good
+kind:coinop
 romof:sqix
 cloneof:sqix

@@ -2,5 +2,6 @@ description:Michael Jackson's Moonwalker (bootleg)
 manufacturer:bootleg
 year:1990
 status:imperfect
+kind:coinop
 romof:mwalk
 cloneof:mwalk

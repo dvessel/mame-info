@@ -2,5 +2,6 @@ description:Storm Blade (Japan)
 manufacturer:Visco
 year:1996
 status:imperfect
+kind:coinop
 romof:stmblade
 cloneof:stmblade

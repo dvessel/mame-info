@@ -2,6 +2,7 @@ description:Thunder Dragon (4th Jun. 1991, protected)
 manufacturer:NMK (Tecmo license)
 year:1991
 status:good
+kind:coinop
 device:nmk004
 romof:tdragon
 cloneof:tdragon

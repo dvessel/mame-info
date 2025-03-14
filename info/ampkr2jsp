@@ -2,5 +2,6 @@ description:American Poker II - Jackpot (Spanish, set 1)
 manufacturer:bootleg?
 year:1994
 status:preliminary
+kind:coinop
 romof:ampoker2
 cloneof:ampoker2

@@ -2,5 +2,6 @@ description:Top Gunner (bootleg, Rotary Joystick)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:jackal
 cloneof:jackal

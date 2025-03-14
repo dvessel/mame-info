@@ -2,5 +2,6 @@ description:Out Run (deluxe sitdown earlier version)
 manufacturer:Sega
 year:1986
 status:good
+kind:coinop
 romof:outrun
 cloneof:outrun

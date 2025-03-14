@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1993
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sfightii
 cloneof:sfightii
 sampleof:genpin

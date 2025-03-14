@@ -2,5 +2,6 @@ description:Peter Pan (bootleg of Hook)
 manufacturer:bootleg
 year:1992
 status:imperfect
+kind:coinop
 romof:hook
 cloneof:hook

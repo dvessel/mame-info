@@ -2,5 +2,6 @@ description:Crock-Man
 manufacturer:bootleg (Rene Pierre)
 year:1980
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

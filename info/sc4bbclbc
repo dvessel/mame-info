@@ -2,5 +2,6 @@ description:Bankety Bank Club (V411) (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4bbclb
 cloneof:sc4bbclb

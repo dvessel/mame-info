@@ -2,5 +2,6 @@ description:Pleiads (GMP Games)
 manufacturer:bootleg (GMP Games)
 year:1981
 status:imperfect
+kind:coinop
 romof:pleiads
 cloneof:pleiads

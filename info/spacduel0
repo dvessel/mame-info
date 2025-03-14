@@ -2,5 +2,6 @@ description:Space Duel (prototype)
 manufacturer:Atari
 year:1980
 status:good
+kind:coinop
 romof:spacduel
 cloneof:spacduel

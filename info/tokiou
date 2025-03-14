@@ -2,6 +2,7 @@ description:Tokio / Scramble Formation (US)
 manufacturer:Taito America Corporation (Romstar license)
 year:1986
 status:good
+kind:coinop
 device:m68705p5
 romof:tokio
 cloneof:tokio

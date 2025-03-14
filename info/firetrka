@@ -2,5 +2,6 @@ description:Fire Truck / Smokey Joe (ROM version)
 manufacturer:Atari
 year:1978
 status:good
+kind:coinop
 romof:firetrk
 cloneof:firetrk

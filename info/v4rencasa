@@ -2,5 +2,6 @@ description:Reno Casino (BWB) (set 2) (MPU4 Video)
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4rencas
 cloneof:v4rencas

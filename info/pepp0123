@@ -2,5 +2,6 @@ description:Player's Edge Plus (PP0123) Deuces Wild Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+kind:coinop
 romof:pepp0054
 cloneof:pepp0054

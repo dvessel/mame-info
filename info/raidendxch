@@ -2,5 +2,6 @@ description:Raiden DX (China)
 manufacturer:Seibu Kaihatsu (Ideal International Development Corp license)
 year:1994
 status:good
+kind:coinop
 romof:raidendx
 cloneof:raidendx

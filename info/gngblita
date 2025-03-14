@@ -2,5 +2,6 @@ description:Ghosts'n Goblins (Italian bootleg, harder)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:gng
 cloneof:gng

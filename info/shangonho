@@ -2,5 +2,6 @@ description:Super Hang-On (Hang-On conversion, Japan, FD1094 317-0039)
 manufacturer:Sega
 year:1987
 status:good
+kind:coinop
 romof:shangon
 cloneof:shangon

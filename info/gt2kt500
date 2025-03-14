@@ -2,5 +2,6 @@ description:Golden Tee 2K Tournament (v5.00)
 manufacturer:Incredible Technologies
 year:2000
 status:good
+kind:coinop
 romof:gt2k
 cloneof:gt2k

@@ -2,6 +2,7 @@ description:Kick (cocktail)
 manufacturer:Midway
 year:1981
 status:good
+kind:coinop
 device:midssio
 romof:kick
 cloneof:kick

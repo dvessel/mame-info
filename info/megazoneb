@@ -2,5 +2,6 @@ description:Mega Zone (unknown version 2)
 manufacturer:Konami
 year:1983
 status:good
+kind:coinop
 romof:megazone
 cloneof:megazone

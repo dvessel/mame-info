@@ -3,6 +3,7 @@ manufacturer:Stern
 year:1979
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:trident
 cloneof:trident
 sampleof:genpin

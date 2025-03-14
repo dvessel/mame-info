@@ -2,5 +2,6 @@ description:Super Cobra (bootleg, set 1)
 manufacturer:bootleg (Karateco)
 year:1981
 status:good
+kind:coinop
 romof:scobra
 cloneof:scobra

@@ -2,5 +2,7 @@ description:NATO Defense (alternate mazes)
 manufacturer:Pacific Novelty
 year:1982
 status:good
+kind:coinop
 romof:natodef
 cloneof:natodef
+sampleof:natodef

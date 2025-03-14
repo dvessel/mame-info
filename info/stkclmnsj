@@ -2,5 +2,6 @@ description:Stack Columns (Japan)
 manufacturer:Sega
 year:1994
 status:good
+kind:coinop
 romof:stkclmns
 cloneof:stkclmns

@@ -2,6 +2,7 @@ description:Classic Adders &amp; Ladders (Barcrest) (MPU4) (A6L 0.1 K)
 manufacturer:Barcrest
 year:1991
 status:good
+kind:coinop
 device:ym2413
 romof:m4addr
 cloneof:m4addr

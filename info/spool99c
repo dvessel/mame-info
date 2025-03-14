@@ -2,5 +2,6 @@ description:Super Pool 99 (Version 0.26)
 manufacturer:Electronic Projects
 year:1998
 status:good
+kind:coinop
 romof:spool99
 cloneof:spool99

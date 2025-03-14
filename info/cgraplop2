@@ -2,6 +2,7 @@ description:Graplop (DECO Cassette) (US) (Prototype?)
 manufacturer:Data East Corporation
 year:1983
 status:good
+kind:coinop
 romof:cgraplop
 romof:decocass
 cloneof:cgraplop

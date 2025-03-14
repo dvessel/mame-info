@@ -2,5 +2,6 @@ description:D. D. Crew (US, 4 Players) (bootleg of FD1094 317-0186 set)
 manufacturer:bootleg
 year:1991
 status:good
+kind:coinop
 romof:ddcrew
 cloneof:ddcrew

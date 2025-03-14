@@ -2,5 +2,6 @@ description:Dark Horse (USA v4.00, bootleg of Jockey Club II)
 manufacturer:bootleg
 year:2001
 status:imperfect
+kind:coinop
 romof:jclub2v112
 cloneof:jclub2v112

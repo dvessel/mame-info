@@ -2,5 +2,6 @@ description:Thunder Blaster (Japan)
 manufacturer:Irem
 year:1991
 status:good
+kind:coinop
 romof:lethalth
 cloneof:lethalth

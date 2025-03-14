@@ -2,5 +2,6 @@ description:Free Kick (NS6201-A 1987.9)
 manufacturer:Nihon System
 year:1987
 status:good
+kind:coinop
 romof:freekick
 cloneof:freekick

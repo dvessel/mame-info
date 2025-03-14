@@ -2,6 +2,7 @@ description:Burning Force (Japan, old version)
 manufacturer:Namco
 year:1989
 status:good
+kind:coinop
 device:namcoc65
 romof:burnforc
 cloneof:burnforc

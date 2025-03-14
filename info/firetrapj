@@ -2,5 +2,6 @@ description:Fire Trap (Japan)
 manufacturer:Woodplace Inc.
 year:1986
 status:good
+kind:coinop
 romof:firetrap
 cloneof:firetrap

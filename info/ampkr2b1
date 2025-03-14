@@ -2,5 +2,6 @@ description:American Poker II (bootleg, set 1)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:ampoker2
 cloneof:ampoker2

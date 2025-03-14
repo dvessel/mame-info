@@ -2,5 +2,6 @@ description:Captain Commando (bootleg)
 manufacturer:bootleg
 year:1991
 status:good
+kind:coinop
 romof:captcomm
 cloneof:captcomm

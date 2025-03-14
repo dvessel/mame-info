@@ -2,5 +2,6 @@ description:Road Fighter (bootleg GX330 conversion)
 manufacturer:bootleg
 year:1984
 status:good
+kind:coinop
 romof:roadf
 cloneof:roadf

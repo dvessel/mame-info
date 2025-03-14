@@ -2,5 +2,6 @@ description:Pick Of The Pack (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4potp
 cloneof:sc4potp

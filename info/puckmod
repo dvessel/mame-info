@@ -2,5 +2,6 @@ description:Puck Man (Japan, set 2)
 manufacturer:Namco
 year:1981
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

@@ -2,5 +2,6 @@ description:World Grand Prix (joystick version) (Japan, set 1)
 manufacturer:Taito Corporation
 year:1989
 status:preliminary
+kind:coinop
 romof:wgp
 cloneof:wgp

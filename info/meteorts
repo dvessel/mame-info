@@ -2,5 +2,6 @@ description:Meteorites (VGG bootleg of Asteroids)
 manufacturer:bootleg (VGG)
 year:1979
 status:good
+kind:coinop
 romof:asteroid
 cloneof:asteroid

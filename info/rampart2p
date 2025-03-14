@@ -2,6 +2,7 @@ description:Rampart (Joystick, bigger ROMs)
 manufacturer:Atari Games
 year:1990
 status:good
+kind:coinop
 device:ym2413
 romof:rampart
 cloneof:rampart

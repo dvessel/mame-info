@@ -2,5 +2,6 @@ description:Burger Time (Midway)
 manufacturer:Data East (Bally Midway license)
 year:1982
 status:good
+kind:coinop
 romof:btime
 cloneof:btime

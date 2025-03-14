@@ -2,5 +2,6 @@ description:Double Challenge (Version 1.5R, set 2)
 manufacturer:Amcoe
 year:2003
 status:good
+kind:coinop
 romof:dblchal
 cloneof:dblchal

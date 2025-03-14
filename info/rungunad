@@ -2,5 +2,6 @@ description:Run and Gun (ver EAA 1993 10.4) (dual screen with demux adapter)
 manufacturer:Konami
 year:1993
 status:imperfect
+kind:coinop
 romof:rungun
 cloneof:rungun

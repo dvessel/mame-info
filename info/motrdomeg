@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:motrdome
 cloneof:motrdome
 sampleof:genpin

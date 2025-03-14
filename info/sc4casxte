@@ -2,5 +2,6 @@ description:Casino Xtravaganza (Mazooma) (Scorpion 4) (set 6)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4casxt
 cloneof:sc4casxt

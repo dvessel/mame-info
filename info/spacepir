@@ -2,4 +2,5 @@ description:Space Pirates (v2.2)
 manufacturer:American Laser Games
 year:1992
 status:preliminary
+kind:coinop
 romof:alg_bios

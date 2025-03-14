@@ -2,5 +2,6 @@ description:Wonder Boy (set 5, bootleg)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:wboy
 cloneof:wboy

@@ -2,5 +2,6 @@ description:Police Squid (V2.0) (Qps) (Scorpion 4) (set 1)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4polic
 cloneof:sc4polic

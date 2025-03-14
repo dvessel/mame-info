@@ -2,5 +2,6 @@ description:Virtua Bowling (Hong Kong, V101HJS)
 manufacturer:IGS / Tai Tin Amusement
 year:1996
 status:imperfect
+kind:coinop
 romof:vbowl
 cloneof:vbowl

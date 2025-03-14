@@ -2,5 +2,6 @@ description:Blue Print (Jaleco)
 manufacturer:Zilec Electronics / Jaleco
 year:1982
 status:good
+kind:coinop
 romof:blueprnt
 cloneof:blueprnt

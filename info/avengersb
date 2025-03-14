@@ -2,5 +2,6 @@ description:Avengers (US, rev. A)
 manufacturer:Capcom
 year:1987
 status:good
+kind:coinop
 romof:avengers
 cloneof:avengers

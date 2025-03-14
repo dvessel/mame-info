@@ -2,5 +2,6 @@ description:Rolling Thunder (Mazooma) (Scorpion 4) (set 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4rt
 cloneof:sc4rt

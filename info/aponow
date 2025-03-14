@@ -2,5 +2,6 @@ description:Apocaljpse Now (bootleg of Rescue)
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:rescue
 cloneof:rescue

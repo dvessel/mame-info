@@ -2,5 +2,6 @@ description:Rampage: World Tour (rev 1.1)
 manufacturer:Midway
 year:1997
 status:good
+kind:coinop
 romof:rmpgwt
 cloneof:rmpgwt

@@ -2,5 +2,6 @@ description:Pinbo (bootleg)
 manufacturer:bootleg (Strike)
 year:1985
 status:good
+kind:coinop
 romof:pinbo
 cloneof:pinbo

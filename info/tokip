@@ -2,5 +2,6 @@ description:Toki (US, prototype?)
 manufacturer:TAD Corporation (Fabtek license)
 year:1989
 status:good
+kind:coinop
 romof:toki
 cloneof:toki

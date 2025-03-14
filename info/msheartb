@@ -2,5 +2,6 @@ description:Ms. Pac-Man Heart Burn
 manufacturer:hack (Two-Bit Score)
 year:1989
 status:good
+kind:coinop
 romof:mspacman
 cloneof:mspacman

@@ -2,5 +2,6 @@ description:Fighting Fantasy (Japan, revision 2)
 manufacturer:Data East Corporation
 year:1989
 status:imperfect
+kind:coinop
 romof:hippodrm
 cloneof:hippodrm

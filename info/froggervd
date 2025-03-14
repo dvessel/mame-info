@@ -2,5 +2,6 @@ description:Frogger (Hermatic, bootleg on Scramble hardware from Video Dens)
 manufacturer:bootleg (Hermatic)
 year:1981
 status:good
+kind:coinop
 romof:frogger
 cloneof:frogger

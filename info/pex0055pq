@@ -2,5 +2,6 @@ description:Player's Edge Plus (X000055P+XP000109) Deuces Wild Poker
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+kind:coinop
 romof:pex0055p
 cloneof:pex0055p

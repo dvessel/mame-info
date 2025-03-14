@@ -2,6 +2,7 @@ description:Indian Battle (Brazil)
 manufacturer:Taito do Brasil
 year:1983
 status:imperfect
+kind:coinop
 romof:indianbt
 cloneof:indianbt
 sampleof:invaders

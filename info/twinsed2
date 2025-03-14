@@ -2,5 +2,6 @@ description:Twins (Electronic Devices license, newer)
 manufacturer:Ecogames (Electronic Devices license)
 year:1994
 status:good
+kind:coinop
 romof:twins
 cloneof:twins

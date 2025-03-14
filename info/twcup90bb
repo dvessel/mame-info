@@ -2,5 +2,6 @@ description:World Cup '90 (European hack, different title)
 manufacturer:bootleg
 year:1989
 status:imperfect
+kind:coinop
 romof:twcup90
 cloneof:twcup90

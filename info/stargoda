@@ -3,6 +3,7 @@ manufacturer:Zaccaria
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:stargod
 cloneof:stargod
 sampleof:genpin

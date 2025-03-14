@@ -2,5 +2,6 @@ description:Youkai Douchuuki (Japan, old version (YD1))
 manufacturer:Namco
 year:1987
 status:good
+kind:coinop
 romof:shadowld
 cloneof:shadowld

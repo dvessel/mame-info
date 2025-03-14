@@ -2,5 +2,6 @@ description:Spy Hunter
 manufacturer:Bally Midway
 year:1983
 status:good
+kind:coinop
 device:midssio
 device:midcsd

@@ -2,5 +2,6 @@ description:Mouse Trap (bootleg)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:mtrap
 cloneof:mtrap

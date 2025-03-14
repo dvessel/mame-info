@@ -2,5 +2,6 @@ description:Hit Me (set 2)
 manufacturer:Ramtek
 year:1976
 status:good
+kind:coinop
 romof:hitme
 cloneof:hitme

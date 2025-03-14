@@ -2,5 +2,6 @@ description:Multi Game III (S.Ita 3.4)
 manufacturer:Amatic Trading GmbH
 year:2000
 status:preliminary
+kind:coinop
 romof:am_mg35i
 cloneof:am_mg35i

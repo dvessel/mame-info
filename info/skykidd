@@ -2,5 +2,6 @@ description:Sky Kid (CUS60 version)
 manufacturer:Namco
 year:1985
 status:good
+kind:coinop
 romof:skykid
 cloneof:skykid

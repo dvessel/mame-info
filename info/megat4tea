@@ -2,6 +2,7 @@ description:Megatouch IV Tournament Edition (9255-50-01 R0A, Standard version)
 manufacturer:Merit
 year:1996
 status:imperfect
+kind:coinop
 device:microtouch
 romof:megat4
 cloneof:megat4

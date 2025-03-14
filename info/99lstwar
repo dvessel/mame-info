@@ -2,5 +2,6 @@ description:'99: The Last War (set 1)
 manufacturer:Crux / Proma
 year:1985
 status:good
+kind:coinop
 romof:repulse
 cloneof:repulse

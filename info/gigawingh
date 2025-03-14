@@ -2,6 +2,7 @@ description:Giga Wing (Hispanic 990222)
 manufacturer:Takumi (Capcom license)
 year:1999
 status:good
+kind:coinop
 device:qsound_hle
 romof:gigawing
 cloneof:gigawing

@@ -2,6 +2,7 @@ description:Touchmaster 5000 (v7.11 U.K.)
 manufacturer:Midway Games Inc.
 year:1998
 status:good
+kind:coinop
 device:microtouch
 romof:tm5k
 cloneof:tm5k

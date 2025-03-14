@@ -2,5 +2,6 @@ description:Hyper Olympic (bootleg, set 1)
 manufacturer:bootleg
 year:1983
 status:imperfect
+kind:coinop
 romof:trackfld
 cloneof:trackfld

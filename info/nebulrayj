@@ -2,6 +2,7 @@ description:Nebulas Ray (Japan, NR1)
 manufacturer:Namco
 year:1994
 status:good
+kind:coinop
 device:namcoc75
 romof:nebulray
 cloneof:nebulray

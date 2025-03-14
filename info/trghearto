@@ -2,6 +2,7 @@ description:Trigger Heart Exelica (Japan) (GDL-0036)
 manufacturer:Warashi
 year:2006
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

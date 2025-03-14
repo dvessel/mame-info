@@ -3,6 +3,7 @@ manufacturer:BWB
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:m4vivalv
 cloneof:m4vivalv

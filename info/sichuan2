@@ -2,5 +2,6 @@ description:Sichuan II (bootleg, set 1)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:matchit
 cloneof:matchit

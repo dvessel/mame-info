@@ -2,5 +2,6 @@ description:Berzerk (revision RC28)
 manufacturer:Stern Electronics
 year:1980
 status:good
+kind:coinop
 romof:berzerk
 cloneof:berzerk

@@ -2,5 +2,6 @@ description:Frog (Falcon bootleg)
 manufacturer:bootleg (Falcon)
 year:1981
 status:good
+kind:coinop
 romof:frogger
 cloneof:frogger

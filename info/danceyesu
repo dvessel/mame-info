@@ -2,6 +2,7 @@ description:Dancing Eyes (US, DC3/VER.C)
 manufacturer:Namco
 year:1996
 status:imperfect
+kind:coinop
 device:namcoc76
 romof:danceyes
 cloneof:danceyes

@@ -2,5 +2,6 @@ description:Indoor Soccer (Tecfri)
 manufacturer:Universal (Tecfri license)
 year:1985
 status:good
+kind:coinop
 romof:idsoccer
 cloneof:idsoccer

@@ -3,6 +3,7 @@ manufacturer:Inder
 year:1993
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bushido
 cloneof:bushido
 sampleof:genpin

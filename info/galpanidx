@@ -2,6 +2,7 @@ description:Gals Panic DX (Asia)
 manufacturer:Kaneko
 year:2001
 status:imperfect
+kind:coinop
 romof:galpani4
 romof:skns
 cloneof:galpani4

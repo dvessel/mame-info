@@ -2,5 +2,6 @@ description:New Zero Team (V33 SYSTEM TYPE_B hardware, Haoyunlai Trading Company
 manufacturer:Seibu Kaihatsu (Haoyunlai Trading Company license)
 year:1997
 status:good
+kind:coinop
 romof:zeroteam
 cloneof:zeroteam

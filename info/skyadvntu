@@ -2,6 +2,7 @@ description:Sky Adventure (US)
 manufacturer:Alpha Denshi Co. (SNK of America license)
 year:1989
 status:good
+kind:coinop
 device:ym2413
 romof:skyadvnt
 cloneof:skyadvnt

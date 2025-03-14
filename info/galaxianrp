@@ -2,5 +2,6 @@ description:Galaxian (Rene Pierre bootleg)
 manufacturer:bootleg (Valadon Automation / Rene Pierre)
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

@@ -2,5 +2,6 @@ description:Moon Crest (bootleg of Moon Cresta)
 manufacturer:bootleg (SG-Florence)
 year:1980
 status:good
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

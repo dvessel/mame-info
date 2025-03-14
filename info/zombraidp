@@ -2,5 +2,6 @@ description:Zombie Raid (9/28/95, US, prototype PCB)
 manufacturer:American Sammy
 year:1995
 status:good
+kind:coinop
 romof:zombraid
 cloneof:zombraid

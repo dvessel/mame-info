@@ -2,5 +2,6 @@ description:Ikari III - The Rescue (World, Rotary Joystick)
 manufacturer:SNK
 year:1989
 status:good
+kind:coinop
 romof:ikari3
 cloneof:ikari3

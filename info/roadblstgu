@@ -2,6 +2,7 @@ description:Road Blasters (upright, German, rev ?)
 manufacturer:Atari Games
 year:1987
 status:good
+kind:coinop
 romof:roadblst
 romof:atarisy1
 cloneof:roadblst

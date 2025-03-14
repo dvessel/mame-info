@@ -2,5 +2,6 @@ description:Player's Choice (PC714VZ) Standard Draw Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+kind:coinop
 romof:pc644vz
 cloneof:pc644vz

@@ -2,5 +2,6 @@ description:Galaxian (Spanish bootleg)
 manufacturer:bootleg
 year:1979
 status:preliminary
+kind:coinop
 romof:galaxian
 cloneof:galaxian

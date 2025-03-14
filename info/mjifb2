@@ -2,5 +2,6 @@ description:Mahjong If...? (2921)
 manufacturer:Dynax
 year:1990
 status:good
+kind:coinop
 romof:mjifb
 cloneof:mjifb

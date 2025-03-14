@@ -2,4 +2,5 @@ description:Jingle Bell (v200US)
 manufacturer:IGS
 year:1997
 status:good
+kind:coinop
 device:ym2413

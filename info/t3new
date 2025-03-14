@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2003
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:term3
 cloneof:term3
 sampleof:genpin

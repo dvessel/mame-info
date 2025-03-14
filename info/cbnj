@@ -2,6 +2,7 @@ description:Bump 'n' Jump (DECO Cassette) (US)
 manufacturer:Data East Corporation
 year:1982
 status:good
+kind:coinop
 romof:cburnrub
 romof:decocass
 cloneof:cburnrub

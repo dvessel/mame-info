@@ -3,5 +3,6 @@ manufacturer:Crystal
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4twstr
 cloneof:m4twstr

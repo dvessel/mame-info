@@ -2,5 +2,6 @@ description:Sprint 2 (color kit, Italy)
 manufacturer:hack
 year:1976
 status:preliminary
+kind:coinop
 romof:sprint1
 cloneof:sprint1

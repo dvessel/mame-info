@@ -2,5 +2,6 @@ description:Knights of the Round (bootleg, World 911127)
 manufacturer:bootleg
 year:1991
 status:imperfect
+kind:coinop
 romof:knights
 cloneof:knights

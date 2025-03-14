@@ -2,6 +2,7 @@ description:Dig Dug (manufactured by Sidam)
 manufacturer:Namco (Sidam license)
 year:1982
 status:good
+kind:coinop
 device:namco51
 device:namco53
 romof:digdug

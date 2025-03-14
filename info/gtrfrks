@@ -2,5 +2,6 @@ description:Guitar Freaks Ver 1.01 (GQ886 VER. EAD)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:sys573
 disk:886__d02

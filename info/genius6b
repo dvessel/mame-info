@@ -2,6 +2,7 @@ description:Genius 6 (V132F)
 manufacturer:IGS
 year:1997
 status:good
+kind:coinop
 device:ym2413
 romof:genius6
 cloneof:genius6

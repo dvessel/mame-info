@@ -2,6 +2,7 @@ description:Dance Dance Revolution 4th Mix (G*A33 VER. JAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 device:k573_dio
 device:k573mcr
 romof:ddr4m

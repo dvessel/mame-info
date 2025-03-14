@@ -2,5 +2,6 @@ description:Michael Jackson's Moonwalker (World) (bootleg of FD1094/8751 317-015
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:mwalk
 cloneof:mwalk

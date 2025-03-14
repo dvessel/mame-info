@@ -2,5 +2,6 @@ description:Wheel Of Fortune (set 2)
 manufacturer:GameTek
 year:1989
 status:good
+kind:coinop
 romof:wfortune
 cloneof:wfortune

@@ -2,5 +2,6 @@ description:Strikers 1945 III (World) / Strikers 1999 (Japan) (bootleg, set 1)
 manufacturer:bootleg
 year:1999
 status:preliminary
+kind:coinop
 romof:s1945iii
 cloneof:s1945iii

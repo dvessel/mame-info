@@ -2,5 +2,6 @@ description:Nove Diamante (bootleg)
 manufacturer:bootleg (Kon)
 year:2006
 status:preliminary
+kind:coinop
 romof:nfb96
 cloneof:nfb96

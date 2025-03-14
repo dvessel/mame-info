@@ -2,5 +2,6 @@ description:Vimana (Japan)
 manufacturer:Toaplan
 year:1991
 status:good
+kind:coinop
 romof:vimana
 cloneof:vimana

@@ -2,5 +2,6 @@ description:Magic Card II (green TAB or Impera board)
 manufacturer:Impera
 year:1996
 status:good
+kind:coinop
 romof:magicrd2
 cloneof:magicrd2

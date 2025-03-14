@@ -2,5 +2,6 @@ description:Viper Phase 1 (Germany)
 manufacturer:Seibu Kaihatsu (Tuning license)
 year:1995
 status:imperfect
+kind:coinop
 romof:viprp1
 cloneof:viprp1

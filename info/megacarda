@@ -2,5 +2,6 @@ description:Mega Card (Ver.0053, encrypted)
 manufacturer:Fun World
 year:1993
 status:good
+kind:coinop
 romof:megacard
 cloneof:megacard

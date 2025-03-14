@@ -2,6 +2,7 @@ description:Dancing Eyes (Japan, DC1/VER.A)
 manufacturer:Namco
 year:1996
 status:imperfect
+kind:coinop
 device:namcoc76
 romof:danceyes
 cloneof:danceyes

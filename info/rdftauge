@@ -2,5 +2,6 @@ description:Raiden Fighters (Evaluation Software For Show, Germany)
 manufacturer:Seibu Kaihatsu (Tuning license)
 year:1996
 status:imperfect
+kind:coinop
 romof:rdft
 cloneof:rdft

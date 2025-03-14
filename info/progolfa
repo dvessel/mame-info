@@ -2,5 +2,6 @@ description:18 Holes Pro Golf (set 2)
 manufacturer:Data East Corporation
 year:1981
 status:preliminary
+kind:coinop
 romof:progolf
 cloneof:progolf

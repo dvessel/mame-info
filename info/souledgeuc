@@ -2,6 +2,7 @@ description:Soul Edge Ver. II (US, SO3/VER.C)
 manufacturer:Namco
 year:1995
 status:imperfect
+kind:coinop
 device:namcoc76
 romof:souledge
 cloneof:souledge

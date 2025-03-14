@@ -2,5 +2,6 @@ description:Animal House (set 3)
 manufacturer:bootleg
 year:1994
 status:preliminary
+kind:coinop
 romof:scmaster
 cloneof:scmaster

@@ -2,5 +2,6 @@ description:Around The World (Version 1.3E CGA)
 manufacturer:Amcoe
 year:2007
 status:good
+kind:coinop
 romof:atworld
 cloneof:atworld

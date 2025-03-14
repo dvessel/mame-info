@@ -2,5 +2,6 @@ description:Qix II (Tournament)
 manufacturer:Taito America Corporation
 year:1981
 status:good
+kind:coinop
 romof:qix
 cloneof:qix

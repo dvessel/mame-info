@@ -2,6 +2,7 @@ description:Megatouch III Turnier Edition (9255-30-50 R0F, Bi-Lingual GER/ENG ve
 manufacturer:Merit
 year:1996
 status:imperfect
+kind:coinop
 device:microtouch
 romof:megat3
 cloneof:megat3

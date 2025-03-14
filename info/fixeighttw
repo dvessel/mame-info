@@ -2,5 +2,6 @@ description:FixEight (Taiwan)
 manufacturer:Toaplan
 year:1992
 status:good
+kind:coinop
 romof:fixeight
 cloneof:fixeight

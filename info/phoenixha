@@ -2,5 +2,6 @@ description:Phoenix (Hellomat Automaten bootleg)
 manufacturer:bootleg (Hellomat Automaten)
 year:1981
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

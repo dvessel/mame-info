@@ -3,4 +3,5 @@ manufacturer:Sega
 year:2002
 status:preliminary
 kind:bios
+kind:coinop
 device:jvs13551

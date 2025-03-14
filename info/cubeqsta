@@ -2,6 +2,7 @@ description:Cube Quest (12/30/83)
 manufacturer:Simutrek
 year:1983
 status:good
+kind:coinop
 device:simutrek
 romof:cubeqst
 cloneof:cubeqst

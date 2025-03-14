@@ -2,5 +2,6 @@ description:Ring King (US set 2)
 manufacturer:Woodplace Inc. (Data East USA license)
 year:1985
 status:good
+kind:coinop
 romof:kingofb
 cloneof:kingofb

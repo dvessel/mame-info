@@ -2,6 +2,7 @@ description:Golden Tee Fore! 2004 (v4.00.00)
 manufacturer:Incredible Technologies
 year:2003
 status:good
+kind:coinop
 romof:gtfore04
 romof:iteagle
 cloneof:gtfore04

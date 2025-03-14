@@ -2,5 +2,6 @@ description:New Fruit Bonus '96 Special Edition (bootleg set 4, v97-3.3c English
 manufacturer:bootleg
 year:1996
 status:preliminary
+kind:coinop
 romof:nfb96
 cloneof:nfb96

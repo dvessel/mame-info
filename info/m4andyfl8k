@@ -3,5 +3,6 @@ manufacturer:Barcrest
 year:1991
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4andyfl
 cloneof:m4andyfl

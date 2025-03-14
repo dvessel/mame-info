@@ -2,6 +2,7 @@ description:S.V.G. - Spectral vs Generation / Sheng Mo Shiji (M68k label V100JP)
 manufacturer:IGS / Idea Factory (AMI license)
 year:2005
 status:imperfect
+kind:coinop
 romof:svg
 romof:pgm
 cloneof:svg

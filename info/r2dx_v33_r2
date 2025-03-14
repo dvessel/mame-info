@@ -2,5 +2,6 @@ description:Raiden II New / Raiden DX (newer V33 PCB) (Raiden II EEPROM)
 manufacturer:Seibu Kaihatsu
 year:1996
 status:good
+kind:coinop
 romof:r2dx_v33
 cloneof:r2dx_v33

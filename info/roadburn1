@@ -2,6 +2,7 @@ description:Road Burners (ver 1.0)
 manufacturer:Atari Games
 year:1999
 status:good
+kind:coinop
 romof:roadburn
 cloneof:roadburn
 disk:roadburn

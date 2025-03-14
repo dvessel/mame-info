@@ -2,5 +2,6 @@ description:Animal Treasure Hunt (Version 1.5)
 manufacturer:Amcoe
 year:2003
 status:good
+kind:coinop
 romof:anithunt
 cloneof:anithunt

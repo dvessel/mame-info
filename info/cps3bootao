@@ -2,6 +2,7 @@ description:CPS3 Multi-game bootleg for dead security cart (older)
 manufacturer:bootleg
 year:1999
 status:good
+kind:coinop
 romof:cps3boot
 cloneof:cps3boot
 disk:no-battery_multi-game_bootleg_cd_for_dead_security_cart

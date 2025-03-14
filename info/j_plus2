@@ -3,6 +3,7 @@ manufacturer:CTL
 year:198?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j_lt
 cloneof:j_lt
 sampleof:fruitsamples

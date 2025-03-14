@@ -2,4 +2,5 @@ description:Boot Scootin' (0100812V, NSW/ACT)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+kind:coinop
 romof:aristmk5

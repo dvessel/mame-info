@@ -2,5 +2,6 @@ description:Thunder Blade (deluxe/standing) (unprotected)
 manufacturer:Sega
 year:1987
 status:good
+kind:coinop
 romof:thndrbld
 cloneof:thndrbld

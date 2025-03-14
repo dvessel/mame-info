@@ -2,5 +2,6 @@ description:Block Gal (bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:blockgal
 cloneof:blockgal

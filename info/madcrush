@@ -2,5 +2,6 @@ description:Mad Crusher (Japan)
 manufacturer:SNK
 year:1984
 status:good
+kind:coinop
 romof:madcrash
 cloneof:madcrash

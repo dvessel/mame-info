@@ -2,6 +2,7 @@ description:Initial D Arcade Stage (Japan) (GDS-0020)
 manufacturer:Sega
 year:2002
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

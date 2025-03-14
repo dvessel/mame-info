@@ -2,4 +2,5 @@ description:Puzzlet (Japan)
 manufacturer:Unies Corporation
 year:2000
 status:preliminary
+kind:coinop
 device:ym2413

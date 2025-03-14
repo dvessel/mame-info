@@ -2,5 +2,6 @@ description:New Lucky 8 Lines (set 6, W-4, main 40%, d-up 60%)
 manufacturer:Wing Co., Ltd.
 year:1989
 status:good
+kind:coinop
 romof:lucky8
 cloneof:lucky8

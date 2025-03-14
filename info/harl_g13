@@ -3,6 +3,7 @@ manufacturer:Sega
 year:1999
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:harl_a13
 cloneof:harl_a13

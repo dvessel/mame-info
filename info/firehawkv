@@ -2,5 +2,6 @@ description:Fire Hawk (World) / Huohu Chuanshuo (China) (switchable orientation)
 manufacturer:ESD
 year:2001
 status:preliminary
+kind:coinop
 romof:spec2k
 cloneof:spec2k

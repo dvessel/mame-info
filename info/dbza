@@ -2,5 +2,6 @@ description:Dragon Ball Z (rev A)
 manufacturer:Banpresto
 year:1993
 status:imperfect
+kind:coinop
 romof:dbz
 cloneof:dbz

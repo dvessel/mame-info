@@ -2,5 +2,6 @@ description:Deal or No Deal Hall Of Fame (Bellfruit) (Scorpion 4) (DNHA477, set 
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4dndhf
 cloneof:sc4dndhf

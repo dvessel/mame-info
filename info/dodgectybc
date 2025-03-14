@@ -2,5 +2,6 @@ description:Dodge City (2131-82, U5-0 GT)
 manufacturer:Merit
 year:1989
 status:imperfect
+kind:coinop
 romof:dodgecty
 cloneof:dodgecty

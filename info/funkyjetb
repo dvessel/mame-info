@@ -2,5 +2,6 @@ description:Funky Jet (bootleg)
 manufacturer:bootleg
 year:1992
 status:preliminary
+kind:coinop
 romof:funkyjet
 cloneof:funkyjet

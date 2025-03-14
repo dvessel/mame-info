@@ -2,6 +2,7 @@ description:Mambo A Go-Go (GQA40 VER. JAB)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:a40jab02

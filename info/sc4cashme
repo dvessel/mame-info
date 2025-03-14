@@ -2,5 +2,6 @@ description:Cashanova (Mazooma) (Scorpion 4) (set 6)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cashm
 cloneof:sc4cashm

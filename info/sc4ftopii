@@ -2,5 +2,6 @@ description:Fruitopia (V1.1) (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4ftopi
 cloneof:sc4ftopi

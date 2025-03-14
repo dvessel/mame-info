@@ -2,6 +2,7 @@ description:Starblade (ST1, Japan)
 manufacturer:Namco
 year:1991
 status:imperfect
+kind:coinop
 device:namcoc68
 device:namcoc67
 romof:starblad

@@ -2,5 +2,6 @@ description:Side Pocket (Japan, Cocktail)
 manufacturer:Data East Corporation
 year:1986
 status:good
+kind:coinop
 romof:sidepckt
 cloneof:sidepckt

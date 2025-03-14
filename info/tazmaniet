@@ -2,5 +2,6 @@ description:Tazz-Mania - El Trompa (U.R.V. BBCPE bootleg)
 manufacturer:bootleg (U.R.V. BBCPE)
 year:1982
 status:preliminary
+kind:coinop
 romof:tazmania
 cloneof:tazmania

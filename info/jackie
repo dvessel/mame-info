@@ -2,4 +2,5 @@ description:Happy Jackie (v110U)
 manufacturer:IGS
 year:1993
 status:good
+kind:coinop
 device:ym2413

@@ -2,6 +2,7 @@ description:Spiker (earliest?)
 manufacturer:Bally/Sente
 year:1986
 status:good
+kind:coinop
 device:sente6vb
 romof:spiker
 cloneof:spiker

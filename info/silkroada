@@ -2,5 +2,6 @@ description:The Legend of Silkroad (larger ROMs)
 manufacturer:Unico
 year:1999
 status:good
+kind:coinop
 romof:silkroad
 cloneof:silkroad

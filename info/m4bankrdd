@@ -3,5 +3,6 @@ manufacturer:Empire
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4bankrd
 cloneof:m4bankrd

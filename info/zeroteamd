@@ -2,5 +2,6 @@ description:Zero Team (Korea)
 manufacturer:Seibu Kaihatsu (Dream Soft license)
 year:1993
 status:preliminary
+kind:coinop
 romof:zeroteam
 cloneof:zeroteam

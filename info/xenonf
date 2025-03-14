@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:xenon
 cloneof:xenon
 sampleof:genpin

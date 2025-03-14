@@ -2,5 +2,6 @@ description:Tecmo Bowl (World, prototype?)
 manufacturer:Tecmo
 year:1987
 status:good
+kind:coinop
 romof:tbowl
 cloneof:tbowl

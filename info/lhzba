@@ -2,5 +2,6 @@ description:Long Hu Zhengba (China, VS105M, set 2)
 manufacturer:IGS
 year:1998
 status:preliminary
+kind:coinop
 romof:lhzb
 cloneof:lhzb

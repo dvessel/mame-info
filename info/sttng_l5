@@ -3,5 +3,6 @@ manufacturer:Williams
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sttng_l7
 cloneof:sttng_l7

@@ -2,6 +2,7 @@ description:Noukone Puzzle Takoron (Japan) (GDL-0042)
 manufacturer:Compile Heart
 year:2006
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

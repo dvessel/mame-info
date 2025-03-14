@@ -3,5 +3,6 @@ manufacturer:Gemini
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4surf
 cloneof:m4surf

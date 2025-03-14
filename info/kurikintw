@@ -2,5 +2,6 @@ description:Kuri Kinton (US, World Games license)
 manufacturer:Taito Corporation (World Games, Inc. license)
 year:1988
 status:good
+kind:coinop
 romof:kurikint
 cloneof:kurikint

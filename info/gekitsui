@@ -2,5 +2,6 @@ description:Gekitsui Oh (Japan)
 manufacturer:Data East Corporation
 year:1985
 status:preliminary
+kind:coinop
 romof:zerotrgt
 cloneof:zerotrgt

@@ -2,5 +2,6 @@ description:Midnight Resistance (World, set 2)
 manufacturer:Data East Corporation
 year:1989
 status:imperfect
+kind:coinop
 romof:midres
 cloneof:midres

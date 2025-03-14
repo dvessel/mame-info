@@ -2,5 +2,6 @@ description:DrumMania V (E02:A:A:A:2005050200)
 manufacturer:Konami
 year:2005
 status:preliminary
+kind:coinop
 romof:kpython2
 disk:e02_aaa_2005050201

@@ -2,5 +2,6 @@ description:Cash Inferno (BWB) (Release 4, 20p Switchable 20p/10p/5p, All - Cash
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4cshinf
 cloneof:v4cshinf

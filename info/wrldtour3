@@ -3,6 +3,7 @@ manufacturer:Alvin G
 year:1992
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:wrldtour
 cloneof:wrldtour

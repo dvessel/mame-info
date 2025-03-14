@@ -2,5 +2,6 @@ description:Trojan (bootleg)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:trojan
 cloneof:trojan

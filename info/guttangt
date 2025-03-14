@@ -2,5 +2,6 @@ description:Guttang Gottong (bootleg on Galaxian hardware)
 manufacturer:bootleg (Recreativos Franco?)
 year:1982
 status:imperfect
+kind:coinop
 romof:locomotn
 cloneof:locomotn

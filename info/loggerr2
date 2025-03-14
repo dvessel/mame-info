@@ -2,5 +2,6 @@ description:Logger (Rev.2)
 manufacturer:Century Electronics (Enter-Tech, Ltd. license)
 year:1982
 status:imperfect
+kind:coinop
 romof:logger
 cloneof:logger

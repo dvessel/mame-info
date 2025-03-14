@@ -2,6 +2,7 @@ description:Mega Blast (Japan)
 manufacturer:Taito Corporation
 year:1989
 status:good
+kind:coinop
 device:cchip
 romof:megablst
 cloneof:megablst

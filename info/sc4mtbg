@@ -2,5 +2,6 @@ description:Money To Burn (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4mtb
 cloneof:sc4mtb

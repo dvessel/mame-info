@@ -2,5 +2,6 @@ description:Domino Block ver.2
 manufacturer:Wonwoo Systems
 year:1996
 status:good
+kind:coinop
 romof:dominob
 cloneof:dominob

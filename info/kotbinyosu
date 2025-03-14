@@ -2,6 +2,7 @@ description:Speed Up / Kkotbinyeo (Korea)
 manufacturer:Dynax / Shinwhajin
 year:1997
 status:preliminary
+kind:coinop
 device:ym2413
 romof:hanakanz
 cloneof:hanakanz

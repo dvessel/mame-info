@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:radcl_l1
 cloneof:radcl_l1
 sampleof:genpin

@@ -2,5 +2,6 @@ description:Brick Zone (v5.0, Joystick)
 manufacturer:SunA
 year:1992
 status:good
+kind:coinop
 romof:brickzn
 cloneof:brickzn

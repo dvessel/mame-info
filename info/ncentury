@@ -2,5 +2,6 @@ description:New Century (Spanish bootleg of Scramble)
 manufacturer:bootleg (Petaco S.A.)
 year:1981
 status:preliminary
+kind:coinop
 romof:scramble
 cloneof:scramble

@@ -2,5 +2,6 @@ description:Arabian (Atari)
 manufacturer:Sun Electronics (Atari license)
 year:1983
 status:good
+kind:coinop
 romof:arabian
 cloneof:arabian

@@ -2,5 +2,6 @@ description:Alien Storm (Japan, 2 Players) (bootleg of FD1094 317-0146 set)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:astorm
 cloneof:astorm

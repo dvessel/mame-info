@@ -2,6 +2,7 @@ description:Mechanized Attack (US)
 manufacturer:SNK
 year:1989
 status:good
+kind:coinop
 device:ym2608
 romof:mechatt
 cloneof:mechatt

@@ -2,5 +2,6 @@ description:Rygar (US set 3 Old Version)
 manufacturer:Tecmo
 year:1986
 status:good
+kind:coinop
 romof:rygar
 cloneof:rygar

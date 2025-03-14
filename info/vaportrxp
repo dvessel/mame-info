@@ -2,6 +2,7 @@ description:Vapor TRX (GUTS Apr 10 1998 / MAIN Apr 10 1998)
 manufacturer:Atari Games
 year:1998
 status:good
+kind:coinop
 romof:vaportrx
 cloneof:vaportrx
 disk:vaportrp

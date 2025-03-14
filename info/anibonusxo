@@ -2,5 +2,6 @@ description:Animal Bonus (Version 1.50XT)
 manufacturer:Amcoe
 year:2003
 status:good
+kind:coinop
 romof:anibonus
 cloneof:anibonus

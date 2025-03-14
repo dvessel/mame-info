@@ -2,5 +2,6 @@ description:Wonder Boy Deluxe
 manufacturer:hack (Vision Electronics)
 year:1986
 status:good
+kind:coinop
 romof:wboy
 cloneof:wboy

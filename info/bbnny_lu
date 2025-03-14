@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bbnny_l2
 cloneof:bbnny_l2
 sampleof:genpin

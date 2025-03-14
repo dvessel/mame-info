@@ -2,5 +2,6 @@ description:Ms. Pac-Man (Novatronic bootleg)
 manufacturer:bootleg (Novatronic)
 year:1981
 status:good
+kind:coinop
 romof:mspacman
 cloneof:mspacman

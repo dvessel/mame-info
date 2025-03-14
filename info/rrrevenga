@@ -2,5 +2,6 @@ description:Road Riot's Revenge (prototype, Jan 27, 1994, set 1)
 manufacturer:Atari Games
 year:1993
 status:preliminary
+kind:coinop
 romof:rrreveng
 cloneof:rrreveng

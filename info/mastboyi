@@ -2,5 +2,6 @@ description:Master Boy (Italian, rev A, set 1)
 manufacturer:Gaelco (Playmark license)
 year:1991
 status:good
+kind:coinop
 romof:mastboy
 cloneof:mastboy

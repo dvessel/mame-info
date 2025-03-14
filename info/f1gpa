@@ -2,5 +2,6 @@ description:F-1 Grand Prix (set 2)
 manufacturer:Video System Co.
 year:1991
 status:good
+kind:coinop
 romof:f1gp
 cloneof:f1gp

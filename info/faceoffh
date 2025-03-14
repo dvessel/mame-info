@@ -3,5 +3,6 @@ manufacturer:SoftLogic (Entertainment Enterprises, Ltd. license)
 year:1983
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:chexx83
 cloneof:chexx83

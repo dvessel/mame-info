@@ -3,5 +3,6 @@ manufacturer:Leisurama
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4stakex
 cloneof:m4stakex

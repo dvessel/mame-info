@@ -2,6 +2,7 @@ description:Cliff Hanger (set 2)
 manufacturer:Stern Electronics
 year:1983
 status:good
+kind:coinop
 device:pr8210
 romof:cliffhgr
 cloneof:cliffhgr

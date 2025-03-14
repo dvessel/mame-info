@@ -2,6 +2,7 @@ description:Brave Blade (Asia)
 manufacturer:Eighting / Raizing
 year:2000
 status:imperfect
+kind:coinop
 romof:brvblade
 romof:coh1002m
 cloneof:brvblade

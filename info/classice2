@@ -2,5 +2,6 @@ description:Classic Edition (Version 1.6LT, set 1)
 manufacturer:Amcoe
 year:2004
 status:good
+kind:coinop
 romof:classice
 cloneof:classice

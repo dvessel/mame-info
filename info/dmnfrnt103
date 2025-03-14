@@ -2,6 +2,7 @@ description:Demon Front / Moyu Zhanxian (68k label V103, ROM M103XX 07/05/02) (A
 manufacturer:IGS
 year:2002
 status:imperfect
+kind:coinop
 romof:dmnfrnt
 romof:pgm
 cloneof:dmnfrnt

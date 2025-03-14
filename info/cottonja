@@ -2,5 +2,6 @@ description:Cotton (set 1, Japan, Rev A) (FD1094 317-0179a)
 manufacturer:Success / Sega
 year:1991
 status:good
+kind:coinop
 romof:cotton
 cloneof:cotton

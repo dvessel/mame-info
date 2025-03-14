@@ -2,6 +2,7 @@ description:Beta Force
 manufacturer:bootleg (Omni)
 year:1980?
 status:imperfect
+kind:coinop
 romof:kamikaze
 cloneof:kamikaze
 sampleof:invaders

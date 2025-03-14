@@ -2,5 +2,6 @@ description:Painter (hack of Crush Roller)
 manufacturer:hack (Monshine Ent. Co.)
 year:1984
 status:imperfect
+kind:coinop
 romof:crush
 cloneof:crush

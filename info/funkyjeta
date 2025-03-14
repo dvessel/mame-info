@@ -2,5 +2,6 @@ description:Funky Jet (World)
 manufacturer:Mitchell
 year:1992
 status:imperfect
+kind:coinop
 romof:funkyjet
 cloneof:funkyjet

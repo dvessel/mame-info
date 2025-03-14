@@ -2,6 +2,7 @@ description:Surf Planet (version 4.0)
 manufacturer:Gaelco (Atari license)
 year:1997
 status:imperfect
+kind:coinop
 device:tms32031
 romof:surfplnt
 cloneof:surfplnt

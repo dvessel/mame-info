@@ -2,5 +2,6 @@ description:Aliens (World set 2)
 manufacturer:Konami
 year:1990
 status:good
+kind:coinop
 romof:aliens
 cloneof:aliens

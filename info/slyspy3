@@ -2,5 +2,6 @@ description:Sly Spy (US, revision 3)
 manufacturer:Data East USA
 year:1989
 status:imperfect
+kind:coinop
 romof:secretag
 cloneof:secretag

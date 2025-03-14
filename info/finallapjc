@@ -2,6 +2,7 @@ description:Final Lap (Japan, Rev C)
 manufacturer:Namco
 year:1987
 status:imperfect
+kind:coinop
 device:namcoc65
 romof:finallap
 cloneof:finallap

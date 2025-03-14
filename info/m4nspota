@@ -3,6 +3,7 @@ manufacturer:Barcrest
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:m4nspot
 cloneof:m4nspot

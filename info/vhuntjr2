@@ -2,6 +2,7 @@ description:Vampire Hunter: Darkstalkers' Revenge (Japan 950302)
 manufacturer:Capcom
 year:1995
 status:good
+kind:coinop
 device:qsound_hle
 romof:nwarr
 cloneof:nwarr

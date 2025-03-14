@@ -2,6 +2,7 @@ description:Escape from Mars (bootleg of Lunar Rescue)
 manufacturer:bootleg
 year:1980
 status:imperfect
+kind:coinop
 romof:lrescue
 cloneof:lrescue
 sampleof:lrescue

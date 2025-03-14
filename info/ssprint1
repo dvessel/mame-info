@@ -2,5 +2,6 @@ description:Super Sprint (rev 1)
 manufacturer:Atari Games
 year:1986
 status:good
+kind:coinop
 romof:ssprint
 cloneof:ssprint

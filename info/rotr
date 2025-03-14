@@ -2,5 +2,6 @@ description:Rise of the Robots (prototype)
 manufacturer:BFM/Mirage
 year:1994
 status:good
+kind:coinop
 device:tms32031
 disk:rotr

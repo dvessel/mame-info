@@ -2,5 +2,6 @@ description:Piranha (hack)
 manufacturer:hack
 year:1981
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

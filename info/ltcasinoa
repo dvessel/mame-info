@@ -2,5 +2,6 @@ description:Little Casino (set 2)
 manufacturer:Digital Controls Inc.
 year:1982
 status:good
+kind:coinop
 romof:ltcasino
 cloneof:ltcasino

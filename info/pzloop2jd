@@ -2,6 +2,7 @@ description:Puzz Loop 2 (Japan 010226 Phoenix Edition) (bootleg)
 manufacturer:bootleg
 year:2001
 status:good
+kind:coinop
 device:qsound_hle
 romof:pzloop2
 cloneof:pzloop2

@@ -2,5 +2,6 @@ description:Rod-Land (Japan)
 manufacturer:Jaleco
 year:1990
 status:good
+kind:coinop
 romof:rodland
 cloneof:rodland

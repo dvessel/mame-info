@@ -2,5 +2,6 @@ description:Three Wonders (USA 910520)
 manufacturer:Capcom
 year:1991
 status:good
+kind:coinop
 romof:3wonders
 cloneof:3wonders

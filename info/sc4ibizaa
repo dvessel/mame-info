@@ -2,5 +2,6 @@ description:Red Hot Ibiza (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4ibiza
 cloneof:sc4ibiza

@@ -2,5 +2,6 @@ description:The Pit (US set 3)
 manufacturer:Zilec Electronics (Centuri license)
 year:1982
 status:good
+kind:coinop
 romof:thepit
 cloneof:thepit

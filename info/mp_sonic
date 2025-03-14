@@ -2,4 +2,5 @@ description:Sonic The Hedgehog (Mega Play)
 manufacturer:Sega
 year:1993
 status:imperfect
+kind:coinop
 romof:megaplay

@@ -3,5 +3,6 @@ manufacturer:Barcrest
 year:198?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m3sweep
 cloneof:m3sweep

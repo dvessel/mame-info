@@ -2,5 +2,6 @@ description:NBA Jam (rev 2.00 2/10/93)
 manufacturer:Midway
 year:1993
 status:good
+kind:coinop
 romof:nbajam
 cloneof:nbajam

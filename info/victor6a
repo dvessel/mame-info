@@ -2,5 +2,6 @@ description:Victor 6 (v2.3)
 manufacturer:American Alpha
 year:1995
 status:good
+kind:coinop
 romof:victor6
 cloneof:victor6

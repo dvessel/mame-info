@@ -2,6 +2,7 @@ description:beatmania IIDX with DDR 2nd Club Version (896 JAA)
 manufacturer:Konami
 year:1999
 status:preliminary
+kind:coinop
 romof:bmiidxc
 romof:gq863
 cloneof:bmiidxc

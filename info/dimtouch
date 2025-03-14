@@ -2,5 +2,6 @@ description:Diamond Touch (0400433V, NSW/ACT)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+kind:coinop
 device:microtouch
 romof:aristmk5

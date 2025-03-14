@@ -2,6 +2,7 @@ description:Pang (bootleg, set 7)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 device:ym2413
 romof:pang
 cloneof:pang

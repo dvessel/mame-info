@@ -2,6 +2,7 @@ description:Wangan Midnight Maximum Tune (Export, Rev B) (GDX-0009B)
 manufacturer:Namco
 year:2004
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

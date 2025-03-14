@@ -2,5 +2,6 @@ description:Mutacion (Explomatic Spanish bootleg of Moon Cresta)
 manufacturer:bootleg (Explomatic)
 year:1980?
 status:preliminary
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

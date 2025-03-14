@@ -2,5 +2,6 @@ description:SDI - Strategic Defense Initiative (bootleg, set 4)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:sdi
 cloneof:sdi

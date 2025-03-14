@@ -2,6 +2,7 @@ description:Border Down (Rev A) (GDL-0023A)
 manufacturer:G.Rev
 year:2003
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

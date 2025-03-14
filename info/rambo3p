@@ -2,5 +2,6 @@ description:Rambo III (Europe, Proto?)
 manufacturer:Taito Europe Corporation
 year:1989
 status:good
+kind:coinop
 romof:rambo3
 cloneof:rambo3

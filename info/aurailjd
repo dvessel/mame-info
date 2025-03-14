@@ -2,5 +2,6 @@ description:Aurail (set 1, Japan) (bootleg of FD1089A 317-0167 set)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:aurail
 cloneof:aurail

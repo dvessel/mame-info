@@ -2,5 +2,6 @@ description:Pop'n Run - The Videogame (set 2)
 manufacturer:Seibu Kaihatsu / Yukai Tsukai
 year:1987
 status:preliminary
+kind:coinop
 romof:popnrun
 cloneof:popnrun

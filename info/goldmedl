@@ -2,4 +2,5 @@ description:Gold Medalist (set 1, Alpha68k II PCB)
 manufacturer:SNK
 year:1988
 status:imperfect
+kind:coinop
 device:ym2413

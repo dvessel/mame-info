@@ -2,6 +2,7 @@ description:World Heroes (set 3)
 manufacturer:Alpha Denshi Co.
 year:1992
 status:good
+kind:coinop
 romof:wh1
 romof:neogeo
 cloneof:wh1

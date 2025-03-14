@@ -2,5 +2,6 @@ description:Cherry Master (Watermelon bootleg / hack)
 manufacturer:Dyna
 year:199?
 status:good
+kind:coinop
 romof:cmv4
 cloneof:cmv4

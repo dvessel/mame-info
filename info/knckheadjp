@@ -2,6 +2,7 @@ description:Knuckle Heads (Japan, Prototype?)
 manufacturer:Namco
 year:1992
 status:good
+kind:coinop
 device:namcoc70
 romof:knckhead
 cloneof:knckhead

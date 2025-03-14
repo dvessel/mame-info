@@ -2,6 +2,7 @@ description:Guitar Freaks V3 (F33:J:A:A:2006072600)
 manufacturer:Konami
 year:2006
 status:preliminary
+kind:coinop
 romof:gtrfrkv3j
 romof:kpython2
 cloneof:gtrfrkv3j

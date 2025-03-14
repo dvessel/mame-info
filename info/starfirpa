@@ -3,6 +3,7 @@ manufacturer:Playmatic
 year:1985
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:starfirp
 cloneof:starfirp
 sampleof:genpin

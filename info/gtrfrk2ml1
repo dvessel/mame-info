@@ -2,6 +2,7 @@ description:Guitar Freaks 2nd Mix Link Kit 1 (GE929 VER. JAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 device:k573mcr
 romof:gtrfrk2m
 romof:sys573

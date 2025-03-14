@@ -2,5 +2,6 @@ description:P-47: The Freedom Fighter (World, bootleg)
 manufacturer:bootleg
 year:1988
 status:good
+kind:coinop
 romof:p47
 cloneof:p47

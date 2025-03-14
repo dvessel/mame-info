@@ -2,5 +2,6 @@ description:Botanic (English / Spanish, Bagman conversion)
 manufacturer:Itisa
 year:1983
 status:good
+kind:coinop
 romof:botanic
 cloneof:botanic

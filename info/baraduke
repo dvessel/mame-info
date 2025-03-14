@@ -2,5 +2,6 @@ description:Baraduke
 manufacturer:Namco
 year:1985
 status:good
+kind:coinop
 romof:aliensec
 cloneof:aliensec

@@ -2,5 +2,6 @@ description:The Couples (set 2)
 manufacturer:bootleg
 year:1988
 status:good
+kind:coinop
 romof:matchem
 cloneof:matchem

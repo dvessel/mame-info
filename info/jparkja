@@ -2,5 +2,6 @@ description:Jurassic Park (Japan, Deluxe)
 manufacturer:Sega
 year:1993
 status:imperfect
+kind:coinop
 romof:jpark
 cloneof:jpark

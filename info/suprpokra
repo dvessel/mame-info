@@ -2,5 +2,6 @@ description:Super Poker (Version 10.15S)
 manufacturer:Grayhound Electronics
 year:1986
 status:imperfect
+kind:coinop
 romof:suprpokr
 cloneof:suprpokr

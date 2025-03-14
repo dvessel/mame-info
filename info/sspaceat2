@@ -2,5 +2,6 @@ description:Space Attack (upright set 2)
 manufacturer:Sega
 year:1979
 status:preliminary
+kind:coinop
 romof:sspaceat
 cloneof:sspaceat

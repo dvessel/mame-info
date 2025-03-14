@@ -2,6 +2,7 @@ description:Champion Italian Cup (bootleg V220IT)
 manufacturer:bootleg (SGS)
 year:199?
 status:good
+kind:coinop
 device:ym2413
 romof:cpokerpk
 cloneof:cpokerpk

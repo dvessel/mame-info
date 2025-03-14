@@ -2,6 +2,7 @@ description:Death Crimson OX (Japan)
 manufacturer:Ecole Software
 year:2000
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:deathcox

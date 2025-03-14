@@ -2,5 +2,6 @@ description:Casino Money Spider (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4mspid
 cloneof:sc4mspid

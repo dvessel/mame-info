@@ -2,5 +2,6 @@ description:Mahjong Ryukobou (Japan, V030J)
 manufacturer:IGS / Alta
 year:1995
 status:good
+kind:coinop
 romof:lhb
 cloneof:lhb

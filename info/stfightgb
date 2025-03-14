@@ -2,6 +2,7 @@ description:Street Fight (Germany - Benelux)
 manufacturer:Seibu Kaihatsu (Tuning license)
 year:1986
 status:imperfect
+kind:coinop
 device:m68705p5
 romof:empcity
 cloneof:empcity

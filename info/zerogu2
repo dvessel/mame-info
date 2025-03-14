@@ -2,6 +2,7 @@ description:Zero Gunner 2
 manufacturer:Psikyo
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi

@@ -2,5 +2,6 @@ description:Tetris (bartop, prototype)
 manufacturer:Atari Games
 year:1989
 status:good
+kind:coinop
 romof:atetris
 cloneof:atetris

@@ -2,5 +2,6 @@ description:Phoenix (Amstar, set 2)
 manufacturer:Amstar
 year:1980
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

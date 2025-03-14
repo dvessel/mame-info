@@ -2,5 +2,6 @@ description:DJ Boy (US, set 1)
 manufacturer:Kaneko (American Sammy license)
 year:1990
 status:good
+kind:coinop
 romof:djboy
 cloneof:djboy

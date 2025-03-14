@@ -2,6 +2,7 @@ description:Marble Madness (set 4)
 manufacturer:Atari Games
 year:1984
 status:good
+kind:coinop
 romof:marble
 romof:atarisy1
 cloneof:marble

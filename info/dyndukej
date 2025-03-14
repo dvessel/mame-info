@@ -2,5 +2,6 @@ description:Dynamite Duke (Japan, 03SEP89)
 manufacturer:Seibu Kaihatsu
 year:1989
 status:good
+kind:coinop
 romof:dynduke
 cloneof:dynduke

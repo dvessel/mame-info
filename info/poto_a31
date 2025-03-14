@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:poto_a32
 cloneof:poto_a32
 sampleof:genpin

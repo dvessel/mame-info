@@ -2,5 +2,6 @@ description:Super Draw Poker (bootleg)
 manufacturer:bootleg
 year:1983
 status:good
+kind:coinop
 romof:supdrapo
 cloneof:supdrapo

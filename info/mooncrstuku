@@ -2,5 +2,6 @@ description:Moon Cresta (Nichibutsu UK, unencrypted)
 manufacturer:Nichibutsu UK
 year:1980
 status:good
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

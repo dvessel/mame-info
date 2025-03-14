@@ -2,5 +2,6 @@ description:Time Pilot '84 (set 3)
 manufacturer:Konami
 year:1984
 status:good
+kind:coinop
 romof:tp84
 cloneof:tp84

@@ -2,6 +2,7 @@ description:Time Crisis (World, TS2 Ver.A)
 manufacturer:Namco
 year:1996
 status:imperfect
+kind:coinop
 device:namcoc71
 romof:timecris
 cloneof:timecris

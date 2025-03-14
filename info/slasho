@@ -2,6 +2,7 @@ description:Slashout
 manufacturer:Sega
 year:2000
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi

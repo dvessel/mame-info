@@ -2,5 +2,6 @@ description:Player's Edge Plus (PP0051) Joker Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+kind:coinop
 romof:pepp0048
 cloneof:pepp0048

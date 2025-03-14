@@ -2,6 +2,7 @@ description:Capcom Vs. SNK 2: Mark Of The Millennium 2001 (USA) (GDL-0008)
 manufacturer:Capcom / SNK
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

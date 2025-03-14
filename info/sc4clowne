@@ -2,5 +2,6 @@ description:Clown Around (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4clown
 cloneof:sc4clown

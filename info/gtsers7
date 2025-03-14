@@ -2,5 +2,6 @@ description:Trivia (Questions Series 7)
 manufacturer:Greyhound Electronics
 year:1984
 status:imperfect
+kind:coinop
 romof:gtsers1
 cloneof:gtsers1

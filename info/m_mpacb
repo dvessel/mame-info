@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1982
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m_mpac
 cloneof:m_mpac
 sampleof:genpin

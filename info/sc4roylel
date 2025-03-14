@@ -2,5 +2,6 @@ description:Royle Family (REV 2) (Bellfruit) (Scorpion 4) (set 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4royle
 cloneof:sc4royle

@@ -2,5 +2,6 @@ description:Tetris Plus 2 (ver 1.0, MegaSystem 32 Version)
 manufacturer:Jaleco
 year:1997
 status:imperfect
+kind:coinop
 romof:tetrisp2
 cloneof:tetrisp2

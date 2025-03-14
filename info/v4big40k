@@ -2,5 +2,6 @@ description:Big 40 Poker (BWB) (S_Site Data) (MPU4 Video)
 manufacturer:BWB
 year:1996
 status:preliminary
+kind:coinop
 romof:v4big40
 cloneof:v4big40

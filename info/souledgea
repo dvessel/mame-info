@@ -2,6 +2,7 @@ description:Soul Edge (World, SO2/VER.A)
 manufacturer:Namco
 year:1995
 status:imperfect
+kind:coinop
 device:namcoc76
 romof:souledge
 cloneof:souledge

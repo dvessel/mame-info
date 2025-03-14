@@ -2,5 +2,6 @@ description:1945k III (older, OPCX1 PCB)
 manufacturer:Oriental Soft
 year:1999
 status:good
+kind:coinop
 romof:1945kiii
 cloneof:1945kiii

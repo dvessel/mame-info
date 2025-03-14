@@ -2,5 +2,6 @@ description:T.T Defender
 manufacturer:Williams (Taito Corporation license)
 year:1980
 status:good
+kind:coinop
 romof:defender
 cloneof:defender

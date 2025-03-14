@@ -2,5 +2,6 @@ description:US AAF Mustang (bootleg, set 1)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:mustang
 cloneof:mustang

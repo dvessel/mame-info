@@ -2,4 +2,5 @@ description:Zoo Keeper (set 1)
 manufacturer:Taito America Corporation
 year:1982
 status:good
+kind:coinop
 device:m68705p3

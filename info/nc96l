@@ -2,5 +2,6 @@ description:New Cherry '96 (v3.0, A PCB)
 manufacturer:Amcoe
 year:1996
 status:good
+kind:coinop
 romof:nc96
 cloneof:nc96

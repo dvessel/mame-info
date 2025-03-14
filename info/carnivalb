@@ -2,6 +2,7 @@ description:Carnival (upright, PIT8253 music)
 manufacturer:Sega
 year:1980
 status:imperfect
+kind:coinop
 romof:carnival
 cloneof:carnival
 sampleof:carnival

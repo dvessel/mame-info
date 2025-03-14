@@ -2,5 +2,6 @@ description:Cadillacs and Dinosaurs (bootleg with PIC16C57, set 2)
 manufacturer:bootleg
 year:1993
 status:preliminary
+kind:coinop
 romof:dino
 cloneof:dino

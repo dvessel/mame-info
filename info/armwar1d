@@ -2,6 +2,7 @@ description:Armored Warriors (Europe 941011 Phoenix Edition) (bootleg)
 manufacturer:bootleg
 year:1994
 status:good
+kind:coinop
 device:qsound_hle
 romof:armwar
 cloneof:armwar

@@ -2,5 +2,6 @@ description:Lovely Poker
 manufacturer:Tehkan
 year:1985
 status:good
+kind:coinop
 romof:lvcards
 cloneof:lvcards

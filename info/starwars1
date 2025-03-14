@@ -2,5 +2,6 @@ description:Star Wars (set 2)
 manufacturer:Atari
 year:1983
 status:good
+kind:coinop
 romof:starwars
 cloneof:starwars

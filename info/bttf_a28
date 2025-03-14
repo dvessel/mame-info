@@ -3,4 +3,5 @@ manufacturer:Data East
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 sampleof:genpin

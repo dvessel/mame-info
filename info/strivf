@@ -2,5 +2,6 @@ description:Super Triv (French questions)
 manufacturer:Nova du Canada
 year:1985
 status:imperfect
+kind:coinop
 romof:striv
 cloneof:striv

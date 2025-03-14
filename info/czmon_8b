@@ -2,5 +2,6 @@ description:Crazy Monkey (bootleg, 050120, changed version text)
 manufacturer:bootleg
 year:2003
 status:good
+kind:coinop
 romof:czmon_13
 cloneof:czmon_13

@@ -2,5 +2,6 @@ description:Gaplus (GP2 rev. B)
 manufacturer:Namco
 year:1984
 status:imperfect
+kind:coinop
 device:namco62
 sampleof:gaplus

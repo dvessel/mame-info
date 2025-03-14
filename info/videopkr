@@ -2,5 +2,6 @@ description:Video Poker
 manufacturer:InterFlip
 year:1984
 status:good
+kind:coinop
 romof:fortune1
 cloneof:fortune1

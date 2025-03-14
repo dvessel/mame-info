@@ -2,5 +2,6 @@ description:Dambusters (UK)
 manufacturer:South West Research
 year:1981
 status:good
+kind:coinop
 romof:dambustr
 cloneof:dambustr

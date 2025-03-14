@@ -2,5 +2,6 @@ description:Hero in the Castle of Doom (DK conversion)
 manufacturer:Seatongrove UK, Ltd. (Crown license)
 year:1984
 status:good
+kind:coinop
 romof:hero
 cloneof:hero

@@ -2,5 +2,6 @@ description:Street Fighter II: The World Warrior (Quicken, bootleg)
 manufacturer:bootleg
 year:1991
 status:good
+kind:coinop
 romof:sf2
 cloneof:sf2

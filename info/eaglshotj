@@ -2,5 +2,6 @@ description:Eagle Shot Golf (Japan, bootleg?)
 manufacturer:Sammy
 year:1994
 status:imperfect
+kind:coinop
 romof:eaglshot
 cloneof:eaglshot

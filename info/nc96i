@@ -2,5 +2,6 @@ description:New Cherry '96 Special Edition (v3.55, C1 PCB)
 manufacturer:Amcoe
 year:1996
 status:good
+kind:coinop
 romof:nc96
 cloneof:nc96

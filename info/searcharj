@@ -2,5 +2,6 @@ description:SAR - Search And Rescue (Japan version 3)
 manufacturer:SNK
 year:1989
 status:good
+kind:coinop
 romof:searchar
 cloneof:searchar

@@ -2,5 +2,6 @@ description:Grand Champion (set 2)
 manufacturer:Taito
 year:1981
 status:preliminary
+kind:coinop
 romof:grchamp
 cloneof:grchamp

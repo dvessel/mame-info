@@ -2,5 +2,6 @@ description:Joe &amp; Mac Returns (Japan, Version 1.2, 1994.06.06)
 manufacturer:Data East Corporation
 year:1994
 status:good
+kind:coinop
 romof:joemacr
 cloneof:joemacr

@@ -2,6 +2,7 @@ description:F/A (Japan)
 manufacturer:Namco
 year:1992
 status:good
+kind:coinop
 device:namcoc69
 romof:fghtatck
 cloneof:fghtatck

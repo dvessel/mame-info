@@ -2,5 +2,6 @@ description:Chopper I (US)
 manufacturer:SNK
 year:1988
 status:good
+kind:coinop
 romof:chopper
 cloneof:chopper

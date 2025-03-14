@@ -2,5 +2,6 @@ description:Bubble Bobble (US, Ver 5.1)
 manufacturer:Taito America Corporation (Romstar license)
 year:1986
 status:good
+kind:coinop
 romof:bublbobl
 cloneof:bublbobl

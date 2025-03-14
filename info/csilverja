@@ -2,5 +2,6 @@ description:Captain Silver (Japan, revision 1)
 manufacturer:Data East Corporation
 year:1987
 status:good
+kind:coinop
 romof:csilver
 cloneof:csilver

@@ -2,4 +2,5 @@ description:Saturday Night Slam Masters (World 930713)
 manufacturer:Capcom
 year:1993
 status:good
+kind:coinop
 device:qsound_hle

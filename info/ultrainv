@@ -2,5 +2,6 @@ description:Ultra Invaders
 manufacturer:Taito / Konami
 year:1980
 status:good
+kind:coinop
 romof:invaders
 cloneof:invaders

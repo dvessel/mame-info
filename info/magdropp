@@ -2,5 +2,6 @@ description:Magical Drop Plus 1 (Japan, Version 2.1, 1995.09.12)
 manufacturer:Data East Corporation
 year:1995
 status:good
+kind:coinop
 romof:chainrec
 cloneof:chainrec

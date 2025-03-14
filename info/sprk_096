@@ -3,6 +3,7 @@ manufacturer:Sega
 year:1999
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:sprk_103
 cloneof:sprk_103

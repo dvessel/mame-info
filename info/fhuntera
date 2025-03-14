@@ -2,6 +2,7 @@ description:Fortune Hunter (2XF5196I02, US)
 manufacturer:Aristocrat
 year:1996
 status:good
+kind:coinop
 romof:fhunter
 cloneof:fhunter
 sampleof:3bagfull

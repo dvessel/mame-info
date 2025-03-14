@@ -2,5 +2,6 @@ description:Hex Pool (Senko)
 manufacturer:Senko Industries
 year:1985
 status:good
+kind:coinop
 romof:racknrol
 cloneof:racknrol

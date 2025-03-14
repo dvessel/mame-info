@@ -2,5 +2,6 @@ description:Puzz Ball (Japan, PZB1 Ver.A)
 manufacturer:Namco
 year:2002
 status:preliminary
+kind:coinop
 romof:puzzball
 cloneof:puzzball

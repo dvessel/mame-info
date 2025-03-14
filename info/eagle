@@ -2,5 +2,6 @@ description:Eagle (set 1)
 manufacturer:Nichibutsu (Centuri license)
 year:1980
 status:good
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

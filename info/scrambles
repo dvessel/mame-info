@@ -2,5 +2,6 @@ description:Scramble (Stern Electronics, set 1)
 manufacturer:Konami (Stern Electronics license)
 year:1981
 status:good
+kind:coinop
 romof:scramble
 cloneof:scramble

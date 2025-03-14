@@ -2,5 +2,6 @@ description:Magic Bomb (Ver. AB4.5A, 07/10/02S)
 manufacturer:Astro Corp.
 year:2002
 status:preliminary
+kind:coinop
 romof:magibomb
 cloneof:magibomb

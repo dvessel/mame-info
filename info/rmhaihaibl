@@ -2,5 +2,6 @@ description:Real Mahjong Haihai (Japan, bootleg)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:rmhaihai
 cloneof:rmhaihai

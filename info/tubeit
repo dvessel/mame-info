@@ -2,5 +2,6 @@ description:Tube-It
 manufacturer:bootleg
 year:1993
 status:good
+kind:coinop
 romof:cachat
 cloneof:cachat

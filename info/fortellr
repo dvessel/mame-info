@@ -2,4 +2,5 @@ description:Fortune Teller (01J00131, NSW/ACT)
 manufacturer:Aristocrat
 year:2000
 status:preliminary
+kind:coinop
 romof:aristmk5

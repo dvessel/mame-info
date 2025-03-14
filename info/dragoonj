@@ -2,6 +2,7 @@ description:Dragoon Might (ver JAA)
 manufacturer:Konami
 year:1995
 status:imperfect
+kind:coinop
 romof:dragoona
 romof:konamigx
 cloneof:dragoona

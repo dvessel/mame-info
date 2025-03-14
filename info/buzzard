@@ -2,5 +2,6 @@ description:Buzzard
 manufacturer:Crux
 year:1984
 status:good
+kind:coinop
 romof:gyrodine
 cloneof:gyrodine

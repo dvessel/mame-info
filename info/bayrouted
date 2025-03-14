@@ -2,5 +2,6 @@ description:Bay Route (set 3, World) (bootleg of FD1094 317-0116 set)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:bayroute
 cloneof:bayroute

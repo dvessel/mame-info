@@ -2,5 +2,6 @@ description:Lucky Coin (Jun 24 2002)
 manufacturer:Astro Corp.
 year:2002
 status:good
+kind:coinop
 romof:skilldrp
 cloneof:skilldrp

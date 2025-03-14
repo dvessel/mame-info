@@ -2,5 +2,6 @@ description:New Quiz (Modular System bootleg of Gals Panic)
 manufacturer:bootleg (Kaenko)
 year:1991
 status:preliminary
+kind:coinop
 romof:galsnew
 cloneof:galsnew

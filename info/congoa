@@ -2,6 +2,7 @@ description:Congo Bongo (Rev C, 3 board stack)
 manufacturer:Sega
 year:1983
 status:imperfect
+kind:coinop
 romof:congo
 cloneof:congo
 sampleof:congo

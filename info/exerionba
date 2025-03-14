@@ -2,5 +2,6 @@ description:Exerion (Assa, bootleg)
 manufacturer:bootleg (Assa)
 year:1983
 status:good
+kind:coinop
 romof:exerion
 cloneof:exerion

@@ -3,5 +3,7 @@ manufacturer:Sonic
 year:1978
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bigtown
 cloneof:bigtown
+sampleof:genpin

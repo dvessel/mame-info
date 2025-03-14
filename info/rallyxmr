@@ -2,6 +2,7 @@ description:Rally X (Model Racing bootleg)
 manufacturer:bootleg (Model Racing)
 year:1980
 status:imperfect
+kind:coinop
 romof:rallyx
 cloneof:rallyx
 sampleof:rallyx

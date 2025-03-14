@@ -2,5 +2,6 @@ description:Yamato (US)
 manufacturer:Sega
 year:1983
 status:good
+kind:coinop
 romof:yamato
 cloneof:yamato

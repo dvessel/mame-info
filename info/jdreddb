@@ -2,6 +2,7 @@ description:Judge Dredd (Rev B Nov. 26 1997)
 manufacturer:Acclaim
 year:1996
 status:imperfect
+kind:coinop
 romof:jdredd
 romof:coh1000a
 cloneof:jdredd

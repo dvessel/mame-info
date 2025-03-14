@@ -2,6 +2,7 @@ description:G.E.A.
 manufacturer:Subsino
 year:1991
 status:good
+kind:coinop
 device:ym2413
 romof:victor5
 cloneof:victor5

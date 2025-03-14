@@ -2,5 +2,6 @@ description:Thunder Cross (set 3)
 manufacturer:Konami
 year:1988
 status:good
+kind:coinop
 romof:thunderx
 cloneof:thunderx

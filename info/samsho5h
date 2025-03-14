@@ -2,6 +2,7 @@ description:Samurai Shodown V / Samurai Spirits Zero (NGH-2700)
 manufacturer:Yuki Enterprise / SNK Playmore
 year:2003
 status:good
+kind:coinop
 romof:samsho5
 romof:neogeo
 cloneof:samsho5

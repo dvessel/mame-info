@@ -2,5 +2,6 @@ description:Tiger Road (US, Romstar license)
 manufacturer:Capcom (Romstar license)
 year:1987
 status:good
+kind:coinop
 romof:tigeroad
 cloneof:tigeroad

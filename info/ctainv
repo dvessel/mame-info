@@ -2,5 +2,6 @@ description:CTA Invader
 manufacturer:bootleg (CTA Corporation)
 year:19??
 status:preliminary
+kind:coinop
 romof:beaminv
 cloneof:beaminv

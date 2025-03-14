@@ -2,5 +2,6 @@ description:Robocop 2 (US v0.05)
 manufacturer:Data East Corporation
 year:1991
 status:imperfect
+kind:coinop
 romof:robocop2
 cloneof:robocop2

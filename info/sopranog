@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2005
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sopranos
 cloneof:sopranos
 sampleof:genpin

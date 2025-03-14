@@ -2,6 +2,7 @@ description:Marvel Super Heroes Vs. Street Fighter (USA 970827)
 manufacturer:Capcom
 year:1997
 status:good
+kind:coinop
 device:qsound_hle
 romof:mshvsf
 cloneof:mshvsf

@@ -2,5 +2,6 @@ description:Fighting Soccer (Joystick hack bootleg)
 manufacturer:bootleg
 year:1988
 status:good
+kind:coinop
 romof:fsoccer
 cloneof:fsoccer

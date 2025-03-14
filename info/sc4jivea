@@ -2,5 +2,6 @@ description:Jive Money (PR2160) (Mazooma) (Scorpion 4) (set 1)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4jive
 cloneof:sc4jive

@@ -2,6 +2,7 @@ description:Virtua Fighter 4: Evolution (World)
 manufacturer:Sega
 year:2002
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi2

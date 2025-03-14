@@ -2,5 +2,6 @@ description:Fenix (Niemer bootleg of Phoenix)
 manufacturer:bootleg (Niemer)
 year:1980
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

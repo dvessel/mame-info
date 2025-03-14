@@ -2,6 +2,7 @@ description:War Gods (HD 08/15/1996)
 manufacturer:Midway
 year:1995
 status:good
+kind:coinop
 device:tms32031
 romof:wargods
 cloneof:wargods

@@ -2,6 +2,7 @@ description:OutRun 2 (Rev A) (GDX-0004A)
 manufacturer:Sega
 year:2003
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

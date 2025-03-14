@@ -2,5 +2,6 @@ description:Mr Pac-Turbo ('Made in Greece' Fermin bootleg)
 manufacturer:bootleg (Fermin)
 year:1988
 status:good
+kind:coinop
 romof:mspacman
 cloneof:mspacman

@@ -2,5 +2,6 @@ description:Gun Dealer (Japan)
 manufacturer:Dooyong (Tecmo license)
 year:1990
 status:good
+kind:coinop
 romof:gundealr
 cloneof:gundealr

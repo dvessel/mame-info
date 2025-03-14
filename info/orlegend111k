@@ -2,6 +2,7 @@ description:Oriental Legend / Xiyou Shi E Zhuan (ver. 111, Korean Board)
 manufacturer:IGS
 year:1997
 status:imperfect
+kind:coinop
 romof:orlegend
 romof:pgm
 cloneof:orlegend

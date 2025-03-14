@@ -2,5 +2,6 @@ description:Top Skater (USA, Revision A)
 manufacturer:Sega
 year:1997
 status:preliminary
+kind:coinop
 romof:topskatr
 cloneof:topskatr

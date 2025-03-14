@@ -2,6 +2,7 @@ description:Rootin' Tootin' (DECO Cassette) (US)
 manufacturer:Data East Corporation
 year:1983
 status:good
+kind:coinop
 romof:clapapa
 romof:decocass
 cloneof:clapapa

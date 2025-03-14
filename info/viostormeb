@@ -2,5 +2,6 @@ description:Violent Storm (ver EAB)
 manufacturer:Konami
 year:1993
 status:imperfect
+kind:coinop
 romof:viostorm
 cloneof:viostorm

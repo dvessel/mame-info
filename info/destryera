@@ -2,5 +2,6 @@ description:Destroyer (Cidelsa, set 2)
 manufacturer:Cidelsa
 year:1980
 status:imperfect
+kind:coinop
 romof:destryer
 cloneof:destryer

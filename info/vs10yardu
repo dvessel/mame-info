@@ -2,5 +2,6 @@ description:Vs 10-Yard Fight (US, Taito license)
 manufacturer:Irem (Taito license)
 year:1984
 status:good
+kind:coinop
 romof:10yard
 cloneof:10yard

@@ -2,5 +2,6 @@ description:Super Yutnori (bootleg of Major Poker)
 manufacturer:bootleg
 year:1994
 status:good
+kind:coinop
 romof:majorpkr
 cloneof:majorpkr

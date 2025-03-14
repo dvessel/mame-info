@@ -2,5 +2,6 @@ description:Explorer (bootleg of Scramble)
 manufacturer:bootleg (Sidam)
 year:1981
 status:imperfect
+kind:coinop
 romof:scramble
 cloneof:scramble

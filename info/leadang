@@ -2,5 +2,6 @@ description:Lead Angle (Japan)
 manufacturer:Seibu Kaihatsu
 year:1988
 status:good
+kind:coinop
 romof:deadang
 cloneof:deadang

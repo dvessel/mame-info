@@ -2,5 +2,6 @@ description:Daioh (93111A PCB conversion)
 manufacturer:Athena
 year:1993
 status:good
+kind:coinop
 romof:daioh
 cloneof:daioh

@@ -2,5 +2,6 @@ description:Dominos 4 (Cocktail)
 manufacturer:Atari
 year:1977
 status:good
+kind:coinop
 romof:dominos
 cloneof:dominos

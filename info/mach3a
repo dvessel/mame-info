@@ -2,6 +2,7 @@ description:M.A.C.H. 3 (set 2)
 manufacturer:Mylstar
 year:1983
 status:good
+kind:coinop
 device:pr8210
 romof:mach3
 cloneof:mach3

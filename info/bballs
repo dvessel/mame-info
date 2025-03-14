@@ -2,4 +2,5 @@ description:Bouncing Balls
 manufacturer:Comad
 year:1991
 status:good
+kind:coinop
 device:m68705r3

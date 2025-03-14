@@ -2,5 +2,6 @@ description:Slap Fight (Modular System)
 manufacturer:bootleg (Gaelco / Ervisa)
 year:199?
 status:preliminary
+kind:coinop
 romof:alcon
 cloneof:alcon

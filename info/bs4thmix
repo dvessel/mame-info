@@ -2,6 +2,7 @@ description:beatstage 4th MIX (ver KA-A)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:bm4thmix
 cloneof:bm4thmix
 disk:847kaa01

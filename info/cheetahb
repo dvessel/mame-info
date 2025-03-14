@@ -3,6 +3,7 @@ manufacturer:Stern
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:cheetah
 cloneof:cheetah
 sampleof:genpin

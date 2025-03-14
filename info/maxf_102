@@ -2,6 +2,7 @@ description:Maximum Force v1.02
 manufacturer:Atari Games
 year:1996
 status:good
+kind:coinop
 romof:maxforce
 cloneof:maxforce
 disk:maxforce

@@ -2,5 +2,6 @@ description:Deal or No Deal The Crazy Chair (Bellfruit) (Scorpion 4) (CRZR474)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4dndcc
 cloneof:sc4dndcc

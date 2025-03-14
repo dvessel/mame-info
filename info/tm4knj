@@ -2,6 +2,7 @@ description:Touchmaster 4000 (v6.03 New Jersey)
 manufacturer:Midway Games Inc.
 year:1998
 status:good
+kind:coinop
 device:microtouch
 romof:tm4k
 cloneof:tm4k

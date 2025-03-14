@@ -2,5 +2,6 @@ description:Solomon no Kagi (Japan)
 manufacturer:Tecmo
 year:1986
 status:good
+kind:coinop
 romof:solomon
 cloneof:solomon

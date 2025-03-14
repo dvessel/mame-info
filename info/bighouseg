@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bighouse
 cloneof:bighouse
 sampleof:genpin

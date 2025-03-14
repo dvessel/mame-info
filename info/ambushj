@@ -2,5 +2,6 @@ description:Ambush (Japan)
 manufacturer:Tecfri (Nippon Amuse license)
 year:1983
 status:good
+kind:coinop
 romof:ambush
 cloneof:ambush

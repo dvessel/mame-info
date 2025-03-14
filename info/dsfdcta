@@ -2,6 +2,7 @@ description:Dancing Stage featuring Dreams Come True (GC910 VER. JAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:dsfdct
 romof:sys573
 cloneof:dsfdct

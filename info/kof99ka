@@ -2,6 +2,7 @@ description:The King of Fighters '99 - Millennium Battle (Korean release, non-en
 manufacturer:SNK
 year:1999
 status:good
+kind:coinop
 romof:kof99
 romof:neogeo
 cloneof:kof99

@@ -2,6 +2,7 @@ description:Mahjong Dial Q2 (Japan set 2)
 manufacturer:Dynax
 year:1991
 status:good
+kind:coinop
 device:ym2413
 romof:mjdialq2
 cloneof:mjdialq2

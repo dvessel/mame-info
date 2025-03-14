@@ -2,4 +2,5 @@ description:Arkanoid (World, older)
 manufacturer:Taito Corporation Japan
 year:1986
 status:good
+kind:coinop
 device:m68705p5

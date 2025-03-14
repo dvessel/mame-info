@@ -2,6 +2,7 @@ description:Konami 80's Gallery (GC826 VER. JAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+kind:coinop
 romof:konam80s
 romof:sys573
 cloneof:konam80s

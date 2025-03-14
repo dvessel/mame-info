@@ -2,5 +2,6 @@ description:Hat Trick Hero '94 (Ver 2.2A 1994/05/26)
 manufacturer:Taito America Corporation
 year:1994
 status:imperfect
+kind:coinop
 romof:intcup94
 cloneof:intcup94

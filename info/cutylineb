@@ -2,5 +2,6 @@ description:Cuty Line (LC-88 bootleg, ver.7C.14)
 manufacturer:bootleg
 year:1991
 status:preliminary
+kind:coinop
 romof:cutyline
 cloneof:cutyline

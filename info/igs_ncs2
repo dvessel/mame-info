@@ -2,4 +2,5 @@ description:New Champion Skill (v100n 2000)
 manufacturer:IGS
 year:2000
 status:imperfect
+kind:coinop
 device:ym2413

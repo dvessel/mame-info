@@ -2,6 +2,7 @@ description:Soccer Brawl (NGH-031)
 manufacturer:SNK
 year:1991
 status:good
+kind:coinop
 romof:socbrawl
 romof:neogeo
 cloneof:socbrawl

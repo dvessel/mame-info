@@ -2,6 +2,7 @@ description:Mahjong Jong-Tei (Japan, Techno-Top license)
 manufacturer:Dynax (Techno-Top license)
 year:2000
 status:good
+kind:coinop
 device:ym2413
 romof:jongtei
 cloneof:jongtei

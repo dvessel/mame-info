@@ -3,6 +3,7 @@ manufacturer:Christian Tabart
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:panthera
 cloneof:panthera
 sampleof:genpin

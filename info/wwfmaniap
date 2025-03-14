@@ -2,5 +2,6 @@ description:WWF: Wrestlemania (proto 2.01 06/07/95)
 manufacturer:Midway
 year:1995
 status:good
+kind:coinop
 romof:wwfmania
 cloneof:wwfmania

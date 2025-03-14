@@ -2,6 +2,7 @@ description:Blue's Journey / Raguy (ALH-001)
 manufacturer:Alpha Denshi Co.
 year:1990
 status:good
+kind:coinop
 romof:bjourney
 romof:neogeo
 cloneof:bjourney

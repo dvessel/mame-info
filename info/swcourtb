@@ -2,6 +2,7 @@ description:Super World Court (World, bootleg)
 manufacturer:bootleg (Playmark?)
 year:1994
 status:good
+kind:coinop
 device:namcoc69
 romof:swcourt
 cloneof:swcourt

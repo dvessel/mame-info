@@ -2,5 +2,6 @@ description:Tornado (bootleg of Defender, set 1)
 manufacturer:bootleg (Jeutel)
 year:1980
 status:good
+kind:coinop
 romof:defender
 cloneof:defender

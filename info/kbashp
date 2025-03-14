@@ -2,5 +2,6 @@ description:Knuckle Bash (location test)
 manufacturer:Toaplan / Taito
 year:1993
 status:good
+kind:coinop
 romof:kbash
 cloneof:kbash

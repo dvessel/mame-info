@@ -2,5 +2,6 @@ description:Crazy Kong (bootleg on Scramble hardware)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:ckong
 cloneof:ckong

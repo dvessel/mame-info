@@ -2,5 +2,6 @@ description:Magic Sword: Heroic Fantasy (World 900623)
 manufacturer:Capcom
 year:1990
 status:good
+kind:coinop
 romof:msword
 cloneof:msword

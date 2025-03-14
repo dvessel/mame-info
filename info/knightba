@@ -2,5 +2,6 @@ description:Knight Boy (bootleg of KiKi KaiKai, set 2)
 manufacturer:bootleg (Game Corporation)
 year:1986
 status:preliminary
+kind:coinop
 romof:kikikai
 cloneof:kikikai

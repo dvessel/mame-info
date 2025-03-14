@@ -2,6 +2,7 @@ description:Dragon's Lair (US Rev. F)
 manufacturer:Cinematronics
 year:1983
 status:good
+kind:coinop
 romof:dlair
 cloneof:dlair
 disk:dlair

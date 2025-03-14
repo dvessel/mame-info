@@ -2,6 +2,7 @@ description:Jungle King (V200PR)
 manufacturer:IGS
 year:1999
 status:good
+kind:coinop
 device:ym2413
 romof:starzan
 cloneof:starzan

@@ -2,6 +2,7 @@ description:SNK vs. Capcom - SVC Chaos (bootleg)
 manufacturer:bootleg
 year:2003
 status:good
+kind:coinop
 romof:svc
 romof:neogeo
 cloneof:svc

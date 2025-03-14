@@ -2,6 +2,7 @@ description:Volfied (Japan, rev 1)
 manufacturer:Taito Corporation
 year:1989
 status:good
+kind:coinop
 device:cchip
 romof:volfied
 cloneof:volfied

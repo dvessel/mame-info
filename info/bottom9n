@@ -2,5 +2,6 @@ description:Bottom of the Ninth (version N)
 manufacturer:Konami
 year:1989
 status:good
+kind:coinop
 romof:bottom9
 cloneof:bottom9

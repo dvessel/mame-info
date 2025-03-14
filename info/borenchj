@@ -2,5 +2,6 @@ description:Borench (Japan)
 manufacturer:Sega
 year:1990
 status:good
+kind:coinop
 romof:borench
 cloneof:borench

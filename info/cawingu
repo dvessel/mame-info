@@ -2,5 +2,6 @@ description:Carrier Air Wing (USA 901130)
 manufacturer:Capcom
 year:1990
 status:good
+kind:coinop
 romof:cawing
 cloneof:cawing

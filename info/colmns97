@@ -2,5 +2,6 @@ description:Columns '97 (JET 961209 V1.000)
 manufacturer:Sega
 year:1996
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

@@ -2,5 +2,6 @@ description:Witch Card (English, witch game, lamps)
 manufacturer:PM / Beck Elektronik
 year:1985
 status:good
+kind:coinop
 romof:witchcrd
 cloneof:witchcrd

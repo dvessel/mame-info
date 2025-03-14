@@ -2,6 +2,7 @@ description:Club Kart: European Session (2003, prototype, set 1)
 manufacturer:Sega
 year:2003
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:clubk2k3

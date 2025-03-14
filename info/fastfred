@@ -2,5 +2,6 @@ description:Fast Freddie
 manufacturer:Kaneko (Atari license)
 year:1982
 status:good
+kind:coinop
 romof:flyboy
 cloneof:flyboy

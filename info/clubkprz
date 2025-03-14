@@ -2,6 +2,7 @@ description:Club Kart Prize (Export, Japan, Rev A)
 manufacturer:Sega
 year:2003
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi2

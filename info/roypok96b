@@ -2,5 +2,6 @@ description:Royal Poker '96 (set 3, v98-3.6?)
 manufacturer:Amcoe
 year:1996
 status:good
+kind:coinop
 romof:roypok96
 cloneof:roypok96

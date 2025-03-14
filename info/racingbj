@@ -2,5 +2,6 @@ description:Racing Beat (Japan)
 manufacturer:Taito Corporation
 year:1991
 status:imperfect
+kind:coinop
 romof:racingb
 cloneof:racingb

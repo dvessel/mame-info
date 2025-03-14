@@ -2,5 +2,6 @@ description:World Rally (version 1.0, checksum E586)
 manufacturer:Gaelco
 year:1993
 status:good
+kind:coinop
 romof:wrally
 cloneof:wrally

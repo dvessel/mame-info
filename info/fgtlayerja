@@ -2,5 +2,6 @@ description:Fighting Layer (Japan, FTL0/VER.A)
 manufacturer:Arika / Namco
 year:1998
 status:imperfect
+kind:coinop
 romof:fgtlayer
 cloneof:fgtlayer

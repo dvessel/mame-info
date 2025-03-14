@@ -2,5 +2,6 @@ description:Ghosts'n Goblins (US)
 manufacturer:Capcom (Taito America license)
 year:1985
 status:good
+kind:coinop
 romof:gng
 cloneof:gng

@@ -2,6 +2,7 @@ description:Gang Wars (US)
 manufacturer:Alpha Denshi Co.
 year:1989
 status:good
+kind:coinop
 device:ym2413
 romof:gangwars
 cloneof:gangwars

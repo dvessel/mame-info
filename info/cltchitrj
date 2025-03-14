@@ -2,5 +2,6 @@ description:Clutch Hitter (Japan) (FD1094 317-0175)
 manufacturer:Sega
 year:1991
 status:good
+kind:coinop
 romof:cltchitr
 cloneof:cltchitr

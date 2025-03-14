@@ -2,5 +2,6 @@ description:Pirate 2002 (Version 1.8N)
 manufacturer:Amcoe
 year:2001
 status:good
+kind:coinop
 romof:pir2002
 cloneof:pir2002

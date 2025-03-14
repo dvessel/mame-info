@@ -2,5 +2,6 @@ description:Popper (bootleg of Hard Head)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:hardhead
 cloneof:hardhead

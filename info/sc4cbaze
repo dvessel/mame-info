@@ -2,5 +2,6 @@ description:Cash Bazaar Club (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cbaz
 cloneof:sc4cbaz

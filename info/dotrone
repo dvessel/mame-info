@@ -2,6 +2,7 @@ description:Discs of Tron (Environmental)
 manufacturer:Bally Midway
 year:1983
 status:good
+kind:coinop
 device:midssio
 romof:dotron
 cloneof:dotron

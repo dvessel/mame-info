@@ -2,5 +2,6 @@ description:Operation Thunder Hurricane (ver UAA)
 manufacturer:Konami
 year:1997
 status:preliminary
+kind:coinop
 romof:thunderh
 cloneof:thunderh

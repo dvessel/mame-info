@@ -2,5 +2,6 @@ description:Laser Ghost (Japan) (FD1094 317-0164)
 manufacturer:Sega
 year:1990
 status:good
+kind:coinop
 romof:lghost
 cloneof:lghost

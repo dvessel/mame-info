@@ -2,5 +2,6 @@ description:Rescue (Free Enterprise Games, bootleg)
 manufacturer:bootleg (Free Enterprise Games)
 year:1982
 status:preliminary
+kind:coinop
 romof:rescue
 cloneof:rescue

@@ -2,5 +2,6 @@ description:Hot Rod (Japan, 4 Players, Floppy Based, Rev C)
 manufacturer:Sega
 year:1988
 status:good
+kind:coinop
 romof:hotrod
 cloneof:hotrod

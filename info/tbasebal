@@ -2,6 +2,7 @@ description:Taikyoku Base Ball
 manufacturer:Alpha Denshi Co.
 year:1983
 status:preliminary
+kind:coinop
 device:m68705p3
 romof:champbb2
 cloneof:champbb2

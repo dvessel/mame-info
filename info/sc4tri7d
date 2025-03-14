@@ -2,5 +2,6 @@ description:Triple 7's Arcade (Bellfruit) (Scorpion 4) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4tri7
 cloneof:sc4tri7

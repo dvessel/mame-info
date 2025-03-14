@@ -2,5 +2,6 @@ description:Terra Force (US)
 manufacturer:Nichibutsu USA
 year:1987
 status:good
+kind:coinop
 romof:terraf
 cloneof:terraf

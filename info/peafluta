@@ -2,6 +2,7 @@ description:Peacock Flutter (01J00011, NSW/ACT)
 manufacturer:Aristocrat
 year:2000
 status:preliminary
+kind:coinop
 romof:peaflut
 romof:aristmk5
 cloneof:peaflut

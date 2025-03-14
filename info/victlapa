@@ -2,6 +2,7 @@ description:Ace Driver: Victory Lap (World, ADV2)
 manufacturer:Namco
 year:1996
 status:imperfect
+kind:coinop
 device:namcoc71
 device:namcoc74
 romof:victlap

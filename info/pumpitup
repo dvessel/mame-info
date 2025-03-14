@@ -3,4 +3,5 @@ manufacturer:Andamiro
 year:1999
 status:preliminary
 kind:bios
+kind:coinop
 device:banshee_x86

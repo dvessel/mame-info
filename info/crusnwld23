@@ -2,6 +2,7 @@ description:Cruis'n World (v2.3)
 manufacturer:Midway
 year:1996
 status:good
+kind:coinop
 device:tms32031
 romof:crusnwld
 cloneof:crusnwld

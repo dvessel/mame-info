@@ -2,5 +2,6 @@ description:Ketsui: Kizuna Jigoku Tachi (2014/07/16 ARRANGE 1.7 VER) (hack)
 manufacturer:hack (trap15)
 year:2014
 status:imperfect
+kind:coinop
 romof:ket
 cloneof:ket

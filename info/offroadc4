@@ -2,6 +2,7 @@ description:Off Road Challenge (v1.40)
 manufacturer:Midway
 year:1997
 status:good
+kind:coinop
 device:tms32031
 romof:offroadc
 cloneof:offroadc

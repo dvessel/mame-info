@@ -3,6 +3,7 @@ manufacturer:Zaccaria
 year:1985
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:poolcham
 cloneof:poolcham
 sampleof:genpin

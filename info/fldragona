@@ -3,6 +3,7 @@ manufacturer:Playmatic
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:fldragon
 cloneof:fldragon
 sampleof:genpin

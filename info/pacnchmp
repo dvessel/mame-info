@@ -2,5 +2,6 @@ description:Pac-Man &amp; Chomp Chomp
 manufacturer:Namco
 year:1983
 status:good
+kind:coinop
 romof:pacnpal
 cloneof:pacnpal

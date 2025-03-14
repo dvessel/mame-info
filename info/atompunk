@@ -2,5 +2,6 @@ description:Atomic Punk (US)
 manufacturer:Irem America (licensed from Hudson Soft)
 year:1991
 status:good
+kind:coinop
 romof:dynablst
 cloneof:dynablst

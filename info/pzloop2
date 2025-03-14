@@ -2,4 +2,5 @@ description:Puzz Loop 2 (Europe 010302)
 manufacturer:Mitchell (Capcom license)
 year:2001
 status:good
+kind:coinop
 device:qsound_hle

@@ -2,5 +2,6 @@ description:Turpin
 manufacturer:Konami (Sega license)
 year:1981
 status:good
+kind:coinop
 romof:turtles
 cloneof:turtles

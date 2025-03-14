@@ -3,5 +3,6 @@ manufacturer:Electrocoin
 year:19??
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:ec_laby
 cloneof:ec_laby

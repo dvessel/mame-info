@@ -2,5 +2,6 @@ description:Mikie (High School Graffiti)
 manufacturer:Konami
 year:1984
 status:good
+kind:coinop
 romof:mikie
 cloneof:mikie

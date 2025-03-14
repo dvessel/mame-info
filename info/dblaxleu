@@ -2,5 +2,6 @@ description:Double Axle (US)
 manufacturer:Taito America Corporation
 year:1991
 status:imperfect
+kind:coinop
 romof:dblaxle
 cloneof:dblaxle

@@ -2,5 +2,6 @@ description:Fruit Bonus '06 - 10th anniversary (Version 1.7LT CGA, Compact PCB)
 manufacturer:Amcoe
 year:2006
 status:good
+kind:coinop
 romof:fb6
 cloneof:fb6

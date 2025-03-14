@@ -2,5 +2,6 @@ description:Crazy Monkey (bootleg, 070315, payout percentage 70)
 manufacturer:bootleg
 year:2003
 status:good
+kind:coinop
 romof:czmon_13
 cloneof:czmon_13

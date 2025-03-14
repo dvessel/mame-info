@@ -2,5 +2,6 @@ description:Lucky Haunter (bootleg, 031111, backdoor)
 manufacturer:bootleg
 year:2003
 status:good
+kind:coinop
 romof:lhaunt_6
 cloneof:lhaunt_6

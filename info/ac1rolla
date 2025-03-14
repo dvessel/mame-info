@@ -3,5 +3,6 @@ manufacturer:Pcp
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:ac1roll
 cloneof:ac1roll

@@ -2,6 +2,7 @@ description:Super Puzzle (Sang Ho Soft)
 manufacturer:Sang Ho Soft
 year:1991
 status:good
+kind:coinop
 device:ym2413
 romof:sexyboom
 cloneof:sexyboom

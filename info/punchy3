@@ -3,6 +3,7 @@ manufacturer:Alvin G
 year:1993
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:punchy
 cloneof:punchy
 sampleof:genpin

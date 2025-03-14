@@ -2,6 +2,7 @@ description:Gaplus (Tecfri PCB)
 manufacturer:bootleg (Tecfri)
 year:1992
 status:imperfect
+kind:coinop
 device:namco62
 romof:gaplus
 cloneof:gaplus

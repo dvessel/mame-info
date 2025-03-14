@@ -2,5 +2,6 @@ description:Alien3: The Gun (US, Rev A)
 manufacturer:Sega
 year:1993
 status:imperfect
+kind:coinop
 romof:alien3
 cloneof:alien3

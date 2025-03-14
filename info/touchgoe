@@ -2,5 +2,6 @@ description:Touch and Go (earlier revision)
 manufacturer:Gaelco
 year:1995
 status:good
+kind:coinop
 romof:touchgo
 cloneof:touchgo

@@ -2,4 +2,5 @@ description:The Legend of Kage (rev 2)
 manufacturer:Taito Corporation
 year:1984
 status:good
+kind:coinop
 device:m68705p5

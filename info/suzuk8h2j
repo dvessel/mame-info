@@ -2,6 +2,7 @@ description:Suzuka 8 Hours 2 (Japan, Rev B)
 manufacturer:Namco
 year:1993
 status:imperfect
+kind:coinop
 device:namcoc68
 romof:suzuk8h2
 cloneof:suzuk8h2

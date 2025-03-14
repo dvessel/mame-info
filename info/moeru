@@ -2,6 +2,7 @@ description:Moeru Casinyo (Japan) (GDL-0013)
 manufacturer:Altron
 year:2002
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

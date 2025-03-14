@@ -2,5 +2,6 @@ description:Side by Side 2 (Ver 2.6 A)
 manufacturer:Taito
 year:1997
 status:imperfect
+kind:coinop
 romof:sidebs2
 cloneof:sidebs2

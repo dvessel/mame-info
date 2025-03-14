@@ -2,6 +2,7 @@ description:Dynamite Baseball NAOMI (Japan)
 manufacturer:Sega
 year:1998
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi

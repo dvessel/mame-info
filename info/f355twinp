@@ -2,6 +2,7 @@ description:Ferrari F355 Challenge (twin/deluxe, preview)
 manufacturer:Sega
 year:1999
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:f355twin

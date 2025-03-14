@@ -2,5 +2,6 @@ description:Jolly Card (Italian, blue TAB board, encrypted)
 manufacturer:bootleg
 year:199?
 status:good
+kind:coinop
 romof:jollycrd
 cloneof:jollycrd

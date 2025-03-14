@@ -2,6 +2,7 @@ description:Tokyo Bus Guide (Japan, Rev A)
 manufacturer:Fortyfive
 year:1999
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi

@@ -2,6 +2,7 @@ description:Cobra Command (Data East LD, set 2)
 manufacturer:Data East
 year:1984
 status:preliminary
+kind:coinop
 romof:cobra
 cloneof:cobra
 disk:cobra

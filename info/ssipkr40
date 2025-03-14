@@ -2,5 +2,6 @@ description:SSI Poker (v4.0)
 manufacturer:SSI
 year:1990
 status:good
+kind:coinop
 romof:ssipkr24
 cloneof:ssipkr24

@@ -2,6 +2,7 @@ description:Luanshi Quanhuang (bootleg of Knights of Valour Super Heroes Plus, v
 manufacturer:bootleg
 year:200?
 status:preliminary
+kind:coinop
 romof:kovshp
 romof:pgm
 cloneof:kovshp

@@ -2,5 +2,6 @@ description:Jack Potten's Poker (set 12, no Double-Up)
 manufacturer:bootleg
 year:198?
 status:good
+kind:coinop
 romof:pottnpkr
 cloneof:pottnpkr

@@ -2,6 +2,7 @@ description:Super Football Champ (Ver 2.4O)
 manufacturer:Taito
 year:1995
 status:imperfect
+kind:coinop
 romof:sfchamp
 romof:coh1000t
 cloneof:sfchamp

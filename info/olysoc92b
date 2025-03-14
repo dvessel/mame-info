@@ -2,5 +2,6 @@ description:Olympic Soccer '92 (set 3)
 manufacturer:Seibu Kaihatsu
 year:1992
 status:preliminary
+kind:coinop
 romof:cupsoc
 cloneof:cupsoc

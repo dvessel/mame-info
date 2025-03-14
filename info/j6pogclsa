@@ -3,5 +3,6 @@ manufacturer:Ace
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j6pogcls
 cloneof:j6pogcls

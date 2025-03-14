@@ -2,5 +2,6 @@ description:Monkey Land (Ver. A1.2)
 manufacturer:Astro Corp.
 year:2003
 status:preliminary
+kind:coinop
 romof:monkeyl
 cloneof:monkeyl

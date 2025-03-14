@@ -2,5 +2,6 @@ description:Salamander (Tecfri license)
 manufacturer:Konami (Tecfri license)
 year:1986
 status:good
+kind:coinop
 romof:salamand
 cloneof:salamand

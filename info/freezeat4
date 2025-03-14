@@ -2,5 +2,6 @@ description:Freeze (Atari) (prototype, 96/10/03)
 manufacturer:Atari Games
 year:1996
 status:good
+kind:coinop
 romof:freezeat
 cloneof:freezeat

@@ -2,5 +2,6 @@ description:Hard Drivin' (cockpit, rev 3)
 manufacturer:Atari Games
 year:1988
 status:good
+kind:coinop
 romof:harddriv
 cloneof:harddriv

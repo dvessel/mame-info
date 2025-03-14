@@ -2,6 +2,7 @@ description:Sega Yonin Uchi Mahjong MJ (Update Disc Ver.1.007, Japan) (CDP-10002
 manufacturer:Sega
 year:2002
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

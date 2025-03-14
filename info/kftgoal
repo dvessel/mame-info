@@ -3,5 +3,6 @@ manufacturer:Jaleco
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:wpksoc
 cloneof:wpksoc

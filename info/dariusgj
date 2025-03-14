@@ -2,5 +2,6 @@ description:Darius Gaiden - Silver Hawk (Ver 2.5J 1994/09/19)
 manufacturer:Taito Corporation
 year:1994
 status:imperfect
+kind:coinop
 romof:dariusg
 cloneof:dariusg

@@ -2,6 +2,7 @@ description:Pop'n Music Mickey Tunes!
 manufacturer:Konami
 year:2000
 status:imperfect
+kind:coinop
 romof:popnmt
 cloneof:popnmt
 disk:976jaa01

@@ -2,5 +2,6 @@ description:Island (bootleg, 050713, backdoor)
 manufacturer:bootleg
 year:2005
 status:good
+kind:coinop
 romof:island
 cloneof:island

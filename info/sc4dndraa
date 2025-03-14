@@ -2,5 +2,6 @@ description:Deal or No Deal Red Alert (Bellfruit) (Scorpion 4) (REDT471, set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4dndra
 cloneof:sc4dndra

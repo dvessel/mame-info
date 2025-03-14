@@ -2,5 +2,6 @@ description:Jolly Card (Evona Electronic)
 manufacturer:TAB Austria / Evona Electronic
 year:1998
 status:good
+kind:coinop
 romof:jollycrd
 cloneof:jollycrd

@@ -2,5 +2,6 @@ description:Ant &amp; Dec's Jiggy Bank (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4adjb
 cloneof:sc4adjb

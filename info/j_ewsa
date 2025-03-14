@@ -3,6 +3,7 @@ manufacturer:JPM
 year:1981
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j_ews
 cloneof:j_ews
 sampleof:fruitsamples

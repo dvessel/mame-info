@@ -2,5 +2,6 @@ description:Trojan (location test)
 manufacturer:Capcom
 year:1986
 status:good
+kind:coinop
 romof:trojan
 cloneof:trojan

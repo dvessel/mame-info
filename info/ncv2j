@@ -2,5 +2,6 @@ description:Namco Classic Collection Vol.2 (Japan)
 manufacturer:Namco
 year:1996
 status:preliminary
+kind:coinop
 romof:ncv2
 cloneof:ncv2

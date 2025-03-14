@@ -2,5 +2,6 @@ description:Up'n Down (not encrypted)
 manufacturer:Sega
 year:1983
 status:good
+kind:coinop
 romof:upndown
 cloneof:upndown

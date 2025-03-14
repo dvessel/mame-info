@@ -2,5 +2,6 @@ description:Karnov (Japan, bootleg with NEC D8748HD)
 manufacturer:bootleg (K. J. Corporation)
 year:1987
 status:preliminary
+kind:coinop
 romof:karnov
 cloneof:karnov

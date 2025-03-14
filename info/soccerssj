@@ -2,6 +2,7 @@ description:Soccer Superstars (ver JAC)
 manufacturer:Konami
 year:1994
 status:imperfect
+kind:coinop
 romof:soccerss
 romof:konamigx
 cloneof:soccerss

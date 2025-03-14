@@ -2,5 +2,6 @@ description:Return of the Invaders (Video Dens bootleg, without MCU)
 manufacturer:bootleg (Video Dens)
 year:1985
 status:good
+kind:coinop
 romof:retofinv
 cloneof:retofinv

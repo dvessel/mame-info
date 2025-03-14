@@ -3,5 +3,6 @@ manufacturer:Taito
 year:1983
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:icecold
 cloneof:icecold

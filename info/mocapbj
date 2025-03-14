@@ -2,6 +2,7 @@ description:Mocap Boxing (ver JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 romof:mocapb
 romof:kviper
 cloneof:mocapb

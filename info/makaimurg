@@ -2,5 +2,6 @@ description:Makaimura (Japan revision G)
 manufacturer:Capcom
 year:1985
 status:good
+kind:coinop
 romof:gng
 cloneof:gng

@@ -2,6 +2,7 @@ description:Burning Fight (prototype, newer, V07)
 manufacturer:SNK
 year:1991
 status:good
+kind:coinop
 romof:burningf
 romof:neogeo
 cloneof:burningf

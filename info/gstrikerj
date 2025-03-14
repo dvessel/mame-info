@@ -2,5 +2,6 @@ description:Grand Striker (Japan)
 manufacturer:Human
 year:1993
 status:preliminary
+kind:coinop
 romof:gstriker
 cloneof:gstriker

@@ -2,5 +2,6 @@ description:Golden Tee 2K (v1.00S)
 manufacturer:Incredible Technologies
 year:2000
 status:good
+kind:coinop
 romof:gt2k
 cloneof:gt2k

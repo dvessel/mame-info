@@ -2,5 +2,6 @@ description:Mystic Riders (bootleg?)
 manufacturer:Irem
 year:1992
 status:good
+kind:coinop
 romof:mysticri
 cloneof:mysticri

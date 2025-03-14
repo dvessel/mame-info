@@ -2,6 +2,7 @@ description:Panther Magic (0100716V, NSW/ACT)
 manufacturer:Aristocrat
 year:1999
 status:preliminary
+kind:coinop
 romof:pantmag
 romof:aristmk5
 cloneof:pantmag

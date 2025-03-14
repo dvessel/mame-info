@@ -2,5 +2,6 @@ description:Densha de GO! EX (Ver 2.4 J)
 manufacturer:Taito
 year:1996
 status:imperfect
+kind:coinop
 romof:dendego
 cloneof:dendego

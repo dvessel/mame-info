@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1978
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:trizn_l1
 cloneof:trizn_l1
 sampleof:genpin

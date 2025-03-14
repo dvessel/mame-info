@@ -2,5 +2,6 @@ description:Crazy Kong (Orca bootleg)
 manufacturer:bootleg (Orca)
 year:1981
 status:good
+kind:coinop
 romof:ckong
 cloneof:ckong

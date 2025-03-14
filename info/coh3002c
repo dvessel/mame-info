@@ -3,4 +3,5 @@ manufacturer:Capcom
 year:1997
 status:imperfect
 kind:bios
+kind:coinop
 device:qsound_hle

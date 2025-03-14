@@ -2,5 +2,6 @@ description:FixEight - Jigoku no Eiyuu Densetsu (Japan, Taito license)
 manufacturer:Toaplan (Taito license)
 year:1992
 status:good
+kind:coinop
 romof:fixeight
 cloneof:fixeight

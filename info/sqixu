@@ -2,5 +2,6 @@ description:Super Qix (US)
 manufacturer:Kaneko / Taito (Romstar License)
 year:1987
 status:good
+kind:coinop
 romof:sqix
 cloneof:sqix

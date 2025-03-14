@@ -2,5 +2,6 @@ description:Eliminator (2 Players, cocktail)
 manufacturer:Gremlin
 year:1981
 status:good
+kind:coinop
 romof:elim2
 cloneof:elim2

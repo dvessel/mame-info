@@ -2,5 +2,6 @@ description:Spectrum 2000 (horizontal, buggy) (Europe)
 manufacturer:Yona Tech
 year:2000
 status:good
+kind:coinop
 romof:spec2k
 cloneof:spec2k

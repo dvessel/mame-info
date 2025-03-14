@@ -2,6 +2,7 @@ description:Virtua Formula
 manufacturer:Sega
 year:1993
 status:imperfect
+kind:coinop
 device:model1io
 device:m1comm
 romof:vr

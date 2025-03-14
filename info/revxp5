@@ -2,5 +2,6 @@ description:Revolution X (prototype, rev 5.0 5/23/94)
 manufacturer:Midway
 year:1994
 status:good
+kind:coinop
 romof:revx
 cloneof:revx

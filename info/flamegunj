@@ -2,6 +2,7 @@ description:Flame Gunner (Japan)
 manufacturer:Gaps Inc.
 year:1999
 status:imperfect
+kind:coinop
 romof:flamegun
 romof:coh1002m
 cloneof:flamegun

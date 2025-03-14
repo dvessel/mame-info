@@ -2,6 +2,7 @@ description:Pochi and Nyaa (Ver 2.00)
 manufacturer:Aiky / Taito
 year:2003
 status:good
+kind:coinop
 romof:pnyaa
 romof:neogeo
 cloneof:pnyaa

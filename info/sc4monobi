@@ -2,5 +2,6 @@ description:Monopoly (Bellfruit) (Scorpion 4) (set 10)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4monob
 cloneof:sc4monob

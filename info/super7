@@ -2,5 +2,6 @@ description:Super Seven
 manufacturer:bootleg
 year:199?
 status:preliminary
+kind:coinop
 romof:cmaster
 cloneof:cmaster

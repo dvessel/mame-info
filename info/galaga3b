@@ -2,6 +2,7 @@ description:Galaga 3 (GP3)
 manufacturer:Namco
 year:1984
 status:imperfect
+kind:coinop
 device:namco62
 romof:gaplus
 cloneof:gaplus

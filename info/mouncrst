@@ -2,5 +2,6 @@ description:Moune Creste (Jeutel French bootleg of Moon Cresta)
 manufacturer:bootleg (Jeutel)
 year:1980?
 status:good
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

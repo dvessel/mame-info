@@ -2,5 +2,6 @@ description:Take Off (bootleg of The End)
 manufacturer:bootleg (Sidam)
 year:1981
 status:preliminary
+kind:coinop
 romof:theend
 cloneof:theend

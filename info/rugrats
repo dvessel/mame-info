@@ -2,5 +2,6 @@ description:Rug Rats
 manufacturer:Nichibutsu
 year:1983
 status:good
+kind:coinop
 romof:wiping
 cloneof:wiping

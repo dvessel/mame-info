@@ -3,5 +3,6 @@ manufacturer:BWB
 year:198?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m3winagn
 cloneof:m3winagn

@@ -2,5 +2,6 @@ description:Double Dragon (US set 2)
 manufacturer:Technos Japan (Taito America license)
 year:1987
 status:good
+kind:coinop
 romof:ddragon
 cloneof:ddragon

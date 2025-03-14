@@ -2,5 +2,6 @@ description:Mirax (set 3)
 manufacturer:Current Technology, Inc.
 year:1985
 status:good
+kind:coinop
 romof:mirax
 cloneof:mirax

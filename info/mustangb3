@@ -2,5 +2,6 @@ description:US AAF Mustang (Lettering bootleg)
 manufacturer:bootleg (Lettering)
 year:1990
 status:good
+kind:coinop
 romof:mustang
 cloneof:mustang

@@ -2,5 +2,6 @@ description:Player's Edge Plus (PS0280) 4th of July Slots (set 1)
 manufacturer:IGT - International Game Technology
 year:1996
 status:good
+kind:coinop
 romof:peps0275
 cloneof:peps0275

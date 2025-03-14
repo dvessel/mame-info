@@ -2,5 +2,6 @@ description:Passing Shot (World, 4 Players) (FD1094 317-0074)
 manufacturer:Sega
 year:1988
 status:good
+kind:coinop
 romof:passsht
 cloneof:passsht

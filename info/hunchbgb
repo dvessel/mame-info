@@ -2,5 +2,6 @@ description:Hunchback (FAR S.A. bootleg on Galaxian hardware)
 manufacturer:bootleg (FAR S.A.)
 year:1983
 status:good
+kind:coinop
 romof:hunchbak
 cloneof:hunchbak

@@ -2,5 +2,6 @@ description:R-Type II (Japan)
 manufacturer:Irem
 year:1989
 status:good
+kind:coinop
 romof:rtype2
 cloneof:rtype2

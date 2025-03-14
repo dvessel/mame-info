@@ -3,5 +3,6 @@ manufacturer:Ace
 year:1998
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j6cpal
 cloneof:j6cpal

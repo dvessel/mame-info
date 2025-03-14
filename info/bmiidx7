@@ -2,6 +2,7 @@ description:beatmania IIDX 7th style (GCB44 JAB)
 manufacturer:Konami
 year:2002
 status:imperfect
+kind:coinop
 romof:gq863
 disk:b44jab01
 disk:b44jaa02

@@ -2,5 +2,6 @@ description:Magic Card (v1.2 200/93, set 1)
 manufacturer:Impera
 year:1993
 status:good
+kind:coinop
 romof:magicrd1
 cloneof:magicrd1

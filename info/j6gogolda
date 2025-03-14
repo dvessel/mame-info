@@ -3,5 +3,6 @@ manufacturer:JPM
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j6gogold
 cloneof:j6gogold

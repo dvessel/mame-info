@@ -2,5 +2,6 @@ description:Karnov (Japan)
 manufacturer:Data East Corporation
 year:1987
 status:good
+kind:coinop
 romof:karnov
 cloneof:karnov

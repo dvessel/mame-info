@@ -3,5 +3,6 @@ manufacturer:Williams
 year:1995
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:nf_23x
 cloneof:nf_23x

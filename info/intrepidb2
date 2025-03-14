@@ -2,5 +2,6 @@ description:Intrepid (Loris bootleg)
 manufacturer:bootleg (Loris)
 year:1984
 status:good
+kind:coinop
 romof:intrepid
 cloneof:intrepid

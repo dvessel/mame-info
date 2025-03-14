@@ -3,5 +3,6 @@ manufacturer:BFM
 year:198?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sc1typ
 cloneof:sc1typ

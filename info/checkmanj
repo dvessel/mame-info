@@ -2,5 +2,6 @@ description:Check Man (Japan)
 manufacturer:Zilec-Zenitone (Jaleco license)
 year:1982
 status:good
+kind:coinop
 romof:checkman
 cloneof:checkman

@@ -2,5 +2,6 @@ description:Raiden Fighters (Hong Kong)
 manufacturer:Seibu Kaihatsu (Metrotainment license)
 year:1996
 status:imperfect
+kind:coinop
 romof:rdft
 cloneof:rdft

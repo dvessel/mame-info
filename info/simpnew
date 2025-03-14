@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2003
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:simpprty
 cloneof:simpprty
 sampleof:genpin

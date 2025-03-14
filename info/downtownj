@@ -2,5 +2,6 @@ description:DownTown / Mokugeki (joystick hack)
 manufacturer:Seta
 year:1989
 status:good
+kind:coinop
 romof:downtown
 cloneof:downtown

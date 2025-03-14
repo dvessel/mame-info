@@ -2,5 +2,6 @@ description:Hard Drivin' (compact, British, rev 2)
 manufacturer:Atari Games
 year:1990
 status:good
+kind:coinop
 romof:harddriv
 cloneof:harddriv

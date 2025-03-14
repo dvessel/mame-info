@@ -2,6 +2,7 @@ description:Sangokushi II (Asia 921005)
 manufacturer:Capcom
 year:1992
 status:good
+kind:coinop
 device:qsound_hle
 romof:wof
 cloneof:wof

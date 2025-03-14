@@ -2,5 +2,6 @@ description:Speedway (set 2)
 manufacturer:hack
 year:199?
 status:preliminary
+kind:coinop
 romof:speedway
 cloneof:speedway

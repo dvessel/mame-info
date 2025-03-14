@@ -2,5 +2,6 @@ description:Piranha
 manufacturer:GL (US Billiards license)
 year:1981
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

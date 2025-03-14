@@ -2,5 +2,6 @@ description:Sky Wolf (set 2)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:airwolf
 cloneof:airwolf

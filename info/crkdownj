@@ -2,5 +2,6 @@ description:Crack Down (Japan, Floppy Based, FD1094 317-0058-04b Rev A)
 manufacturer:Sega
 year:1989
 status:imperfect
+kind:coinop
 romof:crkdown
 cloneof:crkdown

@@ -3,6 +3,7 @@ manufacturer:Spinball
 year:1995
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:mach2
 cloneof:mach2
 sampleof:genpin

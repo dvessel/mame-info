@@ -2,5 +2,6 @@ description:Pairs (System Ten) (Japan 890826)
 manufacturer:System Ten
 year:1989
 status:good
+kind:coinop
 romof:pairsnb
 cloneof:pairsnb

@@ -2,5 +2,6 @@ description:Witch Card (Falcon, enhanced sound)
 manufacturer:Falcon
 year:199?
 status:good
+kind:coinop
 romof:witchcrd
 cloneof:witchcrd

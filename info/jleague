@@ -2,5 +2,6 @@ description:The J.League 1994 (Japan, Rev A)
 manufacturer:Sega
 year:1994
 status:imperfect
+kind:coinop
 romof:svf
 cloneof:svf

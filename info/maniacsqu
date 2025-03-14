@@ -2,5 +2,6 @@ description:Maniac Square (unprotected, Version 1.0, Checksum BB73)
 manufacturer:Gaelco
 year:1996
 status:good
+kind:coinop
 romof:maniacsq
 cloneof:maniacsq

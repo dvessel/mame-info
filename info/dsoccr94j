@@ -2,5 +2,6 @@ description:Dream Soccer '94 (Japan, M92 hardware)
 manufacturer:Irem
 year:1994
 status:good
+kind:coinop
 romof:dsoccr94
 cloneof:dsoccr94

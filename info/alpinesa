@@ -2,6 +2,7 @@ description:Alpine Surfer (World, AF2 Ver.A, set 2)
 manufacturer:Namco
 year:1996
 status:imperfect
+kind:coinop
 device:namcoc71
 romof:alpines
 cloneof:alpines

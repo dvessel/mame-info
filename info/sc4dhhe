@@ -2,5 +2,6 @@ description:Dough Ho Ho (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4dhh
 cloneof:sc4dhh

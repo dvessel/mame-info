@@ -2,5 +2,6 @@ description:Gulf Storm (set 2)
 manufacturer:Dooyong
 year:1991
 status:good
+kind:coinop
 romof:gulfstrm
 cloneof:gulfstrm

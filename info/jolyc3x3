@@ -2,5 +2,6 @@ description:Jolly Card (3x3 deal)
 manufacturer:TAB Austria
 year:1985
 status:good
+kind:coinop
 romof:jollycrd
 cloneof:jollycrd

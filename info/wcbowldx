@@ -2,5 +2,6 @@ description:World Class Bowling Deluxe (v2.00)
 manufacturer:Incredible Technologies
 year:1999
 status:good
+kind:coinop
 romof:wcbowl
 cloneof:wcbowl

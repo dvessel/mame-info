@@ -2,5 +2,6 @@ description:Ghouls'n Ghosts (USA)
 manufacturer:Capcom
 year:1988
 status:good
+kind:coinop
 romof:ghouls
 cloneof:ghouls

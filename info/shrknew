@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2001
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:shrkysht
 cloneof:shrkysht
 sampleof:genpin

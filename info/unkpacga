@@ -2,5 +2,6 @@ description:Pucman
 manufacturer:IDI SRL
 year:199?
 status:good
+kind:coinop
 romof:unkpacg
 cloneof:unkpacg

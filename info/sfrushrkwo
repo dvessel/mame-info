@@ -2,6 +2,7 @@ description:San Francisco Rush: The Rock (Wavenet, boot rom L 1.38, GUTS Aug 6 1
 manufacturer:Atari Games
 year:1997
 status:preliminary
+kind:coinop
 device:tms32031
 romof:sfrushrk
 cloneof:sfrushrk

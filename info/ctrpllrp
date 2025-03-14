@@ -2,5 +2,6 @@ description:Caterpillar Pacman Hack
 manufacturer:hack
 year:1982
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

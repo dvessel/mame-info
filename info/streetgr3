@@ -2,6 +2,7 @@ description:Street Games (Revision 3)
 manufacturer:New Image Technologies
 year:1993
 status:preliminary
+kind:coinop
 device:microtouch
 romof:streetg
 cloneof:streetg

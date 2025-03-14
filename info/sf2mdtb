@@ -2,5 +2,6 @@ description:Street Fighter II': Magic Delta Turbo (bootleg, set 3)
 manufacturer:bootleg
 year:1992
 status:imperfect
+kind:coinop
 romof:sf2ce
 cloneof:sf2ce

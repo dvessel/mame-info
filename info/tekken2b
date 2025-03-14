@@ -2,6 +2,7 @@ description:Tekken 2 Ver.B (World, TES2/VER.B)
 manufacturer:Namco
 year:1995
 status:imperfect
+kind:coinop
 device:namcoc76
 romof:tekken2
 cloneof:tekken2

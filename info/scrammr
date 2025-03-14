@@ -2,5 +2,6 @@ description:Scramble (Model Racing, Italian bootleg)
 manufacturer:bootleg (Model Racing)
 year:1981
 status:preliminary
+kind:coinop
 romof:scramble
 cloneof:scramble

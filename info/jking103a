@@ -2,6 +2,7 @@ description:Jungle King (V103A)
 manufacturer:IGS
 year:2000?
 status:good
+kind:coinop
 device:ym2413
 romof:starzan
 cloneof:starzan

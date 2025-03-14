@@ -2,4 +2,5 @@ description:Spikeout (Export, Revision C)
 manufacturer:Sega
 year:1998
 status:preliminary
+kind:coinop
 device:segabill

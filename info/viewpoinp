@@ -2,6 +2,7 @@ description:Viewpoint (prototype)
 manufacturer:Sammy / Aicom
 year:1992
 status:good
+kind:coinop
 romof:viewpoin
 romof:neogeo
 cloneof:viewpoin

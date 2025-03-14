@@ -2,5 +2,6 @@ description:Mario Bros. (bootleg on Ambush Hardware, set 2)
 manufacturer:bootleg
 year:1983
 status:good
+kind:coinop
 romof:mario
 cloneof:mario

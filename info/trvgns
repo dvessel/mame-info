@@ -2,5 +2,6 @@ description:Trivia Genius
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:trvmstr
 cloneof:trvmstr

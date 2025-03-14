@@ -2,5 +2,6 @@ description:Trivia (Questions Series 10)
 manufacturer:Greyhound Electronics
 year:1984
 status:imperfect
+kind:coinop
 romof:gtsers8
 cloneof:gtsers8

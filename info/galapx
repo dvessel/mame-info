@@ -2,5 +2,6 @@ description:Galaxian Part X (hack of 'Moon Alien')
 manufacturer:hack
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

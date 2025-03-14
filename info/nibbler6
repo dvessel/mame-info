@@ -2,5 +2,6 @@ description:Nibbler (rev 6)
 manufacturer:Rock-Ola
 year:1982
 status:good
+kind:coinop
 romof:nibbler
 cloneof:nibbler

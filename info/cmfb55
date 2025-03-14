@@ -2,5 +2,6 @@ description:Cherry Master (bootleg, Game FB55 Ver.2)
 manufacturer:bootleg
 year:199?
 status:preliminary
+kind:coinop
 romof:cmaster
 cloneof:cmaster

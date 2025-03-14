@@ -2,5 +2,6 @@ description:Baryon - Future Assault (set 2)
 manufacturer:SemiCom / Tirano
 year:1997
 status:good
+kind:coinop
 romof:baryon
 cloneof:baryon

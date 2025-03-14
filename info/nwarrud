@@ -2,6 +2,7 @@ description:Night Warriors: Darkstalkers' Revenge (USA 950406 Phoenix Edition) (
 manufacturer:bootleg
 year:1995
 status:good
+kind:coinop
 device:qsound_hle
 romof:nwarr
 cloneof:nwarr

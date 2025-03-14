@@ -2,5 +2,6 @@ description:Gradius III: Densetsu kara Shinwa e (Japan, version S, split)
 manufacturer:Konami
 year:1989
 status:good
+kind:coinop
 romof:gradius3
 cloneof:gradius3

@@ -2,6 +2,7 @@ description:Garou - Mark of the Wolves (NGH-2530)
 manufacturer:SNK
 year:1999
 status:good
+kind:coinop
 romof:garou
 romof:neogeo
 cloneof:garou

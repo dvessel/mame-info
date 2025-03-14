@@ -3,5 +3,6 @@ manufacturer:BFM
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sc1clatt
 cloneof:sc1clatt

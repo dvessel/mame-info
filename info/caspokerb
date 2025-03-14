@@ -2,5 +2,6 @@ description:Casino Poker (Ver PM86-35-1, German)
 manufacturer:PM / Beck Elektronik
 year:1986
 status:good
+kind:coinop
 romof:caspoker
 cloneof:caspoker

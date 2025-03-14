@@ -2,5 +2,6 @@ description:Poker UCMC/IWC (ver 162.03 20-6-91)
 manufacturer:UCMC/IWC
 year:1991
 status:good
+kind:coinop
 romof:pokeriwc
 cloneof:pokeriwc

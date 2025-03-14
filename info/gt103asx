@@ -2,5 +2,6 @@ description:Trivia (Version 1.03a, sex questions)
 manufacturer:Greyhound Electronics
 year:1984
 status:imperfect
+kind:coinop
 romof:gtsers8
 cloneof:gtsers8

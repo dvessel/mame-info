@@ -2,5 +2,6 @@ description:Super High Impact (prototype, proto 5.0 09/15/91)
 manufacturer:Midway
 year:1991
 status:good
+kind:coinop
 romof:shimpact
 cloneof:shimpact

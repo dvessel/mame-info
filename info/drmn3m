@@ -2,6 +2,7 @@ description:DrumMania 3rd Mix (G*A23 VER. JAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:pcnfrk3m
 romof:sys573

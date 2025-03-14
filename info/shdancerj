@@ -2,5 +2,6 @@ description:Shadow Dancer (Japan)
 manufacturer:Sega
 year:1989
 status:good
+kind:coinop
 romof:shdancer
 cloneof:shdancer

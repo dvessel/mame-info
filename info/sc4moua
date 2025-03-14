@@ -2,5 +2,6 @@ description:Move On Up (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4mou
 cloneof:sc4mou

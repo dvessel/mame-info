@@ -2,4 +2,5 @@ description:Classic Adders &amp; Ladders (Barcrest) (MPU4) (A6L 0.1, set 1)
 manufacturer:Barcrest
 year:1991
 status:good
+kind:coinop
 device:ym2413

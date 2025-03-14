@@ -2,5 +2,6 @@ description:Top Secret (Japan, old revision)
 manufacturer:Capcom
 year:1987
 status:good
+kind:coinop
 romof:bionicc
 cloneof:bionicc

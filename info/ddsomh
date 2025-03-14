@@ -2,6 +2,7 @@ description:Dungeons &amp; Dragons: Shadow over Mystara (Hispanic 960223)
 manufacturer:Capcom
 year:1996
 status:good
+kind:coinop
 device:qsound_hle
 romof:ddsom
 cloneof:ddsom

@@ -2,5 +2,6 @@ description:Reality Tennis (set 2)
 manufacturer:TCH
 year:1993
 status:imperfect
+kind:coinop
 romof:rltennis
 cloneof:rltennis

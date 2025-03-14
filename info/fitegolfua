@@ -2,5 +2,6 @@ description:Lee Trevino's Fighting Golf (US, Ver 2, set 2)
 manufacturer:SNK
 year:1988
 status:good
+kind:coinop
 romof:fitegolf
 cloneof:fitegolf

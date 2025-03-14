@@ -2,6 +2,7 @@ description:Dead or Alive (Model 2B, Revision B)
 manufacturer:Tecmo
 year:1996
 status:preliminary
+kind:coinop
 device:segabill
 romof:doa
 cloneof:doa

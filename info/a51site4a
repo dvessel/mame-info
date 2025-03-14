@@ -2,6 +2,7 @@ description:Area 51: Site 4 (HD Rev 2.0, September 11, 1998)
 manufacturer:Atari Games
 year:1998
 status:preliminary
+kind:coinop
 romof:a51site4
 cloneof:a51site4
 disk:a51site4-2_0

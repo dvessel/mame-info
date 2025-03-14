@@ -2,6 +2,7 @@ description:Muscle Bomber: The Body Explosion (Japan 930713)
 manufacturer:Capcom
 year:1993
 status:good
+kind:coinop
 device:qsound_hle
 romof:slammast
 cloneof:slammast

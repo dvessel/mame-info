@@ -2,5 +2,6 @@ description:Race Drivin' (cockpit, German, rev 5)
 manufacturer:Atari Games
 year:1990
 status:good
+kind:coinop
 romof:racedriv
 cloneof:racedriv

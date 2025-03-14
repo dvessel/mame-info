@@ -2,6 +2,7 @@ description:JoJo's Bizarre Adventure (Europe 990913)
 manufacturer:Capcom
 year:1999
 status:good
+kind:coinop
 romof:jojoba
 cloneof:jojoba
 disk:cap-jjm-0

@@ -2,5 +2,6 @@ description:Ms. Pac-Man (speedup hack)
 manufacturer:hack
 year:1981
 status:good
+kind:coinop
 romof:mspacman
 cloneof:mspacman

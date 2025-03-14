@@ -2,5 +2,6 @@ description:Hang Pilot (ver UAA)
 manufacturer:Konami
 year:1997
 status:imperfect
+kind:coinop
 romof:hangplt
 cloneof:hangplt

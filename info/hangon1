@@ -2,5 +2,6 @@ description:Hang-On
 manufacturer:Sega
 year:1985
 status:good
+kind:coinop
 romof:hangon
 cloneof:hangon

@@ -2,5 +2,6 @@ description:Thrill Drive (ACB)
 manufacturer:Konami
 year:1998
 status:preliminary
+kind:coinop
 romof:thrilld
 cloneof:thrilld

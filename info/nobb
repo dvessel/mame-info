@@ -2,5 +2,6 @@ description:Noboranka (Japan, bootleg)
 manufacturer:bootleg (Game Electronics)
 year:1986
 status:good
+kind:coinop
 romof:nob
 cloneof:nob

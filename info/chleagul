@@ -2,6 +2,7 @@ description:Champion League (v220I, Lattine)
 manufacturer:IGS
 year:2000
 status:good
+kind:coinop
 device:ym2413
 romof:chleague
 cloneof:chleague

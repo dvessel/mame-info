@@ -3,6 +3,7 @@ manufacturer:Playmatic
 year:1983
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:megaaton
 cloneof:megaaton
 sampleof:genpin

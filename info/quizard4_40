@@ -2,6 +2,7 @@ description:Quizard 4 Rainbow (v4.0, German, i8751 DE 142 D3)
 manufacturer:TAB Austria
 year:1997
 status:imperfect
+kind:coinop
 romof:quizard4
 romof:cdibios
 cloneof:quizard4

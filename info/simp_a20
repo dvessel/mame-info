@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:simp_a27
 cloneof:simp_a27
 sampleof:genpin

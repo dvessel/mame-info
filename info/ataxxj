@@ -2,5 +2,6 @@ description:Ataxx (Japan)
 manufacturer:Leland Corporation (Capcom license)
 year:1990
 status:good
+kind:coinop
 romof:ataxx
 cloneof:ataxx

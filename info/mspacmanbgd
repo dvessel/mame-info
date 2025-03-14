@@ -2,5 +2,6 @@ description:Miss Pukman ('Made in Greece' Datamat bootleg)
 manufacturer:bootleg (Datamat)
 year:1992
 status:good
+kind:coinop
 romof:mspacman
 cloneof:mspacman

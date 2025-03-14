@@ -2,6 +2,7 @@ description:OutRun 2 Special Tours (GDX-0014)
 manufacturer:Sega
 year:2004
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

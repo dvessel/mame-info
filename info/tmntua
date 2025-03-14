@@ -2,5 +2,6 @@ description:Teenage Mutant Ninja Turtles (US 4 Players, version N)
 manufacturer:Konami
 year:1989
 status:good
+kind:coinop
 romof:tmnt
 cloneof:tmnt

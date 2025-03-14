@@ -2,6 +2,7 @@ description:Melty Blood Act Cadenza Version B (Japan) (GDL-0039)
 manufacturer:Ecole Software
 year:2006
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

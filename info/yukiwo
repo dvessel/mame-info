@@ -2,5 +2,6 @@ description:Yukiwo (World, prototype)
 manufacturer:Taito Corporation Japan
 year:1989
 status:good
+kind:coinop
 romof:masterw
 cloneof:masterw

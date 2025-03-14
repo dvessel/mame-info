@@ -2,5 +2,6 @@ description:Gnome (110124 Entertainment A)
 manufacturer:Igrosoft
 year:2007
 status:good
+kind:coinop
 romof:gnome_9
 cloneof:gnome_9

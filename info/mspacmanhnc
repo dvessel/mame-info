@@ -2,5 +2,6 @@ description:Super Ms. Pac-Man (turbo hack, NVC284/NVC285 hardware)
 manufacturer:hack
 year:1986
 status:good
+kind:coinop
 romof:mspacman
 cloneof:mspacman

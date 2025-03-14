@@ -2,5 +2,6 @@ description:Classic Edition (Version 1.6R, set 2)
 manufacturer:Amcoe
 year:2004
 status:good
+kind:coinop
 romof:classice
 cloneof:classice

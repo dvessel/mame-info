@@ -2,5 +2,6 @@ description:Bubble Pong Pong
 manufacturer:Top Ltd.
 year:1996
 status:good
+kind:coinop
 romof:missb2
 cloneof:missb2

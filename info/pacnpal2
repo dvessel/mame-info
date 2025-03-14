@@ -2,5 +2,6 @@ description:Pac &amp; Pal (older)
 manufacturer:Namco
 year:1983
 status:good
+kind:coinop
 romof:pacnpal
 cloneof:pacnpal

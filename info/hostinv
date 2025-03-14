@@ -2,5 +2,6 @@ description:Host Invaders
 manufacturer:The Game Room
 year:1998
 status:preliminary
+kind:coinop
 device:tgui9680
 disk:hostinv

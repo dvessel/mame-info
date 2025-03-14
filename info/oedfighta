@@ -2,5 +2,6 @@ description:Oedo Fight (Japan, Bloodless version)
 manufacturer:Kaneko
 year:1994
 status:good
+kind:coinop
 romof:bloodwar
 cloneof:bloodwar

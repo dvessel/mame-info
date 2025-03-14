@@ -2,5 +2,6 @@ description:Diviertate Galaxia (Multivideo, Spanish bootleg of Galaxian)
 manufacturer:bootleg (Multivideo)
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

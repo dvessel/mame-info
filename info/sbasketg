@@ -2,5 +2,6 @@ description:Super Basketball (version G, encrypted)
 manufacturer:Konami
 year:1984
 status:good
+kind:coinop
 romof:sbasketb
 cloneof:sbasketb

@@ -2,5 +2,6 @@ description:Seibu Cup Soccer :Selection: (set 2)
 manufacturer:Seibu Kaihatsu
 year:1992
 status:preliminary
+kind:coinop
 romof:cupsoc
 cloneof:cupsoc

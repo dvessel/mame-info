@@ -2,5 +2,6 @@ description:Inquizitor (V1.2, alt)
 manufacturer:BFM
 year:1989
 status:preliminary
+kind:coinop
 romof:inquiztr
 cloneof:inquiztr

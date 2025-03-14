@@ -3,5 +3,6 @@ manufacturer:Recel
 year:1978
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:recel
 sampleof:genpin

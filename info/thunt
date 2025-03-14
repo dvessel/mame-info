@@ -2,6 +2,7 @@ description:Puzzle &amp; Action: Treasure Hunt (JUET 970901 V2.00E)
 manufacturer:Sega
 year:1997
 status:imperfect
+kind:coinop
 device:segabill
 romof:sandor
 romof:stvbios

@@ -2,5 +2,6 @@ description:Astro Ambush (Scramble bootleg on Galaxian hardware)
 manufacturer:bootleg (U.C.E.)
 year:1981
 status:imperfect
+kind:coinop
 romof:scramble
 cloneof:scramble

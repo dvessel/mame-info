@@ -2,6 +2,7 @@ description:Point Blank 2 (World, unknown version)
 manufacturer:Namco
 year:1999
 status:imperfect
+kind:coinop
 device:namcoc76
 romof:ptblank2
 cloneof:ptblank2

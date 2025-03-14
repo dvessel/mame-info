@@ -2,5 +2,6 @@ description:Magic Card Export 94 (v2.09a)
 manufacturer:Impera
 year:1994
 status:preliminary
+kind:coinop
 romof:magicrde
 cloneof:magicrde

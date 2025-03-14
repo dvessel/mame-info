@@ -2,5 +2,6 @@ description:Road Riot 4WD (04 Jun 1991, dedicated twin)
 manufacturer:Atari Games
 year:1991
 status:preliminary
+kind:coinop
 romof:roadriot
 cloneof:roadriot

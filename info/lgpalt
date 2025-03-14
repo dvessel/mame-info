@@ -2,6 +2,7 @@ description:Laser Grand Prix (alternate)
 manufacturer:Taito
 year:1983
 status:preliminary
+kind:coinop
 device:ldv1000
 romof:lgp
 cloneof:lgp

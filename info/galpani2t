@@ -2,5 +2,6 @@ description:Gals Panic II (Taiwan, 2 PCB ver.)
 manufacturer:Kaneko
 year:1993
 status:preliminary
+kind:coinop
 romof:galpani2
 cloneof:galpani2

@@ -2,6 +2,7 @@ description:Ghost Pilots (NGH-020, US)
 manufacturer:SNK
 year:1991
 status:good
+kind:coinop
 romof:gpilots
 romof:neogeo
 cloneof:gpilots

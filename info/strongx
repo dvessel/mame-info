@@ -2,5 +2,6 @@ description:Strong X
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:stratgyx
 cloneof:stratgyx

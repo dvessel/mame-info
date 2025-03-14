@@ -2,5 +2,6 @@ description:Hit Shot (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4hitsh
 cloneof:sc4hitsh

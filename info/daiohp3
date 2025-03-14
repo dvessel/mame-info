@@ -2,5 +2,6 @@ description:Daioh (prototype, earliest)
 manufacturer:Athena
 year:1993
 status:preliminary
+kind:coinop
 romof:daioh
 cloneof:daioh

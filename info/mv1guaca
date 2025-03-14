@@ -2,6 +2,7 @@ description:Give Us A Clue (Maygay, MV1 Video, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+kind:coinop
 device:ym2413
 romof:mv1guac
 cloneof:mv1guac

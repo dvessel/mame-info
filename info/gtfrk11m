@@ -2,6 +2,7 @@ description:Guitar Freaks 11th Mix (G*D39 VER. JAA)
 manufacturer:Konami
 year:2004
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:d39jba02

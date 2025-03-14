@@ -2,5 +2,6 @@ description:Side Splitter (Mazooma) (Scorpion 4) (set 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4sidsp
 cloneof:sc4sidsp

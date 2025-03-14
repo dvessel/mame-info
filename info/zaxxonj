@@ -2,6 +2,7 @@ description:Zaxxon (Japan)
 manufacturer:Sega
 year:1982
 status:imperfect
+kind:coinop
 romof:zaxxon
 cloneof:zaxxon
 sampleof:zaxxon

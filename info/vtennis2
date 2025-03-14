@@ -2,6 +2,7 @@ description:Virtua Tennis 2 / Power Smash 2 (Rev A) (GDS-0015A)
 manufacturer:Sega
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

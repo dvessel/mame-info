@@ -2,6 +2,7 @@ description:Name That Tune (Bally, 3/23/86)
 manufacturer:Bally/Sente
 year:1986
 status:good
+kind:coinop
 device:sente6vb
 romof:nametune
 cloneof:nametune

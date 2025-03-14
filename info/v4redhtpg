@@ -2,5 +2,6 @@ description:Red Hot Poker (Release 3, 10p Fixed, Cash+Token) (set 2) (MPU4 Video
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4redhtp
 cloneof:v4redhtp

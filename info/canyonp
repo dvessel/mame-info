@@ -2,5 +2,6 @@ description:Canyon Bomber (prototype)
 manufacturer:Atari
 year:1977
 status:good
+kind:coinop
 romof:canyon
 cloneof:canyon

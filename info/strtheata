@@ -2,5 +2,6 @@ description:Street Heat (set 2, older?)
 manufacturer:Epos Corporation
 year:1985
 status:good
+kind:coinop
 romof:strtheat
 cloneof:strtheat

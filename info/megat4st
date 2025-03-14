@@ -2,6 +2,7 @@ description:Super Megatouch IV Tournament Edition (9255-51-01 R0B, Standard vers
 manufacturer:Merit
 year:1996
 status:imperfect
+kind:coinop
 device:microtouch
 romof:megat4
 cloneof:megat4

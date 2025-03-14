@@ -2,5 +2,6 @@ description:Contra (bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:contra
 cloneof:contra

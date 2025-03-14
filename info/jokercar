@@ -1,5 +1,6 @@
 description:Joker Card (witch game)
 year:199?
 status:good
+kind:coinop
 romof:witchcrd
 cloneof:witchcrd

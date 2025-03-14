@@ -2,5 +2,6 @@ description:Missile Combat (Sidam bootleg)
 manufacturer:bootleg (Sidam)
 year:1980
 status:preliminary
+kind:coinop
 romof:missile
 cloneof:missile

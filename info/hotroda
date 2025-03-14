@@ -2,5 +2,6 @@ description:Hot Rod (World, 3 Players, Turbo set 2, Floppy Based)
 manufacturer:Sega
 year:1988
 status:good
+kind:coinop
 romof:hotrod
 cloneof:hotrod

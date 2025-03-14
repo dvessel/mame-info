@@ -2,6 +2,7 @@ description:Gauntlet Dark Legacy (version DL 2.4)
 manufacturer:Midway Games
 year:1999
 status:good
+kind:coinop
 romof:gauntdl
 cloneof:gauntdl
 disk:gauntd24

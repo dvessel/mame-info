@@ -2,5 +2,6 @@ description:Omega Fighter Special
 manufacturer:UPL
 year:1989
 status:good
+kind:coinop
 romof:omegaf
 cloneof:omegaf

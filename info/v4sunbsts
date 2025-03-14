@@ -2,5 +2,6 @@ description:Sunburst (BWB) (Version 1.4 C, 1993 Awards, 20p Fixed) (MPU4 Video)
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4sunbst
 cloneof:v4sunbst

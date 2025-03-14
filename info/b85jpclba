@@ -2,5 +2,6 @@ description:Jackpot Club (System 85, set 2)
 manufacturer:BFM
 year:1987
 status:preliminary
+kind:coinop
 romof:b85jpclb
 cloneof:b85jpclb

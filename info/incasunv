@@ -2,6 +2,7 @@ description:Inca Sun (01J01946, Venezuela)
 manufacturer:Aristocrat
 year:1999
 status:preliminary
+kind:coinop
 romof:incasun
 romof:aristmk5
 cloneof:incasun

@@ -2,5 +2,6 @@ description:Robotron: 2084 (Unidesa license)
 manufacturer:Williams / Vid Kidz (Unidesa license)
 year:1982
 status:good
+kind:coinop
 romof:robotron
 cloneof:robotron

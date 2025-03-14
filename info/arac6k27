@@ -3,5 +3,6 @@ manufacturer:Arachnid
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:arac6k33
 cloneof:arac6k33

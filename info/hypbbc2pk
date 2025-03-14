@@ -2,6 +2,7 @@ description:Hyper Bishi Bashi Champ - 2 Player (GX908 1999/08/24 VER. KAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:hypbbc2p
 romof:sys573
 cloneof:hypbbc2p

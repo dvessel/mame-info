@@ -2,5 +2,6 @@ description:Mahjong Yuugi (Japan set 2)
 manufacturer:Visco
 year:1990
 status:good
+kind:coinop
 romof:mjyuugi
 cloneof:mjyuugi

@@ -2,6 +2,7 @@ description:DrumMania V2 (F02:J:A:A:2005101600)
 manufacturer:Konami
 year:2005
 status:preliminary
+kind:coinop
 romof:drmnv2j
 romof:kpython2
 cloneof:drmnv2j

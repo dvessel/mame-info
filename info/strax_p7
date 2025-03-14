@@ -3,4 +3,5 @@ manufacturer:Krell Development
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 sampleof:genpin

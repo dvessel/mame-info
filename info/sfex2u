@@ -2,6 +2,7 @@ description:Street Fighter EX2 (USA 980526)
 manufacturer:Capcom / Arika
 year:1998
 status:imperfect
+kind:coinop
 device:qsound_hle
 romof:sfex2
 romof:coh3002c

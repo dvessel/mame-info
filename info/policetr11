@@ -2,6 +2,7 @@ description:Police Trainer (Rev 1.1)
 manufacturer:P&amp;P Marketing
 year:1996
 status:good
+kind:coinop
 device:bsmt2000
 romof:policetr
 cloneof:policetr

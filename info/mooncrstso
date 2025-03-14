@@ -2,5 +2,6 @@ description:Moon Cresta (SegaSA / Sonic)
 manufacturer:bootleg (Sonic)
 year:1980
 status:good
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

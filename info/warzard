@@ -2,6 +2,7 @@ description:Warzard (Japan 961121)
 manufacturer:Capcom
 year:1996
 status:good
+kind:coinop
 romof:redearth
 cloneof:redearth
 disk:cap-wzd-5

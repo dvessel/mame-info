@@ -2,5 +2,6 @@ description:Air Combat (AC2, US)
 manufacturer:Namco
 year:1992
 status:preliminary
+kind:coinop
 device:namcoc68
 device:namcoc67

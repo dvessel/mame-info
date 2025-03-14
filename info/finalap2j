@@ -2,6 +2,7 @@ description:Final Lap 2 (Japan)
 manufacturer:Namco
 year:1990
 status:imperfect
+kind:coinop
 device:namcoc65
 romof:finalap2
 cloneof:finalap2

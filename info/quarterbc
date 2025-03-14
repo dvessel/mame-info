@@ -2,5 +2,6 @@ description:Quarterback (rev 1, cocktail)
 manufacturer:Leland Corporation
 year:1987
 status:good
+kind:coinop
 romof:quarterb
 cloneof:quarterb

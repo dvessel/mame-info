@@ -2,5 +2,6 @@ description:Hard Times (set 2)
 manufacturer:Playmark
 year:1994
 status:good
+kind:coinop
 romof:hrdtimes
 cloneof:hrdtimes

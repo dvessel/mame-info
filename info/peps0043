@@ -2,5 +2,6 @@ description:Player's Edge Plus (PS0043) Double Diamond Slots
 manufacturer:IGT - International Game Technology
 year:1996
 status:good
+kind:coinop
 romof:peps0042
 cloneof:peps0042

@@ -2,4 +2,5 @@ description:Surf Planet (version 4.1)
 manufacturer:Gaelco (Atari license)
 year:1997
 status:imperfect
+kind:coinop
 device:tms32031

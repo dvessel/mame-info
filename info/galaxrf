@@ -2,5 +2,6 @@ description:Galaxian (Recreativos Franco S.A. Spanish bootleg)
 manufacturer:bootleg (Recreativos Franco S.A.)
 year:1980
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

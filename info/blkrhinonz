@@ -2,6 +2,7 @@ description:Black Rhino (3VXFC5344, New Zealand)
 manufacturer:Aristocrat
 year:1996
 status:good
+kind:coinop
 romof:blkrhino
 cloneof:blkrhino
 sampleof:3bagfull

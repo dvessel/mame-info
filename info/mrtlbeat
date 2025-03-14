@@ -2,6 +2,7 @@ description:Martial Beat (G*B47 VER. JBA)
 manufacturer:Konami
 year:2002
 status:preliminary
+kind:coinop
 device:k573_dio
 device:k573mcr
 romof:sys573

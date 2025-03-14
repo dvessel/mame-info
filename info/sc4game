@@ -2,5 +2,6 @@ description:The Game (Dutch) (Bellfruit) (Scorpion 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4gamcs
 cloneof:sc4gamcs

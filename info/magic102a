@@ -2,5 +2,6 @@ description:Magic's 10 2 (ver. BETA3)
 manufacturer:ABM Games
 year:1997
 status:preliminary
+kind:coinop
 romof:magic102
 cloneof:magic102

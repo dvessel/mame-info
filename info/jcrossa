@@ -2,5 +2,6 @@ description:Jumping Cross (set 2)
 manufacturer:SNK
 year:1984
 status:good
+kind:coinop
 romof:jcross
 cloneof:jcross

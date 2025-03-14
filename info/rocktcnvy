@@ -2,5 +2,6 @@ description:Rocket Convoy
 manufacturer:Radar
 year:1981
 status:imperfect
+kind:coinop
 romof:warofbug
 cloneof:warofbug

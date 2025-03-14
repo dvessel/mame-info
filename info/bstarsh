@@ -2,6 +2,7 @@ description:Baseball Stars Professional (NGH-002)
 manufacturer:SNK
 year:1990
 status:good
+kind:coinop
 romof:bstars
 romof:neogeo
 cloneof:bstars

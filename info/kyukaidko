@@ -2,6 +2,7 @@ description:Kyuukai Douchuuki (Japan, old version)
 manufacturer:Namco
 year:1990
 status:good
+kind:coinop
 device:namcoc65
 romof:kyukaidk
 cloneof:kyukaidk

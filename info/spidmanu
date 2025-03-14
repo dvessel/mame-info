@@ -2,5 +2,6 @@ description:Spider-Man: The Videogame (US, Rev A)
 manufacturer:Sega
 year:1991
 status:imperfect
+kind:coinop
 romof:spidman
 cloneof:spidman

@@ -2,5 +2,6 @@ description:Primal Rage II (Test Version 0.36a)
 manufacturer:Atari
 year:1997
 status:imperfect
+kind:coinop
 romof:coh1000w
 disk:primrag2

@@ -2,5 +2,6 @@ description:Hickory Dickory Dosh (PR7045) (Mazooma) (Scorpion 4) (set 1)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4hdd
 cloneof:sc4hdd

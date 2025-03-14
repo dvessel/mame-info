@@ -2,6 +2,7 @@ description:beatmania 2nd MIX (ver JA-A)
 manufacturer:Konami
 year:1998
 status:imperfect
+kind:coinop
 romof:bm2ndmix
 cloneof:bm2ndmix
 disk:853jaa11

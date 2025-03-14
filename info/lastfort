@@ -2,4 +2,5 @@ description:Last Fortress - Toride (Japan, VG420 PCB)
 manufacturer:Metro
 year:1994
 status:good
+kind:coinop
 device:ym2413

@@ -2,6 +2,7 @@ description:Night Stocker (8/27/86)
 manufacturer:Bally/Sente
 year:1986
 status:good
+kind:coinop
 device:sente6vb
 romof:nstocker
 cloneof:nstocker

@@ -2,6 +2,7 @@ description:Raizin Ping Pong (V2.01J)
 manufacturer:Taito
 year:2002
 status:preliminary
+kind:coinop
 romof:raizpin
 romof:taitotz
 cloneof:raizpin

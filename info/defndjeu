@@ -2,5 +2,6 @@ description:Defender (bootleg)
 manufacturer:bootleg (Jeutel)
 year:1980
 status:preliminary
+kind:coinop
 romof:defender
 cloneof:defender

@@ -2,5 +2,6 @@ description:Player's Edge Plus (KE0026) Keno
 manufacturer:IGT - International Game Technology
 year:1994
 status:preliminary
+kind:coinop
 romof:peke0004
 cloneof:peke0004

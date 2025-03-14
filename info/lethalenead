@@ -2,5 +2,6 @@ description:Lethal Enforcers (ver EAD, 11/11/92 10:52)
 manufacturer:Konami
 year:1992
 status:imperfect
+kind:coinop
 romof:lethalen
 cloneof:lethalen

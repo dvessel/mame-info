@@ -2,5 +2,6 @@ description:Hold &amp; Spin I (Version 2.7T Dual)
 manufacturer:Amcoe
 year:2000
 status:good
+kind:coinop
 romof:hldspin1
 cloneof:hldspin1

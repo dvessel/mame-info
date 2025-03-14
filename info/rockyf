@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1982
 status:preliminary
 kind:mechanical
+kind:coinop
 device:votrsc01a
 romof:rocky
 cloneof:rocky

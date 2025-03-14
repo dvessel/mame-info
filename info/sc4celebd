@@ -2,5 +2,6 @@ description:I'm A Celebrity (Bellfruit) (Scorpion 4) (set 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4celeb
 cloneof:sc4celeb

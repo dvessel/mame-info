@@ -2,5 +2,6 @@ description:Legendary Wings (bootleg)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:lwings
 cloneof:lwings

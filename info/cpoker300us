@@ -2,6 +2,7 @@ description:Champion Poker (v300US)
 manufacturer:IGS
 year:1993
 status:preliminary
+kind:coinop
 device:ym2413
 romof:cpoker
 cloneof:cpoker

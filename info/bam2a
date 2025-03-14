@@ -2,6 +2,7 @@ description:Bust a Move 2 - Dance Tengoku Mix (CDROM Japanese ROM ver. 1999/07/1
 manufacturer:Metro / Enix / Namco
 year:1999
 status:preliminary
+kind:coinop
 romof:bam2
 romof:coh1002e
 cloneof:bam2

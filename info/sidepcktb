@@ -2,5 +2,6 @@ description:Side Pocket (bootleg)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:sidepckt
 cloneof:sidepckt

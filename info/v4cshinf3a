@@ -2,5 +2,6 @@ description:Cash Inferno (BWB) (Release 3) (set 2) (MPU4 Video)
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4cshinf
 cloneof:v4cshinf

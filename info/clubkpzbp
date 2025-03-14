@@ -2,6 +2,7 @@ description:Club Kart Prize Version B (prototype)
 manufacturer:Sega
 year:2004
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:clubkpzb

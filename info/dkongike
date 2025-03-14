@@ -2,5 +2,6 @@ description:Donkey Kong/DK (Japan) (hack,V1.1 IKE)
 manufacturer:hack (Braze Technologies)
 year:2001
 status:good
+kind:coinop
 romof:dkong
 cloneof:dkong

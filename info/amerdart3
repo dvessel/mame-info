@@ -2,5 +2,6 @@ description:Ameri Darts (set 3)
 manufacturer:Ameri
 year:1989
 status:good
+kind:coinop
 romof:amerdart
 cloneof:amerdart

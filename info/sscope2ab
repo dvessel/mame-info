@@ -2,5 +2,6 @@ description:Silent Scope 2 : Innocent Sweeper (ver AAB, Ver 1.01)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 romof:sscope2
 cloneof:sscope2

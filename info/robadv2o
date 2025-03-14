@@ -2,5 +2,6 @@ description:Robin's Adventure 2 (Version 1.5SH)
 manufacturer:Amcoe
 year:2004
 status:good
+kind:coinop
 romof:robadv2
 cloneof:robadv2

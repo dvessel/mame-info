@@ -2,5 +2,6 @@ description:Super Galaxians (hack of 'Galaxian (Namco set 2)')
 manufacturer:hack
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

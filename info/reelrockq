@@ -2,6 +2,7 @@ description:Reelin-n-Rockin (0101460V, Queensland)
 manufacturer:Aristocrat
 year:2000
 status:preliminary
+kind:coinop
 romof:reelrock
 romof:aristmk5
 cloneof:reelrock

@@ -2,5 +2,6 @@ description:New Fruit Bonus '96 (v3.1, A PCB, set 2)
 manufacturer:Amcoe
 year:1996
 status:good
+kind:coinop
 romof:nfb96
 cloneof:nfb96

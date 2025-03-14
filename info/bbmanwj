@@ -2,5 +2,6 @@ description:Bomber Man World (Japan)
 manufacturer:Irem
 year:1992
 status:good
+kind:coinop
 romof:bbmanw
 cloneof:bbmanw

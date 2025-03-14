@@ -2,5 +2,6 @@ description:Frantic Fred
 manufacturer:ICE / The Game Room
 year:1996
 status:preliminary
+kind:coinop
 romof:franticf
 cloneof:franticf

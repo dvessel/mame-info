@@ -2,5 +2,6 @@ description:Bloxeed (bootleg)
 manufacturer:bootleg (Impeuropex)
 year:1990
 status:preliminary
+kind:coinop
 romof:bloxeed
 cloneof:bloxeed

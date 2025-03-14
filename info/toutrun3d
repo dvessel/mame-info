@@ -2,5 +2,6 @@ description:Turbo Out Run (cockpit) (bootleg of FD1094 317-0107 set)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:toutrun
 cloneof:toutrun

@@ -2,5 +2,6 @@ description:American Poker 95
 manufacturer:bootleg
 year:1995
 status:good
+kind:coinop
 romof:ampoker2
 cloneof:ampoker2

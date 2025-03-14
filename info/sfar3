@@ -2,6 +2,7 @@ description:Street Fighter Alpha: Warriors' Dreams (Europe 950605)
 manufacturer:Capcom
 year:1995
 status:good
+kind:coinop
 device:qsound_hle
 romof:sfa
 cloneof:sfa

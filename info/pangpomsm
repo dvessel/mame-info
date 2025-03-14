@@ -2,6 +2,7 @@ description:Pang Pom's (Mitchell)
 manufacturer:Metro (Mitchell license)
 year:1992
 status:good
+kind:coinop
 device:ym2413
 romof:pangpoms
 cloneof:pangpoms

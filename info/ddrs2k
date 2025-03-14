@@ -2,6 +2,7 @@ description:Dance Dance Revolution Solo 2000 (GC905 VER. AAA)
 manufacturer:Konami
 year:1999
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:905aaa02

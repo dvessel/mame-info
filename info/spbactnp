@@ -2,5 +2,6 @@ description:Super Pinball Action (US, prototype, dual screen)
 manufacturer:Tecmo
 year:1989
 status:imperfect
+kind:coinop
 romof:spbactn
 cloneof:spbactn

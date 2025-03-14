@@ -2,6 +2,7 @@ description:Hacha Mecha Fighter (19th Sep. 1991, protected, set 2)
 manufacturer:NMK
 year:1991
 status:good
+kind:coinop
 device:nmk004
 romof:hachamf
 cloneof:hachamf

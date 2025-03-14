@@ -2,5 +2,6 @@ description:Phoenix (Sonic, Spanish bootleg)
 manufacturer:bootleg (Sonic)
 year:1981
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

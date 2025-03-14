@@ -3,6 +3,7 @@ manufacturer:Pinstar
 year:1985
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:flight2k
 cloneof:flight2k
 sampleof:genpin

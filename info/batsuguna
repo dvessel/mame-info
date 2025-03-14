@@ -2,5 +2,6 @@ description:Batsugun (older, set 1)
 manufacturer:Toaplan
 year:1993
 status:good
+kind:coinop
 romof:batsugun
 cloneof:batsugun

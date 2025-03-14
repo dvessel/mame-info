@@ -2,5 +2,6 @@ description:Monte Carlo Or Bust (BWB) (Release B, Arcade Special, 20p Fixed, Cas
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4monte
 cloneof:v4monte

@@ -2,5 +2,6 @@ description:Tazz-Mania (bootleg on Galaxian hardware with Starfield)
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:tazmania
 cloneof:tazmania

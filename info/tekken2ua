@@ -2,6 +2,7 @@ description:Tekken 2 (US, TES3/VER.A)
 manufacturer:Namco
 year:1995
 status:imperfect
+kind:coinop
 device:namcoc76
 romof:tekken2
 cloneof:tekken2

@@ -2,6 +2,7 @@ description:Tetris (v342R)
 manufacturer:IGS
 year:199?
 status:good
+kind:coinop
 device:ym2413
 romof:pktet346
 cloneof:pktet346

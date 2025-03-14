@@ -2,6 +2,7 @@ description:Space Intruder (Japan)
 manufacturer:Shoei
 year:1980
 status:preliminary
+kind:coinop
 romof:spaceint
 cloneof:spaceint
 sampleof:invaders

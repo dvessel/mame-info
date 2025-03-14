@@ -2,6 +2,7 @@ description:Mine, Mine, Mine (NHG0416-99, US)
 manufacturer:Aristocrat
 year:1996
 status:preliminary
+kind:coinop
 romof:minemine
 romof:aristmk5
 cloneof:minemine

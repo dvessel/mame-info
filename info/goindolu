@@ -2,5 +2,6 @@ description:Goindol (SunA, US)
 manufacturer:SunA
 year:1987
 status:preliminary
+kind:coinop
 romof:goindol
 cloneof:goindol

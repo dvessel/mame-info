@@ -2,5 +2,6 @@ description:Thrill Drive (EDB)
 manufacturer:Konami
 year:1998
 status:preliminary
+kind:coinop
 romof:thrilld
 cloneof:thrilld

@@ -2,5 +2,6 @@ description:The NewZealand Story (World, old version) (P0-041A PCB)
 manufacturer:Taito Corporation Japan
 year:1988
 status:good
+kind:coinop
 romof:tnzs
 cloneof:tnzs

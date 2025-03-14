@@ -2,5 +2,6 @@ description:Boogie Wings (Asia v1.5, 92.12.07)
 manufacturer:Data East Corporation
 year:1992
 status:imperfect
+kind:coinop
 romof:boogwing
 cloneof:boogwing

@@ -2,5 +2,6 @@ description:Soldam (Japan)
 manufacturer:Jaleco
 year:1992
 status:good
+kind:coinop
 romof:soldam
 cloneof:soldam

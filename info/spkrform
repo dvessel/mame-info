@@ -2,6 +2,7 @@ description:Super Poker (V100xD03) / Formosa
 manufacturer:IGS
 year:2000?
 status:preliminary
+kind:coinop
 device:ym2413
 romof:spk306us
 cloneof:spk306us

@@ -2,5 +2,6 @@ description:Master Boy (1987, Z80 hardware, Ichi-Funtel, set 1)
 manufacturer:Gaelco (Ichi-Funtel license)
 year:1987
 status:good
+kind:coinop
 romof:mastboyo
 cloneof:mastboyo

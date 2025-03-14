@@ -2,5 +2,6 @@ description:Bagman (bootleg on Moon Cresta hardware, set 3)
 manufacturer:bootleg
 year:1982
 status:imperfect
+kind:coinop
 romof:bagman
 cloneof:bagman

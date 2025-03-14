@@ -2,5 +2,6 @@ description:Mercenario (bootleg of Commando)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:commando
 cloneof:commando

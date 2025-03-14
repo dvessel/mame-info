@@ -2,5 +2,6 @@ description:Defender (Green label)
 manufacturer:Williams
 year:1980
 status:good
+kind:coinop
 romof:defender
 cloneof:defender

@@ -2,5 +2,6 @@ description:Hammerin' Harry (World, M84 hardware bootleg)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:hharry
 cloneof:hharry

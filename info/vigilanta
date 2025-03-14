@@ -2,5 +2,6 @@ description:Vigilante (World, Rev A)
 manufacturer:Irem
 year:1988
 status:good
+kind:coinop
 romof:vigilant
 cloneof:vigilant

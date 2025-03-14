@@ -2,5 +2,6 @@ description:Cop 01 (set 2)
 manufacturer:Nichibutsu
 year:1985
 status:imperfect
+kind:coinop
 romof:cop01
 cloneof:cop01

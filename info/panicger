@@ -2,6 +2,7 @@ description:Space Panic (German)
 manufacturer:Universal (ADP Automaten license)
 year:1980
 status:imperfect
+kind:coinop
 romof:panic
 cloneof:panic
 sampleof:panic

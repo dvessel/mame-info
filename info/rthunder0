@@ -2,5 +2,6 @@ description:Rolling Thunder (oldest)
 manufacturer:Namco
 year:1986
 status:good
+kind:coinop
 romof:rthunder
 cloneof:rthunder

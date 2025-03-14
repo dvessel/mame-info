@@ -2,5 +2,6 @@ description:Lord Of The Rings - The Two Towers Club (Bellfruit) (Scorpion 4) (se
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4ltr2c
 cloneof:sc4ltr2c

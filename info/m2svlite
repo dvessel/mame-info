@@ -2,6 +2,7 @@ description:Silver Lights (MPU2) (5p Stake, £1 Jackpot)
 year:198?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m2hilite
 cloneof:m2hilite
 sampleof:fruitsamples

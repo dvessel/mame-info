@@ -3,6 +3,7 @@ manufacturer:Global
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:sc2rock
 cloneof:sc2rock

@@ -2,5 +2,6 @@ description:F-1 Grand Prix (set 3)
 manufacturer:Video System Co.
 year:1991
 status:preliminary
+kind:coinop
 romof:f1gp
 cloneof:f1gp

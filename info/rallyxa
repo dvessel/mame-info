@@ -2,6 +2,7 @@ description:Rally X
 manufacturer:Namco
 year:1980
 status:imperfect
+kind:coinop
 romof:rallyx
 cloneof:rallyx
 sampleof:rallyx

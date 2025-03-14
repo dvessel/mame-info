@@ -3,4 +3,5 @@ manufacturer:Gottlieb
 year:1977
 status:preliminary
 kind:bios
+kind:coinop
 sampleof:genpin

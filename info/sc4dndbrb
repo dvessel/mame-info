@@ -2,5 +2,6 @@ description:Deal or No Deal The Big Reds (Bellfruit) (Scorpion 4) (BIGD471, set 
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4dndbr
 cloneof:sc4dndbr

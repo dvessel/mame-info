@@ -2,5 +2,6 @@ description:Jackler (bootleg of Jungler)
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:jungler
 cloneof:jungler

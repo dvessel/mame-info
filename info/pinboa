@@ -2,5 +2,6 @@ description:Pinbo (set 2)
 manufacturer:Jaleco
 year:1984
 status:good
+kind:coinop
 romof:pinbo
 cloneof:pinbo

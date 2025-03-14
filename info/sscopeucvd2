@@ -2,5 +2,6 @@ description:Silent Scope (ver UAC, Ver 1.30, GQ871 Voodoo 2 video board)
 manufacturer:Konami
 year:1999
 status:preliminary
+kind:coinop
 romof:sscope
 cloneof:sscope

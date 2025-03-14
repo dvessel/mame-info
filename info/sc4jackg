@@ -2,5 +2,6 @@ description:Jack The Kipper (Mazooma) (Scorpion 4) (set 8)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4jack
 cloneof:sc4jack

@@ -3,6 +3,7 @@ manufacturer:Sonic
 year:1987
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sonstwar
 cloneof:sonstwar
 sampleof:genpin

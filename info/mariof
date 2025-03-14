@@ -2,5 +2,6 @@ description:Mario Bros. (US, Revision F)
 manufacturer:Nintendo of America
 year:1983
 status:good
+kind:coinop
 romof:mario
 cloneof:mario

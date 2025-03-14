@@ -2,6 +2,7 @@ description:Rockman: The Power Battle (CPS2, Japan 950922)
 manufacturer:Capcom
 year:1995
 status:good
+kind:coinop
 device:qsound_hle
 romof:megaman
 cloneof:megaman

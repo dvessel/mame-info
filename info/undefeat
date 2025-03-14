@@ -2,6 +2,7 @@ description:Under Defeat (Japan) (GDL-0035)
 manufacturer:G.Rev
 year:2005
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

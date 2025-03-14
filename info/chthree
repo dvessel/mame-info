@@ -2,5 +2,6 @@ description:Channel Three
 manufacturer:Promat
 year:199?
 status:good
+kind:coinop
 romof:cmaster
 cloneof:cmaster

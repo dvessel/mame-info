@@ -2,5 +2,6 @@ description:Cabal (Korea?, Joystick)
 manufacturer:TAD Corporation (Alpha Trading license)
 year:1989
 status:good
+kind:coinop
 romof:cabal
 cloneof:cabal

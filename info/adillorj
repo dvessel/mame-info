@@ -2,6 +2,7 @@ description:Armadillo Racing (Japan, AM1 Ver.A)
 manufacturer:Namco
 year:1997
 status:imperfect
+kind:coinop
 device:namcoc71
 romof:adillor
 cloneof:adillor

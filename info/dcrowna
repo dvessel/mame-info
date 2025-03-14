@@ -2,5 +2,6 @@ description:Dream Crown (set 2)
 manufacturer:Nippon Data Kiki
 year:1994
 status:preliminary
+kind:coinop
 romof:dcrown
 cloneof:dcrown

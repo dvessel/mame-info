@@ -2,6 +2,7 @@ description:Panzer (bootleg of Spectar)
 manufacturer:bootleg (Proel)
 year:1980
 status:imperfect
+kind:coinop
 romof:spectar
 cloneof:spectar
 sampleof:targ

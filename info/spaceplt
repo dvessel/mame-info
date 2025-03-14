@@ -2,5 +2,6 @@ description:Space Pilot (set 1)
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:timeplt
 cloneof:timeplt

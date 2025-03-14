@@ -2,6 +2,7 @@ description:Minesweeper (4-Player)
 manufacturer:Amutech
 year:1977
 status:imperfect
+kind:coinop
 romof:mineswpr
 cloneof:mineswpr
 sampleof:blockade

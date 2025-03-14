@@ -2,6 +2,7 @@ description:Usagi - Yamashiro Mahjong Hen (Japan) (GDL-0022)
 manufacturer:Warashi / Mahjong Kobo / Taito
 year:2003
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

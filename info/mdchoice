@@ -2,5 +2,6 @@ description:Dealer's Choice (E4A1)
 manufacturer:Merit
 year:1983
 status:imperfect
+kind:coinop
 romof:pitboss
 cloneof:pitboss

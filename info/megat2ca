@@ -2,6 +2,7 @@ description:Pit Boss Megatouch II (9255-10-06 R0G, California version)
 manufacturer:Merit
 year:1994
 status:imperfect
+kind:coinop
 device:microtouch
 romof:megat2
 cloneof:megat2

@@ -2,5 +2,6 @@ description:Pleiads (Famaresa, Spanish bootleg)
 manufacturer:bootleg (Famaresa)
 year:1981
 status:good
+kind:coinop
 romof:pleiads
 cloneof:pleiads

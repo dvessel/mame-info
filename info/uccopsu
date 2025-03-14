@@ -2,5 +2,6 @@ description:Undercover Cops (US)
 manufacturer:Irem
 year:1992
 status:good
+kind:coinop
 romof:uccops
 cloneof:uccops

@@ -2,5 +2,6 @@ description:Silent Scope (ver EAA, Ver 1.00)
 manufacturer:Konami
 year:1999
 status:preliminary
+kind:coinop
 romof:sscope
 cloneof:sscope

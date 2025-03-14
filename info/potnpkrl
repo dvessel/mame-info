@@ -1,5 +1,6 @@
 description:Jack Potten's Poker (set 13, ICP-1 PCB)
 year:198?
 status:good
+kind:coinop
 romof:pottnpkr
 cloneof:pottnpkr

@@ -2,5 +2,6 @@ description:Sprint 2 (set 1)
 manufacturer:Atari (Kee Games)
 year:1976
 status:good
+kind:coinop
 romof:sprint1
 cloneof:sprint1

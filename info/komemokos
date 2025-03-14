@@ -2,5 +2,6 @@ description:Komemokos (hack of 'Pac-Man (Cirsa, Spanish bootleg)')
 manufacturer:hack
 year:199?
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

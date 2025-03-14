@@ -2,5 +2,6 @@ description:Sea Bass Fishing (JUET 971110 V0.001)
 manufacturer:A wave inc. (Able license)
 year:1997
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

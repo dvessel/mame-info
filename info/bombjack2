@@ -2,5 +2,6 @@ description:Bomb Jack (earlier)
 manufacturer:Tehkan
 year:1984
 status:good
+kind:coinop
 romof:bombjack
 cloneof:bombjack

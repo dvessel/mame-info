@@ -2,6 +2,7 @@ description:Daytona USA (GTX 2004 Edition)
 manufacturer:hack (Kyle Hodgetts)
 year:2003
 status:preliminary
+kind:coinop
 device:model1io
 romof:daytona
 cloneof:daytona

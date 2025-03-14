@@ -2,5 +2,6 @@ description:Trivia (Alt revision questions set 2)
 manufacturer:Greyhound Electronics
 year:1984
 status:imperfect
+kind:coinop
 romof:gtsers1
 cloneof:gtsers1

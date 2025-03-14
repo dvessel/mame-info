@@ -2,4 +2,5 @@ description:Golden Crown (Dutch, Game Card 95-752-011)
 manufacturer:BFM/ELAM
 year:1997
 status:good
+kind:coinop
 device:ym2413

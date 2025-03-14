@@ -2,4 +2,5 @@ description:Joy Stand Private
 manufacturer:Yuvo
 year:1997
 status:preliminary
+kind:coinop
 device:ym2413

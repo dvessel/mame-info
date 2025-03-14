@@ -2,5 +2,6 @@ description:Video Poker (v1403)
 manufacturer:CODERE Argentina
 year:1989
 status:good
+kind:coinop
 romof:fortune1
 cloneof:fortune1

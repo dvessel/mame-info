@@ -2,5 +2,6 @@ description:Toy's March 2 (F00:J:A:A:2005110400)
 manufacturer:Konami
 year:2005
 status:preliminary
+kind:coinop
 romof:kpython2
 disk:f00_jaa_2005110400

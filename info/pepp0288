@@ -2,5 +2,6 @@ description:Player's Edge Plus (PP0288) Standard Draw Poker (Spanish)
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+kind:coinop
 romof:pepp0001
 cloneof:pepp0001

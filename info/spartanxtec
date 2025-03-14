@@ -2,5 +2,6 @@ description:Spartan X (Tecfri hardware bootleg)
 manufacturer:bootleg (Tecfri)
 year:1987
 status:good
+kind:coinop
 romof:kungfum
 cloneof:kungfum

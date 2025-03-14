@@ -2,5 +2,6 @@ description:Lucky Wild Boar (MPU4) (set 3)
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4luckwb
 cloneof:m4luckwb

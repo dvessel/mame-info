@@ -2,6 +2,7 @@ description:The King of Fighters 2000 (not encrypted)
 manufacturer:SNK
 year:2000
 status:good
+kind:coinop
 romof:kof2000
 romof:neogeo
 cloneof:kof2000

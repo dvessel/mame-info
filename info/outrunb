@@ -2,5 +2,6 @@ description:Out Run (bootleg)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:outrun
 cloneof:outrun

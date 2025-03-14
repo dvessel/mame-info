@@ -2,5 +2,6 @@ description:Rad Mobile (US)
 manufacturer:Sega
 year:1990
 status:imperfect
+kind:coinop
 romof:radm
 cloneof:radm

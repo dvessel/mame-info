@@ -2,6 +2,7 @@ description:World Kicks PCB (Japan, WKC1 Ver.A)
 manufacturer:Namco
 year:2000
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:wldkicks

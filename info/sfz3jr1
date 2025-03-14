@@ -2,6 +2,7 @@ description:Street Fighter Zero 3 (Japan 980727)
 manufacturer:Capcom
 year:1998
 status:good
+kind:coinop
 device:qsound_hle
 romof:sfa3
 cloneof:sfa3

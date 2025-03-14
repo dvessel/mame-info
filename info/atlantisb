@@ -2,5 +2,6 @@ description:Battle of Atlantis (bootleg)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:atlantis
 cloneof:atlantis

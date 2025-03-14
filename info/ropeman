@@ -2,5 +2,6 @@ description:Ropeman (bootleg of Roc'n Rope)
 manufacturer:bootleg
 year:1983
 status:good
+kind:coinop
 romof:rocnrope
 cloneof:rocnrope

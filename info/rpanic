@@ -2,6 +2,7 @@ description:Rolling Panic (v2.33)
 manufacturer:Excellent System / Jaleco
 year:1992
 status:good
+kind:coinop
 device:ym2413
 romof:d9final
 cloneof:d9final

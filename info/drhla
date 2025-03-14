@@ -2,5 +2,6 @@ description:Drews Revenge (v.2.89, set 2)
 manufacturer:Drews Inc.
 year:1986
 status:preliminary
+kind:coinop
 romof:drhl
 cloneof:drhl

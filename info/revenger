@@ -2,5 +2,6 @@ description:Revenger '84 (older)
 manufacturer:Epos Corporation
 year:1984
 status:preliminary
+kind:coinop
 romof:revngr84
 cloneof:revngr84

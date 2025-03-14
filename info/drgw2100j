@@ -2,6 +2,7 @@ description:Chuugokuryuu II (ver. 100J, Japan)
 manufacturer:IGS (Alta license)
 year:1997
 status:imperfect
+kind:coinop
 romof:drgw2
 romof:pgm
 cloneof:drgw2

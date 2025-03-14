@@ -1,5 +1,6 @@
 description:Super Pacman (v1.2) + Cherry Master (Corsica, v8.31, unencrypted, set 2)
 year:198?
 status:good
+kind:coinop
 romof:cmpacman
 cloneof:cmpacman

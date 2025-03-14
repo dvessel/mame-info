@@ -2,5 +2,6 @@ description:Time Bandit (BWB) (Release 1, 20p Fixed, Cash + Tokens) (set 2) (MPU
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4timebn
 cloneof:v4timebn

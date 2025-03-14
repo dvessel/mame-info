@@ -2,5 +2,6 @@ description:Miami Dice (Nova, German) (MPU4 Video)
 manufacturer:BWB (Nova license)
 year:199?
 status:preliminary
+kind:coinop
 romof:v4mdice
 cloneof:v4mdice

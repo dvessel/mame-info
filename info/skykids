@@ -2,5 +2,6 @@ description:Sky Kid (Sipem)
 manufacturer:Namco (Sipem license)
 year:1985
 status:good
+kind:coinop
 romof:skykid
 cloneof:skykid

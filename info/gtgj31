@@ -2,5 +2,6 @@ description:Golden Tee Golf (Joystick, v3.1)
 manufacturer:Strata / Incredible Technologies
 year:1990
 status:good
+kind:coinop
 romof:gtg
 cloneof:gtg

@@ -2,5 +2,6 @@ description:Run and Gun (ver EAA 1993 10.4)
 manufacturer:Konami
 year:1993
 status:imperfect
+kind:coinop
 romof:rungun
 cloneof:rungun

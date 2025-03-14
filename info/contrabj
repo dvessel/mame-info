@@ -2,5 +2,6 @@ description:Contra (Japan bootleg, set 1)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:contra
 cloneof:contra

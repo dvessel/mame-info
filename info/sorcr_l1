@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1985
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sorcr_l2
 cloneof:sorcr_l2
 sampleof:genpin

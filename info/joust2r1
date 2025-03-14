@@ -2,5 +2,6 @@ description:Joust 2 - Survival of the Fittest (revision 1)
 manufacturer:Williams
 year:1986
 status:good
+kind:coinop
 romof:joust2
 cloneof:joust2

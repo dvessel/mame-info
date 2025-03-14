@@ -2,6 +2,7 @@ description:Space War Part 3
 manufacturer:bootleg
 year:1978
 status:imperfect
+kind:coinop
 romof:invaders
 cloneof:invaders
 sampleof:invaders

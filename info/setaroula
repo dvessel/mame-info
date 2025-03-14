@@ -2,5 +2,6 @@ description:Super Ruleta 36 (Spanish hack of The Roulette)
 manufacturer:hack (CODERE)
 year:1989?
 status:good
+kind:coinop
 romof:setaroul
 cloneof:setaroul

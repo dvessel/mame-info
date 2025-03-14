@@ -2,5 +2,6 @@ description:Act-Fancer Cybernetick Hyper Weapon (World revision 2)
 manufacturer:Data East Corporation
 year:1989
 status:imperfect
+kind:coinop
 romof:actfancr
 cloneof:actfancr

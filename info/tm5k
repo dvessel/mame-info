@@ -2,4 +2,5 @@ description:Touchmaster 5000 (v7.10 Standard)
 manufacturer:Midway Games Inc.
 year:1998
 status:good
+kind:coinop
 device:microtouch

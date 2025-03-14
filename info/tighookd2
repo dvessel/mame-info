@@ -2,5 +2,6 @@ description:Tiger Hook (Version 2.0LT, set 2)
 manufacturer:Amcoe
 year:2004
 status:good
+kind:coinop
 romof:tighook
 cloneof:tighook

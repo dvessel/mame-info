@@ -2,5 +2,6 @@ description:Bloxeed (Japan) (bootleg of FD1094 317-0139 set)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:bloxeed
 cloneof:bloxeed

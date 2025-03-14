@@ -3,6 +3,7 @@ manufacturer:Atari Games
 year:1995
 status:preliminary
 kind:mechanical
+kind:coinop
 device:hd44780
 romof:hoopitup
 cloneof:hoopitup

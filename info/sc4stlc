@@ -2,5 +2,6 @@ description:The Sky's The Limit (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4stl
 cloneof:sc4stl

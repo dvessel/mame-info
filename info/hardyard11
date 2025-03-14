@@ -2,5 +2,6 @@ description:Hard Yardage (v1.10)
 manufacturer:Strata / Incredible Technologies
 year:1993
 status:good
+kind:coinop
 romof:hardyard
 cloneof:hardyard

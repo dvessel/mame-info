@@ -3,5 +3,6 @@ manufacturer:Gottlieb
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:gts1
 sampleof:genpin

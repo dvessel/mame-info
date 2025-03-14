@@ -2,6 +2,7 @@ description:Enchanted Forest (3VXFC5343, New Zealand)
 manufacturer:Aristocrat
 year:1996
 status:good
+kind:coinop
 romof:eforest
 cloneof:eforest
 sampleof:3bagfull

@@ -2,6 +2,7 @@ description:Sky Soldiers (bootleg)
 manufacturer:bootleg
 year:1988
 status:preliminary
+kind:coinop
 device:ym2413
 romof:skysoldr
 cloneof:skysoldr

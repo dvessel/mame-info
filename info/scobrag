@@ -2,5 +2,6 @@ description:Super Cobra (bootleg, set 2)
 manufacturer:bootleg (A.V.G. by Zaccaria)
 year:1981
 status:preliminary
+kind:coinop
 romof:scobra
 cloneof:scobra

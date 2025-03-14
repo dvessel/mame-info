@@ -2,5 +2,6 @@ description:Raiders5 (Japan, set 1)
 manufacturer:UPL (Taito license)
 year:1985
 status:good
+kind:coinop
 romof:raiders5
 cloneof:raiders5

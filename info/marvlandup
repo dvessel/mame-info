@@ -2,6 +2,7 @@ description:Marvel Land (US, prototype)
 manufacturer:Namco
 year:1989
 status:imperfect
+kind:coinop
 device:namcoc65
 romof:marvland
 cloneof:marvland

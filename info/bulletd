@@ -2,5 +2,6 @@ description:Bullet (bootleg of FD1094 317-0041 set)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:bullet
 cloneof:bullet

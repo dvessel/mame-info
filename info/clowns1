@@ -2,6 +2,7 @@ description:Clowns (rev. 1)
 manufacturer:Midway
 year:1978
 status:imperfect
+kind:coinop
 romof:clowns
 cloneof:clowns
 sampleof:clowns

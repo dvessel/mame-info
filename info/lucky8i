@@ -2,5 +2,6 @@ description:New Lucky 8 Lines (set 9, W-4, Eagle, licensed by Wing)
 manufacturer:Eagle/Wing
 year:1989
 status:good
+kind:coinop
 romof:lucky8
 cloneof:lucky8

@@ -2,6 +2,7 @@ description:Wild Coyote (AHG1515, US)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+kind:coinop
 romof:locoloot
 romof:aristmk5
 cloneof:locoloot

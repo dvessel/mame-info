@@ -2,5 +2,6 @@ description:Cops (UK)
 manufacturer:Nova Productions Ltd./ Deith Leisure
 year:1994
 status:preliminary
+kind:coinop
 romof:cops
 cloneof:cops

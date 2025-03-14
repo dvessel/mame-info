@@ -2,5 +2,6 @@ description:Ave Fenix (Electrogame, Spanish bootleg of Phoenix)
 manufacturer:bootleg (Video Game)
 year:1980
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

@@ -2,5 +2,6 @@ description:Shao-lin's Road (set 2)
 manufacturer:Konami
 year:1985
 status:good
+kind:coinop
 romof:kicker
 cloneof:kicker

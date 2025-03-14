@@ -2,5 +2,6 @@ description:Spinal Breakers (US, prototype)
 manufacturer:V-System Co.
 year:1990
 status:good
+kind:coinop
 romof:spinlbrk
 cloneof:spinlbrk

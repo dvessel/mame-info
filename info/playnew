@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2002
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:playboys
 cloneof:playboys
 sampleof:genpin

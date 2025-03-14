@@ -2,5 +2,6 @@ description:American Poker II (iamp2 v28)
 manufacturer:bootleg?
 year:1994
 status:good
+kind:coinop
 romof:ampoker2
 cloneof:ampoker2

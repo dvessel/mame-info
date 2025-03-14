@@ -2,5 +2,6 @@ description:Power Shovel ni Norou!! - Power Shovel Simulator (v2.07J)
 manufacturer:Taito
 year:1999
 status:preliminary
+kind:coinop
 romof:taitotz
 disk:pwrshovl

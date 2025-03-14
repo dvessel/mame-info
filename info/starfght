@@ -2,5 +2,6 @@ description:Star Fighter
 manufacturer:bootleg (Jeutel)
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

@@ -2,5 +2,6 @@ description:Kung-Fu Master (US)
 manufacturer:Irem (Data East USA license)
 year:1984
 status:imperfect
+kind:coinop
 romof:kungfum
 cloneof:kungfum

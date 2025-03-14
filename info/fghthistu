@@ -2,5 +2,6 @@ description:Fighter's History (US ver 42-09, DE-0396-0 PCB)
 manufacturer:Data East Corporation
 year:1993
 status:good
+kind:coinop
 romof:fghthist
 cloneof:fghthist

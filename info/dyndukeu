@@ -2,5 +2,6 @@ description:Dynamite Duke (US, 25JUL89)
 manufacturer:Seibu Kaihatsu (Fabtek license)
 year:1989
 status:good
+kind:coinop
 romof:dynduke
 cloneof:dynduke

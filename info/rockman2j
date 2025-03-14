@@ -2,6 +2,7 @@ description:Rockman 2: The Power Fighters (Japan 960708)
 manufacturer:Capcom
 year:1996
 status:good
+kind:coinop
 device:qsound_hle
 romof:megaman2
 cloneof:megaman2

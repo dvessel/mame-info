@@ -2,5 +2,6 @@ description:Phoenix (D&amp;L bootleg)
 manufacturer:bootleg (D&amp;L)
 year:1980
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

@@ -3,5 +3,6 @@ manufacturer:Bally
 year:1991
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:gi_l9
 cloneof:gi_l9

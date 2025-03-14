@@ -2,6 +2,7 @@ description:Virtua Striker 3 (World)
 manufacturer:Amusement Vision / Sega
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:vstrik3c

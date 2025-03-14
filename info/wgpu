@@ -2,5 +2,6 @@ description:World Grand Prix (US)
 manufacturer:Taito America Corporation
 year:1989
 status:preliminary
+kind:coinop
 romof:wgp
 cloneof:wgp

@@ -2,5 +2,6 @@ description:Carrier Air Wing (bootleg with 2xYM2203 + 2xMSM5205, set 2)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:cawing
 cloneof:cawing

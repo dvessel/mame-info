@@ -2,6 +2,7 @@ description:Fishing (DECO Cassette) (Japan)
 manufacturer:Data East Corporation
 year:1982
 status:good
+kind:coinop
 romof:cadanglr
 romof:decocass
 cloneof:cadanglr

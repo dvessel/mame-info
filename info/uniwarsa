@@ -2,5 +2,6 @@ description:UniWar S (bootleg)
 manufacturer:bootleg (Karateco)
 year:1980
 status:good
+kind:coinop
 romof:uniwars
 cloneof:uniwars

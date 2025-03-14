@@ -2,5 +2,6 @@ description:Zero Team (Japan?, later batteryless)
 manufacturer:Seibu Kaihatsu
 year:1993
 status:preliminary
+kind:coinop
 romof:zeroteam
 cloneof:zeroteam

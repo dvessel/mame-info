@@ -2,5 +2,6 @@ description:Space Trek (cocktail)
 manufacturer:Sega
 year:1980
 status:preliminary
+kind:coinop
 romof:spacetrk
 cloneof:spacetrk

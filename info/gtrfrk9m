@@ -2,6 +2,7 @@ description:Guitar Freaks 9th Mix (G*C39 VER. JAA)
 manufacturer:Konami
 year:2003
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:c39jaa02

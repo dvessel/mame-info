@@ -2,4 +2,5 @@ description:Block Block (World 911219 Joystick)
 manufacturer:Capcom
 year:1991
 status:good
+kind:coinop
 device:ym2413

@@ -2,6 +2,7 @@ description:RC De Go (V2.03J 1999/05/22 19:29)
 manufacturer:Taito
 year:1999
 status:imperfect
+kind:coinop
 romof:gobyrc
 romof:coh3002t
 cloneof:gobyrc

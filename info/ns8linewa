@@ -1,5 +1,6 @@
 description:New Lucky 8 Lines / New Super 8 Lines (W-4, Witch Bonus)
 year:198?
 status:good
+kind:coinop
 romof:ns8lines
 cloneof:ns8lines

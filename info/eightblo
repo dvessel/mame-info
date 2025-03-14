@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1977
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:eightbll
 cloneof:eightbll
 sampleof:genpin

@@ -2,5 +2,6 @@ description:Witch Jack (Export, 6T/12T ver 0.87-88)
 manufacturer:Video Klein
 year:1996
 status:good
+kind:coinop
 romof:wtchjack
 cloneof:wtchjack

@@ -2,6 +2,7 @@ description:Marvel Vs. Capcom: Clash of Super Heroes (Japan 980123) (Single PCB)
 manufacturer:Capcom
 year:1998
 status:good
+kind:coinop
 device:qsound_hle
 romof:mvsc
 cloneof:mvsc

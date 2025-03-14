@@ -2,5 +2,6 @@ description:Contra (US / Asia, set 3)
 manufacturer:Konami
 year:1987
 status:good
+kind:coinop
 romof:contra
 cloneof:contra

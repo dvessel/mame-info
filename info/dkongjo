@@ -2,5 +2,6 @@ description:Donkey Kong (Japan set 2)
 manufacturer:Nintendo
 year:1981
 status:good
+kind:coinop
 romof:dkong
 cloneof:dkong

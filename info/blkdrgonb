@@ -2,5 +2,6 @@ description:Black Dragon (bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:blktiger
 cloneof:blktiger

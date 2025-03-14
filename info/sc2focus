@@ -3,4 +3,5 @@ manufacturer:BFM/ELAM
 year:1995
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413

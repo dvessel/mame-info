@@ -2,6 +2,7 @@ description:Quiz 365 (Hong Kong &amp; Taiwan)
 manufacturer:Nakanihon / Taito
 year:1994
 status:preliminary
+kind:coinop
 device:ym2413
 romof:quiz365
 cloneof:quiz365

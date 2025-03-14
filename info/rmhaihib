@@ -2,5 +2,6 @@ description:Real Mahjong Haihai (Japan, medal)
 manufacturer:Alba
 year:1985
 status:good
+kind:coinop
 romof:rmhaihai
 cloneof:rmhaihai

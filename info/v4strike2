@@ -2,6 +2,7 @@ description:Strike it Lucky (v0.53) (MPU4 Video)
 manufacturer:Barcrest
 year:199?
 status:imperfect
+kind:coinop
 romof:v4strike
 romof:v4bios
 cloneof:v4strike

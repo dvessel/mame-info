@@ -3,4 +3,5 @@ manufacturer:Namco (Data East license)
 year:1988
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413

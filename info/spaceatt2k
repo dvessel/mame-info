@@ -2,5 +2,6 @@ description:Space Attack (bootleg of Space Invaders, 2k roms)
 manufacturer:bootleg (Video Games GmbH)
 year:1978
 status:good
+kind:coinop
 romof:invaders
 cloneof:invaders

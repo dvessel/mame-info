@@ -2,5 +2,6 @@ description:Armor Attack (Rock-Ola)
 manufacturer:Cinematronics (Rock-Ola license)
 year:1980
 status:good
+kind:coinop
 romof:armora
 cloneof:armora

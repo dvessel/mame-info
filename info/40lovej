@@ -2,6 +2,7 @@ description:Forty-Love (Japan)
 manufacturer:Taito Corporation
 year:1984
 status:imperfect
+kind:coinop
 device:m68705p5
 romof:40love
 cloneof:40love

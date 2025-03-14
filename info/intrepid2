@@ -2,5 +2,6 @@ description:Intrepid (set 2)
 manufacturer:Nova Games Ltd.
 year:1983
 status:good
+kind:coinop
 romof:intrepid
 cloneof:intrepid

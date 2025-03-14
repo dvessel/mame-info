@@ -2,5 +2,6 @@ description:Hachoo! (World, set 2)
 manufacturer:Jaleco
 year:1989
 status:good
+kind:coinop
 romof:hachoo
 cloneof:hachoo

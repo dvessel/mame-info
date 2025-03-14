@@ -2,6 +2,7 @@ description:Shuzi Leyuan (China, V127M, gambling)
 manufacturer:IGS
 year:1996
 status:good
+kind:coinop
 device:ym2413
 romof:iqblock
 cloneof:iqblock

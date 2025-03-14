@@ -1,5 +1,6 @@
 description:Royal (Pool 10 hack)
 year:2001
 status:good
+kind:coinop
 romof:pool10
 cloneof:pool10

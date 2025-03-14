@@ -2,5 +2,6 @@ description:Gals Panic (ULA protected, set 1)
 manufacturer:Kaneko
 year:1990
 status:good
+kind:coinop
 romof:galpanic
 cloneof:galpanic

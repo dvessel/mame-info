@@ -2,5 +2,6 @@ description:Grandslam Casino (Bellfruit) (Scorpion 4) (set 16)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4gcclb
 cloneof:sc4gcclb

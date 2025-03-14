@@ -2,5 +2,6 @@ description:Time Pilot (Atari)
 manufacturer:Konami (Atari license)
 year:1982
 status:good
+kind:coinop
 romof:timeplt
 cloneof:timeplt

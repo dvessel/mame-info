@@ -2,5 +2,6 @@ description:Flicky (128k Version, 315-5051, larger ROMs)
 manufacturer:Sega
 year:1984
 status:good
+kind:coinop
 romof:flicky
 cloneof:flicky

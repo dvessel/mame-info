@@ -2,6 +2,7 @@ description:Star Warrior
 manufacturer:bootleg (Potomac Mortgage)
 year:1980
 status:imperfect
+kind:coinop
 romof:spacefb
 cloneof:spacefb
 sampleof:spacefb

@@ -3,5 +3,6 @@ manufacturer:Bally
 year:1991
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:pz_f4
 cloneof:pz_f4

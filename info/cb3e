@@ -2,5 +2,6 @@ description:Cherry Bonus III (set 4, encrypted bootleg)
 manufacturer:bootleg
 year:199?
 status:good
+kind:coinop
 romof:ncb3
 cloneof:ncb3

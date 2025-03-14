@@ -2,6 +2,7 @@ description:Crime Patrol (v1.0)
 manufacturer:American Laser Games
 year:1993
 status:preliminary
+kind:coinop
 romof:crimepat
 romof:alg_bios
 cloneof:crimepat

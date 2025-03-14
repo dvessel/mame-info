@@ -2,5 +2,6 @@ description:Abracadabra (Qps) (Scorpion 4) (set 2, 041)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4abra
 cloneof:sc4abra

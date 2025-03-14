@@ -2,5 +2,6 @@ description:Samurai Nihon-Ichi
 manufacturer:Kaneko / Taito
 year:1985
 status:good
+kind:coinop
 romof:tsamurai
 cloneof:tsamurai

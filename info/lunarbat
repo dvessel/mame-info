@@ -2,5 +2,6 @@ description:Lunar Battle (prototype, later)
 manufacturer:Atari
 year:1982
 status:good
+kind:coinop
 romof:gravitar
 cloneof:gravitar

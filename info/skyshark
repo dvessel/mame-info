@@ -2,5 +2,6 @@ description:Sky Shark (US, set 1)
 manufacturer:Toaplan / Taito America Corporation (Romstar license)
 year:1987
 status:good
+kind:coinop
 romof:fshark
 cloneof:fshark

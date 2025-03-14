@@ -2,5 +2,6 @@ description:Head Panic (ver. 8.30)
 manufacturer:ESD
 year:1999
 status:good
+kind:coinop
 romof:hedpanic
 cloneof:hedpanic

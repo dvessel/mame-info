@@ -2,5 +2,6 @@ description:Little Casino II (v17.0)
 manufacturer:Digital Controls Inc.
 year:1984
 status:good
+kind:coinop
 romof:ltcasin2
 cloneof:ltcasin2

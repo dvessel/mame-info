@@ -2,5 +2,6 @@ description:Gold Digger Club (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4gdclb
 cloneof:sc4gdclb

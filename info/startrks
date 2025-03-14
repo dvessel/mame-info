@@ -2,5 +2,6 @@ description:Star Trek (Head On hardware)
 manufacturer:bootleg (Sidam)
 year:198?
 status:imperfect
+kind:coinop
 romof:nostromo
 cloneof:nostromo

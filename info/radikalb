@@ -2,4 +2,5 @@ description:Radikal Bikers (version 2.02)
 manufacturer:Gaelco
 year:1998
 status:imperfect
+kind:coinop
 device:tms32031

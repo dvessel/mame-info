@@ -2,5 +2,6 @@ description:Dogou Souken
 manufacturer:SNK
 year:1986
 status:good
+kind:coinop
 romof:victroad
 cloneof:victroad

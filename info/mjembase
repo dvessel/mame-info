@@ -2,6 +2,7 @@ description:Mahjong Electromagnetic Base (Japan)
 manufacturer:Dynax
 year:1989
 status:good
+kind:coinop
 device:ym2413
 romof:mjelctrn
 cloneof:mjelctrn

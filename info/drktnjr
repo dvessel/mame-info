@@ -2,5 +2,6 @@ description:Drakton (DKJr conversion)
 manufacturer:Epos Corporation
 year:1984
 status:good
+kind:coinop
 romof:drakton
 cloneof:drakton

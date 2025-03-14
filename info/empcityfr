@@ -2,6 +2,7 @@ description:Empire City: 1931 (France)
 manufacturer:Seibu Kaihatsu (Norad license)
 year:1986
 status:imperfect
+kind:coinop
 device:m68705p5
 romof:empcity
 cloneof:empcity

@@ -2,6 +2,7 @@ description:CoMotion (patent)
 manufacturer:Gremlin
 year:1976
 status:imperfect
+kind:coinop
 romof:comotion
 cloneof:comotion
 sampleof:blockade

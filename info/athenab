@@ -2,5 +2,6 @@ description:Athena (bootleg)
 manufacturer:SNK
 year:1986
 status:good
+kind:coinop
 romof:athena
 cloneof:athena

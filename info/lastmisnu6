@@ -2,5 +2,6 @@ description:Last Mission (US revision 6)
 manufacturer:Data East USA
 year:1986
 status:good
+kind:coinop
 romof:lastmisn
 cloneof:lastmisn

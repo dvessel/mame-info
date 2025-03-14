@@ -2,5 +2,6 @@ description:Fighting Mania (QG918 VER. EAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 romof:sys573
 disk:918xxb02

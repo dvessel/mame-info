@@ -2,5 +2,6 @@ description:Fighting Fantasy (bootleg with 68705)
 manufacturer:bootleg
 year:1989
 status:preliminary
+kind:coinop
 romof:hippodrm
 cloneof:hippodrm

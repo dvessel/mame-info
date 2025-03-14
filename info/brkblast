@@ -2,5 +2,6 @@ description:Brick Blast (bootleg of Wall Crash)
 manufacturer:bootleg (Fadesa)
 year:1984
 status:good
+kind:coinop
 romof:wallc
 cloneof:wallc

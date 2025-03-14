@@ -2,5 +2,6 @@ description:Ms. Pacman Champion Edition / Zola-Puc Gal
 manufacturer:hack
 year:1992
 status:good
+kind:coinop
 romof:mspacman
 cloneof:mspacman

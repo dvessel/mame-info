@@ -2,6 +2,7 @@ description:Super Poker (v102UA)
 manufacturer:IGS
 year:1996
 status:good
+kind:coinop
 device:ym2413
 romof:spk306us
 cloneof:spk306us

@@ -2,6 +2,7 @@ description:Puzznic (Japan)
 manufacturer:Taito Corporation
 year:1989
 status:good
+kind:coinop
 device:m68705p3
 romof:puzznic
 cloneof:puzznic

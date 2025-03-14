@@ -2,5 +2,6 @@ description:Salamander (version J)
 manufacturer:Konami
 year:1986
 status:good
+kind:coinop
 romof:salamand
 cloneof:salamand

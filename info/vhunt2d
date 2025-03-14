@@ -2,6 +2,7 @@ description:Vampire Hunter 2: Darkstalkers Revenge (Japan 970913 Phoenix Edition
 manufacturer:bootleg
 year:1997
 status:good
+kind:coinop
 device:qsound_hle
 romof:vhunt2
 cloneof:vhunt2

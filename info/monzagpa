@@ -2,5 +2,6 @@ description:Monza GP (set 2)
 manufacturer:Olympia
 year:1981
 status:preliminary
+kind:coinop
 romof:monzagp
 cloneof:monzagp

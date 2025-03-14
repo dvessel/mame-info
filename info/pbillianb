@@ -2,5 +2,6 @@ description:Prebillian (bootleg)
 manufacturer:bootleg (Game Corp.)
 year:1987
 status:good
+kind:coinop
 romof:pbillian
 cloneof:pbillian

@@ -2,5 +2,6 @@ description:Souko Ban Deluxe (Japan, SB1)
 manufacturer:Namco
 year:1990
 status:good
+kind:coinop
 romof:boxyboy
 cloneof:boxyboy

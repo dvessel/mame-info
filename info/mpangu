@@ -2,6 +2,7 @@ description:Mighty! Pang (USA 001010)
 manufacturer:Mitchell (Capcom license)
 year:2000
 status:good
+kind:coinop
 device:qsound_hle
 romof:mpang
 cloneof:mpang

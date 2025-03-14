@@ -2,5 +2,6 @@ description:Deluxe 5 (ver. 0107, 07/01/2000, set 2)
 manufacturer:ESD
 year:2000
 status:good
+kind:coinop
 romof:deluxe5
 cloneof:deluxe5

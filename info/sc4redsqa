@@ -2,5 +2,6 @@ description:Red Square (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4redsq
 cloneof:sc4redsq

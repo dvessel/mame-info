@@ -2,5 +2,6 @@ description:Action 2000 (Version 3.3)
 manufacturer:Amcoe
 year:1999
 status:good
+kind:coinop
 romof:act2000
 cloneof:act2000

@@ -2,5 +2,6 @@ description:Buggy Boy/Speed Buggy (cockpit, rev. B)
 manufacturer:Tatsumi
 year:1986
 status:good
+kind:coinop
 romof:buggyboy
 cloneof:buggyboy

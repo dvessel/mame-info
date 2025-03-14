@@ -2,5 +2,6 @@ description:Borderline (Karateco bootleg)
 manufacturer:bootleg (Karateco)
 year:1981
 status:good
+kind:coinop
 romof:brdrline
 cloneof:brdrline

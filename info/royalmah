@@ -2,5 +2,6 @@ description:Royal Mahjong (Falcon bootleg, v1.01)
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:royalmj
 cloneof:royalmj

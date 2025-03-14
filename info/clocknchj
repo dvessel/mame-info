@@ -2,6 +2,7 @@ description:Lock'n'Chase (DECO Cassette) (Japan)
 manufacturer:Data East Corporation
 year:1981
 status:good
+kind:coinop
 romof:clocknch
 romof:decocass
 cloneof:clocknch

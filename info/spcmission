@@ -2,5 +2,6 @@ description:Space Mission (SegaSA / Sonic, Spanish bootleg of Scramble)
 manufacturer:bootleg (SegaSA / Sonic)
 year:198?
 status:good
+kind:coinop
 romof:scramble
 cloneof:scramble

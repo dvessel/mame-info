@@ -2,5 +2,6 @@ description:Virtual Pool
 manufacturer:Incredible Technologies
 year:1998
 status:good
+kind:coinop
 romof:iteagle
 disk:virtualpool

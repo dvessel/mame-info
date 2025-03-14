@@ -2,5 +2,6 @@ description:Golden X (Mazooma) (PR2056, newer?) (Scorpion 4) (GLDX, 35GBP, set 1
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4ggame
 cloneof:sc4ggame

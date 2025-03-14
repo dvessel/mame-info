@@ -2,6 +2,7 @@ description:Chicken (0200530V, Queensland)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+kind:coinop
 romof:chickna5
 romof:aristmk5
 cloneof:chickna5

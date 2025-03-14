@@ -2,5 +2,6 @@ description:Power Instinct (USA, prototype)
 manufacturer:Atlus
 year:1993
 status:good
+kind:coinop
 romof:powerins
 cloneof:powerins

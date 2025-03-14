@@ -2,5 +2,6 @@ description:Club Temptation (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4clbtm
 cloneof:sc4clbtm

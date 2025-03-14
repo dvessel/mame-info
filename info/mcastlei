@@ -3,6 +3,7 @@ manufacturer:Zaccaria
 year:1984
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:mcastle
 cloneof:mcastle
 sampleof:genpin

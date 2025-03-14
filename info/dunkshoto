@@ -2,5 +2,6 @@ description:Dunk Shot (FD1089A 317-0022)
 manufacturer:Sega
 year:1986
 status:good
+kind:coinop
 romof:dunkshot
 cloneof:dunkshot

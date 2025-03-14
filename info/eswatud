@@ -2,5 +2,6 @@ description:Cyber Police ESWAT (set 3, US) (bootleg of FD1094 317-0129 set)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:eswat
 cloneof:eswat

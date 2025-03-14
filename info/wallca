@@ -2,5 +2,6 @@ description:Wall Crash (set 2)
 manufacturer:Midcoin
 year:1984
 status:good
+kind:coinop
 romof:wallc
 cloneof:wallc

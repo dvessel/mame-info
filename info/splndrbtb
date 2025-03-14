@@ -2,6 +2,7 @@ description:Splendor Blast (set 3)
 manufacturer:Alpha Denshi Co.
 year:1985
 status:imperfect
+kind:coinop
 romof:splndrbt
 cloneof:splndrbt
 sampleof:equites

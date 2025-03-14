@@ -2,6 +2,7 @@ description:K.G. Bird (4VXFC5341, New Zealand, 10c)
 manufacturer:Aristocrat
 year:1996
 status:good
+kind:coinop
 romof:kgbird
 cloneof:kgbird
 sampleof:3bagfull

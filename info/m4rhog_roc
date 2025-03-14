@@ -3,5 +3,6 @@ manufacturer:BWB
 year:1995
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4rhog
 cloneof:m4rhog

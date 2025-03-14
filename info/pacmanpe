@@ -2,5 +2,6 @@ description:Come Come (Petaco SA bootleg of Puck Man)
 manufacturer:bootleg (Petaco SA)
 year:1980
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

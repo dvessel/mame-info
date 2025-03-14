@@ -2,5 +2,6 @@ description:Klax (version 5)
 manufacturer:Atari Games
 year:1989
 status:good
+kind:coinop
 romof:klax
 cloneof:klax

@@ -2,5 +2,6 @@ description:Pirate 2001 (Version 2.5R, set 1)
 manufacturer:Amcoe
 year:2001
 status:good
+kind:coinop
 romof:pir2001
 cloneof:pir2001

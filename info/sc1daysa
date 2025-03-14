@@ -3,5 +3,6 @@ manufacturer:Global
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sc1days
 cloneof:sc1days

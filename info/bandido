@@ -2,5 +2,6 @@ description:Bandido
 manufacturer:Nintendo (Exidy license)
 year:1980
 status:good
+kind:coinop
 romof:sheriff
 cloneof:sheriff

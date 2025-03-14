@@ -2,5 +2,6 @@ description:Bad Lands (bootleg)
 manufacturer:bootleg (Playmark)
 year:1989
 status:preliminary
+kind:coinop
 romof:badlands
 cloneof:badlands

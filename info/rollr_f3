@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:rollr_l2
 cloneof:rollr_l2
 sampleof:genpin

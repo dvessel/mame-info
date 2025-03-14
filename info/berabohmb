@@ -2,5 +2,6 @@ description:Chou Zetsurinjin Berabowman (Japan, Rev B)
 manufacturer:Namco
 year:1988
 status:good
+kind:coinop
 romof:berabohm
 cloneof:berabohm

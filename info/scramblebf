@@ -2,5 +2,6 @@ description:Scramble (Karateco, French bootleg)
 manufacturer:bootleg (Karateco)
 year:1981
 status:good
+kind:coinop
 romof:scramble
 cloneof:scramble

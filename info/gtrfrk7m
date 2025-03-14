@@ -2,6 +2,7 @@ description:Guitar Freaks 7th Mix (G*B17 VER. JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:b17jaa02

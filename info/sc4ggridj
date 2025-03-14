@@ -2,5 +2,6 @@ description:Golden Grid (V041) (Qps) (Scorpion 4) (set 1)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4ggrid
 cloneof:sc4ggrid

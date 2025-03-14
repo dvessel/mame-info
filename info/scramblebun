@@ -2,5 +2,6 @@ description:Scramble (unknown bootleg)
 manufacturer:bootleg
 year:1981
 status:preliminary
+kind:coinop
 romof:scramble
 cloneof:scramble

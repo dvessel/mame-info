@@ -2,6 +2,7 @@ description:Naomi DIMM Firmware Updater (2.17) (GDS-0023C)
 manufacturer:Sega
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

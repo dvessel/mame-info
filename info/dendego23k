@@ -2,5 +2,6 @@ description:Densha de GO! 2 Kousoku-hen 3000-bandai (Ver 2.20 J)
 manufacturer:Taito
 year:1998
 status:imperfect
+kind:coinop
 romof:dendego2
 cloneof:dendego2

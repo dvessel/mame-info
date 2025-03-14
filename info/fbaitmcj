@@ -2,6 +2,7 @@ description:Fisherman's Bait - Marlin Challenge (GX889 VER. JA)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:fbaitmc
 romof:sys573
 cloneof:fbaitmc

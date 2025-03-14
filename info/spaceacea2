@@ -2,5 +2,6 @@ description:Space Ace (US Rev. A2)
 manufacturer:Cinematronics
 year:1983
 status:preliminary
+kind:coinop
 romof:spaceace
 cloneof:spaceace

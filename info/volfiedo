@@ -2,6 +2,7 @@ description:Volfied (World)
 manufacturer:Taito Corporation Japan
 year:1989
 status:good
+kind:coinop
 device:cchip
 romof:volfied
 cloneof:volfied

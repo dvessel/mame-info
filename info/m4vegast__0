@@ -3,5 +3,6 @@ manufacturer:bootleg
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4vegast
 cloneof:m4vegast

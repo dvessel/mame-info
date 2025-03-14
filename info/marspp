@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1981
 status:preliminary
 kind:mechanical
+kind:coinop
 device:votrsc01
 romof:marsp
 cloneof:marsp

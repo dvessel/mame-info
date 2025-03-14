@@ -3,5 +3,6 @@ manufacturer:Inder
 year:1978
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:recel
 sampleof:genpin

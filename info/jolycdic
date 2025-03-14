@@ -2,5 +2,6 @@ description:Jolly Card (Italian, encrypted bootleg, set 2)
 manufacturer:bootleg
 year:1993
 status:good
+kind:coinop
 romof:jollycrd
 cloneof:jollycrd

@@ -2,5 +2,6 @@ description:Deer Hunting USA V4.0
 manufacturer:Sammy USA Corporation
 year:2000
 status:imperfect
+kind:coinop
 romof:deerhunt
 cloneof:deerhunt

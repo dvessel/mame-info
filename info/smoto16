@@ -2,5 +2,6 @@ description:Super Moto (Italy, v1.6)
 manufacturer:Subsino
 year:1996
 status:good
+kind:coinop
 romof:smoto20
 cloneof:smoto20

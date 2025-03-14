@@ -2,5 +2,6 @@ description:Top Racer (bootleg of Driving Force)
 manufacturer:bootleg (EMT Germany)
 year:1984
 status:good
+kind:coinop
 romof:drivfrcp
 cloneof:drivfrcp

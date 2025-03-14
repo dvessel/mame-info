@@ -3,6 +3,7 @@ manufacturer:Nuova Bell Games
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:cybrnaut
 cloneof:cybrnaut
 sampleof:genpin

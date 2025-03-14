@@ -2,5 +2,6 @@ description:Lock-On (rev. C)
 manufacturer:Tatsumi
 year:1986
 status:good
+kind:coinop
 romof:lockon
 cloneof:lockon

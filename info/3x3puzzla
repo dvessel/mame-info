@@ -2,5 +2,6 @@ description:3X3 Puzzle (Normal)
 manufacturer:Ace Enterprise
 year:1998
 status:good
+kind:coinop
 romof:3x3puzzl
 cloneof:3x3puzzl

@@ -2,5 +2,6 @@ description:Express Raider (Italy)
 manufacturer:Data East Corporation
 year:1986
 status:good
+kind:coinop
 romof:exprraid
 cloneof:exprraid

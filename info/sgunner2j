@@ -2,6 +2,7 @@ description:Steel Gunner 2 (Japan, Rev A)
 manufacturer:Namco
 year:1991
 status:good
+kind:coinop
 device:namcoc68
 romof:sgunner2
 cloneof:sgunner2

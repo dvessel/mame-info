@@ -2,6 +2,7 @@ description:Dance Freaks (G*874 VER. KAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:874kaa

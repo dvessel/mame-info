@@ -2,5 +2,6 @@ description:Guardian Force (JUET 980318 V0.105)
 manufacturer:Success
 year:1998
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

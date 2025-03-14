@@ -2,4 +2,5 @@ description:Quintoon (Dutch, Game Card 95-750-243)
 manufacturer:BFM/ELAM
 year:1993
 status:good
+kind:coinop
 device:ym2413

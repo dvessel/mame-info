@@ -2,6 +2,7 @@ description:Dungeons &amp; Dragons: Tower of Doom (Europe 940412 Phoenix Edition
 manufacturer:bootleg
 year:1993
 status:good
+kind:coinop
 device:qsound_hle
 romof:ddtod
 cloneof:ddtod

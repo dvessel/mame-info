@@ -3,4 +3,5 @@ manufacturer:JPM
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413

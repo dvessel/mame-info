@@ -2,5 +2,6 @@ description:Ikari Three (Korea, 8-Way Joystick)
 manufacturer:SNK
 year:1989
 status:good
+kind:coinop
 romof:ikari3
 cloneof:ikari3

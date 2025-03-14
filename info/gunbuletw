@@ -2,6 +2,7 @@ description:Gun Bullet (World, GN3 Rev B)
 manufacturer:Namco
 year:1994
 status:good
+kind:coinop
 device:namcoc75
 romof:ptblank
 cloneof:ptblank

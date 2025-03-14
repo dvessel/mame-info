@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2002
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:rctycn
 cloneof:rctycn
 sampleof:genpin

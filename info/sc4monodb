@@ -2,5 +2,6 @@ description:Monopoly (Mazooma) [German] (Scorpion 4) (set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4monod
 cloneof:sc4monod

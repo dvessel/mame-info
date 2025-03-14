@@ -2,5 +2,6 @@ description:Evolution (Qps) (Scorpion 4) (set 6)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4evol
 cloneof:sc4evol

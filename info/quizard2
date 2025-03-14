@@ -2,5 +2,6 @@ description:Quizard 2 (v2.3, German, i8751 DN 122 D3)
 manufacturer:TAB Austria
 year:1995
 status:imperfect
+kind:coinop
 romof:cdibios
 disk:quizard23

@@ -2,5 +2,6 @@ description:Blue Rinse (Mazooma) (Scorpion 4) (set 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4blue
 cloneof:sc4blue

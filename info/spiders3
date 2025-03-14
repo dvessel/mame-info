@@ -2,5 +2,6 @@ description:Spiders (set 3)
 manufacturer:Sigma Enterprises Inc.
 year:1981
 status:imperfect
+kind:coinop
 romof:spiders
 cloneof:spiders

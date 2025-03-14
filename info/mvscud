@@ -2,6 +2,7 @@ description:Marvel Vs. Capcom: Clash of Super Heroes (USA 980123 Phoenix Edition
 manufacturer:bootleg
 year:1998
 status:good
+kind:coinop
 device:qsound_hle
 romof:mvsc
 cloneof:mvsc

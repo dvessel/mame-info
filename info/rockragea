@@ -2,5 +2,6 @@ description:Rock'n Rage (prototype?)
 manufacturer:Konami
 year:1986
 status:good
+kind:coinop
 romof:rockrage
 cloneof:rockrage

@@ -2,6 +2,7 @@ description:Kick '4' Cash (Export)
 manufacturer:Sega
 year:2004
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:sega837_14438

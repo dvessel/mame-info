@@ -2,5 +2,6 @@ description:Player's Edge (PK1030-PC088) 4 of a Kind Bonus Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+kind:coinop
 romof:pepk1015
 cloneof:pepk1015

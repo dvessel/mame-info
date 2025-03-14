@@ -2,5 +2,6 @@ description:Colt
 manufacturer:bootleg
 year:1986
 status:imperfect
+kind:coinop
 romof:nycaptor
 cloneof:nycaptor

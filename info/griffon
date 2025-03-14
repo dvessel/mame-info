@@ -2,5 +2,6 @@ description:Griffon (Videotron bootleg of Phoenix)
 manufacturer:bootleg (Videotron)
 year:1980
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

@@ -2,6 +2,7 @@ description:Tarzan (V202FA)
 manufacturer:IGS
 year:1999?
 status:good
+kind:coinop
 device:ym2413
 romof:tarzanc
 cloneof:tarzanc

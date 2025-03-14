@@ -2,5 +2,6 @@ description:Perfect Billiard (MC-8123, 317-5008)
 manufacturer:Nihon System (Sega license)
 year:1987
 status:good
+kind:coinop
 romof:pbillrd
 cloneof:pbillrd

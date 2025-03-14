@@ -2,5 +2,6 @@ description:Money To Burn Club (Bellfruit) (Scorpion 4) (set 15)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4mtbcl
 cloneof:sc4mtbcl

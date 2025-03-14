@@ -2,6 +2,7 @@ description:VJ: Visual &amp; Music Slap
 manufacturer:Jaleco
 year:1999
 status:preliminary
+kind:coinop
 device:jaleco_vj_pc
 device:virgedx_pci
 disk:vj_ver1

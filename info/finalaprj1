@@ -2,6 +2,7 @@ description:Final Lap R (Japan Rev. B)
 manufacturer:Namco
 year:1994
 status:imperfect
+kind:coinop
 device:namcoc75
 romof:finalapr
 cloneof:finalapr

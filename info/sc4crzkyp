@@ -2,5 +2,6 @@ description:Casino Crazy Keys Arcade (Bellfruit) (Scorpion 4) (set 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4crzky
 cloneof:sc4crzky

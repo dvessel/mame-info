@@ -2,5 +2,6 @@ description:Racing Jam (GN676EAC)
 manufacturer:Konami
 year:1998
 status:preliminary
+kind:coinop
 romof:racingj
 cloneof:racingj

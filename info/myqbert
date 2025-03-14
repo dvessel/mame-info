@@ -2,6 +2,7 @@ description:Mello Yello Q*bert
 manufacturer:Gottlieb
 year:1982
 status:imperfect
+kind:coinop
 device:votrsc01a
 romof:qbert
 cloneof:qbert

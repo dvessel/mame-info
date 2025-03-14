@@ -2,6 +2,7 @@ description:Crisis Zone (US, CSZO3 Ver. B, set 2)
 manufacturer:Namco
 year:1999
 status:preliminary
+kind:coinop
 device:namco_csz1
 romof:crszone
 cloneof:crszone

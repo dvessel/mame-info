@@ -2,4 +2,5 @@ description:VLC Nevada
 manufacturer:VLC Inc.
 year:1995
 status:preliminary
+kind:coinop
 device:microtouch

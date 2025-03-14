@@ -2,5 +2,6 @@ description:Super Galactic Wars (bootleg of Galaxian)
 manufacturer:bootleg (Competitive Video)
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

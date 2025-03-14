@@ -2,5 +2,6 @@ description:Crazy Fruits V1.0 (PR2521, ECRZ) (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cfqps
 cloneof:sc4cfqps

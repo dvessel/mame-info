@@ -2,6 +2,7 @@ description:Radikal Bikers (version 2.02, Atari license)
 manufacturer:Gaelco (Atari license)
 year:1998
 status:imperfect
+kind:coinop
 device:tms32031
 romof:radikalb
 cloneof:radikalb

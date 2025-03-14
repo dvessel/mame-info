@@ -2,5 +2,6 @@ description:Armed Police Batrider (Japan, B version) (Fri Feb 13 1998)
 manufacturer:Raizing / Eighting
 year:1998
 status:good
+kind:coinop
 romof:batrider
 cloneof:batrider

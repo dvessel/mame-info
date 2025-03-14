@@ -3,4 +3,5 @@ manufacturer:Quick $ilver Development Co.
 year:1996
 status:preliminary
 kind:mechanical
+kind:coinop
 device:hd44780

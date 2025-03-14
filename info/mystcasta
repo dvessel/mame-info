@@ -3,6 +3,7 @@ manufacturer:Alvin G
 year:1993
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:mystcast
 cloneof:mystcast

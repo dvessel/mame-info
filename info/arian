@@ -2,5 +2,6 @@ description:Arian Mission
 manufacturer:SNK
 year:1985
 status:good
+kind:coinop
 romof:aso
 cloneof:aso

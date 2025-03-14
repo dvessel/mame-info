@@ -2,5 +2,6 @@ description:High Impact Football (rev LA3 12/27/90)
 manufacturer:Williams
 year:1990
 status:good
+kind:coinop
 romof:hiimpact
 cloneof:hiimpact

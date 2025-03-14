@@ -2,5 +2,6 @@ description:Mach-9 (bootleg of Vulgus)
 manufacturer:bootleg (Itisa)
 year:1984
 status:good
+kind:coinop
 romof:vulgus
 cloneof:vulgus

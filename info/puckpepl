@@ -2,5 +2,6 @@ description:Puck People
 manufacturer:Microhard
 year:199?
 status:preliminary
+kind:coinop
 romof:funystrp
 cloneof:funystrp

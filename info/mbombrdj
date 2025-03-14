@@ -2,6 +2,7 @@ description:Muscle Bomber Duo: Heat Up Warriors (Japan 931206)
 manufacturer:Capcom
 year:1993
 status:good
+kind:coinop
 device:qsound_hle
 romof:mbombrd
 cloneof:mbombrd

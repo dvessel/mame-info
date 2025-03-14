@@ -2,6 +2,7 @@ description:DDRMAX2 - Dance Dance Revolution 7th Mix (G*B20 VER. JAA)
 manufacturer:Konami
 year:2002
 status:preliminary
+kind:coinop
 device:k573_dio
 device:k573mcr
 romof:sys573

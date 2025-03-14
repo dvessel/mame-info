@@ -2,5 +2,6 @@ description:Dual Assault
 manufacturer:Data East USA
 year:1984
 status:good
+kind:coinop
 romof:liberate
 cloneof:liberate

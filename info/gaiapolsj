@@ -2,5 +2,6 @@ description:Gaiapolis (ver JAF)
 manufacturer:Konami
 year:1993
 status:imperfect
+kind:coinop
 romof:gaiapols
 cloneof:gaiapols

@@ -2,5 +2,6 @@ description:Zing Zing Zip (bootleg)
 manufacturer:bootleg
 year:1992
 status:preliminary
+kind:coinop
 romof:zingzip
 cloneof:zingzip

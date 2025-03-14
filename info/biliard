@@ -2,5 +2,6 @@ description:New Biliard 98 (Pool 10 hack)
 manufacturer:bootleg
 year:1998
 status:good
+kind:coinop
 romof:pool10
 cloneof:pool10

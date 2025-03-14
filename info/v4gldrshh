@@ -2,5 +2,6 @@ description:Gold Rush (BWB) (Release 8, 20p Fixed, Cash+Token) (MPU4 Video)
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4gldrsh
 cloneof:v4gldrsh

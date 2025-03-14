@@ -2,5 +2,6 @@ description:Hat Trick Hero '93 (Ver 1.0A 1993/02/28)
 manufacturer:Taito Corporation
 year:1993
 status:imperfect
+kind:coinop
 romof:cupfinal
 cloneof:cupfinal

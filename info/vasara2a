@@ -2,5 +2,6 @@ description:Vasara 2 (set 2)
 manufacturer:Visco
 year:2001
 status:good
+kind:coinop
 romof:vasara2
 cloneof:vasara2

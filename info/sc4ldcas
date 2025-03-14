@@ -2,5 +2,6 @@ description:Line Dancer Casino (Mazooma) (Scorpion 4) (set 1)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4lined
 cloneof:sc4lined

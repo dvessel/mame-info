@@ -2,5 +2,6 @@ description:Booby Kids (Italian manufactured graphic hack / bootleg of Kid no Ho
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:horekid
 cloneof:horekid

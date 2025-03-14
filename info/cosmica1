@@ -2,6 +2,7 @@ description:Cosmic Alien (first version)
 manufacturer:Universal
 year:1979
 status:imperfect
+kind:coinop
 romof:cosmica
 cloneof:cosmica
 sampleof:cosmica

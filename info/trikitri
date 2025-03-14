@@ -2,5 +2,6 @@ description:Triki Triki (bootleg of Lover Boy)
 manufacturer:bootleg (DDT Enterprise Inc)
 year:1993
 status:good
+kind:coinop
 romof:loverboy
 cloneof:loverboy

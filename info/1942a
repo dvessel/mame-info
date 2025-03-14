@@ -2,5 +2,6 @@ description:1942 (Revision A)
 manufacturer:Capcom
 year:1984
 status:good
+kind:coinop
 romof:1942
 cloneof:1942

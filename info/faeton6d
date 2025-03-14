@@ -3,6 +3,7 @@ manufacturer:Juegos Populares
 year:1985
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:faeton
 cloneof:faeton
 sampleof:genpin

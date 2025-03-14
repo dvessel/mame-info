@@ -2,5 +2,6 @@ description:Pac-Land (Japan new)
 manufacturer:Namco
 year:1984
 status:good
+kind:coinop
 romof:pacland
 cloneof:pacland

@@ -2,5 +2,6 @@ description:Gals Panic (unprotected)
 manufacturer:Kaneko
 year:1990
 status:good
+kind:coinop
 romof:galpanic
 cloneof:galpanic

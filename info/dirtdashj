@@ -2,6 +2,7 @@ description:Dirt Dash (Japan, DT1 Ver.A)
 manufacturer:Namco
 year:1995
 status:imperfect
+kind:coinop
 device:namcoc71
 romof:dirtdash
 cloneof:dirtdash

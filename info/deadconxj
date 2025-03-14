@@ -2,5 +2,6 @@ description:Dead Connection (Japan)
 manufacturer:Taito Corporation
 year:1992
 status:good
+kind:coinop
 romof:deadconx
 cloneof:deadconx

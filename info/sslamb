@@ -2,5 +2,6 @@ description:Super Slam (set 3)
 manufacturer:Playmark
 year:1993
 status:good
+kind:coinop
 romof:sslam
 cloneof:sslam

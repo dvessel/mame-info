@@ -3,6 +3,7 @@ manufacturer:Stern
 year:198?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:st_sam
 cloneof:st_sam
 sampleof:genpin

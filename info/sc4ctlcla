@@ -2,5 +2,6 @@ description:Cop The Lot Club (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4ctlcl
 cloneof:sc4ctlcl

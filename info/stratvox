@@ -2,5 +2,6 @@ description:Stratovox (set 1)
 manufacturer:Sun Electronics (Taito license)
 year:1980
 status:good
+kind:coinop
 romof:speakres
 cloneof:speakres

@@ -2,5 +2,6 @@ description:Prize Tetris (BWB) (Datapak) (MPU4 Video)
 manufacturer:BWB
 year:1994
 status:imperfect
+kind:coinop
 romof:v4pztet
 cloneof:v4pztet

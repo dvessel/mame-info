@@ -2,5 +2,6 @@ description:Trivia Madness - Series B Question set
 manufacturer:Thunderhead Inc.
 year:1985
 status:imperfect
+kind:coinop
 romof:trvmadns
 cloneof:trvmadns

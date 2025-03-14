@@ -3,5 +3,6 @@ manufacturer:Williams
 year:1998
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:mb_10
 cloneof:mb_10

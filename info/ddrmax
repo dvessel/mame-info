@@ -2,6 +2,7 @@ description:DDRMAX - Dance Dance Revolution 6th Mix (G*B19 VER. JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 device:k573_dio
 device:k573mcr
 romof:sys573

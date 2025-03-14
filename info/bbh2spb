@@ -2,6 +2,7 @@ description:Big Buck Hunter II - Sportsman's Paradise (v2.02.08)
 manufacturer:Incredible Technologies
 year:2003
 status:good
+kind:coinop
 romof:bbh2sp
 romof:iteagle
 cloneof:bbh2sp

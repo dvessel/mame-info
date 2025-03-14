@@ -3,6 +3,7 @@ manufacturer:Taito do Brasil
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:obaoba
 cloneof:obaoba
 sampleof:genpin

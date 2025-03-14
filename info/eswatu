@@ -2,5 +2,6 @@ description:Cyber Police ESWAT (set 3, US) (FD1094 317-0129)
 manufacturer:Sega
 year:1989
 status:good
+kind:coinop
 romof:eswat
 cloneof:eswat

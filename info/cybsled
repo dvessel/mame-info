@@ -2,5 +2,6 @@ description:Cyber Sled (CY2, World)
 manufacturer:Namco
 year:1993
 status:preliminary
+kind:coinop
 device:namcoc68
 device:namcoc67

@@ -2,6 +2,7 @@ description:Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Update Disc Ver.2.00
 manufacturer:Sega
 year:2003
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

@@ -2,5 +2,6 @@ description:Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5A 1995/06/14
 manufacturer:Taito America Corporation
 year:1995
 status:imperfect
+kind:coinop
 romof:spcinv95
 cloneof:spcinv95

@@ -2,6 +2,7 @@ description:Spiker (5/5/86)
 manufacturer:Bally/Sente
 year:1986
 status:good
+kind:coinop
 device:sente6vb
 romof:spiker
 cloneof:spiker

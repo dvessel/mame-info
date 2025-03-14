@@ -2,6 +2,7 @@ description:Mad Dog McCree (v1C board rev.A)
 manufacturer:American Laser Games
 year:1990
 status:preliminary
+kind:coinop
 romof:maddog
 romof:alg_bios
 cloneof:maddog

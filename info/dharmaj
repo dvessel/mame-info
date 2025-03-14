@@ -2,6 +2,7 @@ description:Dharma Doujou (Japan)
 manufacturer:Metro
 year:1994
 status:good
+kind:coinop
 device:ym2413
 romof:dharma
 cloneof:dharma

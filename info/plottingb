@@ -2,5 +2,6 @@ description:Plotting (World set 3, earliest version)
 manufacturer:Taito Corporation Japan
 year:1989
 status:good
+kind:coinop
 romof:plotting
 cloneof:plotting

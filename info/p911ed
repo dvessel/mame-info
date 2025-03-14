@@ -2,6 +2,7 @@ description:Police 24/7 (ver EAD)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 romof:p911
 romof:kviper
 cloneof:p911

@@ -2,5 +2,6 @@ description:Aztec (Dutch) (Bellfruit) (Scorpion 4)
 manufacturer:BFG / Eurocoin
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4aztec
 cloneof:sc4aztec

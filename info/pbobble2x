@@ -2,5 +2,6 @@ description:Puzzle Bobble 2X (Ver 2.2J 1995/11/11)
 manufacturer:Taito Corporation
 year:1995
 status:imperfect
+kind:coinop
 romof:pbobble2
 cloneof:pbobble2

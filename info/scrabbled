@@ -2,5 +2,6 @@ description:Scrabble (rev. F) (Protocol)
 manufacturer:JPM
 year:1997
 status:good
+kind:coinop
 romof:scrabble
 cloneof:scrabble

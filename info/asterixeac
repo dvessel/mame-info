@@ -2,5 +2,6 @@ description:Asterix (ver EAC)
 manufacturer:Konami
 year:1992
 status:imperfect
+kind:coinop
 romof:asterix
 cloneof:asterix

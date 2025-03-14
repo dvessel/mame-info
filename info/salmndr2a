@@ -2,6 +2,7 @@ description:Salamander 2 (ver AAB)
 manufacturer:Konami
 year:1996
 status:imperfect
+kind:coinop
 romof:salmndr2
 romof:konamigx
 cloneof:salmndr2

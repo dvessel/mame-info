@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:tts_l2
 cloneof:tts_l2
 sampleof:genpin

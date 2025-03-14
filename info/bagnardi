@@ -2,5 +2,6 @@ description:Le Bagnard (Itisa, Spain)
 manufacturer:Valadon Automation (Itisa license)
 year:1983
 status:good
+kind:coinop
 romof:bagman
 cloneof:bagman

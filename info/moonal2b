@@ -2,5 +2,6 @@ description:Moon Alien Part 2 (older version)
 manufacturer:Namco / Nichibutsu
 year:1980
 status:good
+kind:coinop
 romof:moonal2
 cloneof:moonal2

@@ -3,5 +3,6 @@ manufacturer:Bally
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:pop_lx5
 cloneof:pop_lx5

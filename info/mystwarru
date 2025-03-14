@@ -2,5 +2,6 @@ description:Mystic Warriors (ver UAA)
 manufacturer:Konami
 year:1993
 status:imperfect
+kind:coinop
 romof:mystwarr
 cloneof:mystwarr

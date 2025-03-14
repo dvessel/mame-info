@@ -2,5 +2,6 @@ description:Alien Challenge (China)
 manufacturer:IGS
 year:1994
 status:good
+kind:coinop
 romof:aliencha
 cloneof:aliencha

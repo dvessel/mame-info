@@ -2,5 +2,6 @@ description:Crazy Fruits SP98 (PR4613) (BFM / Whitbread) (Scorpion 4) (set 1)
 manufacturer:BFM / Whitbread
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cfqps
 cloneof:sc4cfqps

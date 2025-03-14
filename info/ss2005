@@ -2,6 +2,7 @@ description:Super Shanghai 2005 (Japan, Rev A) (GDL-0031A)
 manufacturer:Starfish
 year:2005
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

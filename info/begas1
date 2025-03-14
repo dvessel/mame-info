@@ -2,5 +2,6 @@ description:Bega's Battle (Revision 1)
 manufacturer:Data East
 year:1983
 status:preliminary
+kind:coinop
 romof:begas
 cloneof:begas

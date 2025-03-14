@@ -2,5 +2,6 @@ description:Battlecry (Version C)
 manufacturer:Home Data
 year:1989
 status:imperfect
+kind:coinop
 romof:battlcry
 cloneof:battlcry

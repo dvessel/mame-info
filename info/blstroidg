@@ -2,5 +2,6 @@ description:Blasteroids (German, rev 2)
 manufacturer:Atari Games
 year:1987
 status:good
+kind:coinop
 romof:blstroid
 cloneof:blstroid

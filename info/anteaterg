@@ -2,5 +2,6 @@ description:Ameisenbaer (German)
 manufacturer:Tago Electronics (TV-Tuning license from Free Enterprise Games)
 year:1982
 status:good
+kind:coinop
 romof:anteater
 cloneof:anteater

@@ -2,5 +2,6 @@ description:Scorpion (set 2)
 manufacturer:Zaccaria
 year:1982
 status:imperfect
+kind:coinop
 romof:scorpion
 cloneof:scorpion

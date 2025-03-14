@@ -2,5 +2,6 @@ description:Hexion (Asia ver AAA, bootleg)
 manufacturer:bootleg (Impeuropex Corp.)
 year:1992
 status:good
+kind:coinop
 romof:hexion
 cloneof:hexion

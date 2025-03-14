@@ -2,5 +2,6 @@ description:Dream Soccer '94 (Korea, M107 hardware)
 manufacturer:Irem (Data East Corporation license)
 year:1994
 status:good
+kind:coinop
 romof:dsoccr94
 cloneof:dsoccr94

@@ -2,5 +2,6 @@ description:Find Out (Version 4.04, set 2)
 manufacturer:Elettronolo
 year:1989
 status:imperfect
+kind:coinop
 romof:findout
 cloneof:findout

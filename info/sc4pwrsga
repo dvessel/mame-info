@@ -2,5 +2,6 @@ description:Power Surge (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4pwrsg
 cloneof:sc4pwrsg

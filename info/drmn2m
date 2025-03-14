@@ -2,6 +2,7 @@ description:DrumMania 2nd Mix (GE912 VER. JAB)
 manufacturer:Konami
 year:1999
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:pcnfrk2m
 romof:sys573

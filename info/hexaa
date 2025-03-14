@@ -2,5 +2,6 @@ description:Hexa (with 2xZ80, protected)
 manufacturer:D.R. Korea
 year:199?
 status:preliminary
+kind:coinop
 romof:hexa
 cloneof:hexa

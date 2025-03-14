@@ -2,5 +2,6 @@ description:Escape from the Planet of the Robot Monsters (set 2)
 manufacturer:Atari Games
 year:1989
 status:good
+kind:coinop
 romof:eprom
 cloneof:eprom

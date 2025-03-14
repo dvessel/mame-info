@@ -2,5 +2,6 @@ description:Jolly Card (Italian, bootleg, set 1)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:jollycrd
 cloneof:jollycrd

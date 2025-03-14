@@ -3,6 +3,7 @@ manufacturer:Concept
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:sc2bbar7
 cloneof:sc2bbar7

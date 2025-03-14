@@ -2,6 +2,7 @@ description:Gals Panic S2 (Asia, version 1.1)
 manufacturer:Kaneko
 year:1999
 status:imperfect
+kind:coinop
 romof:galpans2
 romof:skns
 cloneof:galpans2

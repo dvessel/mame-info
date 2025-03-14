@@ -2,6 +2,7 @@ description:Zhongguo Long II (ver. 100C, China)
 manufacturer:IGS
 year:1997
 status:imperfect
+kind:coinop
 romof:drgw2
 romof:pgm
 cloneof:drgw2

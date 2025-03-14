@@ -2,5 +2,6 @@ description:Rush'n Attack (US)
 manufacturer:Konami
 year:1985
 status:good
+kind:coinop
 romof:gberet
 cloneof:gberet

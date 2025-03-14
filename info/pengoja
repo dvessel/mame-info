@@ -2,5 +2,6 @@ description:Pengo (Japan, 315-5010 type, rev C)
 manufacturer:Sega
 year:1982
 status:good
+kind:coinop
 romof:pengo
 cloneof:pengo

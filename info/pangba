@@ -2,5 +2,6 @@ description:Pang (bootleg, set 3)
 manufacturer:bootleg
 year:1989
 status:imperfect
+kind:coinop
 romof:pang
 cloneof:pang

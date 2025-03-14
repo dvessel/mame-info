@@ -2,4 +2,5 @@ description:IQ-Block (V100U)
 manufacturer:IGS
 year:1993
 status:good
+kind:coinop
 device:ym2413

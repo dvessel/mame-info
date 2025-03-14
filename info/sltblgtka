@@ -2,6 +2,7 @@ description:Slots (Belgian Token, Game Card 95-750-452)
 manufacturer:BFM/ELAM
 year:1996
 status:good
+kind:coinop
 device:ym2413
 romof:sltblgtk
 cloneof:sltblgtk

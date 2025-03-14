@@ -2,6 +2,7 @@ description:Monopoly Classic (JPM) (Version 5) (SYSTEM5 VIDEO)
 manufacturer:JPM
 year:1995
 status:good
+kind:coinop
 device:ym2413
 romof:monopoly
 cloneof:monopoly

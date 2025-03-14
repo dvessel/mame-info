@@ -2,6 +2,7 @@ description:Cyberbots: Fullmetal Madness (USA 950424)
 manufacturer:Capcom
 year:1995
 status:good
+kind:coinop
 device:qsound_hle
 romof:cybots
 cloneof:cybots

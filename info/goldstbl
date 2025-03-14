@@ -2,5 +2,6 @@ description:Golden Star (Blue version)
 manufacturer:IGS
 year:199?
 status:good
+kind:coinop
 romof:goldstar
 cloneof:goldstar

@@ -2,5 +2,6 @@ description:Moonwar (older)
 manufacturer:Stern Electronics
 year:1981
 status:good
+kind:coinop
 romof:moonwar
 cloneof:moonwar

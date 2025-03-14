@@ -2,5 +2,6 @@ description:New Lucky 8 Lines (set 15, W-4, Cleco bootleg)
 manufacturer:bootleg (Cleco)
 year:1988
 status:imperfect
+kind:coinop
 romof:lucky8
 cloneof:lucky8

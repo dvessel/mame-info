@@ -2,6 +2,7 @@ description:Champion Skill (Ability, Poker &amp; Symbols)
 manufacturer:IGS
 year:198?
 status:good
+kind:coinop
 device:ym2413
 romof:csk227it
 cloneof:csk227it

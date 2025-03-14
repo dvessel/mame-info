@@ -1,5 +1,6 @@
 description:Tetris + Cherry Master (Corsica, v8.01, unencrypted, set 2)
 year:198?
 status:good
+kind:coinop
 romof:cmtetris
 cloneof:cmtetris

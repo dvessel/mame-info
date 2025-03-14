@@ -2,5 +2,6 @@ description:Typhoon
 manufacturer:Konami
 year:1987
 status:good
+kind:coinop
 romof:ajax
 cloneof:ajax

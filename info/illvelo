@@ -2,6 +2,7 @@ description:Illvelo (Illmatic Envelope) (Japan)
 manufacturer:Milestone
 year:2008
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi

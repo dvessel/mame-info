@@ -2,5 +2,6 @@ description:New HUNTer
 manufacturer:Karam
 year:1992
 status:preliminary
+kind:coinop
 romof:tisub
 cloneof:tisub

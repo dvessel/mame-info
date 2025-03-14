@@ -2,5 +2,6 @@ description:Spatter (315-5099)
 manufacturer:Sega
 year:1984
 status:good
+kind:coinop
 romof:spatter
 cloneof:spatter

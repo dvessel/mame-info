@@ -2,5 +2,6 @@ description:Cash Adder (V1.0) (Qps) (Scorpion 4) (set 4)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cad
 cloneof:sc4cad

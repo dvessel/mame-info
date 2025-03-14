@@ -3,6 +3,7 @@ manufacturer:Zaccaria
 year:1983
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:pinchamp
 cloneof:pinchamp
 sampleof:genpin

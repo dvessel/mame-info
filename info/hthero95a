@@ -2,5 +2,6 @@ description:Hat Trick Hero '95 (Ver 2.6Asia 1994/11/17)
 manufacturer:Taito Corporation Japan
 year:1994
 status:imperfect
+kind:coinop
 romof:pwrgoal
 cloneof:pwrgoal

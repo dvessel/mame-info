@@ -2,6 +2,7 @@ description:Party Gras (AHG1568, US)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+kind:coinop
 device:microtouch
 romof:partygrs
 romof:aristmk5

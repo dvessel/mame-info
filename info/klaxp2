@@ -2,5 +2,6 @@ description:Klax (prototype set 2)
 manufacturer:Atari Games
 year:1989
 status:good
+kind:coinop
 romof:klax
 cloneof:klax

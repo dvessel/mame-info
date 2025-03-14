@@ -3,4 +3,5 @@ manufacturer:JPM
 year:1980?
 status:preliminary
 kind:mechanical
+kind:coinop
 sampleof:fruitsamples

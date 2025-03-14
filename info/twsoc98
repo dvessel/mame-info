@@ -2,6 +2,7 @@ description:Tecmo World Soccer '98 (JUET 980410 V1.000)
 manufacturer:Tecmo
 year:1998
 status:preliminary
+kind:coinop
 device:segabill
 romof:twcup98
 romof:stvbios

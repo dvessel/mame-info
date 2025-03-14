@@ -2,5 +2,6 @@ description:Grab A Granny (PR7019, GRAB) (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4gag
 cloneof:sc4gag

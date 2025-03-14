@@ -2,6 +2,7 @@ description:Cash Chameleon (0200437V, NSW/ACT)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+kind:coinop
 romof:cashcham
 romof:aristmk5
 cloneof:cashcham

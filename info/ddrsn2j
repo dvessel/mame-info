@@ -2,5 +2,6 @@ description:Dance Dance Revolution SuperNOVA 2 (GDJ:J:A:A:2007100800)
 manufacturer:Konami
 year:2007
 status:preliminary
+kind:coinop
 romof:kpython2
 disk:gdj_jaa_2007100800

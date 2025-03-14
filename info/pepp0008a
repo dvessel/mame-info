@@ -2,5 +2,6 @@ description:Player's Edge Plus (PP0008) Standard Draw Poker (set 2, El Cortez)
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+kind:coinop
 romof:pepp0001
 cloneof:pepp0001

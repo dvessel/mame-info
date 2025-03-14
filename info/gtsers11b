@@ -2,5 +2,6 @@ description:Trivia (Questions Series 11, alt question ROM, set 2)
 manufacturer:Greyhound Electronics
 year:1984
 status:imperfect
+kind:coinop
 romof:gtsers8
 cloneof:gtsers8

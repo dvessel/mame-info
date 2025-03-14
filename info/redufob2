@@ -2,5 +2,6 @@ description:Defend the Terra Attack on the Red UFO (bootleg, set 2)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:redufo
 cloneof:redufo

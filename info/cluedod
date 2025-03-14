@@ -2,5 +2,6 @@ description:Cluedo (prod. 2D) (Protocol)
 manufacturer:JPM
 year:1995
 status:imperfect
+kind:coinop
 romof:cluedo
 cloneof:cluedo

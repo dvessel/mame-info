@@ -2,6 +2,7 @@ description:Beastorizer (USA bootleg)
 manufacturer:bootleg
 year:1997
 status:preliminary
+kind:coinop
 romof:beastrzr
 romof:coh1002e
 cloneof:beastrzr

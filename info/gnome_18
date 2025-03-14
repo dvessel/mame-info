@@ -2,5 +2,6 @@ description:Gnome (140526 Entertainment B)
 manufacturer:Igrosoft
 year:2007
 status:good
+kind:coinop
 romof:gnome_9
 cloneof:gnome_9

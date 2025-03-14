@@ -2,4 +2,5 @@ description:Penguin Pirate II (0100869V, ASP)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+kind:coinop
 romof:aristmk5

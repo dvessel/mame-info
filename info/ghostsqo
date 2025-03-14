@@ -2,6 +2,7 @@ description:Ghost Squad (GDX-0012)
 manufacturer:Sega
 year:2004
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

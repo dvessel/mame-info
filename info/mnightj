@@ -2,5 +2,6 @@ description:Mutant Night (Japan)
 manufacturer:UPL (Kawakus license)
 year:1987
 status:good
+kind:coinop
 romof:mnight
 cloneof:mnight

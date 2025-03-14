@@ -3,6 +3,7 @@ manufacturer:Taito do Brasil
 year:1985
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:mrblack
 cloneof:mrblack
 sampleof:genpin

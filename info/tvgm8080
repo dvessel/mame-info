@@ -2,5 +2,6 @@ description:TV Game 8080
 manufacturer:bootleg?
 year:1978
 status:preliminary
+kind:coinop
 romof:blockch
 cloneof:blockch

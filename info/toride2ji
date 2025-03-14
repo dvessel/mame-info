@@ -2,6 +2,7 @@ description:Toride II (Japan, revision I)
 manufacturer:Metro
 year:1994
 status:imperfect
+kind:coinop
 device:ym2413
 romof:toride2g
 cloneof:toride2g

@@ -2,5 +2,6 @@ description:Hunchback (Galaxian hardware)
 manufacturer:Century Electronics
 year:1983
 status:good
+kind:coinop
 romof:hunchbak
 cloneof:hunchbak

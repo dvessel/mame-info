@@ -2,6 +2,7 @@ description:Super Street Fighter II X: Grand Master Challenge (Japan 940223 Phoe
 manufacturer:bootleg
 year:1994
 status:good
+kind:coinop
 device:qsound_hle
 romof:ssf2t
 cloneof:ssf2t

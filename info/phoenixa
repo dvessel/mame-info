@@ -2,5 +2,6 @@ description:Phoenix (Centuri, set 1)
 manufacturer:Amstar (Centuri license)
 year:1980
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

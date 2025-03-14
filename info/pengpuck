@@ -2,6 +2,7 @@ description:Penguin Pays - Penguin Pucks (EHG1257, US)
 manufacturer:Aristocrat
 year:2001
 status:imperfect
+kind:coinop
 romof:pengpay
 romof:aristmk5
 cloneof:pengpay

@@ -2,5 +2,6 @@ description:N-Sub (upright)
 manufacturer:Sega
 year:1980
 status:imperfect
+kind:coinop
 device:s97269pb
 sampleof:nsub

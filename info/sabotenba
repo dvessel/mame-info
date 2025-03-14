@@ -2,5 +2,6 @@ description:Saboten Bombers (set 2)
 manufacturer:NMK / Tecmo
 year:1992
 status:good
+kind:coinop
 romof:sabotenb
 cloneof:sabotenb

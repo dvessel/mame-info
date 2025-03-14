@@ -2,5 +2,6 @@ description:Shoot Out (Korean Bootleg)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:shootout
 cloneof:shootout

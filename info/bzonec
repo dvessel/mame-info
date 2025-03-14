@@ -2,5 +2,6 @@ description:Battle Zone (cocktail)
 manufacturer:Atari
 year:1980
 status:good
+kind:coinop
 romof:bzone
 cloneof:bzone

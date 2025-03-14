@@ -2,6 +2,7 @@ description:Progear no Arashi (Japan 010117)
 manufacturer:Cave (Capcom license)
 year:2001
 status:good
+kind:coinop
 device:qsound_hle
 romof:progear
 cloneof:progear

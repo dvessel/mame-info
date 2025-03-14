@@ -2,6 +2,7 @@ description:Wild Riders
 manufacturer:Wow Entertainment / Sega
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi2

@@ -2,5 +2,6 @@ description:Daitoride (YMF278B version)
 manufacturer:Metro
 year:1996
 status:imperfect
+kind:coinop
 romof:daitorid
 cloneof:daitorid

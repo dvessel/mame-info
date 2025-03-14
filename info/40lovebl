@@ -2,5 +2,6 @@ description:Forty-Love (bootleg)
 manufacturer:bootleg
 year:1984
 status:imperfect
+kind:coinop
 romof:40love
 cloneof:40love

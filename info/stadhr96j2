@@ -2,5 +2,6 @@ description:Stadium Hero '96 (Japan?, EAE)
 manufacturer:Data East Corporation
 year:1996
 status:preliminary
+kind:coinop
 romof:stadhr96
 cloneof:stadhr96

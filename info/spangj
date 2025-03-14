@@ -2,6 +2,7 @@ description:Super Pang (Japan 901023)
 manufacturer:Mitchell
 year:1990
 status:good
+kind:coinop
 device:ym2413
 romof:spang
 cloneof:spang

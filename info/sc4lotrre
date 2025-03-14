@@ -2,5 +2,6 @@ description:Lord Of The Rings - Return Of The King (Bellfruit) (Scorpion 4) (set
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4lotrr
 cloneof:sc4lotrr

@@ -2,5 +2,6 @@ description:The Real Ghostbusters (US 2 Players)
 manufacturer:Data East USA
 year:1987
 status:good
+kind:coinop
 romof:ghostb
 cloneof:ghostb

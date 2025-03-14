@@ -2,5 +2,6 @@ description:Fruit Cocktail (bootleg, 050118, changed version text)
 manufacturer:bootleg
 year:2003
 status:good
+kind:coinop
 romof:fcockt_8
 cloneof:fcockt_8

@@ -2,5 +2,6 @@ description:Far West
 manufacturer:bootleg?
 year:1986
 status:preliminary
+kind:coinop
 romof:ironhors
 cloneof:ironhors

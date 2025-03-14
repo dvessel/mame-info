@@ -2,5 +2,6 @@ description:Tetris Payout (BWB TET1 Version 2.2, set 2) (MPU4 Video)
 manufacturer:BWB / Barcrest
 year:1989
 status:imperfect
+kind:coinop
 romof:v4tetrs
 cloneof:v4tetrs

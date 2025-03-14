@@ -2,6 +2,7 @@ description:Guitar Freaks 5th Mix (G*A26 VER. JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:a26jaa02

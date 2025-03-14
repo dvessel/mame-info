@@ -2,5 +2,6 @@ description:Mandanga (bootleg of Mandinga on Galaxian hardware, set 2)
 manufacturer:bootleg (Centromatic)
 year:1982
 status:preliminary
+kind:coinop
 romof:amidar
 cloneof:amidar

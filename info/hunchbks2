@@ -2,5 +2,6 @@ description:Hunchback (Scramble hardware, bootleg)
 manufacturer:bootleg (Sig)
 year:1983
 status:good
+kind:coinop
 romof:hunchbak
 cloneof:hunchbak

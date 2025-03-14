@@ -2,5 +2,6 @@ description:Operation Wolf 3 (US)
 manufacturer:Taito America Corporation
 year:1994
 status:good
+kind:coinop
 romof:opwolf3
 cloneof:opwolf3

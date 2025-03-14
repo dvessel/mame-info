@@ -2,6 +2,7 @@ description:Gran Premio F1 (Italian bootleg of Pole Position II)
 manufacturer:bootleg
 year:1984
 status:imperfect
+kind:coinop
 device:namco51
 romof:polepos2
 cloneof:polepos2

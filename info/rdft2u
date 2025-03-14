@@ -2,5 +2,6 @@ description:Raiden Fighters 2 - Operation Hell Dive (US)
 manufacturer:Seibu Kaihatsu (Fabtek license)
 year:1997
 status:imperfect
+kind:coinop
 romof:rdft2
 cloneof:rdft2

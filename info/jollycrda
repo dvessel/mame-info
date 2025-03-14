@@ -2,5 +2,6 @@ description:Jolly Card (German, set 2)
 manufacturer:TAB Austria
 year:1985
 status:good
+kind:coinop
 romof:jollycrd
 cloneof:jollycrd

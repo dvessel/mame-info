@@ -2,4 +2,5 @@ description:Buggy Challenge
 manufacturer:Taito Corporation
 year:1984
 status:imperfect
+kind:coinop
 device:m68705p5

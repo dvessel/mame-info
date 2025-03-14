@@ -2,6 +2,7 @@ description:Donkey Kong Banana Kingdom (satellite)
 manufacturer:Capcom
 year:2007
 status:preliminary
+kind:coinop
 romof:dkbanana
 cloneof:dkbanana
 disk:dkbanana

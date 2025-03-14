@@ -2,5 +2,6 @@ description:Counter Run (bootleg set 2)
 manufacturer:bootleg
 year:1988
 status:preliminary
+kind:coinop
 romof:countrun
 cloneof:countrun

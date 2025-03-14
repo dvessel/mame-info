@@ -2,5 +2,6 @@ description:Starfighter (bootleg of Moon Cresta)
 manufacturer:bootleg (Samyra Engineering)
 year:198?
 status:good
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

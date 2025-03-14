@@ -2,6 +2,7 @@ description:Sega Network Taisen Mahjong MJ 2 (Rev C) (GDX-0006C)
 manufacturer:Sega
 year:2004
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

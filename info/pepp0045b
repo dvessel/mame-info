@@ -2,5 +2,6 @@ description:Player's Edge Plus (PP0045) 10's or Better (set 3, Par-A-Dice Riverb
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+kind:coinop
 romof:pepp0001
 cloneof:pepp0001

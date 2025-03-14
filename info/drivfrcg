@@ -2,5 +2,6 @@ description:Driving Force (Galaxian conversion)
 manufacturer:Shinkai Inc. (Magic Electronics USA license)
 year:1984
 status:good
+kind:coinop
 romof:drivfrcp
 cloneof:drivfrcp

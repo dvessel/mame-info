@@ -2,6 +2,7 @@ description:Fighters' Impact (Ver 2.02J)
 manufacturer:Taito
 year:1996
 status:imperfect
+kind:coinop
 romof:ftimpcta
 romof:coh1000t
 cloneof:ftimpcta

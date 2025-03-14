@@ -2,5 +2,6 @@ description:Bumba (bootleg of Head On)
 manufacturer:bootleg (Niemer)
 year:1979
 status:imperfect
+kind:coinop
 romof:headon
 cloneof:headon

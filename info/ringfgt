@@ -2,5 +2,6 @@ description:Ring Fighter (rev 1)
 manufacturer:Kaneko (Taito license)
 year:1984
 status:imperfect
+kind:coinop
 romof:vsgongf
 cloneof:vsgongf

@@ -2,5 +2,6 @@ description:Player's Edge Plus (KE0017) Keno (set 1)
 manufacturer:IGT - International Game Technology
 year:1994
 status:preliminary
+kind:coinop
 romof:peke0004
 cloneof:peke0004

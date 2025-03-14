@@ -2,5 +2,6 @@ description:Jockey Club II (v2.03X RC, older hardware, prototype)
 manufacturer:Seta
 year:1997
 status:imperfect
+kind:coinop
 romof:jclub2v112
 cloneof:jclub2v112

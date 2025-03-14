@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bk2k_l4
 cloneof:bk2k_l4
 sampleof:genpin

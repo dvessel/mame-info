@@ -2,5 +2,6 @@ description:Zip &amp; Zap (Less Explicit)
 manufacturer:Barko Corp
 year:1995
 status:imperfect
+kind:coinop
 romof:zipzap
 cloneof:zipzap

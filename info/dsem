@@ -2,6 +2,7 @@ description:Dancing Stage Euro Mix (G*936 VER. EAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:936eaa

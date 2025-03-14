@@ -2,5 +2,6 @@ description:Mortal Kombat II (rev L3.1, European)
 manufacturer:Midway
 year:1993
 status:good
+kind:coinop
 romof:mk2
 cloneof:mk2

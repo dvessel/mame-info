@@ -2,6 +2,7 @@ description:Quanhuang Sanguo Tebie Ban (bootleg of Knights of Valour Super Heroe
 manufacturer:bootleg
 year:2008
 status:imperfect
+kind:coinop
 romof:kovsh
 romof:pgm
 cloneof:kovsh

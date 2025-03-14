@@ -2,6 +2,7 @@ description:Psychic Force (Ver 2.4J)
 manufacturer:Taito
 year:1995
 status:imperfect
+kind:coinop
 romof:psyforce
 romof:coh1000t
 cloneof:psyforce

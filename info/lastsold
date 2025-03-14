@@ -2,6 +2,7 @@ description:The Last Soldier (Korean release of The Last Blade)
 manufacturer:SNK
 year:1997
 status:good
+kind:coinop
 romof:lastblad
 romof:neogeo
 cloneof:lastblad

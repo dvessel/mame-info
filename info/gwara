@@ -2,5 +2,6 @@ description:Guerrilla War (Version 1, set 1)
 manufacturer:SNK
 year:1987
 status:good
+kind:coinop
 romof:gwar
 cloneof:gwar

@@ -3,6 +3,7 @@ manufacturer:BWB
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:m4addr
 cloneof:m4addr

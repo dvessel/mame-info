@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:hs_l4
 cloneof:hs_l4
 sampleof:genpin

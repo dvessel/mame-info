@@ -2,6 +2,7 @@ description:Area 51 (Time Warner license, Oct 17, 1996)
 manufacturer:Atari Games (Time Warner license)
 year:1995
 status:good
+kind:coinop
 romof:area51
 cloneof:area51
 disk:area51t

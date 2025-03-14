@@ -3,6 +3,7 @@ manufacturer:Juegos Populares
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:halley
 cloneof:halley
 sampleof:genpin

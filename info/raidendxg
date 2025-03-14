@@ -2,5 +2,6 @@ description:Raiden DX (Germany)
 manufacturer:Seibu Kaihatsu (Tuning license)
 year:1994
 status:good
+kind:coinop
 romof:raidendx
 cloneof:raidendx

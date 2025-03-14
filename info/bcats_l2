@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bcats_l5
 cloneof:bcats_l5
 sampleof:genpin

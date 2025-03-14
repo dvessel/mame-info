@@ -2,6 +2,7 @@ description:Keyboardheaven (Korea)
 manufacturer:Konami
 year:2000
 status:imperfect
+kind:coinop
 device:xt446
 romof:kbm
 cloneof:kbm

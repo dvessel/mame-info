@@ -2,4 +2,5 @@ description:Final Fight 3 (SNES bootleg, set 1)
 manufacturer:bootleg
 year:199?
 status:preliminary
+kind:coinop
 device:s_smp

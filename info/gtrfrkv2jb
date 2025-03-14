@@ -2,6 +2,7 @@ description:Guitar Freaks V2 (F03:J:A:A:2005101600)
 manufacturer:Konami
 year:2005
 status:preliminary
+kind:coinop
 romof:gtrfrkv2j
 romof:kpython2
 cloneof:gtrfrkv2j

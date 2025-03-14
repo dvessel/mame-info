@@ -2,5 +2,6 @@ description:X-Reel
 manufacturer:Subsino (ECM license)
 year:2002
 status:preliminary
+kind:coinop
 romof:queenbee
 cloneof:queenbee

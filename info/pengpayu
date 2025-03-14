@@ -2,6 +2,7 @@ description:Penguin Pays (OHG0417-03, US)
 manufacturer:Aristocrat
 year:1997
 status:preliminary
+kind:coinop
 romof:pengpay
 romof:aristmk5
 cloneof:pengpay

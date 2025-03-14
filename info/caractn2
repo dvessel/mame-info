@@ -2,5 +2,6 @@ description:Car Action (set 2)
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:brubber
 cloneof:brubber

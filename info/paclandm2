@@ -2,5 +2,6 @@ description:Pac-Land (Bally-Midway)
 manufacturer:Namco (Bally Midway license)
 year:1984
 status:good
+kind:coinop
 romof:pacland
 cloneof:pacland

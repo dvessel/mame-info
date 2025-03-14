@@ -2,5 +2,6 @@ description:Fruit Cocktail (bootleg, 040216, banking address hack)
 manufacturer:bootleg
 year:2003
 status:good
+kind:coinop
 romof:fcockt_8
 cloneof:fcockt_8

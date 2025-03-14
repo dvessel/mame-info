@@ -2,5 +2,6 @@ description:Player's Edge (PK0719-PC011) Standard Draw Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+kind:coinop
 romof:pepk0719
 cloneof:pepk0719

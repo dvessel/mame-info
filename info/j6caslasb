@@ -3,5 +3,6 @@ manufacturer:JPM
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j6caslas
 cloneof:j6caslas

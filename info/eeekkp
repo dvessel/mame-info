@@ -2,5 +2,6 @@ description:Eeekk! (Pac-Man conversion)
 manufacturer:Epos Corporation
 year:1984
 status:good
+kind:coinop
 romof:eeekk
 cloneof:eeekk

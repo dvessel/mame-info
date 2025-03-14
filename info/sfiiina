@@ -2,6 +2,7 @@ description:Street Fighter III: New Generation (Asia 970204, NO CD, BIOS set 2)
 manufacturer:Capcom
 year:1997
 status:good
+kind:coinop
 romof:sfiii
 cloneof:sfiii
 disk:cap-sf3-3

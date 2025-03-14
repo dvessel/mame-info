@@ -2,6 +2,7 @@ description:Star Wars Arcade (Japan)
 manufacturer:Sega
 year:1993
 status:imperfect
+kind:coinop
 device:model1io
 romof:swa
 cloneof:swa

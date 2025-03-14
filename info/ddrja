@@ -2,6 +2,7 @@ description:Dance Dance Revolution (GC845 VER. JAA)
 manufacturer:Konami
 year:1998
 status:preliminary
+kind:coinop
 romof:dstage
 romof:sys573
 cloneof:dstage

@@ -2,6 +2,7 @@ description:DrumMania 6th Mix (G*B16 VER. JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 device:k573_dio
 device:k573msu
 romof:pcnfrk6m

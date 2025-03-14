@@ -2,6 +2,7 @@ description:Quest of D The Battle Kingdom (CDV-10035B)
 manufacturer:Sega
 year:2007
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

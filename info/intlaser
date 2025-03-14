@@ -2,5 +2,6 @@ description:International Team Laser (prototype)
 manufacturer:Bally Midway
 year:1987
 status:good
+kind:coinop
 romof:blasted
 cloneof:blasted

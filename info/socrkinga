@@ -3,6 +3,7 @@ manufacturer:Zaccaria
 year:1982
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:socrking
 cloneof:socrking
 sampleof:genpin

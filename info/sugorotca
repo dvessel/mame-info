@@ -2,5 +2,6 @@ description:Sugorotic JAPAN (STJ1 Ver.A)
 manufacturer:Namco
 year:2002
 status:preliminary
+kind:coinop
 romof:sugorotc
 cloneof:sugorotc

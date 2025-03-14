@@ -2,5 +2,6 @@ description:Superbike (Galaxian hardware)
 manufacturer:Century Electronics
 year:1983
 status:imperfect
+kind:coinop
 romof:superbik
 cloneof:superbik

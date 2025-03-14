@@ -2,6 +2,7 @@ description:Battles (set 1)
 manufacturer:bootleg
 year:1982
 status:imperfect
+kind:coinop
 device:namco51
 romof:xevious
 cloneof:xevious

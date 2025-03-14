@@ -2,6 +2,7 @@ description:Orchid Mist (0101241V, New Zealand)
 manufacturer:Aristocrat
 year:2000
 status:imperfect
+kind:coinop
 romof:orchidms
 romof:aristmk5
 cloneof:orchidms

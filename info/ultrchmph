@@ -2,6 +2,7 @@ description:Cheng Ba Shi Jie - Chao Shi Kong Guan Jun (Taiwan)
 manufacturer:Nakanihon
 year:1995
 status:imperfect
+kind:coinop
 device:ym2413
 romof:nettoqc
 cloneof:nettoqc

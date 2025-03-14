@@ -2,5 +2,6 @@ description:Solar Assault Revised (ver JAA)
 manufacturer:Konami
 year:1997
 status:imperfect
+kind:coinop
 romof:slrasslt
 cloneof:slrasslt

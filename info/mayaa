@@ -2,5 +2,6 @@ description:Maya (set 2)
 manufacturer:Promat
 year:1994
 status:good
+kind:coinop
 romof:maya
 cloneof:maya

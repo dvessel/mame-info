@@ -2,5 +2,6 @@ description:Magic Brush (bootleg of Crush Roller)
 manufacturer:bootleg (Olympia)
 year:1981
 status:good
+kind:coinop
 romof:crush
 cloneof:crush

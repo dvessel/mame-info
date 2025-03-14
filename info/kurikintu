@@ -2,5 +2,6 @@ description:Kuri Kinton (US)
 manufacturer:Taito America Corporation
 year:1988
 status:good
+kind:coinop
 romof:kurikint
 cloneof:kurikint

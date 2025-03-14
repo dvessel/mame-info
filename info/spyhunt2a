@@ -2,5 +2,6 @@ description:Spy Hunter II (rev 1)
 manufacturer:Bally Midway
 year:1987
 status:good
+kind:coinop
 romof:spyhunt2
 cloneof:spyhunt2

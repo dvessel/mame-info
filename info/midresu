@@ -2,5 +2,6 @@ description:Midnight Resistance (US)
 manufacturer:Data East USA
 year:1989
 status:imperfect
+kind:coinop
 romof:midres
 cloneof:midres

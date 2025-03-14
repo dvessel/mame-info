@@ -2,5 +2,6 @@ description:Gnome (bootleg, 070906, LOTOS GN01)
 manufacturer:bootleg
 year:2007
 status:good
+kind:coinop
 romof:gnome_9
 cloneof:gnome_9

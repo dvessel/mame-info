@@ -2,5 +2,6 @@ description:El Dorado (V1.1TA)
 manufacturer:Dyna
 year:1991
 status:preliminary
+kind:coinop
 romof:eldoradd
 cloneof:eldoradd

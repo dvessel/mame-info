@@ -2,5 +2,6 @@ description:Jungle Bucks (Bellfruit) (Scorpion 4) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4jbuck
 cloneof:sc4jbuck

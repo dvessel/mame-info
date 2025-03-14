@@ -2,4 +2,5 @@ description:Elevator Action (BA3, 4 PCB version, 1.1)
 manufacturer:Taito Corporation
 year:1983
 status:good
+kind:coinop
 device:m68705p5

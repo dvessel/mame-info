@@ -2,6 +2,7 @@ description:Mobile Suit Gundam 0079 Card Builder (CDV-10010)
 manufacturer:Banpresto
 year:2005
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

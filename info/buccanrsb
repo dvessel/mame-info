@@ -2,5 +2,6 @@ description:Buccaneers (set 3, harder)
 manufacturer:Duintronic
 year:1989
 status:good
+kind:coinop
 romof:buccanrs
 cloneof:buccanrs

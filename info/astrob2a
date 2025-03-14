@@ -2,5 +2,6 @@ description:Astro Blaster (version 2a)
 manufacturer:Sega
 year:1981
 status:good
+kind:coinop
 romof:astrob
 cloneof:astrob

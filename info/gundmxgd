@@ -2,6 +2,7 @@ description:Mobile Suit Gundam: Federation Vs. Zeon DX (USA, Japan) (GDL-0006)
 manufacturer:Capcom
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

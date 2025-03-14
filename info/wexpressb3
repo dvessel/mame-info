@@ -2,5 +2,6 @@ description:Western Express (bootleg set 3)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:exprraid
 cloneof:exprraid

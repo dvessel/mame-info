@@ -2,5 +2,6 @@ description:Arkanoid - Revenge of DOH (Japan)
 manufacturer:Taito Corporation
 year:1987
 status:good
+kind:coinop
 romof:arknoid2
 cloneof:arknoid2

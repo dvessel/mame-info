@@ -2,5 +2,6 @@ description:Laser Base (set 2)
 manufacturer:Hoei (Amstar license)
 year:1981
 status:imperfect
+kind:coinop
 romof:futflash
 cloneof:futflash

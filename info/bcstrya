@@ -2,5 +2,6 @@ description:B.C. Story (set 2)
 manufacturer:SemiCom / Tirano
 year:1997
 status:imperfect
+kind:coinop
 romof:bcstry
 cloneof:bcstry

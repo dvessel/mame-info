@@ -2,5 +2,6 @@ description:Super Missile Attack (for rev 1)
 manufacturer:Atari / General Computer Corporation
 year:1981
 status:good
+kind:coinop
 romof:missile
 cloneof:missile

@@ -2,5 +2,6 @@ description:Royal Vegas Joker Card (fast deal, English gfx)
 manufacturer:Soft Design
 year:1993
 status:good
+kind:coinop
 romof:vegasslw
 cloneof:vegasslw

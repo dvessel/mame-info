@@ -2,5 +2,6 @@ description:Fantasy Zone (prototype)
 manufacturer:Sega
 year:1986
 status:imperfect
+kind:coinop
 romof:fantzone
 cloneof:fantzone

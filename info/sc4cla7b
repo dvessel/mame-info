@@ -2,5 +2,6 @@ description:Classic 7s (Mazooma) (Scorpion 4) (set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cla7
 cloneof:sc4cla7

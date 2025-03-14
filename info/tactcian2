@@ -2,5 +2,6 @@ description:Tactician (set 2)
 manufacturer:Konami (Sega license)
 year:1981
 status:good
+kind:coinop
 romof:tactcian
 cloneof:tactcian

@@ -2,6 +2,7 @@ description:Mountain Money (0100289V, NSW/ACT)
 manufacturer:Aristocrat
 year:1996
 status:imperfect
+kind:coinop
 romof:mountmon
 romof:aristmk5
 cloneof:mountmon

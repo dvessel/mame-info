@@ -2,5 +2,6 @@ description:Super Monaco GP (Japan, Rev B) (bootleg of FD1094 317-0124a set)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:smgp
 cloneof:smgp

@@ -2,4 +2,5 @@ description:Wyvern F-0 (Rev 1)
 manufacturer:Taito Corporation
 year:1985
 status:imperfect
+kind:coinop
 device:m68705p5

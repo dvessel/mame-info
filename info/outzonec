@@ -2,5 +2,6 @@ description:Out Zone (oldest set)
 manufacturer:Toaplan
 year:1990
 status:imperfect
+kind:coinop
 romof:outzone
 cloneof:outzone

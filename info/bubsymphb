@@ -2,5 +2,6 @@ description:Bubble Symphony (bootleg with OKI6295)
 manufacturer:bootleg
 year:1994
 status:preliminary
+kind:coinop
 romof:bublbob2
 cloneof:bublbob2

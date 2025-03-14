@@ -2,5 +2,6 @@ description:Tricky Doc (set 2)
 manufacturer:Tecfri
 year:1987
 status:good
+kind:coinop
 romof:trckydoc
 cloneof:trckydoc

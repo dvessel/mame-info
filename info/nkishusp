@@ -2,6 +2,7 @@ description:Mahjong Nenrikishu SP (Japan, V250J)
 manufacturer:IGS / Alta
 year:1998
 status:good
+kind:coinop
 device:ym2413
 romof:lhb2
 cloneof:lhb2

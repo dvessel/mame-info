@@ -2,5 +2,6 @@ description:Dangerous Curves (Ver 2.2 J)
 manufacturer:Taito
 year:1995
 status:preliminary
+kind:coinop
 romof:dangcurv
 cloneof:dangcurv

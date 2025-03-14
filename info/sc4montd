@@ -2,5 +2,6 @@ description:Montego Pay (Qps) (Scorpion 4) (set 5)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4mont
 cloneof:sc4mont

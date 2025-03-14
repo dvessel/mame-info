@@ -2,5 +2,6 @@ description:Red Hawk (horizontal, bootleg)
 manufacturer:bootleg (Vince)
 year:1997
 status:good
+kind:coinop
 romof:stagger1
 cloneof:stagger1

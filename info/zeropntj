@@ -2,5 +2,6 @@ description:Zero Point (Japan)
 manufacturer:Unico
 year:1998
 status:good
+kind:coinop
 romof:zeropnt
 cloneof:zeropnt

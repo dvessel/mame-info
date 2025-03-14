@@ -2,5 +2,6 @@ description:Sector Zone (set 1)
 manufacturer:Nichibutsu / Alice
 year:1984
 status:good
+kind:coinop
 romof:seicross
 cloneof:seicross

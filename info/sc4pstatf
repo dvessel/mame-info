@@ -2,5 +2,6 @@ description:Paystation (V011) (Qps) (Scorpion 4) (set 1)
 manufacturer:QPS
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4pstat
 cloneof:sc4pstat

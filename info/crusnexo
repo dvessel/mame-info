@@ -2,4 +2,5 @@ description:Cruis'n Exotica (version 2.4)
 manufacturer:Midway
 year:1999
 status:preliminary
+kind:coinop
 device:tms32032

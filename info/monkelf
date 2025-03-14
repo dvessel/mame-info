@@ -2,5 +2,6 @@ description:Monky Elf (Korean bootleg of Avenging Spirit)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:avspirit
 cloneof:avspirit

@@ -2,5 +2,6 @@ description:Quarter Horse (set 2, Pioneer PR-8210)
 manufacturer:Electro-Sport
 year:1983
 status:preliminary
+kind:coinop
 romof:quarterh
 cloneof:quarterh

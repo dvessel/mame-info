@@ -2,5 +2,6 @@ description:Super Cross II (Japan, set 2)
 manufacturer:GM Shoji
 year:1986
 status:good
+kind:coinop
 romof:sprcros2
 cloneof:sprcros2

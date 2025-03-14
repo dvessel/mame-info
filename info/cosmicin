@@ -2,5 +2,6 @@ description:Cosmic Invaders (bootleg of Space Invaders)
 manufacturer:bootleg
 year:1978
 status:good
+kind:coinop
 romof:invaders
 cloneof:invaders

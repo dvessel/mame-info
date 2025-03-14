@@ -2,5 +2,6 @@ description:Super Cobra (Sega)
 manufacturer:Konami (Sega license)
 year:1981
 status:good
+kind:coinop
 romof:scobra
 cloneof:scobra

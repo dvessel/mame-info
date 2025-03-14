@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1991
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:btmn_106
 cloneof:btmn_106

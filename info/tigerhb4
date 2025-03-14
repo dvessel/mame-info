@@ -2,6 +2,7 @@ description:Tiger-Heli (bootleg set 4)
 manufacturer:bootleg
 year:1985
 status:preliminary
+kind:coinop
 device:m68705p5
 romof:tigerh
 cloneof:tigerh

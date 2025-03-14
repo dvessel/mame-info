@@ -2,5 +2,6 @@ description:Trivia ? Whiz (6221-00, with Sex trivia)
 manufacturer:Merit
 year:1985
 status:good
+kind:coinop
 romof:trvwz
 cloneof:trvwz

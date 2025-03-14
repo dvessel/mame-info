@@ -2,6 +2,7 @@ description:Cobra Command (Sega LaserDisc Hardware)
 manufacturer:Sega
 year:1983
 status:preliminary
+kind:coinop
 device:ldv1000
 romof:astron
 cloneof:astron

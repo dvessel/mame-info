@@ -2,5 +2,6 @@ description:Woodpecker (set 2)
 manufacturer:Amenip
 year:1981
 status:good
+kind:coinop
 romof:woodpeck
 cloneof:woodpeck

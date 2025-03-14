@@ -2,6 +2,7 @@ description:Spikers Battle (GDS-0005)
 manufacturer:Sega
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

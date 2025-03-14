@@ -2,5 +2,6 @@ description:Super Monaco GP (World) (FD1094 317-0126)
 manufacturer:Sega
 year:1989
 status:good
+kind:coinop
 romof:smgp
 cloneof:smgp

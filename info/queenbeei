@@ -2,5 +2,6 @@ description:Queen Bee (Israel, Ver. 100)
 manufacturer:Subsino
 year:2001
 status:preliminary
+kind:coinop
 romof:queenbee
 cloneof:queenbee

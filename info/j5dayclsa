@@ -3,6 +3,7 @@ manufacturer:JPM
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 device:ym2413
 romof:j5daycls
 cloneof:j5daycls

@@ -2,5 +2,6 @@ description:Egg Venture (Release 8)
 manufacturer:ICE / The Game Room
 year:1997
 status:good
+kind:coinop
 romof:eggventr
 cloneof:eggventr

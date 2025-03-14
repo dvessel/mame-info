@@ -2,6 +2,7 @@ description:Super Megatouch IV (9255-41-02 R0C, Minnesota version)
 manufacturer:Merit
 year:1996
 status:imperfect
+kind:coinop
 device:microtouch
 romof:megat4
 cloneof:megat4

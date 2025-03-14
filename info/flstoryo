@@ -2,6 +2,7 @@ description:The FairyLand Story (earlier)
 manufacturer:Taito
 year:1985
 status:imperfect
+kind:coinop
 device:m68705p5
 romof:flstory
 cloneof:flstory

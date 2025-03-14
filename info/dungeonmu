@@ -2,5 +2,6 @@ description:Dungeon Magic (Ver 2.1A 1994/02/18)
 manufacturer:Taito America Corporation
 year:1993
 status:imperfect
+kind:coinop
 romof:lightbr
 cloneof:lightbr

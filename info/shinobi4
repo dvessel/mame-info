@@ -2,5 +2,6 @@ description:Shinobi (set 4, System 16B) (MC-8123B 317-0054)
 manufacturer:Sega
 year:1987
 status:good
+kind:coinop
 romof:shinobi
 cloneof:shinobi

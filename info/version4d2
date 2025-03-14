@@ -2,5 +2,6 @@ description:Version 4 (Version 4.3E CGA)
 manufacturer:Amcoe
 year:2006
 status:preliminary
+kind:coinop
 romof:version4
 cloneof:version4

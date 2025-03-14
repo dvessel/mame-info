@@ -3,6 +3,7 @@ manufacturer:JPM
 year:1980?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j_lan
 cloneof:j_lan
 sampleof:fruitsamples

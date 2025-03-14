@@ -2,5 +2,6 @@ description:Touch and Go (Non North America)
 manufacturer:Gaelco
 year:1995
 status:good
+kind:coinop
 romof:touchgo
 cloneof:touchgo

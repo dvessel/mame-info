@@ -2,5 +2,6 @@ description:Vs. Super Mario Bros. (bootleg with Z80, set 2)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:suprmrio
 cloneof:suprmrio

@@ -2,5 +2,6 @@ description:Nunchackun
 manufacturer:Kaneko / Taito
 year:1985
 status:imperfect
+kind:coinop
 romof:ladymstr
 cloneof:ladymstr

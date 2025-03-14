@@ -2,5 +2,6 @@ description:Crazy Kong Part II (set 2)
 manufacturer:Falcon
 year:1981
 status:good
+kind:coinop
 romof:ckongpt2
 cloneof:ckongpt2

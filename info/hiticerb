@@ -2,5 +2,6 @@ description:Hit the Ice (US, with riser board)
 manufacturer:Taito Corporation (Williams license)
 year:1990
 status:imperfect
+kind:coinop
 romof:hitice
 cloneof:hitice

@@ -2,5 +2,6 @@ description:Skull &amp; Crossbones (rev 2)
 manufacturer:Atari Games
 year:1989
 status:good
+kind:coinop
 romof:skullxbo
 cloneof:skullxbo

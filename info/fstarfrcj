@@ -2,5 +2,6 @@ description:Final Star Force (Japan, set 1)
 manufacturer:Tecmo
 year:1992
 status:good
+kind:coinop
 romof:fstarfrc
 cloneof:fstarfrc

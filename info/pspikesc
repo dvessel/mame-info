@@ -2,5 +2,6 @@ description:Power Spikes (China, bootleg)
 manufacturer:bootleg
 year:1991
 status:imperfect
+kind:coinop
 romof:pspikes
 cloneof:pspikes

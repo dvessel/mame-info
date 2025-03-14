@@ -2,5 +2,6 @@ description:Gold Fruit
 manufacturer:bootleg
 year:199?
 status:good
+kind:coinop
 romof:goldstar
 cloneof:goldstar

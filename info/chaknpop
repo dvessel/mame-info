@@ -2,4 +2,5 @@ description:Chack'n Pop
 manufacturer:Taito Corporation
 year:1983
 status:good
+kind:coinop
 device:m68705p5

@@ -2,5 +2,6 @@ description:Bagman (Stern Electronics, revision A3)
 manufacturer:Valadon Automation (Stern Electronics license)
 year:1982
 status:preliminary
+kind:coinop
 romof:bagman
 cloneof:bagman

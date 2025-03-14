@@ -2,5 +2,6 @@ description:Eyes (bootleg, set 2, decrypted)
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:eyes
 cloneof:eyes

@@ -2,5 +2,6 @@ description:Fire Fox (set 1)
 manufacturer:Atari
 year:1984
 status:good
+kind:coinop
 device:22vp931
 disk:firefox

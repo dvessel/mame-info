@@ -2,5 +2,6 @@ description:Champion Golf (bootleg)
 manufacturer:bootleg
 year:1984
 status:good
+kind:coinop
 romof:crgolf
 cloneof:crgolf

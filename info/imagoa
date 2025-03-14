@@ -2,5 +2,6 @@ description:Imago (no cocktail set)
 manufacturer:Acom
 year:1983
 status:good
+kind:coinop
 romof:imago
 cloneof:imago

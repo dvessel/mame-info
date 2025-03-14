@@ -2,6 +2,7 @@ description:Rainbow Warriors - Cash Express (0101332V, NSW/ACT)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+kind:coinop
 romof:rainwarr
 romof:aristmk5
 cloneof:rainwarr

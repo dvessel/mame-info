@@ -2,5 +2,6 @@ description:Toki no Senshi - Chrono Soldier (prototype?)
 manufacturer:Sega
 year:1987
 status:good
+kind:coinop
 romof:tokisens
 cloneof:tokisens

@@ -3,5 +3,6 @@ manufacturer:Christian Tabart
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:gts1
 sampleof:genpin

@@ -2,6 +2,7 @@ description:Discs of Tron (Upright, 9/22/83)
 manufacturer:Bally Midway
 year:1983
 status:good
+kind:coinop
 device:midssio
 romof:dotron
 cloneof:dotron

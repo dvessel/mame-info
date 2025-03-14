@@ -2,5 +2,6 @@ description:Meteors
 manufacturer:Amusement World
 year:19??
 status:imperfect
+kind:coinop
 romof:spcforce
 cloneof:spcforce

@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:mnfb_c29
 cloneof:mnfb_c29
 sampleof:genpin

@@ -2,5 +2,6 @@ description:Golden Tee Golf (Trackball, v2.0)
 manufacturer:Strata / Incredible Technologies
 year:1989
 status:good
+kind:coinop
 romof:gtg
 cloneof:gtg

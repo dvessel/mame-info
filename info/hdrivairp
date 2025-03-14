@@ -2,5 +2,6 @@ description:Hard Drivin's Airborne (prototype, early rev)
 manufacturer:Atari Games
 year:1993
 status:preliminary
+kind:coinop
 romof:hdrivair
 cloneof:hdrivair

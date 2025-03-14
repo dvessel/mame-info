@@ -2,5 +2,6 @@ description:Major Havoc (prototype)
 manufacturer:Atari
 year:1983
 status:good
+kind:coinop
 romof:mhavoc
 cloneof:mhavoc

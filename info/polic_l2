@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:polic_l4
 cloneof:polic_l4
 sampleof:genpin

@@ -2,5 +2,6 @@ description:Space Invaders (TV Version rev 1)
 manufacturer:Taito
 year:1978
 status:good
+kind:coinop
 romof:invaders
 cloneof:invaders

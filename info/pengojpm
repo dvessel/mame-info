@@ -2,5 +2,6 @@ description:Pengo (bootleg on Pac-Man hardware, set 1)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:pengo
 cloneof:pengo

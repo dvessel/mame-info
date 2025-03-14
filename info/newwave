@@ -3,6 +3,7 @@ manufacturer:Bell Games
 year:1985
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:blakpyra
 cloneof:blakpyra
 sampleof:genpin

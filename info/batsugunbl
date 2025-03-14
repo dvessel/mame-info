@@ -2,5 +2,6 @@ description:Batsugun (bootleg)
 manufacturer:Toaplan
 year:1993
 status:imperfect
+kind:coinop
 romof:batsugun
 cloneof:batsugun

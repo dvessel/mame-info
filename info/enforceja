@@ -2,5 +2,6 @@ description:Enforce (Japan, Analog Controls)
 manufacturer:Taito Corporation
 year:1988
 status:imperfect
+kind:coinop
 romof:enforce
 cloneof:enforce

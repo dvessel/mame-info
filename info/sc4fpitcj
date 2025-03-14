@@ -2,5 +2,6 @@ description:Fever Pitch (Bellfruit) (Scorpion 4) (set 9)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4fpitc
 cloneof:sc4fpitc

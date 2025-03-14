@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:scrpn_l1
 cloneof:scrpn_l1
 sampleof:genpin

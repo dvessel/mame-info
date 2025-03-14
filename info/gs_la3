@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:gs_lu4
 cloneof:gs_lu4
 sampleof:genpin

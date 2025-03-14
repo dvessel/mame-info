@@ -2,5 +2,6 @@ description:Bullion Blox (BWB) (BVM_____.1__) (MPU4 Video)
 manufacturer:BWB
 year:1994
 status:preliminary
+kind:coinop
 romof:v4bulblx
 cloneof:v4bulblx

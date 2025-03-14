@@ -2,5 +2,6 @@ description:Phantoms II (Space Invaders hardware)
 manufacturer:Zilec Electronics
 year:1981
 status:good
+kind:coinop
 romof:enigma2
 cloneof:enigma2

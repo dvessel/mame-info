@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1992
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:trek_201
 cloneof:trek_201

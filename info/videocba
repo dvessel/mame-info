@@ -2,5 +2,6 @@ description:Video Cordoba
 manufacturer:InterFlip
 year:1987
 status:good
+kind:coinop
 romof:fortune1
 cloneof:fortune1

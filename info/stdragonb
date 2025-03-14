@@ -2,5 +2,6 @@ description:Saint Dragon (bootleg)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:stdragon
 cloneof:stdragon

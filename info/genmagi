@@ -2,5 +2,6 @@ description:Genie Magic (0200894V, NSW/ACT)
 manufacturer:Aristocrat
 year:1999
 status:preliminary
+kind:coinop
 device:microtouch
 romof:aristmk5

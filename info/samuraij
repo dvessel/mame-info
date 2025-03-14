@@ -2,5 +2,6 @@ description:Samurai (Japan)
 manufacturer:Sega
 year:1980
 status:preliminary
+kind:coinop
 romof:samurai
 cloneof:samurai

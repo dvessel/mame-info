@@ -2,5 +2,6 @@ description:Red Hot Poker (Release 2, 1993 copryight, 5p Fixed, Cash+Token, Data
 manufacturer:BWB
 year:1993
 status:preliminary
+kind:coinop
 romof:v4redhtp
 cloneof:v4redhtp

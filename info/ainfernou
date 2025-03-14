@@ -2,5 +2,6 @@ description:Air Inferno (US)
 manufacturer:Taito America Corporation
 year:1990
 status:preliminary
+kind:coinop
 romof:ainferno
 cloneof:ainferno

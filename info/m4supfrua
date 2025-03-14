@@ -3,5 +3,6 @@ manufacturer:Union
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4supfru
 cloneof:m4supfru

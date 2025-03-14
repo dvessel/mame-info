@@ -2,5 +2,6 @@ description:Legend of Hero Tonma (Gaelco bootleg, Modular System)
 manufacturer:bootleg (Gaelco / Ervisa)
 year:1989
 status:preliminary
+kind:coinop
 romof:loht
 cloneof:loht

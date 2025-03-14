@@ -2,6 +2,7 @@ description:Dance Dance Revolution 4th Mix Plus Solo (G*A34 VER. JBA)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 device:k573_dio
 device:k573mcr
 romof:sys573

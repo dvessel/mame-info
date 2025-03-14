@@ -2,5 +2,6 @@ description:Space Battle (Space Invaders bootleg)
 manufacturer:bootleg
 year:1978
 status:imperfect
+kind:coinop
 romof:invaders
 cloneof:invaders

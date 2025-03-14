@@ -2,6 +2,7 @@ description:Real Bout Fatal Fury 2 - The Newcomers (Korean release)
 manufacturer:SNK
 year:1998
 status:good
+kind:coinop
 romof:rbff2
 romof:neogeo
 cloneof:rbff2

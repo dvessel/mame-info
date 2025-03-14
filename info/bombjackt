@@ -2,5 +2,6 @@ description:Bomb Jack (Tecfri, Spain)
 manufacturer:Tehkan (Tecfri license)
 year:1984
 status:good
+kind:coinop
 romof:bombjack
 cloneof:bombjack

@@ -2,5 +2,6 @@ description:Mad Planets (UK)
 manufacturer:Gottlieb (Taitel license)
 year:1983
 status:good
+kind:coinop
 romof:mplanets
 cloneof:mplanets

@@ -2,5 +2,6 @@ description:Cabal (US set 2, Trackball)
 manufacturer:TAD Corporation (Fabtek license)
 year:1988
 status:good
+kind:coinop
 romof:cabal
 cloneof:cabal

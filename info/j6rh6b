@@ -3,5 +3,6 @@ manufacturer:JPM
 year:2002
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j6rh6
 cloneof:j6rh6

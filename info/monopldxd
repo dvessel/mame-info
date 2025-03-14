@@ -2,6 +2,7 @@ description:Monopoly Deluxe (JPM) (Version 6, Protocol) (SYSTEM5 VIDEO)
 manufacturer:JPM
 year:1995
 status:good
+kind:coinop
 device:ym2413
 romof:monopldx
 cloneof:monopldx

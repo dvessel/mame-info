@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1983
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:amazonh
 cloneof:amazonh
 sampleof:genpin

@@ -2,5 +2,6 @@ description:Nostradamus (Korea)
 manufacturer:Face
 year:1993
 status:good
+kind:coinop
 romof:nost
 cloneof:nost

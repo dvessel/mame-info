@@ -2,5 +2,6 @@ description:Sunburst (BWB) (Version 1.4 D, Cash + Token, 1993 Awards, 10p Fixed)
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4sunbst
 cloneof:v4sunbst

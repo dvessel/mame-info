@@ -2,5 +2,6 @@ description:Cycle Warriors
 manufacturer:Tatsumi
 year:1991
 status:preliminary
+kind:coinop
 romof:cyclwarr
 cloneof:cyclwarr

@@ -2,5 +2,6 @@ description:Super Derby (Playmark, v.10.04)
 manufacturer:Playmark
 year:1996
 status:good
+kind:coinop
 romof:sderby
 cloneof:sderby

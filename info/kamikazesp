@@ -2,5 +2,6 @@ description:Kamikaze (Euromatic S.A., Spanish bootleg of Scramble)
 manufacturer:bootleg (Euromatic S.A.)
 year:1981
 status:good
+kind:coinop
 romof:scramble
 cloneof:scramble

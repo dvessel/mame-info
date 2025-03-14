@@ -2,5 +2,6 @@ description:Tic Tac Trivia (6221-25, U5-0E, 05/08/86, UK)
 manufacturer:Merit / Barcrest
 year:1985
 status:preliminary
+kind:coinop
 romof:tictac
 cloneof:tictac

@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:diner_l4
 cloneof:diner_l4
 sampleof:genpin

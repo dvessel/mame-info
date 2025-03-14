@@ -2,5 +2,6 @@ description:Pocket Gal / unknown card game
 manufacturer:bootleg
 year:1987
 status:preliminary
+kind:coinop
 romof:pcktgal
 cloneof:pcktgal

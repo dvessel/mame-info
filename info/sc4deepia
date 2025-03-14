@@ -2,5 +2,6 @@ description:Deep Impact (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4deepi
 cloneof:sc4deepi

@@ -2,6 +2,7 @@ description:Manic Panic Ghosts! (USA, Export)
 manufacturer:Sega
 year:2007
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi

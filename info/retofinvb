@@ -2,6 +2,7 @@ description:Return of the Invaders (bootleg, with MCU)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 device:m68705p5
 romof:retofinv
 cloneof:retofinv

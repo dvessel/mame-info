@@ -2,5 +2,6 @@ description:TouchDown Fever (Japan)
 manufacturer:SNK
 year:1987
 status:good
+kind:coinop
 romof:tdfever
 cloneof:tdfever

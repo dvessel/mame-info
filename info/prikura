@@ -2,5 +2,6 @@ description:Princess Clara Daisakusen (J 960910 V1.000)
 manufacturer:Atlus
 year:1996
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

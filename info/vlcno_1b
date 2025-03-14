@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1981
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:vlcno_1c
 cloneof:vlcno_1c
 sampleof:genpin

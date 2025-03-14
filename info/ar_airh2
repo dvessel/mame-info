@@ -2,6 +2,7 @@ description:SportTime Table Hockey (Arcadia, set 2)
 manufacturer:Arcadia Systems
 year:1988
 status:good
+kind:coinop
 romof:ar_airh
 romof:ar_bios
 cloneof:ar_airh

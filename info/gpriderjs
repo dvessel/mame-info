@@ -2,5 +2,6 @@ description:GP Rider (Japan, FD1094 317-0161)
 manufacturer:Sega
 year:1990
 status:good
+kind:coinop
 romof:gprider
 cloneof:gprider

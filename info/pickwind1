@@ -2,5 +2,6 @@ description:Pick 'n Win (Version 2.9R, set 2)
 manufacturer:Amcoe
 year:2001
 status:good
+kind:coinop
 romof:pickwin
 cloneof:pickwin

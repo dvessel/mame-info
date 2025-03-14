@@ -2,6 +2,7 @@ description:World Heroes 2 (ALH-006)
 manufacturer:ADK
 year:1993
 status:good
+kind:coinop
 romof:wh2
 romof:neogeo
 cloneof:wh2

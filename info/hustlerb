@@ -2,5 +2,6 @@ description:Video Hustler (bootleg, set 1)
 manufacturer:bootleg (Digimatic)
 year:1981
 status:good
+kind:coinop
 romof:hustler
 cloneof:hustler

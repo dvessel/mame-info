@@ -2,5 +2,6 @@ description:Tomahawk 777 (rev 1)
 manufacturer:Data East
 year:1980
 status:imperfect
+kind:coinop
 romof:tomahawk
 cloneof:tomahawk

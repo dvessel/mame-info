@@ -2,5 +2,6 @@ description:Phoenix (G.G.I. Corporation, set 1)
 manufacturer:bootleg (G.G.I. Corporation)
 year:1981
 status:imperfect
+kind:coinop
 romof:phoenix
 cloneof:phoenix

@@ -2,5 +2,6 @@ description:Vuelo Espacial (Spanish bootleg of UniWar S)
 manufacturer:bootleg (Centromatic)
 year:1980
 status:good
+kind:coinop
 romof:uniwars
 cloneof:uniwars

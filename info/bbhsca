@@ -2,6 +2,7 @@ description:Big Buck Hunter - Shooter's Challenge (v1.50.07)
 manufacturer:Incredible Technologies
 year:2002
 status:good
+kind:coinop
 romof:bbhsc
 romof:iteagle
 cloneof:bbhsc

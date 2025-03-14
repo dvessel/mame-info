@@ -2,6 +2,7 @@ description:Guilty Gear XX Accent Core (Japan) (GDL-0041)
 manufacturer:Arc System Works
 year:2006
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

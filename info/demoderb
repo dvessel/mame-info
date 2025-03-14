@@ -2,4 +2,5 @@ description:Demolition Derby
 manufacturer:Bally Midway
 year:1984
 status:good
+kind:coinop
 device:midssio

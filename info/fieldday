@@ -2,4 +2,5 @@ description:Field Day
 manufacturer:Taito Corporation
 year:1984
 status:good
+kind:coinop
 device:m68705p5

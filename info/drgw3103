@@ -2,6 +2,7 @@ description:Chuugokuryuu 3 Special (Japan, ver. 103)
 manufacturer:IGS
 year:1998
 status:preliminary
+kind:coinop
 romof:drgw3
 romof:pgm
 cloneof:drgw3

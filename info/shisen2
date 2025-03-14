@@ -2,5 +2,6 @@ description:Shisensho II
 manufacturer:Tamtex
 year:1993
 status:good
+kind:coinop
 romof:matchit2
 cloneof:matchit2

@@ -2,5 +2,6 @@ description:WW III
 manufacturer:Irem
 year:1981
 status:imperfect
+kind:coinop
 romof:redalert
 cloneof:redalert

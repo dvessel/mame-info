@@ -2,4 +2,5 @@ description:Pyramid (Dutch, Game Card 95-750-898)
 manufacturer:BFM/ELAM
 year:1996
 status:good
+kind:coinop
 device:ym2413

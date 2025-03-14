@@ -1,5 +1,6 @@
 description:Super 98 (3-hands, ICP-1)
 year:1998
 status:good
+kind:coinop
 romof:bsuerte
 cloneof:bsuerte

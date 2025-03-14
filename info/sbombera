@@ -2,5 +2,6 @@ description:Space Bomber
 manufacturer:Psikyo
 year:1998
 status:good
+kind:coinop
 romof:sbomber
 cloneof:sbomber

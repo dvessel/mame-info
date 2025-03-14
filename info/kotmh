@@ -2,6 +2,7 @@ description:King of the Monsters (set 2)
 manufacturer:SNK
 year:1991
 status:good
+kind:coinop
 romof:kotm
 romof:neogeo
 cloneof:kotm

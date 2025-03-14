@@ -2,6 +2,7 @@ description:New Rally X (bootleg?)
 manufacturer:Namco
 year:1981
 status:imperfect
+kind:coinop
 romof:nrallyx
 cloneof:nrallyx
 sampleof:rallyx

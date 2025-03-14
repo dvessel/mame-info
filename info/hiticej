@@ -2,5 +2,6 @@ description:Hit the Ice (Japan)
 manufacturer:Taito Corporation (licensed from Midway)
 year:1990
 status:imperfect
+kind:coinop
 romof:hitice
 cloneof:hitice

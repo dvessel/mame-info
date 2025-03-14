@@ -2,6 +2,7 @@ description:Circus / Acrobat TV (older)
 manufacturer:Exidy / Taito
 year:1977
 status:imperfect
+kind:coinop
 romof:circus
 cloneof:circus
 sampleof:circus

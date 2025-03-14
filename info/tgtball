@@ -2,5 +2,6 @@ description:Target Ball
 manufacturer:Yun Sung
 year:1995
 status:good
+kind:coinop
 romof:tgtbal96
 cloneof:tgtbal96

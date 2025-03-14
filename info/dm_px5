@@ -3,5 +3,6 @@ manufacturer:Williams
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:dm_lx4
 cloneof:dm_lx4

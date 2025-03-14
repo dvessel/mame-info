@@ -2,6 +2,7 @@ description:Sengoku 3 / Sengoku Densho 2001 (set 2)
 manufacturer:Noise Factory / SNK
 year:2001
 status:good
+kind:coinop
 romof:sengoku3
 romof:neogeo
 cloneof:sengoku3

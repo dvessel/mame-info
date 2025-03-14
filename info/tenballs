@@ -2,5 +2,6 @@ description:Ten Balls (Ver 1.05)
 manufacturer:JCD
 year:1997
 status:good
+kind:coinop
 romof:snookr10
 cloneof:snookr10

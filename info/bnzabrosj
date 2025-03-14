@@ -2,5 +2,6 @@ description:Bonanza Bros (Japan, Floppy DS3-5000-07b Based)
 manufacturer:Sega
 year:1990
 status:good
+kind:coinop
 romof:bnzabros
 cloneof:bnzabros

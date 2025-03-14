@@ -2,5 +2,6 @@ description:Up Your Alley
 manufacturer:Cinematronics
 year:1986
 status:good
+kind:coinop
 romof:alleymas
 cloneof:alleymas

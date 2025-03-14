@@ -2,6 +2,7 @@ description:Lupin The Third - The Shooting (GDS-0018)
 manufacturer:Sega / Eighting
 year:2001
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

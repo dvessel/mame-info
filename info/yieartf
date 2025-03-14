@@ -2,5 +2,6 @@ description:Yie Ar Kung-Fu (bootleg GX361 conversion)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:yiear
 cloneof:yiear

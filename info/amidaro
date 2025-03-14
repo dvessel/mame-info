@@ -2,5 +2,6 @@ description:Amidar (Olympia)
 manufacturer:Konami (Olympia license)
 year:1982
 status:good
+kind:coinop
 romof:amidar
 cloneof:amidar

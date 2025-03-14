@@ -2,6 +2,7 @@ description:Inca Sun (0100872V, NSW/ACT, Show Program)
 manufacturer:Aristocrat
 year:1999
 status:preliminary
+kind:coinop
 romof:incasun
 romof:aristmk5
 cloneof:incasun

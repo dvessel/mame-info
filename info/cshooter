@@ -2,5 +2,6 @@ description:Cross Shooter (Single PCB)
 manufacturer:Seibu Kaihatsu (J.K.H. license)
 year:1987
 status:preliminary
+kind:coinop
 romof:airraid
 cloneof:airraid

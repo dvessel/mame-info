@@ -2,5 +2,6 @@ description:Super Basketball (version H, unprotected)
 manufacturer:Konami
 year:1984
 status:good
+kind:coinop
 romof:sbasketb
 cloneof:sbasketb

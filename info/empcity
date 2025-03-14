@@ -2,4 +2,5 @@ description:Empire City: 1931 (bootleg?)
 manufacturer:Seibu Kaihatsu
 year:1986
 status:imperfect
+kind:coinop
 device:m68705p5

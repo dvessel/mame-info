@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1985
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:comet_l5
 cloneof:comet_l5
 sampleof:genpin

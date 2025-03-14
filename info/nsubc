@@ -2,6 +2,7 @@ description:N-Sub (cocktail)
 manufacturer:Sega
 year:1980
 status:imperfect
+kind:coinop
 device:s97269pb
 romof:nsub
 cloneof:nsub

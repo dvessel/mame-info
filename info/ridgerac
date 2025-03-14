@@ -2,5 +2,6 @@ description:Ridge Racer (World, RR2 Ver.B)
 manufacturer:Namco
 year:1993
 status:imperfect
+kind:coinop
 device:namcoc71
 device:namcoc74

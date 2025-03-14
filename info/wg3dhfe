@@ -2,6 +2,7 @@ description:Wayne Gretzky's 3D Hockey Fatality Edition (prototype)
 manufacturer:Atari Games
 year:1996
 status:good
+kind:coinop
 romof:wg3dh
 cloneof:wg3dh
 disk:wg3dhfe

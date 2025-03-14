@@ -2,5 +2,6 @@ description:Pleiads (bootleg set 1)
 manufacturer:bootleg
 year:1981
 status:imperfect
+kind:coinop
 romof:pleiads
 cloneof:pleiads

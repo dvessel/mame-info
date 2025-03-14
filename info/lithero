@@ -2,5 +2,6 @@ description:Little Hero
 manufacturer:bootleg
 year:1987
 status:imperfect
+kind:coinop
 romof:kidniki
 cloneof:kidniki

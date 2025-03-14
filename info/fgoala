@@ -2,5 +2,6 @@ description:Field Goal (set 2)
 manufacturer:Taito
 year:1979
 status:preliminary
+kind:coinop
 romof:fgoal
 cloneof:fgoal

@@ -2,5 +2,6 @@ description:Magic Worm (bootleg of Centipede, set 2)
 manufacturer:bootleg
 year:1980
 status:preliminary
+kind:coinop
 romof:centiped
 cloneof:centiped

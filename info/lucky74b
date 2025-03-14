@@ -2,5 +2,6 @@ description:Lucky 74 (bootleg, set 2)
 manufacturer:Wing Co., Ltd.
 year:1988
 status:preliminary
+kind:coinop
 romof:lucky74
 cloneof:lucky74

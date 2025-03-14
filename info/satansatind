@@ -2,6 +2,7 @@ description:Satan of Saturn (Inder S.A., bootleg)
 manufacturer:bootleg (Inder S.A.)
 year:1981
 status:imperfect
+kind:coinop
 romof:satansat
 cloneof:satansat
 sampleof:vanguard

@@ -2,5 +2,6 @@ description:Ataque Androide - Moon Cresta (FAR S.A. Spanish bootleg)
 manufacturer:bootleg (FAR S.A.)
 year:1980?
 status:good
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

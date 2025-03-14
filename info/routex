@@ -2,5 +2,6 @@ description:Route X (bootleg, set 1)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:route16
 cloneof:route16

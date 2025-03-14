@@ -2,5 +2,6 @@ description:Gate of Doom (US revision 1)
 manufacturer:Data East Corporation
 year:1990
 status:imperfect
+kind:coinop
 romof:darkseal
 cloneof:darkseal

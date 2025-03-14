@@ -2,5 +2,6 @@ description:Raiden Fighters Jet 2000 (China, SYS386I)
 manufacturer:Seibu Kaihatsu
 year:2000
 status:imperfect
+kind:coinop
 romof:rfjet
 cloneof:rfjet

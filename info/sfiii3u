@@ -2,6 +2,7 @@ description:Street Fighter III 3rd Strike: Fight for the Future (USA 990608)
 manufacturer:Capcom
 year:1999
 status:good
+kind:coinop
 romof:sfiii3
 cloneof:sfiii3
 disk:cap-33s-2

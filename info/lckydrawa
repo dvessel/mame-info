@@ -3,6 +3,7 @@ manufacturer:Mirco
 year:1979
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:lckydraw
 cloneof:lckydraw
 sampleof:genpin

@@ -2,6 +2,7 @@ description:Quiz King of Fighters (Korea)
 manufacturer:Saurus / Viccom (SNK license)
 year:1996
 status:good
+kind:coinop
 romof:quizkof
 romof:neogeo
 cloneof:quizkof

@@ -2,5 +2,6 @@ description:Hissatsu Buraiken (Japan, bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:avengers
 cloneof:avengers

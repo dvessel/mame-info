@@ -2,5 +2,6 @@ description:Mobile Suit Gundam (bootleg)
 manufacturer:bootleg
 year:1993
 status:good
+kind:coinop
 romof:msgundam
 cloneof:msgundam

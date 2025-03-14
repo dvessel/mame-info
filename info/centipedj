@@ -2,5 +2,6 @@ description:Centipede (Japan, revision 3)
 manufacturer:Atari
 year:1980
 status:good
+kind:coinop
 romof:centiped
 cloneof:centiped

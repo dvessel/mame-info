@@ -3,6 +3,7 @@ manufacturer:Sega
 year:1997
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:xfilesp
 cloneof:xfilesp

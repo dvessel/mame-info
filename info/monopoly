@@ -2,4 +2,5 @@ description:Monopoly (JPM) (Version 4H) (SYSTEM5 VIDEO)
 manufacturer:JPM
 year:1994
 status:good
+kind:coinop
 device:ym2413

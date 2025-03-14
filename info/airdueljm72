@@ -2,5 +2,6 @@ description:Air Duel (Japan, M72 hardware)
 manufacturer:Irem
 year:1990
 status:good
+kind:coinop
 romof:airduel
 cloneof:airduel

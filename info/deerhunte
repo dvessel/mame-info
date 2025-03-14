@@ -2,5 +2,6 @@ description:Deer Hunting USA V1
 manufacturer:Sammy USA Corporation
 year:2000
 status:imperfect
+kind:coinop
 romof:deerhunt
 cloneof:deerhunt

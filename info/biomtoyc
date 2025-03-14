@@ -2,5 +2,6 @@ description:Biomechanical Toy (ver. 1.0.1870, checksum ba682195)
 manufacturer:Gaelco / Zeus
 year:1994
 status:good
+kind:coinop
 romof:biomtoy
 cloneof:biomtoy

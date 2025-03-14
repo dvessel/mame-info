@@ -2,5 +2,6 @@ description:Count Yer Cash (Mazooma) (Scorpion 4) (set 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cyc
 cloneof:sc4cyc

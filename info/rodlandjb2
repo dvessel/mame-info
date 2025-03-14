@@ -2,5 +2,6 @@ description:Rod-Land (Japan bootleg with unencrypted program and GFX)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:rodland
 cloneof:rodland

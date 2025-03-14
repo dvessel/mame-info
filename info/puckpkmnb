@@ -2,5 +2,6 @@ description:Puckman Pockimon Genie 2000 (bootleg)
 manufacturer:bootleg
 year:2000
 status:good
+kind:coinop
 romof:puckpkmn
 cloneof:puckpkmn

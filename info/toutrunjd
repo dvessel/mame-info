@@ -2,5 +2,6 @@ description:Turbo Out Run (Japan, Out Run upgrade) (bootleg of FD1094 317-0117 s
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:toutrun
 cloneof:toutrun

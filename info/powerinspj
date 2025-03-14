@@ -2,5 +2,6 @@ description:Gouketsuji Ichizoku (Japan, prototype)
 manufacturer:Atlus
 year:1993
 status:good
+kind:coinop
 romof:powerins
 cloneof:powerins

@@ -2,5 +2,6 @@ description:Pink Panther Clouseau's Revenge (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4ppcr
 cloneof:sc4ppcr

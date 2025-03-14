@@ -2,6 +2,7 @@ description:Dragon World 3 EX / Zhongguo Long 3 EX / Dungfong Zi Zyu 3 EX / Chuu
 manufacturer:IGS
 year:2001
 status:preliminary
+kind:coinop
 romof:dwex
 romof:pgm
 cloneof:dwex

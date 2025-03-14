@@ -2,5 +2,6 @@ description:Slap Fight (bootleg set 1)
 manufacturer:bootleg
 year:1986
 status:good
+kind:coinop
 romof:alcon
 cloneof:alcon

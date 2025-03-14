@@ -2,5 +2,6 @@ description:Blasteroids (rev 3)
 manufacturer:Atari Games
 year:1987
 status:good
+kind:coinop
 romof:blstroid
 cloneof:blstroid

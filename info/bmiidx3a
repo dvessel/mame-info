@@ -2,6 +2,7 @@ description:beatmania IIDX 3rd style (GC992 JAA)
 manufacturer:Konami
 year:2000
 status:imperfect
+kind:coinop
 romof:bmiidx3
 romof:gq863
 cloneof:bmiidx3

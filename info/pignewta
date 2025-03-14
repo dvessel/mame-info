@@ -2,5 +2,6 @@ description:Pig Newton (version A)
 manufacturer:Sega
 year:1983
 status:imperfect
+kind:coinop
 romof:pignewt
 cloneof:pignewt

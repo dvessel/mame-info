@@ -2,5 +2,6 @@ description:Tempest (rev 2)
 manufacturer:Atari
 year:1980
 status:good
+kind:coinop
 romof:tempest
 cloneof:tempest

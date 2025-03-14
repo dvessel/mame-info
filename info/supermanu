@@ -2,6 +2,7 @@ description:Superman (US)
 manufacturer:Taito Corporation
 year:1988
 status:good
+kind:coinop
 device:cchip
 romof:superman
 cloneof:superman

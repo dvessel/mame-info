@@ -2,5 +2,6 @@ description:All American Football (rev B)
 manufacturer:Leland Corporation
 year:1989
 status:preliminary
+kind:coinop
 romof:aafb
 cloneof:aafb

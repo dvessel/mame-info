@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1991
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:tmnt_104
 cloneof:tmnt_104
 sampleof:genpin

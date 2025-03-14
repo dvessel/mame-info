@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:robo_a34
 cloneof:robo_a34
 sampleof:genpin

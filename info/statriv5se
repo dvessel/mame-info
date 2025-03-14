@@ -2,5 +2,6 @@ description:Triv Five Special Edition
 manufacturer:Status Games
 year:1985
 status:preliminary
+kind:coinop
 romof:statriv4
 cloneof:statriv4

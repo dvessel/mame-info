@@ -2,6 +2,7 @@ description:Bull Fighter (Sega)
 manufacturer:Alpha Denshi Co. (Sega license)
 year:1984
 status:imperfect
+kind:coinop
 romof:bullfgtr
 cloneof:bullfgtr
 sampleof:equites

@@ -2,5 +2,6 @@ description:Hangly-Man (set 3)
 manufacturer:hack (Igleck)
 year:1981
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

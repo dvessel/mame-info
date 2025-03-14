@@ -2,6 +2,7 @@ description:Virtua Cop 3 (Rev B) (GDX-0003B)
 manufacturer:Sega
 year:2003
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

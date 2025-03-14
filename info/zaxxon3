@@ -2,6 +2,7 @@ description:Zaxxon (set 3, unknown rev)
 manufacturer:Sega
 year:1982
 status:imperfect
+kind:coinop
 romof:zaxxon
 cloneof:zaxxon
 sampleof:zaxxon

@@ -2,5 +2,6 @@ description:SRD: Super Real Darwin (Japan)
 manufacturer:Data East Corporation
 year:1987
 status:good
+kind:coinop
 romof:srdarwin
 cloneof:srdarwin

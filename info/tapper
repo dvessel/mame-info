@@ -2,4 +2,5 @@ description:Tapper (Budweiser, 1/27/84)
 manufacturer:Bally Midway
 year:1983
 status:good
+kind:coinop
 device:midssio

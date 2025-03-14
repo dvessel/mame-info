@@ -2,5 +2,6 @@ description:Super Cobra (Stern Electronics) (encrypted, KONATEC XC-103SS CPU)
 manufacturer:Konami (Stern Electronics license)
 year:1981
 status:good
+kind:coinop
 romof:scobra
 cloneof:scobra

@@ -2,5 +2,6 @@ description:Pump it Up: The Collection (R5/v3.43 - Nov 14 2000)
 manufacturer:Andamiro
 year:2000
 status:preliminary
+kind:coinop
 device:banshee_x86
 romof:pumpitup

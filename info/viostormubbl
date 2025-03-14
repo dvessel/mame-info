@@ -2,5 +2,6 @@ description:Violent Storm (ver UAB, bootleg)
 manufacturer:bootleg (Eye Pro)
 year:1993
 status:imperfect
+kind:coinop
 romof:viostorm
 cloneof:viostorm

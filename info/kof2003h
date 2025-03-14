@@ -2,6 +2,7 @@ description:The King of Fighters 2003 (NGH-2710)
 manufacturer:SNK Playmore
 year:2003
 status:good
+kind:coinop
 romof:kof2003
 romof:neogeo
 cloneof:kof2003

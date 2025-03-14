@@ -2,5 +2,6 @@ description:Stellar Castle (Elettronolo)
 manufacturer:bootleg (Elettronolo)
 year:1980
 status:good
+kind:coinop
 romof:starcas
 cloneof:starcas

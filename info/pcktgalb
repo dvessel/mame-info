@@ -2,5 +2,6 @@ description:Pocket Gal (Yada East bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:pcktgal
 cloneof:pcktgal

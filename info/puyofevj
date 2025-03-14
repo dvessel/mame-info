@@ -2,6 +2,7 @@ description:Puyo Puyo Fever (Japan) (GDS-0031)
 manufacturer:Sega
 year:2003
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

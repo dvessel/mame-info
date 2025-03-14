@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:esha_la3
 cloneof:esha_la3
 sampleof:genpin

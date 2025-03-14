@@ -2,5 +2,6 @@ description:Out Run (sitdown/upright, Rev B) (Enhanced Edition v1.1.0)
 manufacturer:hack (Chris White)
 year:2014
 status:good
+kind:coinop
 romof:outrun
 cloneof:outrun

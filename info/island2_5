@@ -2,5 +2,6 @@ description:Island 2 (090528 Lottery)
 manufacturer:Igrosoft
 year:2006
 status:good
+kind:coinop
 romof:island2
 cloneof:island2

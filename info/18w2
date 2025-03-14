@@ -3,5 +3,6 @@ manufacturer:Midway
 year:1979
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:18w
 cloneof:18w

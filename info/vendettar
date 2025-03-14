@@ -2,5 +2,6 @@ description:Vendetta (US, 4 Players, ver. R)
 manufacturer:Konami
 year:1991
 status:good
+kind:coinop
 romof:vendetta
 cloneof:vendetta

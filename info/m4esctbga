@@ -3,5 +3,6 @@ manufacturer:Vifico
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4esctbg
 cloneof:m4esctbg

@@ -2,5 +2,6 @@ description:Midnight Resistance (Japan)
 manufacturer:Data East Corporation
 year:1989
 status:imperfect
+kind:coinop
 romof:midres
 cloneof:midres

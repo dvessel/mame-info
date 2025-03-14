@@ -2,5 +2,6 @@ description:Mortal Kombat (rev 4.0 T-Unit 02/11/93)
 manufacturer:Midway
 year:1992
 status:good
+kind:coinop
 romof:mk
 cloneof:mk

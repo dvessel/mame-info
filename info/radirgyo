@@ -2,6 +2,7 @@ description:Radirgy (Japan) (GDL-0032)
 manufacturer:Milestone
 year:2005
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

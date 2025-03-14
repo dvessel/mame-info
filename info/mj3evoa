@@ -2,6 +2,7 @@ description:Sega Network Taisen Mahjong MJ 3 Evolution (Rev A) (GDX-0021A)
 manufacturer:Sega
 year:2007
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

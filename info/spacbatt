@@ -2,5 +2,6 @@ description:Space Battle (bootleg set 1)
 manufacturer:bootleg
 year:1980
 status:good
+kind:coinop
 romof:uniwars
 cloneof:uniwars

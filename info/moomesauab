@@ -2,5 +2,6 @@ description:Wild West C.O.W.-Boys of Moo Mesa (ver UAB)
 manufacturer:Konami
 year:1992
 status:imperfect
+kind:coinop
 romof:moomesa
 cloneof:moomesa

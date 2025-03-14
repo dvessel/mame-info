@@ -2,5 +2,6 @@ description:Frogger (Coin Music, bootleg on Scramble hardware)
 manufacturer:bootleg (Coin Music)
 year:1981
 status:good
+kind:coinop
 romof:frogger
 cloneof:frogger

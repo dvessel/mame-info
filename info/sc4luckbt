@@ -2,5 +2,6 @@ description:Lucky Balls Casino (Bellfruit) (Scorpion 4) (set 18)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4luckb
 cloneof:sc4luckb

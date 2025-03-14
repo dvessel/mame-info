@@ -3,6 +3,7 @@ manufacturer:Zaccaria / Mr Game
 year:1989
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:motrshow
 cloneof:motrshow
 sampleof:genpin

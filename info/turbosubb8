@@ -2,5 +2,6 @@ description:Turbo Sub (prototype rev. TSB8)
 manufacturer:Entertainment Sciences
 year:1985
 status:good
+kind:coinop
 romof:turbosub
 cloneof:turbosub

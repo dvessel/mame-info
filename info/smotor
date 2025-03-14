@@ -2,4 +2,5 @@ description:Super Motor (prototype)
 manufacturer:Duintronic
 year:19??
 status:good
+kind:coinop
 device:ym2413

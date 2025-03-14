@@ -2,5 +2,6 @@ description:Triple Fun
 manufacturer:bootleg
 year:1993
 status:good
+kind:coinop
 romof:oisipuzl
 cloneof:oisipuzl

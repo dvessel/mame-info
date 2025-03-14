@@ -2,6 +2,7 @@ description:Space War (Sanritsu)
 manufacturer:Taito / Sanritsu
 year:1978
 status:imperfect
+kind:coinop
 romof:invaders
 cloneof:invaders
 sampleof:invaders

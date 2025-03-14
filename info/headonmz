@@ -2,5 +2,6 @@ description:Head On (bootleg, alt maze)
 manufacturer:bootleg
 year:1979
 status:good
+kind:coinop
 romof:headon
 cloneof:headon

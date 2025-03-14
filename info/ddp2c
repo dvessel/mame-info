@@ -2,6 +2,7 @@ description:DoDonPachi - Feng Bao (China, ver. 102)
 manufacturer:IGS
 year:2001
 status:imperfect
+kind:coinop
 romof:ddp2
 romof:pgm
 cloneof:ddp2

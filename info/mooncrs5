@@ -2,5 +2,6 @@ description:Moon Cresta (bootleg set 4)
 manufacturer:bootleg
 year:1980
 status:preliminary
+kind:coinop
 romof:mooncrst
 cloneof:mooncrst

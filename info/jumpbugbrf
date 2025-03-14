@@ -2,5 +2,6 @@ description:Jump Bug (bootleg, set 2)
 manufacturer:bootleg (Recreativos Franco)
 year:1982
 status:preliminary
+kind:coinop
 romof:jumpbug
 cloneof:jumpbug

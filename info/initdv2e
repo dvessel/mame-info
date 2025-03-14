@@ -2,6 +2,7 @@ description:Initial D Arcade Stage Ver. 2 (Export) (GDS-0027)
 manufacturer:Sega
 year:2003
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

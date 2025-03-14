@@ -3,5 +3,6 @@ manufacturer:Williams
 year:1993
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:drac_l1
 cloneof:drac_l1

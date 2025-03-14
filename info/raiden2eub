@@ -2,5 +2,6 @@ description:Raiden II (easier, US set 3)
 manufacturer:Seibu Kaihatsu (Fabtek license)
 year:1993
 status:good
+kind:coinop
 romof:raiden2
 cloneof:raiden2

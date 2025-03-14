@@ -2,5 +2,6 @@ description:Deal or No Deal Let's Play Deal or No Deal (Bellfruit) (Scorpion 4) 
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4dndlp
 cloneof:sc4dndlp

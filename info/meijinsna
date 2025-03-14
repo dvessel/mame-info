@@ -2,5 +2,6 @@ description:Meijinsen (set 2)
 manufacturer:SNK
 year:1986
 status:preliminary
+kind:coinop
 romof:meijinsn
 cloneof:meijinsn

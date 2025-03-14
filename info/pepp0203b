@@ -2,5 +2,6 @@ description:Player's Edge Plus (PP0203) 4 of a Kind Bonus Poker (set 3)
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+kind:coinop
 romof:pepp0158
 cloneof:pepp0158

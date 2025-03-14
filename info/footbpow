@@ -2,4 +2,5 @@ description:Football Power (version 1.2)
 manufacturer:Gaelco
 year:1999
 status:imperfect
+kind:coinop
 device:tms32031

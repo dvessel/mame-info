@@ -2,5 +2,6 @@ description:High Impact Football (prototype, revision0 proto 8.6 12/09/90)
 manufacturer:Williams
 year:1990
 status:good
+kind:coinop
 romof:hiimpact
 cloneof:hiimpact

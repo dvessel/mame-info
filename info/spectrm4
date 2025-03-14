@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1982
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:spectrm
 cloneof:spectrm
 sampleof:genpin

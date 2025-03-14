@@ -2,5 +2,6 @@ description:Rapid Hero (NMK)
 manufacturer:NMK
 year:1994
 status:good
+kind:coinop
 romof:arcadian
 cloneof:arcadian

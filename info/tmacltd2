@@ -3,6 +3,7 @@ manufacturer:LTD
 year:1981
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:tmacltd4
 cloneof:tmacltd4
 sampleof:genpin

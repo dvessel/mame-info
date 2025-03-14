@@ -2,5 +2,6 @@ description:Pacman Club (Argentina)
 manufacturer:hack (Miky SRL)
 year:1990
 status:good
+kind:coinop
 romof:clubpacm
 cloneof:clubpacm

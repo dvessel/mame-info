@@ -2,5 +2,6 @@ description:Trivial Pursuit
 manufacturer:JPM
 year:1996
 status:good
+kind:coinop
 romof:trivialp
 cloneof:trivialp

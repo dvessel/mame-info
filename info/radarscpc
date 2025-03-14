@@ -2,5 +2,6 @@ description:Radar Scope (TRS02?, rev. C)
 manufacturer:Nintendo
 year:1980
 status:good
+kind:coinop
 romof:radarscp
 cloneof:radarscp

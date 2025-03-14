@@ -2,5 +2,6 @@ description:Amuse (Version 30.08 IBA)
 manufacturer:Greyhound Electronics
 year:1982
 status:imperfect
+kind:coinop
 romof:amuse
 cloneof:amuse

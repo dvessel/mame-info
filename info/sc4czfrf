@@ -2,5 +2,6 @@ description:Crazy Fruits (PR6813, CRFR) (BFM + Whitbread) (Scorpion 4) (set 1)
 manufacturer:BFM / Whitbread
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cfqps
 cloneof:sc4cfqps

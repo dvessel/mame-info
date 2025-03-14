@@ -2,6 +2,7 @@ description:The New Crystal Maze Featuring Ocean Zone (v0.1, AMLD) (MPU4 Video)
 manufacturer:Barcrest
 year:1993
 status:imperfect
+kind:coinop
 romof:v4cmaze2
 romof:v4bios
 cloneof:v4cmaze2

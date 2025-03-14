@@ -2,5 +2,6 @@ description:New Zero Team (V33 SYSTEM TYPE_B hardware, Zhongguo Shantou Yihuang 
 manufacturer:Seibu Kaihatsu (Zhongguo Shantou Yihuang license)
 year:1997
 status:good
+kind:coinop
 romof:zeroteam
 cloneof:zeroteam

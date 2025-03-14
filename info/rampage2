@@ -2,5 +2,6 @@ description:Rampage (Rev 2, 8/4/86)
 manufacturer:Bally Midway
 year:1986
 status:good
+kind:coinop
 romof:rampage
 cloneof:rampage

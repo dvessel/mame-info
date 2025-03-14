@@ -2,5 +2,6 @@ description:Tenkomori Shooting (Japan, TKM1/VER.A1)
 manufacturer:Namco
 year:1998
 status:imperfect
+kind:coinop
 romof:tenkomor
 cloneof:tenkomor

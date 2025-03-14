@@ -2,5 +2,6 @@ description:Cherry Master (ver.4, set 2)
 manufacturer:Dyna
 year:1992
 status:preliminary
+kind:coinop
 romof:cmv4
 cloneof:cmv4

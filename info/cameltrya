@@ -2,5 +2,6 @@ description:Cameltry (World, YM2203 + M6295)
 manufacturer:Taito America Corporation
 year:1989
 status:good
+kind:coinop
 romof:cameltry
 cloneof:cameltry

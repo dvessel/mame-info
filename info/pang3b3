@@ -2,5 +2,6 @@ description:Pang! 3 (bootleg, set 3)
 manufacturer:bootleg
 year:1995
 status:good
+kind:coinop
 romof:pang3
 cloneof:pang3

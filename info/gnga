@@ -2,5 +2,6 @@ description:Ghosts'n Goblins (World? set 2)
 manufacturer:Capcom
 year:1985
 status:good
+kind:coinop
 romof:gng
 cloneof:gng

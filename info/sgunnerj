@@ -2,6 +2,7 @@ description:Steel Gunner (Japan)
 manufacturer:Namco
 year:1990
 status:good
+kind:coinop
 device:namcoc65
 romof:sgunner
 cloneof:sgunner

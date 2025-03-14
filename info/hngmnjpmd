@@ -2,5 +2,6 @@ description:Hangman (JPM) (Protocol)
 manufacturer:JPM
 year:1998
 status:good
+kind:coinop
 romof:hngmnjpm
 cloneof:hngmnjpm

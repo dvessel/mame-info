@@ -2,6 +2,7 @@ description:Tarzan Chuang Tian Guan (China, V109C, set 2)
 manufacturer:IGS
 year:1999
 status:preliminary
+kind:coinop
 device:ym2413
 romof:tarzanc
 cloneof:tarzanc

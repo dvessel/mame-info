@@ -2,5 +2,6 @@ description:The Glob (Pac-Man hardware, set 2)
 manufacturer:Epos Corporation
 year:1983
 status:good
+kind:coinop
 romof:suprglob
 cloneof:suprglob

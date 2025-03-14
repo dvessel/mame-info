@@ -2,5 +2,6 @@ description:Trog (rev LA3 2/14/91)
 manufacturer:Midway
 year:1990
 status:good
+kind:coinop
 romof:trog
 cloneof:trog

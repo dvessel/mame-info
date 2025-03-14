@@ -2,5 +2,6 @@ description:Hoccer (earlier)
 manufacturer:Eastern Micro Electronics, Inc.
 year:1983
 status:good
+kind:coinop
 romof:hoccer
 cloneof:hoccer

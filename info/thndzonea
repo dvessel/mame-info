@@ -2,5 +2,6 @@ description:Thunder Zone (World)
 manufacturer:Data East Corporation
 year:1991
 status:imperfect
+kind:coinop
 romof:thndzone
 cloneof:thndzone

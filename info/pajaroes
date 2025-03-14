@@ -2,5 +2,6 @@ description:Pajaro del Espacio (Spanish bootleg of UniWar S)
 manufacturer:bootleg (PSV S.A.)
 year:1980
 status:good
+kind:coinop
 romof:uniwars
 cloneof:uniwars

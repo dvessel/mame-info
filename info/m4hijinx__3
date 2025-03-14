@@ -3,5 +3,6 @@ manufacturer:Barcrest
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4hijinx
 cloneof:m4hijinx

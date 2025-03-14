@@ -2,5 +2,6 @@ description:Dragon Breed (Japan, M72 hardware)
 manufacturer:Irem
 year:1989
 status:good
+kind:coinop
 romof:dbreed
 cloneof:dbreed

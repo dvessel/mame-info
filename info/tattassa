@@ -2,6 +2,7 @@ description:Tattoo Assassins (Asia prototype, Mar 14 1995)
 manufacturer:Data East Pinball
 year:1994
 status:imperfect
+kind:coinop
 device:bsmt2000
 romof:tattass
 cloneof:tattass

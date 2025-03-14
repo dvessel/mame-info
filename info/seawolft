@@ -2,5 +2,6 @@ description:Sea Wolf (Tecfri)
 manufacturer:Tecfri
 year:1987
 status:good
+kind:coinop
 romof:sauro
 cloneof:sauro

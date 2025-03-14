@@ -2,5 +2,6 @@ description:World Rally 2: Twin Racing (EPROM version)
 manufacturer:Gaelco
 year:1995
 status:good
+kind:coinop
 romof:wrally2
 cloneof:wrally2

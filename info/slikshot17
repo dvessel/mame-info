@@ -3,5 +3,6 @@ manufacturer:Grand Products / Incredible Technologies
 year:1990
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:slikshot
 cloneof:slikshot

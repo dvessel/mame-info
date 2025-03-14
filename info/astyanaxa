@@ -2,5 +2,6 @@ description:The Astyanax (mask ROM version)
 manufacturer:Jaleco
 year:1989
 status:good
+kind:coinop
 romof:astyanax
 cloneof:astyanax

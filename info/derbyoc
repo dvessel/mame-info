@@ -2,6 +2,7 @@ description:Derby Owners Club (Japan, Rev B)
 manufacturer:Sega
 year:1999
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:naomi

@@ -2,5 +2,6 @@ description:Space Invaders Multigame (S0.82A)
 manufacturer:hack (Braze Technologies)
 year:2002
 status:imperfect
+kind:coinop
 romof:invmulti
 cloneof:invmulti

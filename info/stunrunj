@@ -2,5 +2,6 @@ description:S.T.U.N. Runner (rev 7, Japan)
 manufacturer:Atari Games
 year:1989
 status:good
+kind:coinop
 romof:stunrun
 cloneof:stunrun

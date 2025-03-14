@@ -2,5 +2,6 @@ description:Black Tiger (older)
 manufacturer:Capcom
 year:1987
 status:good
+kind:coinop
 romof:blktiger
 cloneof:blktiger

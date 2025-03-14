@@ -2,5 +2,6 @@ description:Legend of Hero Tonma (World, bootleg with i8751)
 manufacturer:bootleg
 year:1997
 status:good
+kind:coinop
 romof:loht
 cloneof:loht

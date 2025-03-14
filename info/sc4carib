@@ -2,5 +2,6 @@ description:Caribbean Cash (PR2326) (Mazooma) (Scorpion 4) (set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cari
 cloneof:sc4cari

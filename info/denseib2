@@ -2,6 +2,7 @@ description:Ghost Chaser Densei (SNES bootleg, set 2)
 manufacturer:bootleg
 year:1996
 status:imperfect
+kind:coinop
 device:s_smp
 romof:denseib
 cloneof:denseib

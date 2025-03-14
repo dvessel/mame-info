@@ -2,5 +2,6 @@ description:Automat (bootleg of Robocop)
 manufacturer:bootleg
 year:1988
 status:preliminary
+kind:coinop
 romof:robocop
 cloneof:robocop

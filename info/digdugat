@@ -2,6 +2,7 @@ description:Dig Dug (Atari, rev 2)
 manufacturer:Namco (Atari license)
 year:1982
 status:good
+kind:coinop
 device:namco51
 device:namco53
 romof:digdug

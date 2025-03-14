@@ -2,6 +2,7 @@ description:Sega Rally Championship - Twin/DX (Revision B)
 manufacturer:Sega
 year:1995
 status:preliminary
+kind:coinop
 device:segabill
 romof:srallyc
 cloneof:srallyc

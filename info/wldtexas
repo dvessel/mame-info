@@ -2,6 +2,7 @@ description:Wild Texas
 year:1983
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:fpwr2_l2
 cloneof:fpwr2_l2
 sampleof:genpin

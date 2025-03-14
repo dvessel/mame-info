@@ -2,5 +2,6 @@ description:Pacu-Man (Spanish bootleg of Puck Man)
 manufacturer:bootleg (Recreativos Franco S.A.)
 year:1980
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

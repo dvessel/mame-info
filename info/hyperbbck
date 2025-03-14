@@ -2,6 +2,7 @@ description:Hyper Bishi Bashi Champ (GE876 VER. KAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+kind:coinop
 romof:hyperbbc
 romof:sys573
 cloneof:hyperbbc

@@ -2,5 +2,6 @@ description:Jack Rabbit (special)
 manufacturer:Zaccaria
 year:1984
 status:imperfect
+kind:coinop
 romof:jackrabt
 cloneof:jackrabt

@@ -3,6 +3,7 @@ manufacturer:Data East
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bttf_a28
 cloneof:bttf_a28
 sampleof:genpin

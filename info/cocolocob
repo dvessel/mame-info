@@ -2,5 +2,6 @@ description:Coco Loco (set 3)
 manufacturer:Petaco S.A.
 year:1981
 status:good
+kind:coinop
 romof:cocoloco
 cloneof:cocoloco

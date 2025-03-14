@@ -2,5 +2,6 @@ description:Monopoly Triple (PR2122, MOTR) (Mazooma) (Scorpion 4) (set 12)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4monoa
 cloneof:sc4monoa

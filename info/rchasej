@@ -2,5 +2,6 @@ description:Rail Chase (Japan)
 manufacturer:Sega
 year:1991
 status:good
+kind:coinop
 romof:rchase
 cloneof:rchase

@@ -2,5 +2,6 @@ description:Flaming 7 (Custom Hardware, Main, 2000 Bonus)
 manufacturer:Cyberdyne Systems
 year:199?
 status:preliminary
+kind:coinop
 romof:fl7_50
 cloneof:fl7_50

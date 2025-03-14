@@ -2,6 +2,7 @@ description:Hyper Olympic in Nagano (GX720 JAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+kind:coinop
 romof:nagano98
 romof:konamigv
 cloneof:nagano98

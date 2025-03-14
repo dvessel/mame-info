@@ -2,5 +2,6 @@ description:Heavy Barrel (US, revision 1)
 manufacturer:Data East USA
 year:1987
 status:good
+kind:coinop
 romof:hbarrel
 cloneof:hbarrel

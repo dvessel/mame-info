@@ -2,6 +2,7 @@ description:Don Den Lover Vol. 1 - Heukbaeg-euro Jeonghaja (Korea, bootleg)
 manufacturer:bootleg
 year:1995
 status:good
+kind:coinop
 device:ym2413
 romof:ddenlovj
 cloneof:ddenlovj

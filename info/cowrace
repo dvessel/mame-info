@@ -2,5 +2,6 @@ description:Cow Race (hack of King Derby)
 manufacturer:bootleg (Gate In)
 year:2000
 status:preliminary
+kind:coinop
 romof:kingdrby
 cloneof:kingdrby

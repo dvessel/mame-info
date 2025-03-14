@@ -2,5 +2,6 @@ description:Dance Dance Revolution SuperNOVA (FDH:U:A:A:2006072400)
 manufacturer:Konami
 year:2006
 status:preliminary
+kind:coinop
 romof:kpython2
 disk:fdh_uaa_2006072400

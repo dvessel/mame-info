@@ -2,5 +2,6 @@ description:Space Train
 manufacturer:Celv
 year:1981
 status:imperfect
+kind:coinop
 romof:warofbug
 cloneof:warofbug

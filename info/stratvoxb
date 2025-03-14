@@ -2,5 +2,6 @@ description:Stratovox (bootleg)
 manufacturer:bootleg
 year:1980
 status:good
+kind:coinop
 romof:speakres
 cloneof:speakres

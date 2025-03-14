@@ -2,5 +2,6 @@ description:Rastan Saga (bootleg, Japan Rev 1, earlier code base)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:rastan
 cloneof:rastan

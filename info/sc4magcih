@@ -2,5 +2,6 @@ description:Magic Circle (014) (Qps) (Scorpion 4) (set 1)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4magci
 cloneof:sc4magci

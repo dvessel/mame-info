@@ -2,6 +2,7 @@ description:Cash Chameleon (0300781V, New Zealand)
 manufacturer:Aristocrat
 year:1998
 status:imperfect
+kind:coinop
 romof:cashcham
 romof:aristmk5
 cloneof:cashcham

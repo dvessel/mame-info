@@ -2,5 +2,6 @@ description:Rough Ranger (v2.0)
 manufacturer:SunA (Sharp Image license)
 year:1988
 status:imperfect
+kind:coinop
 romof:sranger
 cloneof:sranger

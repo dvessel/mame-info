@@ -2,6 +2,7 @@ description:Poitto! (revision C)
 manufacturer:Metro / Able Corp.
 year:1993
 status:preliminary
+kind:coinop
 device:ym2413
 romof:poitto
 cloneof:poitto

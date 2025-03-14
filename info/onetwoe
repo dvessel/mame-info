@@ -2,5 +2,6 @@ description:One + Two (earlier)
 manufacturer:Barko
 year:1997
 status:good
+kind:coinop
 romof:onetwo
 cloneof:onetwo

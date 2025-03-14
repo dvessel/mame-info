@@ -2,5 +2,6 @@ description:Tank Force (Japan)
 manufacturer:Namco
 year:1991
 status:good
+kind:coinop
 romof:tankfrce
 cloneof:tankfrce

@@ -2,6 +2,7 @@ description:The Outfoxies (Japan, OU1)
 manufacturer:Namco
 year:1994
 status:good
+kind:coinop
 device:namcoc75
 romof:outfxies
 cloneof:outfxies

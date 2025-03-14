@@ -2,5 +2,6 @@ description:Leader (version Z 2F, Greece)
 manufacturer:bootleg
 year:1995
 status:preliminary
+kind:coinop
 romof:leader
 cloneof:leader

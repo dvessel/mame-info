@@ -2,5 +2,6 @@ description:Elevator Action (bootleg)
 manufacturer:bootleg
 year:1983
 status:good
+kind:coinop
 romof:elevator
 cloneof:elevator

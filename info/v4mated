@@ -2,6 +2,7 @@ description:The Mating Game (v0.4, Datapak) (MPU4 Video)
 manufacturer:Barcrest
 year:1996?
 status:imperfect
+kind:coinop
 romof:v4mate
 romof:v4bios
 cloneof:v4mate

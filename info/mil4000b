@@ -2,5 +2,6 @@ description:Millennium Nuovo 4000 (Version 1.5)
 manufacturer:Sure Milano
 year:2000
 status:good
+kind:coinop
 romof:mil4000
 cloneof:mil4000

@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2004
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:harl_a40
 cloneof:harl_a40

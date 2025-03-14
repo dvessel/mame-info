@@ -2,5 +2,6 @@ description:Fruit Paradise (V206US)
 manufacturer:IGS
 year:1999
 status:imperfect
+kind:coinop
 romof:fruitpar
 cloneof:fruitpar

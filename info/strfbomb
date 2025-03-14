@@ -2,5 +2,6 @@ description:Strafe Bomb (bootleg of Scramble)
 manufacturer:bootleg (Omni)
 year:1981
 status:good
+kind:coinop
 romof:scramble
 cloneof:scramble

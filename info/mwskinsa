@@ -2,6 +2,7 @@ description:Skins Game (1.06, alt)
 manufacturer:Midway
 year:2000
 status:preliminary
+kind:coinop
 romof:mwskins
 cloneof:mwskins
 disk:mwskinsa

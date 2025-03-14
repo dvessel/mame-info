@@ -2,5 +2,6 @@ description:Big Deal Club (System 85, set 2)
 manufacturer:BFM
 year:1987
 status:preliminary
+kind:coinop
 romof:b85bdclb
 cloneof:b85bdclb

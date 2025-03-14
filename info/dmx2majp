@@ -2,6 +2,7 @@ description:Dance Maniax 2nd Mix Append J-Paradise (G*A38 VER. JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 device:k573_dio
 romof:sys573
 disk:a38jaa02

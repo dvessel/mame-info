@@ -2,6 +2,7 @@ description:Touchmaster 2000 (v4.XX3 Spanish Evaluation)
 manufacturer:Midway Games Inc.
 year:1996
 status:good
+kind:coinop
 device:microtouch
 romof:tm2k
 cloneof:tm2k

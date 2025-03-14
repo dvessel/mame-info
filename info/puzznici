@@ -2,5 +2,6 @@ description:Puzznic (Italian bootleg)
 manufacturer:bootleg
 year:1989
 status:good
+kind:coinop
 romof:puzznic
 cloneof:puzznic

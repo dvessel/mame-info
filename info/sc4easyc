@@ -2,5 +2,6 @@ description:Easy Streak (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4easy
 cloneof:sc4easy

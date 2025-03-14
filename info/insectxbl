@@ -2,5 +2,6 @@ description:Insector X (bootleg)
 manufacturer:bootleg (Nagoya Kaihatsu)
 year:1990
 status:good
+kind:coinop
 romof:insectx
 cloneof:insectx

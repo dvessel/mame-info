@@ -2,5 +2,6 @@ description:Tuono Blu (bootleg of Rescue)
 manufacturer:bootleg (Videl Games)
 year:1982
 status:good
+kind:coinop
 romof:rescue
 cloneof:rescue

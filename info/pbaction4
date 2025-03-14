@@ -2,5 +2,6 @@ description:Pinball Action (set 4, encrypted)
 manufacturer:Tehkan
 year:1985
 status:good
+kind:coinop
 romof:pbaction
 cloneof:pbaction

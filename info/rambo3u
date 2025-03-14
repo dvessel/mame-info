@@ -2,5 +2,6 @@ description:Rambo III (US)
 manufacturer:Taito America Corporation
 year:1989
 status:good
+kind:coinop
 romof:rambo3
 cloneof:rambo3

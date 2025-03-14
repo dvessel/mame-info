@@ -2,5 +2,6 @@ description:Terra Cresta (YM3526 set 2)
 manufacturer:Nichibutsu
 year:1985
 status:good
+kind:coinop
 romof:terracre
 cloneof:terracre

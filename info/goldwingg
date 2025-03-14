@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:goldwing
 cloneof:goldwing
 sampleof:genpin

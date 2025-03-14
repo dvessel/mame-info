@@ -3,5 +3,6 @@ manufacturer:Taito Corporation Japan
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:realpunc
 cloneof:realpunc

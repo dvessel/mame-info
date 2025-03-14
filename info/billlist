@@ -2,5 +2,6 @@ description:Billard List
 manufacturer:D.G.R.M.
 year:1995
 status:good
+kind:coinop
 romof:pokechmp
 cloneof:pokechmp

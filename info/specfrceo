@@ -2,6 +2,7 @@ description:Special Forces Elite Training (v01.01.01)
 manufacturer:ICE/Play Mechanix
 year:2002
 status:preliminary
+kind:coinop
 romof:specfrce
 cloneof:specfrce
 disk:sf010101

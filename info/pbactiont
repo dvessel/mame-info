@@ -2,5 +2,6 @@ description:Pinball Action (Tecfri license)
 manufacturer:Tehkan (Tecfri license)
 year:1985
 status:good
+kind:coinop
 romof:pbaction
 cloneof:pbaction

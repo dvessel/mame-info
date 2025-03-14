@@ -2,6 +2,7 @@ description:Dragon Mahjong (Ver 1.03)
 manufacturer:OCT
 year:1993
 status:preliminary
+kind:coinop
 device:ym2413
 romof:dragonmj
 cloneof:dragonmj

@@ -2,5 +2,6 @@ description:Mad Alien (set 2, alt gfx)
 manufacturer:Data East Corporation
 year:1980
 status:good
+kind:coinop
 romof:madalien
 cloneof:madalien

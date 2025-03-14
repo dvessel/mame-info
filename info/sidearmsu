@@ -2,5 +2,6 @@ description:Side Arms - Hyper Dyne (US, 861202)
 manufacturer:Capcom (Romstar license)
 year:1986
 status:imperfect
+kind:coinop
 romof:sidearms
 cloneof:sidearms

@@ -2,5 +2,6 @@ description:Mr. Do's Castle (older)
 manufacturer:Universal
 year:1983
 status:good
+kind:coinop
 romof:docastle
 cloneof:docastle

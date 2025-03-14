@@ -2,5 +2,6 @@ description:Kyohkoh-Toppa (Japan)
 manufacturer:Data East Corporation
 year:1986
 status:good
+kind:coinop
 romof:brkthru
 cloneof:brkthru

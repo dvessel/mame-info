@@ -2,6 +2,7 @@ description:Cash Cat (0300863V, New Zealand)
 manufacturer:Aristocrat
 year:1999
 status:imperfect
+kind:coinop
 romof:cashcat
 romof:aristmk5
 cloneof:cashcat

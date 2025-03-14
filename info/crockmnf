@@ -2,5 +2,6 @@ description:Crock-Man (Marti Colls bootleg of Rene Pierre Crock-Man)
 manufacturer:bootleg (Marti Colls)
 year:1980
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

@@ -2,5 +2,6 @@ description:Cluedo (Mazooma) (Scorpion 4) (set 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4clue
 cloneof:sc4clue

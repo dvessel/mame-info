@@ -2,5 +2,6 @@ description:Gulf War II (set 2)
 manufacturer:Comad
 year:1991
 status:good
+kind:coinop
 romof:gulfwar2
 cloneof:gulfwar2

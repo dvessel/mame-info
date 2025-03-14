@@ -3,5 +3,6 @@ manufacturer:Recreativos Franco
 year:1981
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:babyfrts
 cloneof:babyfrts

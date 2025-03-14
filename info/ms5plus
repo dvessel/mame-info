@@ -2,6 +2,7 @@ description:Metal Slug 5 Plus (bootleg)
 manufacturer:bootleg
 year:2003
 status:good
+kind:coinop
 romof:mslug5
 romof:neogeo
 cloneof:mslug5

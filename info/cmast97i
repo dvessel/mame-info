@@ -2,5 +2,6 @@ description:Cheri Mondo '97 (V1.4I)
 manufacturer:Dyna
 year:1996
 status:preliminary
+kind:coinop
 romof:cmast97
 cloneof:cmast97

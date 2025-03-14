@@ -2,5 +2,6 @@ description:Exciting Soccer (bootleg)
 manufacturer:bootleg (Kazutomi)
 year:1983
 status:good
+kind:coinop
 romof:exctsccr
 cloneof:exctsccr

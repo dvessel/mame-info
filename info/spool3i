@@ -2,5 +2,6 @@ description:Super Pool III (I-Vics)
 manufacturer:Data East Corporation (I-Vics license)
 year:1990
 status:good
+kind:coinop
 romof:pcktgal
 cloneof:pcktgal

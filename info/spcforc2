@@ -2,5 +2,6 @@ description:Space Force (set 2)
 manufacturer:bootleg? (Elcon)
 year:19??
 status:imperfect
+kind:coinop
 romof:spcforce
 cloneof:spcforce

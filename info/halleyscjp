@@ -2,5 +2,6 @@ description:Halley's Comet (Japan, prototype)
 manufacturer:Taito Corporation
 year:1985
 status:imperfect
+kind:coinop
 romof:halleysc
 cloneof:halleysc

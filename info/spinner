@@ -2,5 +2,6 @@ description:Spinner
 manufacturer:bootleg
 year:1981
 status:imperfect
+kind:coinop
 romof:spiders
 cloneof:spiders

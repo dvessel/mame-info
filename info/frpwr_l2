@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:frpwr_l6
 cloneof:frpwr_l6
 sampleof:genpin

@@ -2,5 +2,6 @@ description:Shinobi (Datsu bootleg, set 2)
 manufacturer:bootleg (Datsu)
 year:1988
 status:preliminary
+kind:coinop
 romof:shinobi
 cloneof:shinobi

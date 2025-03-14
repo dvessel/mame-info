@@ -2,5 +2,6 @@ description:Flak Attack (Japan)
 manufacturer:Konami
 year:1987
 status:good
+kind:coinop
 romof:mx5000
 cloneof:mx5000

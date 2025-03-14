@@ -2,5 +2,6 @@ description:Bells &amp; Whistles (Asia, version M)
 manufacturer:Konami
 year:1991
 status:good
+kind:coinop
 romof:blswhstl
 cloneof:blswhstl

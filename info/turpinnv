@@ -2,5 +2,6 @@ description:Turpin (Novatronic bootleg)
 manufacturer:bootleg (Novatronic)
 year:1981
 status:good
+kind:coinop
 romof:turtles
 cloneof:turtles

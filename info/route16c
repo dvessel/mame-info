@@ -2,5 +2,6 @@ description:Route 16 (Centuri license, set 3, bootleg?)
 manufacturer:Sun Electronics / Tehkan (Centuri license)
 year:1981
 status:good
+kind:coinop
 romof:route16
 cloneof:route16

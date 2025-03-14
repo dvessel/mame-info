@@ -2,6 +2,7 @@ description:Hell Night (ver EAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+kind:coinop
 romof:evilngt
 cloneof:evilngt
 disk:810eaa02

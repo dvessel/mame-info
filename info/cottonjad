@@ -2,5 +2,6 @@ description:Cotton (set 1, Japan, Rev A) (bootleg of FD1094 317-0179a set)
 manufacturer:bootleg
 year:1991
 status:good
+kind:coinop
 romof:cotton
 cloneof:cotton

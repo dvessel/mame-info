@@ -2,6 +2,7 @@ description:Naomi DIMM Firmware Update for CF-BOX (4.01) (GDS-0042A)
 manufacturer:Sega
 year:2009
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

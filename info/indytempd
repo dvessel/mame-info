@@ -2,6 +2,7 @@ description:Indiana Jones and the Temple of Doom (German)
 manufacturer:Atari Games
 year:1985
 status:imperfect
+kind:coinop
 romof:indytemp
 romof:atarisy1
 cloneof:indytemp

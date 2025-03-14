@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2004
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:elvisp
 cloneof:elvisp
 sampleof:genpin

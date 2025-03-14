@@ -2,5 +2,6 @@ description:Agent Super Bond (Super Cobra conversion, not encrypted)
 manufacturer:Video Village
 year:1984
 status:preliminary
+kind:coinop
 romof:superbon
 cloneof:superbon

@@ -2,6 +2,7 @@ description:Guilty Gear XX (GDL-0011)
 manufacturer:Arc System Works
 year:2002
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

@@ -2,5 +2,6 @@ description:Space Ace (European)
 manufacturer:Cinematronics (Atari license)
 year:1983
 status:preliminary
+kind:coinop
 romof:spaceace
 cloneof:spaceace

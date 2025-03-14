@@ -2,5 +2,6 @@ description:Jungler (Olympia)
 manufacturer:Konami (Olympia license)
 year:1981
 status:good
+kind:coinop
 romof:jungler
 cloneof:jungler

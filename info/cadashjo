@@ -2,5 +2,6 @@ description:Cadash (Japan)
 manufacturer:Taito Corporation
 year:1989
 status:good
+kind:coinop
 romof:cadash
 cloneof:cadash

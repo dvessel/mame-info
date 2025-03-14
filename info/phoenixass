@@ -2,5 +2,6 @@ description:Phoenix (Assa, Spanish bootleg)
 manufacturer:bootleg (Assa)
 year:1981
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

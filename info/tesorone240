@@ -2,5 +2,6 @@ description:Tesorone Dell'Isola (Italy, v2.40)
 manufacturer:Subsino
 year:1995
 status:good
+kind:coinop
 romof:stbsub
 cloneof:stbsub

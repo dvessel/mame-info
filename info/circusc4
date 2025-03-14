@@ -2,5 +2,6 @@ description:Circus Charlie (no level select)
 manufacturer:Konami
 year:1984
 status:good
+kind:coinop
 romof:circusc
 cloneof:circusc

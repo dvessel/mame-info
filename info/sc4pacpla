@@ -2,5 +2,6 @@ description:Pac Man Plus (PR7058, PACP) (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4pacpl
 cloneof:sc4pacpl

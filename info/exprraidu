@@ -2,5 +2,6 @@ description:Express Raider (US, rev 5)
 manufacturer:Data East USA
 year:1986
 status:good
+kind:coinop
 romof:exprraid
 cloneof:exprraid

@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1979
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:tmwrp_l3
 cloneof:tmwrp_l3
 sampleof:genpin

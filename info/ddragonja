@@ -2,5 +2,6 @@ description:Double Dragon (Japan set 2)
 manufacturer:Technos Japan
 year:1987
 status:good
+kind:coinop
 romof:ddragon
 cloneof:ddragon

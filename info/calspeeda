@@ -2,6 +2,7 @@ description:California Speed (Version 1.0r8 Mar 10 1998, GUTS Mar 10 1998 / MAIN
 manufacturer:Atari Games
 year:1998
 status:good
+kind:coinop
 romof:calspeed
 cloneof:calspeed
 disk:cs_10r8a

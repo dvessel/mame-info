@@ -2,5 +2,6 @@ description:Jumping Break (set 2)
 manufacturer:F2 System
 year:1999
 status:good
+kind:coinop
 romof:jmpbreak
 cloneof:jmpbreak

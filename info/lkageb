@@ -2,6 +2,7 @@ description:The Legend of Kage
 manufacturer:Taito Corporation
 year:1984
 status:good
+kind:coinop
 device:m68705p5
 romof:lkage
 cloneof:lkage

@@ -2,5 +2,6 @@ description:Tae Kwon Dough (Qps) (Scorpion 4) (set 6)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4taekw
 cloneof:sc4taekw

@@ -2,6 +2,7 @@ description:Vanguard (Centuri)
 manufacturer:SNK (Centuri license)
 year:1981
 status:imperfect
+kind:coinop
 romof:vanguard
 cloneof:vanguard
 sampleof:vanguard

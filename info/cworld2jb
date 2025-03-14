@@ -2,5 +2,6 @@ description:Adventure Quiz Capcom World 2 (Japan 920611, B-Board 91634B-2)
 manufacturer:Capcom
 year:1992
 status:good
+kind:coinop
 romof:cworld2j
 cloneof:cworld2j

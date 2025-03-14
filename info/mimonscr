@@ -2,5 +2,6 @@ description:Mighty Monkey (bootleg on Scramble hardware)
 manufacturer:bootleg
 year:1982
 status:good
+kind:coinop
 romof:mimonkey
 cloneof:mimonkey

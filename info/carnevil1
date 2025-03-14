@@ -2,6 +2,7 @@ description:CarnEvil (v1.0.1)
 manufacturer:Midway Games
 year:1998
 status:good
+kind:coinop
 romof:carnevil
 cloneof:carnevil
 disk:carnevi1

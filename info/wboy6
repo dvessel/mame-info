@@ -2,5 +2,6 @@ description:Wonder Boy (set 6, 315-5179)
 manufacturer:Escape (Sega license)
 year:1986
 status:good
+kind:coinop
 romof:wboy
 cloneof:wboy

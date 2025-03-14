@@ -3,6 +3,7 @@ manufacturer:BFM
 year:1981
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bb_firec
 cloneof:bb_firec
 sampleof:fruitsamples

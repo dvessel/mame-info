@@ -2,5 +2,6 @@ description:Super Invaders (Emag bootleg set 1)
 manufacturer:bootleg (Emag)
 year:1978
 status:good
+kind:coinop
 romof:invaders
 cloneof:invaders

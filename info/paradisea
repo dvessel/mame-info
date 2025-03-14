@@ -2,5 +2,6 @@ description:Paradise (set 2)
 manufacturer:Yun Sung
 year:1994
 status:good
+kind:coinop
 romof:paradise
 cloneof:paradise

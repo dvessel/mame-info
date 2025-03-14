@@ -2,5 +2,6 @@ description:Cyberball 2072 (2 player, rev 4)
 manufacturer:Atari Games
 year:1989
 status:good
+kind:coinop
 romof:cyberbal
 cloneof:cyberbal

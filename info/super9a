@@ -2,5 +2,6 @@ description:Super Nove (Playmark, Euro currency)
 manufacturer:Playmark
 year:2001
 status:preliminary
+kind:coinop
 romof:goldstar
 cloneof:goldstar

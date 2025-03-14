@@ -2,6 +2,7 @@ description:Gundam Battle Operating Simulator (GDX-0013)
 manufacturer:Banpresto
 year:2005
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

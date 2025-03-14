@@ -2,6 +2,7 @@ description:Guitar Freaks (GQ886 VER. EAC)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:gtrfrks
 romof:sys573
 cloneof:gtrfrks

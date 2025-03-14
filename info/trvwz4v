@@ -2,5 +2,6 @@ description:Trivia ? Whiz Edition 4 (6221-13, U5-0B, Vertical)
 manufacturer:Merit
 year:1985
 status:good
+kind:coinop
 romof:trvwz4
 cloneof:trvwz4

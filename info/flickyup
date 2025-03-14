@@ -2,5 +2,6 @@ description:Flicky (64k Version, on Up'n Down boardset, set 1)
 manufacturer:Sega
 year:1984
 status:good
+kind:coinop
 romof:flicky
 cloneof:flicky

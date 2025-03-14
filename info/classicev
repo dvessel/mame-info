@@ -2,5 +2,6 @@ description:Classic Edition (Version 1.6E Dual)
 manufacturer:Amcoe
 year:2004
 status:good
+kind:coinop
 romof:classice
 cloneof:classice

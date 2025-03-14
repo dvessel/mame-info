@@ -2,5 +2,6 @@ description:Garage (bootleg, 040219, backdoor)
 manufacturer:bootleg
 year:2004
 status:good
+kind:coinop
 romof:garage_5
 cloneof:garage_5

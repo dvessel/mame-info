@@ -2,5 +2,6 @@ description:Atari 4 Player Football
 manufacturer:Atari
 year:1979
 status:good
+kind:coinop
 romof:atarifb
 cloneof:atarifb

@@ -2,5 +2,6 @@ description:Triv Two (Vertical)
 manufacturer:Status Games
 year:1985
 status:good
+kind:coinop
 romof:statriv2
 cloneof:statriv2

@@ -2,5 +2,6 @@ description:Galaxian Part 4 (hack)
 manufacturer:hack (G.G.I)
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

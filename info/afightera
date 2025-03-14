@@ -2,5 +2,6 @@ description:Action Fighter (unprotected)
 manufacturer:Sega
 year:1986
 status:good
+kind:coinop
 romof:afighter
 cloneof:afighter

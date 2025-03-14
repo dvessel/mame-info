@@ -2,5 +2,6 @@ description:Fever Chance (W-6, Japan, set 2)
 manufacturer:Wing Co., Ltd.
 year:1986
 status:preliminary
+kind:coinop
 romof:feverch
 cloneof:feverch

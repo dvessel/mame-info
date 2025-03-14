@@ -2,5 +2,6 @@ description:Polaris (original version)
 manufacturer:Taito
 year:1980
 status:good
+kind:coinop
 romof:polaris
 cloneof:polaris

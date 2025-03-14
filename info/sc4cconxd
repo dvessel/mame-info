@@ -2,5 +2,6 @@ description:Cash Connexion (Mazooma) (Scorpion 4) (set 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cconx
 cloneof:sc4cconx

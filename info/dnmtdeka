@@ -2,6 +2,7 @@ description:Dynamite Deka (J 960515 V1.000)
 manufacturer:Sega
 year:1996
 status:imperfect
+kind:coinop
 device:segabill
 romof:diehard
 romof:stvbios

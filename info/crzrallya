@@ -2,5 +2,6 @@ description:Crazy Rally (set 2)
 manufacturer:Tecfri
 year:1985
 status:imperfect
+kind:coinop
 romof:crzrally
 cloneof:crzrally

@@ -2,5 +2,6 @@ description:Jack Potten's Poker (set 14, ICP-1 PCB)
 manufacturer:bootleg
 year:1988
 status:good
+kind:coinop
 romof:pottnpkr
 cloneof:pottnpkr

@@ -2,5 +2,6 @@ description:Donkey Kong: Pauline Edition Rev 5 (2013-04-22)
 manufacturer:hack (Clay Cowgill and Mike Mika)
 year:2013
 status:good
+kind:coinop
 romof:dkong
 cloneof:dkong

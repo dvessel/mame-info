@@ -2,5 +2,6 @@ description:Wonder Boy III - Monster Lair (bootleg)
 manufacturer:bootleg
 year:1988
 status:preliminary
+kind:coinop
 romof:wb3
 cloneof:wb3

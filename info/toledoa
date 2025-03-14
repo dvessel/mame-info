@@ -3,6 +3,7 @@ manufacturer:Interflip
 year:1982
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:toledo
 cloneof:toledo
 sampleof:ifslots

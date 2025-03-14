@@ -2,6 +2,7 @@ description:Dragon Saber (Japan, Rev B)
 manufacturer:Namco
 year:1990
 status:good
+kind:coinop
 device:namcoc65
 romof:dsaber
 cloneof:dsaber

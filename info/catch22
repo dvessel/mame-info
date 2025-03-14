@@ -2,5 +2,6 @@ description:Catch-22 (version 8.0)
 manufacturer:Exidy
 year:1985
 status:good
+kind:coinop
 romof:combat
 cloneof:combat

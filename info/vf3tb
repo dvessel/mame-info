@@ -2,6 +2,7 @@ description:Virtua Fighter 3 Team Battle (Japan)
 manufacturer:Sega
 year:1996
 status:preliminary
+kind:coinop
 device:segabill
 romof:vf3
 cloneof:vf3

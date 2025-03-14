@@ -2,5 +2,6 @@ description:Monte Carlo Or Bust (BWB) (Release D, S/Site Standard, 25p Fixed, £
 manufacturer:BWB
 year:199?
 status:preliminary
+kind:coinop
 romof:v4monte
 cloneof:v4monte

@@ -2,5 +2,6 @@ description:Cross Blades! (Japan)
 manufacturer:Irem
 year:1991
 status:good
+kind:coinop
 romof:bmaster
 cloneof:bmaster

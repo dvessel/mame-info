@@ -2,5 +2,6 @@ description:Crazy Bugs (V202US)
 manufacturer:IGS
 year:2006
 status:imperfect
+kind:coinop
 romof:crzybugs
 cloneof:crzybugs

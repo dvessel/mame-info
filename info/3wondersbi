@@ -2,5 +2,6 @@ description:Three Wonders (Italian bootleg)
 manufacturer:bootleg (Impeuropex)
 year:1991
 status:preliminary
+kind:coinop
 romof:3wonders
 cloneof:3wonders

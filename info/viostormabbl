@@ -2,5 +2,6 @@ description:Violent Storm (ver AAB, bootleg)
 manufacturer:bootleg
 year:1993
 status:imperfect
+kind:coinop
 romof:viostorm
 cloneof:viostorm

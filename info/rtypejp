@@ -2,5 +2,6 @@ description:R-Type (Japan prototype)
 manufacturer:Irem
 year:1987
 status:good
+kind:coinop
 romof:rtype
 cloneof:rtype

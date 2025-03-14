@@ -2,5 +2,6 @@ description:Bomb Jack (bootleg)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:bombjack
 cloneof:bombjack

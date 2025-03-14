@@ -3,5 +3,6 @@ manufacturer:Bally
 year:1998
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:cc_13
 cloneof:cc_13

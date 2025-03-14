@@ -2,5 +2,6 @@ description:Gkoulit (encrypted GFX)
 manufacturer:JK Amusement
 year:1995
 status:good
+kind:coinop
 romof:royalcrd
 cloneof:royalcrd

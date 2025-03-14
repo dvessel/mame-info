@@ -2,5 +2,6 @@ description:Toki (World, set 2)
 manufacturer:TAD Corporation
 year:1989
 status:good
+kind:coinop
 romof:toki
 cloneof:toki

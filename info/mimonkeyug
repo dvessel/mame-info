@@ -2,5 +2,6 @@ description:Mighty Monkey (U.Games bootleg)
 manufacturer:bootleg (U.Games)
 year:1983
 status:preliminary
+kind:coinop
 romof:mimonkey
 cloneof:mimonkey

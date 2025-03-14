@@ -2,5 +2,6 @@ description:APB - All Points Bulletin (rev 3)
 manufacturer:Atari Games
 year:1987
 status:good
+kind:coinop
 romof:apb
 cloneof:apb

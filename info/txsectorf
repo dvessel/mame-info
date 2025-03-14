@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1988
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:txsector
 cloneof:txsector
 sampleof:genpin

@@ -2,5 +2,6 @@ description:P.O.W. - Prisoners of War (bootleg of US version 1)
 manufacturer:bootleg
 year:1988
 status:imperfect
+kind:coinop
 romof:pow
 cloneof:pow

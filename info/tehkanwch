@@ -2,5 +2,6 @@ description:Tehkan World Cup (1986 year hack)
 manufacturer:hack
 year:1986
 status:good
+kind:coinop
 romof:tehkanwc
 cloneof:tehkanwc

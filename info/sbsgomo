@@ -2,6 +2,7 @@ description:Space Battle Ship Gomorrah
 manufacturer:UPL
 year:1990
 status:good
+kind:coinop
 device:nmk004
 romof:bioship
 cloneof:bioship

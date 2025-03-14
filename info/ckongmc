@@ -2,5 +2,6 @@ description:Crazy Kong (bootleg on Moon Cresta hardware, set 1)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:ckong
 cloneof:ckong

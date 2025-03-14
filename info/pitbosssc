@@ -2,5 +2,6 @@ description:Pit Boss Superstar (9221-12-01, California version)
 manufacturer:Merit
 year:1992
 status:imperfect
+kind:coinop
 romof:pitbosss
 cloneof:pitbosss

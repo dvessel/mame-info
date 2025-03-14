@@ -2,5 +2,6 @@ description:Miljonairs Arcade (Dutch) (Bellfruit) (Scorpion 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4miljo
 cloneof:sc4miljo

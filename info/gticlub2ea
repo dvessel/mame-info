@@ -2,6 +2,7 @@ description:Driving Party: Racing in Italy (ver EAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+kind:coinop
 romof:gticlub2
 romof:kviper
 cloneof:gticlub2

@@ -2,5 +2,6 @@ description:Open Sesame (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4opses
 cloneof:sc4opses

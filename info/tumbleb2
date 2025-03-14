@@ -2,5 +2,6 @@ description:Tumble Pop (bootleg with PIC)
 manufacturer:bootleg
 year:1991
 status:imperfect
+kind:coinop
 romof:tumblep
 cloneof:tumblep

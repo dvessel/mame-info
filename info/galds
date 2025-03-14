@@ -2,5 +2,6 @@ description:Gals Ds - Three Dealers Casino House (bootleg?)
 manufacturer:Nihon System Corp.
 year:1985
 status:good
+kind:coinop
 romof:threeds
 cloneof:threeds

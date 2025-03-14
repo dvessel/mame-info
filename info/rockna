@@ -2,5 +2,6 @@ description:Rock'n Tread (Japan, alternate)
 manufacturer:Jaleco
 year:1999
 status:good
+kind:coinop
 romof:rockn
 cloneof:rockn

@@ -3,6 +3,7 @@ manufacturer:Stern
 year:2003
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:term3
 cloneof:term3

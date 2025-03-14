@@ -2,5 +2,6 @@ description:Video Pool (bootleg on Moon Cresta hardware)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:hustler
 cloneof:hustler

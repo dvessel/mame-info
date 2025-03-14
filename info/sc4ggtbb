@@ -2,5 +2,6 @@ description:Golden X (Mazooma) (PR2056, TBOX) (Scorpion 4) (Top Box, set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4ggtb
 cloneof:sc4ggtb

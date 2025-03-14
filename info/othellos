@@ -2,5 +2,6 @@ description:Othello Shiyouyo (J 980423 V1.002)
 manufacturer:Success
 year:1998
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

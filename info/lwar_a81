@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1987
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:lwar_a83
 cloneof:lwar_a83
 sampleof:genpin

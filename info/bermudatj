@@ -2,5 +2,6 @@ description:Bermuda Triangle (Japan)
 manufacturer:SNK
 year:1987
 status:good
+kind:coinop
 romof:bermudat
 cloneof:bermudat

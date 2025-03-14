@@ -2,6 +2,7 @@ description:Sogeki (ver JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 romof:sscopex
 romof:kviper
 cloneof:sscopex

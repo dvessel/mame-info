@@ -3,6 +3,7 @@ manufacturer:Bally
 year:1988
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:black100
 cloneof:black100
 sampleof:genpin

@@ -2,5 +2,6 @@ description:Disco No.1 (Rev.F)
 manufacturer:Data East
 year:1982
 status:good
+kind:coinop
 romof:disco
 cloneof:disco

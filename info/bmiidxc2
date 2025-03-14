@@ -2,6 +2,7 @@ description:beatmania IIDX Substream with DDR 2nd Club Version 2 (984 A01 BM)
 manufacturer:Konami
 year:1999
 status:imperfect
+kind:coinop
 romof:gq863
 disk:ge984a01,bm
 disk:gc983a04

@@ -2,5 +2,6 @@ description:Witch (with ranking)
 manufacturer:Vic Tokai (Excellent System license)
 year:1992
 status:good
+kind:coinop
 romof:witch
 cloneof:witch

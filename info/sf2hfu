@@ -2,5 +2,6 @@ description:Street Fighter II': Hyper Fighting (USA 921209)
 manufacturer:Capcom
 year:1992
 status:good
+kind:coinop
 romof:sf2hf
 cloneof:sf2hf

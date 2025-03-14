@@ -3,5 +3,6 @@ manufacturer:JPM / Crystal
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:j6snakes
 cloneof:j6snakes

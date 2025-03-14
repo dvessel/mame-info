@@ -2,5 +2,6 @@ description:HeliFire (set 2)
 manufacturer:Nintendo
 year:1980
 status:imperfect
+kind:coinop
 romof:helifire
 cloneof:helifire

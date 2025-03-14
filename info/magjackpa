@@ -2,5 +2,6 @@ description:Magical Jack Plus (VA 6.01)
 manufacturer:Global
 year:2000
 status:preliminary
+kind:coinop
 romof:magjackp
 cloneof:magjackp

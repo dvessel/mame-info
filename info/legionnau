@@ -2,5 +2,6 @@ description:Legionnaire (US)
 manufacturer:TAD Corporation (Fabtek license)
 year:1992
 status:good
+kind:coinop
 romof:legionna
 cloneof:legionna

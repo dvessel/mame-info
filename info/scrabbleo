@@ -2,5 +2,6 @@ description:Scrabble (Spanish bootleg of Scramble)
 manufacturer:bootleg (Okapi?)
 year:1981
 status:good
+kind:coinop
 romof:scramble
 cloneof:scramble

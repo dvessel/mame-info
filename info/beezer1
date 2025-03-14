@@ -2,5 +2,6 @@ description:Beezer (unknown earlier version)
 manufacturer:Pacific Polytechnical Corp. / Tong Electronic
 year:1982
 status:imperfect
+kind:coinop
 romof:beezer
 cloneof:beezer

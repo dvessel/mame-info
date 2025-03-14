@@ -2,5 +2,6 @@ description:Magic Bubble (Adult version, YS-0211 PCB)
 manufacturer:Yun Sung
 year:199?
 status:good
+kind:coinop
 romof:magicbub
 cloneof:magicbub

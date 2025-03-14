@@ -2,5 +2,6 @@ description:Beat the Champ (GV053 UAA01)
 manufacturer:Konami
 year:1996
 status:preliminary
+kind:coinop
 romof:konamigv
 disk:btchamp

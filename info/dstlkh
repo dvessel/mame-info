@@ -2,6 +2,7 @@ description:Darkstalkers: The Night Warriors (Hispanic 940818)
 manufacturer:Capcom
 year:1994
 status:good
+kind:coinop
 device:qsound_hle
 romof:dstlk
 cloneof:dstlk

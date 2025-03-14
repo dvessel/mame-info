@@ -2,5 +2,6 @@ description:Pieces Of Eight (V1.1) (Qps) (Scorpion 4) (set 3)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4po8
 cloneof:sc4po8

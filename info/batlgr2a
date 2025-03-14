@@ -2,6 +2,7 @@ description:Battle Gear 2 (v2.01J)
 manufacturer:Taito
 year:2000
 status:preliminary
+kind:coinop
 romof:batlgr2
 romof:taitotz
 cloneof:batlgr2

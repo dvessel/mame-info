@@ -2,5 +2,6 @@ description:Golden Axe - The Duel (JUETL 950117 V1.000)
 manufacturer:Sega
 year:1994
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

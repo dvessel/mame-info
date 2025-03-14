@@ -3,6 +3,7 @@ manufacturer:Grand Products
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bullseye
 cloneof:bullseye
 sampleof:genpin

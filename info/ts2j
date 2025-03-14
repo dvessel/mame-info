@@ -2,6 +2,7 @@ description:Battle Arena Toshinden 2 (Japan 951124)
 manufacturer:Capcom / Takara
 year:1995
 status:imperfect
+kind:coinop
 device:qsound_hle
 romof:ts2
 romof:coh1000c

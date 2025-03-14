@@ -2,5 +2,6 @@ description:Chase Bombers (Japan)
 manufacturer:Taito Corporation
 year:1994
 status:imperfect
+kind:coinop
 romof:cbombers
 cloneof:cbombers

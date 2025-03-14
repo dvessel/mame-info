@@ -2,5 +2,6 @@ description:Target Hits (ver 1.0, Checksum FBCB)
 manufacturer:Gaelco
 year:1994
 status:good
+kind:coinop
 romof:targeth
 cloneof:targeth

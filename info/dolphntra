@@ -2,6 +2,7 @@ description:Dolphin Treasure (0100424V, NSW/ACT)
 manufacturer:Aristocrat
 year:1997
 status:imperfect
+kind:coinop
 romof:dolphntr
 romof:aristmk5
 cloneof:dolphntr

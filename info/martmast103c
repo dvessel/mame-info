@@ -2,6 +2,7 @@ description:Martial Masters / Xing Yi Quan (ver. 103, 102, 101CN)
 manufacturer:IGS
 year:2001
 status:imperfect
+kind:coinop
 romof:martmast
 romof:pgm
 cloneof:martmast

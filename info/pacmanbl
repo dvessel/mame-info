@@ -2,5 +2,6 @@ description:Pac-Man (bootleg on Galaxian hardware, set 1)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:puckman
 cloneof:puckman

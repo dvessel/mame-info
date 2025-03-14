@@ -2,5 +2,6 @@ description:Super Hang-On (Hang-On conversion, Beta bootleg)
 manufacturer:bootleg (Beta)
 year:1987
 status:good
+kind:coinop
 romof:shangon
 cloneof:shangon

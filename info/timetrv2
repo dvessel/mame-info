@@ -2,6 +2,7 @@ description:Time Traveler (Japan)
 manufacturer:Virtual Image Productions (Sega license)
 year:1991
 status:good
+kind:coinop
 romof:timetrv
 cloneof:timetrv
 disk:timetrv2

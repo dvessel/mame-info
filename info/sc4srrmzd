@@ -2,5 +2,6 @@ description:Shake Rattle Roll Arcade (Mazooma) (Scorpion 4) (set 1)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4srrmz
 cloneof:sc4srrmz

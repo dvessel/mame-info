@@ -2,6 +2,7 @@ description:Melty Blood Act Cadenza (Japan) (GDL-0028)
 manufacturer:Ecole Software
 year:2005
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

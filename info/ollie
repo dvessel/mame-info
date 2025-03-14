@@ -2,6 +2,7 @@ description:Ollie King (GDX-0007)
 manufacturer:Sega / Amusement Vision
 year:2003
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

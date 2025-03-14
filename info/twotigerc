@@ -2,6 +2,7 @@ description:Two Tigers (Tron conversion)
 manufacturer:Bally Midway
 year:1984
 status:good
+kind:coinop
 device:midssio
 romof:twotiger
 cloneof:twotiger

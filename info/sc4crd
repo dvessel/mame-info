@@ -2,5 +2,6 @@ description:Cash Raker (V2.2) (Qps) (Scorpion 4) (set 1)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4cr
 cloneof:sc4cr

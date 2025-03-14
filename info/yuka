@@ -2,4 +2,5 @@ description:Yu-Ka
 manufacturer:Yubis / T.System
 year:1999
 status:good
+kind:coinop
 romof:macsbios

@@ -2,6 +2,7 @@ description:Time Crisis II (World, TSS4 Ver. A)
 manufacturer:Namco
 year:1997
 status:preliminary
+kind:coinop
 device:namco_tssio
 romof:timecrs2
 cloneof:timecrs2

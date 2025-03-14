@@ -2,6 +2,7 @@ description:Mazan: Flash of the Blade (Japan, MAZ1 Ver.A)
 manufacturer:Namco
 year:2002
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:mazan

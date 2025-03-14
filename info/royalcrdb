@@ -2,5 +2,6 @@ description:Royal Card (German/Polish, set 3)
 manufacturer:TAB Austria
 year:1991
 status:good
+kind:coinop
 romof:royalcrd
 cloneof:royalcrd

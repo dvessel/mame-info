@@ -2,6 +2,7 @@ description:Wangan Midnight Maximum Tune 2 (Japan) (GDX-0015)
 manufacturer:Namco
 year:2005
 status:preliminary
+kind:coinop
 device:jvs13551
 device:segadimm
 device:seganetw

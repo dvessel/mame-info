@@ -2,6 +2,7 @@ description:Star Gladiator Episode I: Final Crusade (Japan 960627)
 manufacturer:Capcom
 year:1996
 status:imperfect
+kind:coinop
 device:qsound_hle
 romof:starglad
 romof:coh1000c

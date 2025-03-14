@@ -2,5 +2,6 @@ description:Pacom Invader (set 2)
 manufacturer:Pacom Corporation
 year:1979
 status:preliminary
+kind:coinop
 romof:beaminv
 cloneof:beaminv

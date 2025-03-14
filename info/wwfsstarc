@@ -2,5 +2,6 @@ description:WWF Superstars (Canada)
 manufacturer:Technos Japan
 year:1989
 status:good
+kind:coinop
 romof:wwfsstar
 cloneof:wwfsstar

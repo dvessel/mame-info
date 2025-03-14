@@ -2,5 +2,6 @@ description:Who Dares Wins (Bellfruit) (Scorpion 4) (set 8)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4wdw
 cloneof:sc4wdw

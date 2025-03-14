@@ -2,5 +2,6 @@ description:Golden Poker Double Up (bootleg, set 1)
 manufacturer:bootleg
 year:198?
 status:good
+kind:coinop
 romof:goldnpkr
 cloneof:goldnpkr

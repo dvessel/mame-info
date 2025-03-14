@@ -2,5 +2,6 @@ description:Mandinga (Electrogame S.A. bootleg of Amidar)
 manufacturer:bootleg (Electrogame S.A.)
 year:1982
 status:preliminary
+kind:coinop
 romof:amidar
 cloneof:amidar

@@ -2,5 +2,6 @@ description:Falcons Wild - World Wide Poker (Falcon original, protected)
 manufacturer:Falcon
 year:1983
 status:preliminary
+kind:coinop
 romof:falcnwld
 cloneof:falcnwld

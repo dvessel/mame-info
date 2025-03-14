@@ -2,6 +2,7 @@ description:Keyboardmania
 manufacturer:Konami
 year:2000
 status:imperfect
+kind:coinop
 device:xt446
 disk:gq974-ja c01
 disk:gq974-ja a02

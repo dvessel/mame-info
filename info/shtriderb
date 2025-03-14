@@ -2,5 +2,6 @@ description:Shot Rider (bootleg)
 manufacturer:bootleg
 year:1985
 status:good
+kind:coinop
 romof:shtrider
 cloneof:shtrider

@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1979
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:flash_l2
 cloneof:flash_l2
 sampleof:genpin

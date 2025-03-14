@@ -2,5 +2,6 @@ description:Gold Fish (020903, prototype)
 manufacturer:Igrosoft
 year:2002
 status:good
+kind:coinop
 romof:mfish_13
 cloneof:mfish_13

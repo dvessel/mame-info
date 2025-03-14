@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1982
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:thund_p1
 cloneof:thund_p1
 sampleof:genpin

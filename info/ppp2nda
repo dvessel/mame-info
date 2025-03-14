@@ -2,6 +2,7 @@ description:ParaParaParadise 2nd Mix (AAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 romof:ppp2nd
 romof:kviper
 cloneof:ppp2nd

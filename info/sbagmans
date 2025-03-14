@@ -2,5 +2,6 @@ description:Super Bagman (Stern Electronics)
 manufacturer:Valadon Automation (Stern Electronics license)
 year:1984
 status:good
+kind:coinop
 romof:sbagman
 cloneof:sbagman

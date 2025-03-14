@@ -2,5 +2,6 @@ description:Symbols (ver 2.5)
 manufacturer:Advanced Video Technology
 year:1985
 status:preliminary
+kind:coinop
 romof:avtsym14
 cloneof:avtsym14

@@ -2,5 +2,6 @@ description:Witch Card (Video Klein CPU box, set 2)
 manufacturer:Video Klein
 year:1991
 status:good
+kind:coinop
 romof:witchcrd
 cloneof:witchcrd

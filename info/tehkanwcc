@@ -2,5 +2,6 @@ description:Tehkan World Cup (set 3, bootleg)
 manufacturer:bootleg
 year:1985
 status:preliminary
+kind:coinop
 romof:tehkanwc
 cloneof:tehkanwc

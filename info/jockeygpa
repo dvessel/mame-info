@@ -2,6 +2,7 @@ description:Jockey Grand Prix (set 2)
 manufacturer:Sun Amusement / BrezzaSoft
 year:2001
 status:good
+kind:coinop
 romof:jockeygp
 romof:neogeo
 cloneof:jockeygp

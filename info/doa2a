@@ -2,6 +2,7 @@ description:Dead or Alive 2 (Rev A)
 manufacturer:Tecmo
 year:1999
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:doa2m

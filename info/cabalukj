@@ -2,5 +2,6 @@ description:Cabal (UK, Joystick)
 manufacturer:TAD Corporation (Electrocoin license)
 year:1989
 status:good
+kind:coinop
 romof:cabal
 cloneof:cabal

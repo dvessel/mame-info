@@ -2,5 +2,6 @@ description:Kaitei Takara Sagashi (Namco license)
 manufacturer:K.K. Tokki (Namco license)
 year:1980
 status:good
+kind:coinop
 romof:kaitei
 cloneof:kaitei

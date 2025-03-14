@@ -2,5 +2,6 @@ description:Paperboy (rev 2)
 manufacturer:Atari Games
 year:1984
 status:good
+kind:coinop
 romof:paperboy
 cloneof:paperboy

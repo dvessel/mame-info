@@ -2,5 +2,6 @@ description:Mouse Trap (version 2)
 manufacturer:Exidy
 year:1981
 status:good
+kind:coinop
 romof:mtrap
 cloneof:mtrap

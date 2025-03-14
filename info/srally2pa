@@ -2,6 +2,7 @@ description:Sega Rally 2 (prototype, 8 Dec 1997)
 manufacturer:Sega
 year:1998
 status:preliminary
+kind:coinop
 device:segabill
 romof:srally2
 cloneof:srally2

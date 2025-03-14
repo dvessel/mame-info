@@ -2,5 +2,6 @@ description:World Class Bowling Tournament (v1.40)
 manufacturer:Incredible Technologies
 year:1997
 status:good
+kind:coinop
 romof:wcbowl
 cloneof:wcbowl

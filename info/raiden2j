@@ -2,5 +2,6 @@ description:Raiden II (Japan)
 manufacturer:Seibu Kaihatsu
 year:1993
 status:good
+kind:coinop
 romof:raiden2
 cloneof:raiden2

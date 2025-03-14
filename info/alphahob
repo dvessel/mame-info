@@ -2,5 +2,6 @@ description:Missile / Circuit (bootleg of Alpha Fighter / Head On)
 manufacturer:bootleg
 year:19??
 status:preliminary
+kind:coinop
 romof:alphaho
 cloneof:alphaho

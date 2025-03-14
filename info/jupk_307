@@ -3,6 +3,7 @@ manufacturer:Data East
 year:1993
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000
 romof:jupk_513
 cloneof:jupk_513

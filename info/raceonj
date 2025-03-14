@@ -2,6 +2,7 @@ description:Race On! (Japan, RO1 Ver. B)
 manufacturer:Namco
 year:1998
 status:preliminary
+kind:coinop
 device:namco_asca5
 romof:raceon
 cloneof:raceon

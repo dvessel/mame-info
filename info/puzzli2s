@@ -2,6 +2,7 @@ description:Puzzli 2 Super / Pao Pao Yu Super (ver. 200)
 manufacturer:IGS (Metro license)
 year:2001
 status:imperfect
+kind:coinop
 romof:puzzli2
 romof:pgm
 cloneof:puzzli2

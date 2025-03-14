@@ -3,6 +3,7 @@ manufacturer:Williams
 year:1980
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:alpok_l6
 cloneof:alpok_l6
 sampleof:genpin

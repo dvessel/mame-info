@@ -2,5 +2,6 @@ description:Gals Panic (Korea, EXPRO-02 PCB)
 manufacturer:Kaneko (Inter license)
 year:1990
 status:good
+kind:coinop
 romof:galsnew
 cloneof:galsnew

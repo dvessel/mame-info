@@ -2,5 +2,6 @@ description:Battle Garegga (location test) (Wed Jan 17 1996)
 manufacturer:Raizing / Eighting
 year:1996
 status:good
+kind:coinop
 romof:bgaregga
 cloneof:bgaregga

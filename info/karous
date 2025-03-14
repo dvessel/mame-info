@@ -2,6 +2,7 @@ description:Karous (Japan) (GDL-0040)
 manufacturer:Milestone
 year:2006
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 device:segadimm

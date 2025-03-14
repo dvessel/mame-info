@@ -2,6 +2,7 @@ description:Knights of Valour / Sanguo Zhan Ji / Sangoku Senki (ver. 114, Hong K
 manufacturer:IGS
 year:1999
 status:preliminary
+kind:coinop
 romof:kov
 romof:pgm
 cloneof:kov

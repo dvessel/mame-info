@@ -2,5 +2,6 @@ description:The Pit Boss (2214-07, U5-0)
 manufacturer:Merit
 year:1983
 status:imperfect
+kind:coinop
 romof:pitboss
 cloneof:pitboss

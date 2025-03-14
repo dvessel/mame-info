@@ -2,5 +2,6 @@ description:Pump it Up The PREX 3: The International 4th Dance Floor (X3.2MK3)
 manufacturer:Andamiro
 year:2003
 status:preliminary
+kind:coinop
 device:banshee_x86
 romof:pumpitup

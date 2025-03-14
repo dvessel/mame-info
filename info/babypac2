@@ -3,6 +3,7 @@ manufacturer:Dave Nutting Associates / Bally
 year:1982
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:babypac
 cloneof:babypac
 sampleof:genpin

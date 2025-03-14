@@ -2,5 +2,6 @@ description:Turbo Reels (unknown) (MPU4?) (set 2)
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4treel
 cloneof:m4treel

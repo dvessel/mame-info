@@ -2,5 +2,6 @@ description:Hot Shocker (early revision?)
 manufacturer:E.G. Felaco
 year:1982
 status:good
+kind:coinop
 romof:hotshock
 cloneof:hotshock

@@ -3,5 +3,6 @@ manufacturer:Automatics Pasqual / Recreativos G.R.
 year:1991
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:tecnodar
 cloneof:tecnodar

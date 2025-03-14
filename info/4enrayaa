@@ -2,5 +2,6 @@ description:4 En Raya (set 2)
 manufacturer:IDSA
 year:1990
 status:good
+kind:coinop
 romof:4enraya
 cloneof:4enraya

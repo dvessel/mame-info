@@ -2,5 +2,6 @@ description:Guttang Gottong (Sede 3 bootleg on Galaxian hardware)
 manufacturer:bootleg (Sede 3)
 year:1982
 status:good
+kind:coinop
 romof:locomotn
 cloneof:locomotn

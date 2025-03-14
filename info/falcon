@@ -2,5 +2,6 @@ description:Falcon (bootleg of Phoenix) (8085A CPU)
 manufacturer:bootleg
 year:1980
 status:good
+kind:coinop
 romof:phoenix
 cloneof:phoenix

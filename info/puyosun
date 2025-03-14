@@ -2,5 +2,6 @@ description:Puyo Puyo Sun (J 961115 V0.001)
 manufacturer:Compile
 year:1996
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

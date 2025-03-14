@@ -2,5 +2,6 @@ description:Red Dragon (021) (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4rdrag
 cloneof:sc4rdrag

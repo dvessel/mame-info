@@ -2,5 +2,6 @@ description:Q*bert's Qubes
 manufacturer:Mylstar
 year:1983
 status:imperfect
+kind:coinop
 device:votrsc01a
 sampleof:qbert

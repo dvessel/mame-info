@@ -2,5 +2,6 @@ description:Casino Winner
 manufacturer:Aristocrat
 year:1985
 status:imperfect
+kind:coinop
 romof:rcasino
 cloneof:rcasino

@@ -2,6 +2,7 @@ description:Super Gem Fighter: Mini Mix (USA 970904 Phoenix Edition) (bootleg)
 manufacturer:bootleg
 year:1997
 status:good
+kind:coinop
 device:qsound_hle
 romof:sgemf
 cloneof:sgemf

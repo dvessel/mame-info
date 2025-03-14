@@ -3,5 +3,6 @@ manufacturer:Crystal
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:sc1cdm
 cloneof:sc1cdm

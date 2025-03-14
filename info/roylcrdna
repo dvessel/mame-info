@@ -2,5 +2,6 @@ description:Royal Card Part-Two (Nichibutsu HW, Ver. 1.02)
 manufacturer:Miki Corp.
 year:1982
 status:good
+kind:coinop
 romof:roylcrdn
 cloneof:roylcrdn

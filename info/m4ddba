@@ -3,5 +3,6 @@ manufacturer:Coinworld
 year:199?
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:m4ddb
 cloneof:m4ddb

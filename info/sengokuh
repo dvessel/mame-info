@@ -2,6 +2,7 @@ description:Sengoku / Sengoku Denshou (NGH-017, US)
 manufacturer:SNK
 year:1991
 status:good
+kind:coinop
 romof:sengoku
 romof:neogeo
 cloneof:sengoku

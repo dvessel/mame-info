@@ -2,5 +2,6 @@ description:The Prize Is Right (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4pir
 cloneof:sc4pir

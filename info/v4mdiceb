@@ -2,5 +2,6 @@ description:Miami Dice (BWB) (Release 8, Arcade Standard, 10p-£4 Cash - Fixed) 
 manufacturer:BWB
 year:1995
 status:preliminary
+kind:coinop
 romof:v4mdice
 cloneof:v4mdice

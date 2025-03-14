@@ -2,6 +2,7 @@ description:Zombie Revenge (Export)
 manufacturer:Sega
 year:1999
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:zombrvn

@@ -2,5 +2,6 @@ description:Seven Land
 manufacturer:bootleg
 year:1995
 status:preliminary
+kind:coinop
 romof:stbsub
 cloneof:stbsub

@@ -2,6 +2,7 @@ description:Jingle Bell (Italy, V133I)
 manufacturer:IGS
 year:1995?
 status:good
+kind:coinop
 device:ym2413
 romof:jbell
 cloneof:jbell

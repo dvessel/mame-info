@@ -2,6 +2,7 @@ description:Pit Boss Supertouch 30 (9234-00-01 R0A)
 manufacturer:Merit
 year:1993
 status:imperfect
+kind:coinop
 device:microtouch
 romof:pbst30
 cloneof:pbst30

@@ -2,5 +2,6 @@ description:Ironman Ivan Stewart's Super Off-Road (rev 3)
 manufacturer:Leland Corporation
 year:1989
 status:good
+kind:coinop
 romof:offroad
 cloneof:offroad

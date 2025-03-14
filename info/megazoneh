@@ -2,5 +2,6 @@ description:Mega Zone (version H)
 manufacturer:Konami (Kosuka license)
 year:1983
 status:good
+kind:coinop
 romof:megazone
 cloneof:megazone

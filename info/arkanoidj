@@ -2,6 +2,7 @@ description:Arkanoid (Japan, newer)
 manufacturer:Taito Corporation
 year:1986
 status:good
+kind:coinop
 device:m68705p5
 romof:arkanoid
 cloneof:arkanoid

@@ -2,5 +2,6 @@ description:Sports Match
 manufacturer:Dynax (Fabtek license)
 year:1989
 status:good
+kind:coinop
 romof:drgpunch
 cloneof:drgpunch

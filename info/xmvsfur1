@@ -2,6 +2,7 @@ description:X-Men Vs. Street Fighter (USA 961004)
 manufacturer:Capcom
 year:1996
 status:good
+kind:coinop
 device:qsound_hle
 romof:xmvsf
 cloneof:xmvsf

@@ -2,5 +2,6 @@ description:Back Street Soccer (KRB-0032A PCB)
 manufacturer:SunA (Unico license)
 year:1996
 status:good
+kind:coinop
 romof:bssoccer
 cloneof:bssoccer

@@ -2,5 +2,6 @@ description:Wing Shooting Championship V1.00
 manufacturer:Sammy USA Corporation
 year:2001
 status:imperfect
+kind:coinop
 romof:wschamp
 cloneof:wschamp

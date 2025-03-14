@@ -2,5 +2,6 @@ description:Hong Tian Lei (A-Blast) (bootleg)
 manufacturer:bootleg
 year:2000
 status:preliminary
+kind:coinop
 romof:penbros
 cloneof:penbros

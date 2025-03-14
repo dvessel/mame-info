@@ -2,5 +2,6 @@ description:Crush Roller (bootleg, set 3)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:crush
 cloneof:crush

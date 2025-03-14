@@ -2,6 +2,7 @@ description:King Galah (0100536V, NSW/ACT)
 manufacturer:Aristocrat
 year:1995
 status:imperfect
+kind:coinop
 romof:kgalah
 romof:aristmk5
 cloneof:kgalah

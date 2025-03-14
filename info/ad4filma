@@ -2,5 +2,6 @@ description:Film Premiere (Video?) (Bellfruit) (Adder 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:ad4film
 cloneof:ad4film

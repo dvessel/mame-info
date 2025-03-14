@@ -2,6 +2,7 @@ description:Intruder
 manufacturer:Konami (Game Plan license)
 year:1980
 status:imperfect
+kind:coinop
 romof:spcewarl
 cloneof:spcewarl
 sampleof:invaders

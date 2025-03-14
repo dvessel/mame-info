@@ -2,5 +2,6 @@ description:Silent Scope (ver AAC, Ver 1.30)
 manufacturer:Konami
 year:1999
 status:preliminary
+kind:coinop
 romof:sscope
 cloneof:sscope

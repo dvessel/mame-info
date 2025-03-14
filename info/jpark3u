@@ -2,6 +2,7 @@ description:Jurassic Park III (ver UBC)
 manufacturer:Konami
 year:2001
 status:preliminary
+kind:coinop
 romof:jpark3
 romof:kviper
 cloneof:jpark3

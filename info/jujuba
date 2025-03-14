@@ -2,5 +2,6 @@ description:JuJu Densetsu (Japan, bootleg)
 manufacturer:bootleg
 year:1989
 status:imperfect
+kind:coinop
 romof:toki
 cloneof:toki

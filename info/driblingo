@@ -2,5 +2,6 @@ description:Dribbling (Olympia)
 manufacturer:Model Racing (Olympia license)
 year:1983
 status:good
+kind:coinop
 romof:dribling
 cloneof:dribling

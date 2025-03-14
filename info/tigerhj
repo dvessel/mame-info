@@ -2,6 +2,7 @@ description:Tiger-Heli (Japan)
 manufacturer:Toaplan / Taito
 year:1985
 status:good
+kind:coinop
 device:m68705p5
 romof:tigerh
 cloneof:tigerh

@@ -2,5 +2,6 @@ description:Pick 'n Win (Version 2.8T, Dual)
 manufacturer:Amcoe
 year:2001
 status:good
+kind:coinop
 romof:pickwin
 cloneof:pickwin

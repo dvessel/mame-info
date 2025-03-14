@@ -2,5 +2,6 @@ description:Royal Card (stealth with MSX multigame)
 manufacturer:bootleg
 year:1991
 status:preliminary
+kind:coinop
 romof:royalcrd
 cloneof:royalcrd

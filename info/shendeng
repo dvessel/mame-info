@@ -2,6 +2,7 @@ description:Pili Shen Deng
 manufacturer:BMC
 year:1998
 status:good
+kind:coinop
 device:ym2413
 romof:mjmaglmp
 cloneof:mjmaglmp

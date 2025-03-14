@@ -2,5 +2,6 @@ description:Wonder Boy (Tecfri bootleg)
 manufacturer:bootleg (Tecfri)
 year:1986
 status:good
+kind:coinop
 romof:wboy
 cloneof:wboy

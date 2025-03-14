@@ -2,5 +2,6 @@ description:The House of the Dead
 manufacturer:Sega
 year:1997
 status:preliminary
+kind:coinop
 romof:hotd
 cloneof:hotd

@@ -2,6 +2,7 @@ description:Pokasuka Ghost! (Japan)
 manufacturer:Sega
 year:2007
 status:preliminary
+kind:coinop
 device:mie
 device:jvs13551
 romof:manicpnc

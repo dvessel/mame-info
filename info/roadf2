@@ -2,5 +2,6 @@ description:Road Fighter (set 2)
 manufacturer:Konami
 year:1984
 status:good
+kind:coinop
 romof:roadf
 cloneof:roadf

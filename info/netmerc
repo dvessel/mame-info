@@ -2,5 +2,6 @@ description:Sega NetMerc
 manufacturer:Sega
 year:1993
 status:preliminary
+kind:coinop
 device:model1io2
 device:hd44780

@@ -3,4 +3,5 @@ manufacturer:Bromley
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 device:bsmt2000

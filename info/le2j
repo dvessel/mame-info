@@ -2,6 +2,7 @@ description:Lethal Enforcers II: The Western (ver JAA)
 manufacturer:Konami
 year:1994
 status:imperfect
+kind:coinop
 romof:le2
 romof:konamigx
 cloneof:le2

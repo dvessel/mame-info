@@ -2,5 +2,6 @@ description:Tecmo World Cup '94 (set 3)
 manufacturer:Tecmo
 year:1994
 status:preliminary
+kind:coinop
 romof:twcup94
 cloneof:twcup94

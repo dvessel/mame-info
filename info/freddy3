@@ -3,6 +3,7 @@ manufacturer:Gottlieb
 year:1994
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:freddy
 cloneof:freddy
 sampleof:genpin

@@ -2,5 +2,6 @@ description:Fitter (bootleg of Round-Up)
 manufacturer:bootleg
 year:1981
 status:good
+kind:coinop
 romof:roundup
 cloneof:roundup

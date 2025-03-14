@@ -3,6 +3,7 @@ manufacturer:Zaccaria
 year:1986
 status:preliminary
 kind:mechanical
+kind:coinop
 romof:bbeltzac
 cloneof:bbeltzac
 sampleof:genpin

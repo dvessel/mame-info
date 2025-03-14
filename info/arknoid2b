@@ -2,5 +2,6 @@ description:Arkanoid - Revenge of DOH (Japan bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+kind:coinop
 romof:arknoid2
 cloneof:arknoid2

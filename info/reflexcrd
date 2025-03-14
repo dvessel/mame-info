@@ -2,5 +2,6 @@ description:Reflex Cards (English, serial protected)
 manufacturer:TAB Austria
 year:1999
 status:good
+kind:coinop
 romof:royalcrd
 cloneof:royalcrd

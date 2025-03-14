@@ -2,4 +2,5 @@ description:Ton Puu Mahjong Version 2.0 RX (Japan)
 manufacturer:ANES
 year:1997
 status:preliminary
+kind:coinop
 device:ym2413

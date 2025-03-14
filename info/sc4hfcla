@@ -2,5 +2,6 @@ description:Happy Fruits Club (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+kind:coinop
 romof:sc4hfcl
 cloneof:sc4hfcl

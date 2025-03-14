@@ -2,5 +2,6 @@ description:Missile Command (rev 2, A035467-02/04 PCBs)
 manufacturer:Atari
 year:1980
 status:good
+kind:coinop
 romof:missile
 cloneof:missile

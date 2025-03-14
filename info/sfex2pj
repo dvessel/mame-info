@@ -2,6 +2,7 @@ description:Street Fighter EX2 Plus (Japan 990611)
 manufacturer:Capcom / Arika
 year:1999
 status:imperfect
+kind:coinop
 device:qsound_hle
 romof:sfex2p
 romof:coh3002c

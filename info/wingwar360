@@ -2,6 +2,7 @@ description:Wing War R360 (US)
 manufacturer:Sega
 year:1994
 status:imperfect
+kind:coinop
 device:model1io2
 device:hd44780
 device:m1comm

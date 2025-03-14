@@ -2,6 +2,7 @@ description:Alpine Racer (World, AR2 Ver.C)
 manufacturer:Namco
 year:1994
 status:imperfect
+kind:coinop
 device:namcoc71
 romof:alpinerd
 cloneof:alpinerd

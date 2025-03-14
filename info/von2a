@@ -2,6 +2,7 @@ description:Virtual On 2: Oratorio Tangram (Japan, Revision A)
 manufacturer:Sega
 year:1998
 status:preliminary
+kind:coinop
 device:segabill
 romof:von2
 cloneof:von2

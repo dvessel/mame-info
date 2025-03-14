@@ -2,5 +2,6 @@ description:Tough Turf (Datsu bootleg)
 manufacturer:bootleg (Datsu)
 year:1989
 status:preliminary
+kind:coinop
 romof:tturf
 cloneof:tturf

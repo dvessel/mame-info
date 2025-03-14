@@ -2,5 +2,6 @@ description:Zero Time (Datamat)
 manufacturer:bootleg (Datamat)
 year:1979
 status:good
+kind:coinop
 romof:galaxian
 cloneof:galaxian

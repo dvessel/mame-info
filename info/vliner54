@@ -2,6 +2,7 @@ description:V-Liner (v0.54)
 manufacturer:Dyna / BrezzaSoft
 year:2001
 status:good
+kind:coinop
 romof:vliner
 romof:neogeo
 cloneof:vliner

@@ -2,6 +2,7 @@ description:Pump it Up The Premiere: The International Dance Floor (R6/v4.01 - F
 manufacturer:Andamiro
 year:2001
 status:preliminary
+kind:coinop
 device:banshee_x86
 romof:pumpitpr
 romof:pumpitup

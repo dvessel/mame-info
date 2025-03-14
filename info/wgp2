@@ -2,5 +2,6 @@ description:World Grand Prix 2 (Japan)
 manufacturer:Taito Corporation
 year:1990
 status:preliminary
+kind:coinop
 romof:wgp
 cloneof:wgp

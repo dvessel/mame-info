@@ -2,5 +2,6 @@ description:Funky Head Boxers (JUETBKAL 951218 V1.000)
 manufacturer:Sega
 year:1995
 status:imperfect
+kind:coinop
 device:segabill
 romof:stvbios

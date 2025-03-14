@@ -2,6 +2,7 @@ description:Task Force Harrier (Lettering bootleg)
 manufacturer:bootleg (Lettering)
 year:1989
 status:good
+kind:coinop
 device:m68705r3
 romof:tharrier
 cloneof:tharrier

@@ -2,5 +2,6 @@ description:Final Fight (USA, set 2)
 manufacturer:Capcom
 year:1989
 status:good
+kind:coinop
 romof:ffight
 cloneof:ffight

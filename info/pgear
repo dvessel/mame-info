@@ -2,6 +2,7 @@ description:Powered Gear: Strategic Variant Armor Equipment (Japan 941024)
 manufacturer:Capcom
 year:1994
 status:good
+kind:coinop
 device:qsound_hle
 romof:armwar
 cloneof:armwar

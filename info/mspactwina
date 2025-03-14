@@ -2,5 +2,6 @@ description:Ms Pac Man Twin (Argentina, set 2)
 manufacturer:hack (Susilu)
 year:1992
 status:good
+kind:coinop
 romof:mspactwin
 cloneof:mspactwin

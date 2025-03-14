@@ -2,6 +2,7 @@ description:Magical Kengo 2005 (Ver. USA 1.10)
 manufacturer:Herb Home
 year:2005
 status:preliminary
+kind:coinop
 device:ym2413
 romof:magkengo
 cloneof:magkengo

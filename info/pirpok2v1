@@ -2,5 +2,6 @@ description:Pirate Poker II (Version 2.2R Dual)
 manufacturer:Amcoe
 year:2003
 status:good
+kind:coinop
 romof:pirpok2
 cloneof:pirpok2

@@ -2,5 +2,6 @@ description:Heavyweight Champ (Japan) (FD1094 317-0046)
 manufacturer:Sega
 year:1987
 status:good
+kind:coinop
 romof:hwchamp
 cloneof:hwchamp

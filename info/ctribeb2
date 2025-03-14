@@ -2,5 +2,6 @@ description:The Combatribes (bootleg set 2)
 manufacturer:bootleg
 year:1990
 status:good
+kind:coinop
 romof:ctribe
 cloneof:ctribe

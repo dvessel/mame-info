@@ -2,5 +2,6 @@ description:Atlantic City Action
 manufacturer:Epos Corporation
 year:1983
 status:good
+kind:coinop
 romof:bwcasino
 cloneof:bwcasino

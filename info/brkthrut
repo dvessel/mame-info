@@ -2,5 +2,6 @@ description:Break Thru (Tecfri license)
 manufacturer:Data East Corporation (Tecfri license)
 year:1986
 status:good
+kind:coinop
 romof:brkthru
 cloneof:brkthru
