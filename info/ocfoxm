@@ -1,9 +1,0 @@
-description:Fox M 286
-manufacturer:Octek
-year:1990
-status:preliminary
-device:at_keybc
-device:et4000
-device:kb_ms_natural
-romof:ibm5170
-cloneof:ibm5170

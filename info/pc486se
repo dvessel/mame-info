@@ -1,8 +1,0 @@
-description:PC-486SE
-manufacturer:Epson
-year:1993
-status:preliminary
-device:pc9801_26
-device:upd7220
-romof:pc486mu
-cloneof:pc486mu

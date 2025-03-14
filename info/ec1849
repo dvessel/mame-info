@@ -1,8 +1,0 @@
-description:EC-1849
-year:1993
-status:preliminary
-device:at_keybc
-device:ega
-device:kb_pcat84
-romof:ibm5170
-cloneof:ibm5170

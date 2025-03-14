@@ -1,9 +1,0 @@
-description:ABC 80 with TKN80
-manufacturer:MYAB
-year:198?
-status:imperfect
-device:abc80kb
-device:abc830
-device:sn74s263
-romof:abc80
-cloneof:abc80
