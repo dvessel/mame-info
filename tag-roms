@@ -7,7 +7,7 @@ Usage: $__self:t [options] [directory]
 Scan ROMs and set tags based on MAME metadata.
 
 Options:
-  -v, --verify-dependencies Verify dependencies (BIOS, devices, etc.) are present
+  -c, --check-dependencies  Verify dependencies (BIOS, devices, etc.) are present
                             and prefix with '+' if it exists, '-' if it doesn't
                             'MAME Incomplete' is added if any are missing.
   -r, --reset-tags          Remove existing tags before applying new ones
@@ -31,7 +31,7 @@ EOF
 
 function main {
   zparseopts -D -E -F - \
-    {v,-verify-dependencies}=verifydependencies \
+    {c,-check-dependencies}=checkdependencies \
     {r,-reset-tags}=resettags \
     {d,-dry-run}=dryrun \
     {h,-help}=help || {
@@ -150,13 +150,13 @@ function tag-set-dependencies {
     `printf  "$kind:%s\n" $dependencies`
   )
 
-  # not verified by default.
-  if ! (( #verifydependencies )); then
+  # not checked by default.
+  if ! (( #checkdependencies )); then
     __tags+=( `printf "$kind:%s\n" $dependencies` )
     return
   fi
 
-  # verify existance of dependencies
+  # check existance of dependencies
   case $kind in
     device|bios|parent)
       # eval to give $dependencies a chance to expand early.
