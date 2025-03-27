@@ -1,8 +1,0 @@
-description:Mega-CD with 32X (Europe, PAL)
-manufacturer:Sega
-year:1995
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-romof:32x_scd
-cloneof:32x_scd

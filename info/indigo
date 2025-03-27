@@ -1,7 +1,0 @@
-description:IRIS Indigo
-manufacturer:Silicon Graphics
-year:1991
-status:preliminary
-emulation:good
-savestate:unsupported
-device:sgi_kbd

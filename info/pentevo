@@ -1,9 +1,0 @@
-description:ZX Evolution: BASECONF
-manufacturer:NedoPC
-year:2009
-status:good
-emulation:good
-savestate:unsupported
-device:betadisk
-romof:spec128
-cloneof:spec128

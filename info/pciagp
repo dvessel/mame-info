@@ -1,7 +1,0 @@
-description:Sandbox PCI/AGP PC (440BX)
-manufacturer:Hack Inc.
-year:1999
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-device:riva128

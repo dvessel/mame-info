@@ -1,8 +1,0 @@
-description:VT180
-manufacturer:Digital Equipment Corporation
-year:1983
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-romof:vt100
-cloneof:vt100

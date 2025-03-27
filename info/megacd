@@ -1,8 +1,0 @@
-description:Mega-CD (Europe, PAL)
-manufacturer:Sega
-year:1993
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-romof:segacd
-cloneof:segacd

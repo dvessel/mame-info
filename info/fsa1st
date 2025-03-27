@@ -1,7 +1,0 @@
-description:FS-A1ST (MSX Turbo-R, Japan)
-manufacturer:Panasonic
-year:1991
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-device:ym2413

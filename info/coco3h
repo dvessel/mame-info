@@ -1,9 +1,0 @@
-description:Color Computer 3 (NTSC; HD6309)
-manufacturer:Tandy Radio Shack
-year:19??
-status:good
-emulation:good
-savestate:unsupported
-device:coco_fdc
-romof:coco
-cloneof:coco

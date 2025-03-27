@@ -1,7 +1,0 @@
-description:ZX Spectrum IDE
-year:1995
-status:good
-emulation:good
-savestate:unsupported
-romof:spectrum
-cloneof:spectrum

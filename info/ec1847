@@ -1,9 +1,0 @@
-description:EC-1847
-year:1990
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-device:cga
-device:kb_pcxt83
-romof:ibm5150
-cloneof:ibm5150

@@ -1,8 +1,0 @@
-description:Game Gear (Japan)
-manufacturer:Sega
-year:1990
-status:good
-emulation:good
-savestate:supported
-romof:gamegear
-cloneof:gamegear

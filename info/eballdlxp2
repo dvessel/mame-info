@@ -1,9 +1,0 @@
-description:Eight Ball Deluxe (prototype rev. 2)
-manufacturer:Bally
-year:1981
-status:preliminary
-emulation:preliminary
-savestate:supported
-kind:mechanical
-romof:eballdlx
-cloneof:eballdlx

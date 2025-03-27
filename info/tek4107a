@@ -1,7 +1,0 @@
-description:Tektronix 4107A
-manufacturer:Tektronix
-year:1983
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-device:tek410x_kbd

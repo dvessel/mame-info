@@ -1,9 +1,0 @@
-description:Color64
-manufacturer:Novo Tempo / LZ Equipamentos
-year:1983
-status:good
-emulation:good
-savestate:supported
-device:coco_fdc
-romof:coco
-cloneof:coco

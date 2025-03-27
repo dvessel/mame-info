@@ -1,8 +1,0 @@
-description:TK-85
-manufacturer:NEC
-year:1980
-status:good
-emulation:good
-savestate:supported
-romof:tk80
-cloneof:tk80

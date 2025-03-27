@@ -1,7 +1,0 @@
-description:Sandbox PCI PC (430TX)
-manufacturer:Hack Inc.
-year:1998
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-device:mga2064w

@@ -1,8 +1,0 @@
-description:EX-8000 Programmable Polyphonic Synthe Module
-manufacturer:Korg
-year:1985
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-romof:dw8000
-cloneof:dw8000

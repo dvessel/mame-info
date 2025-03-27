@@ -1,8 +1,0 @@
-description:Microbee 256TC
-manufacturer:Microbee Systems
-year:1987
-status:preliminary
-emulation:preliminary
-savestate:supported
-romof:mbee
-cloneof:mbee

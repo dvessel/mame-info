@@ -1,8 +1,0 @@
-description:Microbee 32k IC
-manufacturer:Applied Technology
-year:1983
-status:good
-emulation:good
-savestate:supported
-romof:mbee
-cloneof:mbee

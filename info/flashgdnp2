@@ -1,9 +1,0 @@
-description:Flash Gordon (prototype rev. 2)
-manufacturer:Bally
-year:1981
-status:preliminary
-emulation:preliminary
-savestate:supported
-kind:mechanical
-romof:flashgdn
-cloneof:flashgdn

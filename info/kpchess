@@ -1,8 +1,0 @@
-description:Kasparov Pocket Chess
-manufacturer:SciSys / Heuristic Software
-year:1985
-status:good
-emulation:good
-savestate:supported
-romof:electrio
-cloneof:electrio

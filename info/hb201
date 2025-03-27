@@ -1,8 +1,0 @@
-description:HB-201 (MSX1, Japan)
-manufacturer:Sony
-year:1985
-status:good
-emulation:good
-savestate:unsupported
-romof:hb201p
-cloneof:hb201p

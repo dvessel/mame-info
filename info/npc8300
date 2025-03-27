@@ -1,8 +1,0 @@
-description:PC-8300
-manufacturer:NEC
-year:1987
-status:preliminary
-emulation:preliminary
-savestate:supported
-romof:pc8201
-cloneof:pc8201

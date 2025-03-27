@@ -1,8 +1,0 @@
-description:VL70-m
-manufacturer:Yamaha
-year:1996
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-device:mulcd
-device:hd44780

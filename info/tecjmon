@@ -1,8 +1,0 @@
-description:TEC-1A with JMON
-manufacturer:Talking Electronics magazine
-year:1984
-status:good
-emulation:good
-savestate:supported
-romof:tec1
-cloneof:tec1

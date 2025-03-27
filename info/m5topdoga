@@ -1,9 +1,0 @@
-description:Top Dog (Barcrest) (MPU5) (set 3)
-manufacturer:Barcrest
-year:199?
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-kind:mechanical
-romof:m5topdog
-cloneof:m5topdog

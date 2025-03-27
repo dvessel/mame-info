@@ -1,8 +1,0 @@
-description:Hockey (Mattel, export version)
-manufacturer:Mattel Electronics
-year:1978
-status:good
-emulation:good
-savestate:supported
-romof:mhockey
-cloneof:mhockey

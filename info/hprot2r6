@@ -1,9 +1,0 @@
-description:Henry Prot CARD II (REV.6)
-manufacturer:HENRY
-year:2003
-status:preliminary
-emulation:preliminary
-savestate:unsupported
-device:hd44780
-romof:hprot1
-cloneof:hprot1

@@ -1,8 +1,0 @@
-description:Bondwell Portable Computer Model 14 (German keyboard)
-manufacturer:Bondwell Holding
-year:1984
-status:good
-emulation:good
-savestate:supported
-romof:bw12
-cloneof:bw12

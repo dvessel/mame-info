@@ -1,8 +1,0 @@
-description:ColecoVision (PAL)
-manufacturer:Coleco
-year:1983
-status:good
-emulation:good
-savestate:unsupported
-romof:coleco
-cloneof:coleco
