@@ -2,6 +2,8 @@ description:Grand Prix (CPU 3.01, display I3.01, Italy)
 manufacturer:Stern
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:gprix

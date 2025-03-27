@@ -2,4 +2,6 @@ description:Pack'n Bang Bang
 manufacturer:Kaneko
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

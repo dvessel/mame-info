@@ -2,6 +2,8 @@ description:Roller Coaster (JPM) (IMPACT) (RC11 AC30, 30p Stake, £15 Jackpot)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6roller

@@ -2,6 +2,8 @@ description:Gorf (Spain, Irecsa license)
 manufacturer:Dave Nutting Associates / Midway (Irecsa license)
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:votrsc01
 romof:gorf

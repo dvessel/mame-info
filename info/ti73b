@@ -2,5 +2,7 @@ description:TI-73 Explorer (bootleg)
 manufacturer:Texas Instruments
 year:20??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ti73
 cloneof:ti73

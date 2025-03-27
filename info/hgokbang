@@ -2,6 +2,8 @@ description:Hanafuda Hana Gokou Bangaihen (Japan)
 manufacturer:Dynax
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:hgokou

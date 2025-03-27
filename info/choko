@@ -2,5 +2,7 @@ description:Janpai Puzzle Choukou (Japan 010820)
 manufacturer:Mitchell (Capcom license)
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

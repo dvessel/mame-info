@@ -2,5 +2,7 @@ description:Jackpot Monopoly (PR2253, MAZNJACM) (Mazooma) (Adder 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5jckmo
 cloneof:ad5jckmo

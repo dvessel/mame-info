@@ -2,6 +2,8 @@ description:Golden Casino Club (Bellfruit) (set 2, UK, 250GBP Jackpot, Protocol)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

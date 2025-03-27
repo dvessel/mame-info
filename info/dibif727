@@ -2,6 +2,8 @@ description:Diana Bifuca (v7.27)
 manufacturer:Compumatic / Bifuca
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:dibifuca
 cloneof:dibifuca

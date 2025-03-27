@@ -2,3 +2,5 @@ description:MC-300 Micro Composer
 manufacturer:Roland
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported

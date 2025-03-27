@@ -2,5 +2,7 @@ description:Pharaohs Match (Arcadia)
 manufacturer:Arcadia Systems
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ar_bios

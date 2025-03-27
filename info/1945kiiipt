@@ -2,6 +2,8 @@ description:1945k III (Promat license, OPCX1 PCB)
 manufacturer:Promat
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:1945kiii
 cloneof:1945kiii

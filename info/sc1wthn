@@ -2,5 +2,7 @@ description:Wild Thing (Eurocoin) (Scorpion 1)
 manufacturer:Eurocoin
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

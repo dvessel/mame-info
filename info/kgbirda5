@@ -2,5 +2,7 @@ description:K.G. Bird (0200024V, NSW/ACT)
 manufacturer:Aristocrat
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aristmk5

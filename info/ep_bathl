@@ -2,4 +2,6 @@ description:Bat Outa Hell (Global) (EPOCH) (2.1, set 1)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

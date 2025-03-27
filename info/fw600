@@ -2,3 +2,5 @@ description:FontWriter FW-600
 manufacturer:Sharp
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported

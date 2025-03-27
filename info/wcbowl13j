@@ -2,6 +2,8 @@ description:World Class Bowling (v1.3J, Japan)
 manufacturer:Incredible Technologies (Excellent System Ltd. license)
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wcbowl
 cloneof:wcbowl

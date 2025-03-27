@@ -2,5 +2,7 @@ description:SVI-738 (MSX1, Denmark, Norway)
 manufacturer:Spectravideo
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:svi738
 cloneof:svi738

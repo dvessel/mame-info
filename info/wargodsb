@@ -2,9 +2,10 @@ description:War Gods (HD 12/11/1995)
 manufacturer:Midway
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:tms32031
 romof:wargods
 cloneof:wargods
 disk:wargods_12-11-1995
-disk:wargods_11-07-1996

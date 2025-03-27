@@ -2,6 +2,8 @@ description:Pistol Poker (R02)
 manufacturer:Alvin G
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,5 +2,7 @@ description:Out Run (Mega-Tech, SMS based)
 manufacturer:Sega
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:megatech

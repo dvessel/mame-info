@@ -2,4 +2,6 @@ description:Super Star 97 / Ming Xing 97 (version V153B)
 manufacturer:Bordun International
 year:199?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

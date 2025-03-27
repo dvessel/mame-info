@@ -2,6 +2,8 @@ description:Sky Lancer (Esco Trading Co license)
 manufacturer:Orca (Esco Trading Co license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:skylancr
 cloneof:skylancr

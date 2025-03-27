@@ -2,6 +2,8 @@ description:Time Crisis 3 (TST2 Ver. A)
 manufacturer:Namco
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:timecrs3
 romof:sys246
 cloneof:timecrs3

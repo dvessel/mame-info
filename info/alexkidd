@@ -2,4 +2,6 @@ description:Alex Kidd: The Lost Stars (set 2, unprotected)
 manufacturer:Sega
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

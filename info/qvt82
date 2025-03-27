@@ -2,3 +2,5 @@ description:QVT-82
 manufacturer:Qume
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported

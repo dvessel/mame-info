@@ -2,5 +2,7 @@ description:Run Run Puppy
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 disk:an10311003

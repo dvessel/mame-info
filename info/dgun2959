@@ -2,3 +2,5 @@ description:My Arcade Plug And Play 220 Game Retro Controller (DGUN-2959)
 manufacturer:dreamGEAR
 year:201?
 status:imperfect
+emulation:good
+savestate:unsupported

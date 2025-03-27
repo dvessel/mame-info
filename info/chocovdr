@@ -2,4 +2,6 @@ description:Uchuu Daisakusen: Chocovader Contactee (Japan, CVC1 Ver.A)
 manufacturer:Namco
 year:2002
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

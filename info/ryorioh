@@ -2,4 +2,6 @@ description:Gourmet Battle Quiz Ryohrioh CooKing (Japan)
 manufacturer:Visco
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop

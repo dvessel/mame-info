@@ -2,6 +2,8 @@ description:Zeke's Peak
 manufacturer:Taito
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:icecold

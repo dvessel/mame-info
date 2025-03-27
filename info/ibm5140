@@ -2,6 +2,8 @@ description:IBM PC 5140 Convertible
 manufacturer:International Business Machines
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:cga
 device:isa_hdc
 device:keytronic_pc3270

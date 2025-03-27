@@ -2,3 +2,5 @@ description:XM200 Orchestra Module
 manufacturer:Orla
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported

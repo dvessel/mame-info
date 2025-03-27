@@ -2,4 +2,6 @@ description:Acorn M4
 manufacturer:Acorn Computers
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:archimedes_keyboard

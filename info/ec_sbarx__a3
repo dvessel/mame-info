@@ -2,6 +2,8 @@ description:Super Bar X (Electrocoin) (set 67)
 manufacturer:Electrocoin
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_sbarx
 cloneof:ec_sbarx

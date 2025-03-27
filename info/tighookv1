@@ -2,6 +2,8 @@ description:Tiger Hook (Version 2.1R Dual)
 manufacturer:Amcoe
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tighook
 cloneof:tighook

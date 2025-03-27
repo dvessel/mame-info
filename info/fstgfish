@@ -2,4 +2,6 @@ description:Festival: Goldfish Scoop
 manufacturer:Cave
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:x11_15305

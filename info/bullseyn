@@ -2,6 +2,8 @@ description:301/Bullseye (Traditional Scoring)
 manufacturer:Grand Products
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bullseye

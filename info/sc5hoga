@@ -2,6 +2,8 @@ description:Road Hog (PR3208) (Bellfruit) (Scorpion 5) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5hog
 cloneof:sc5hog

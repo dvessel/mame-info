@@ -2,6 +2,8 @@ description:Dragon Treasure (Rev A) (GDS-0030A)
 manufacturer:Sega
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:dragntr
 romof:naomigd
 cloneof:dragntr
 disk:gds-0030a
-disk:gds-0030b

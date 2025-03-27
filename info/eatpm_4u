@@ -2,6 +2,8 @@ description:Elvira and the Party Monsters (LU-4)
 manufacturer:Bally
 year:1989
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:eatpm_l4

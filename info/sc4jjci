@@ -2,6 +2,8 @@ description:Jumping Jack Cash (Mazooma) (Scorpion 4) (set 10)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4jjc
 cloneof:sc4jjc

@@ -2,4 +2,6 @@ description:Lexibook JG7425 221-in-1
 manufacturer:Lexibook
 year:2015
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:lexibook_jg7425_4gbsd

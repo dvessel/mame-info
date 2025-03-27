@@ -2,5 +2,7 @@ description:Magnet System
 manufacturer:EFO SA / Cedar
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

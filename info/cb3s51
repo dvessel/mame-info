@@ -2,6 +2,8 @@ description:Cherry Bonus III (ver.5.1)
 manufacturer:Dyna
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:ncb3
 cloneof:ncb3

@@ -2,6 +2,8 @@ description:Saturday Night Beaver (Global) (EPOCH) (2.1, set 5)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_snbev
 cloneof:ep_snbev

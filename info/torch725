@@ -2,6 +2,8 @@ description:Torch Model 725
 manufacturer:Torch Computers
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:saa5050
 device:bbc_acorn8271
 device:bbc_tube_zep100

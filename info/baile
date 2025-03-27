@@ -2,4 +2,6 @@ description:Baile 2005 (V3.2 2005-01-12)
 manufacturer:GMS
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

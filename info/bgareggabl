@@ -2,6 +2,8 @@ description:1945 Er Dai / 1945 Part-2 (Chinese hack of Battle Garegga)
 manufacturer:bootleg (Melody)
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bgaregga
 cloneof:bgaregga

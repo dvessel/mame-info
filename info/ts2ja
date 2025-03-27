@@ -2,6 +2,8 @@ description:Battle Arena Toshinden 2 (Japan 951124, 32Mb mask ROMs)
 manufacturer:Capcom / Takara
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:ts2

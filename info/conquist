@@ -2,3 +2,5 @@ description:Kasparov Conquistador
 manufacturer:Saitek / Heuristic Software
 year:1988
 status:good
+emulation:good
+savestate:supported

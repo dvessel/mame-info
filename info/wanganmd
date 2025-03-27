@@ -2,5 +2,7 @@ description:Wangan Midnight (WMN1 Ver. A)
 manufacturer:Namco
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys246
 disk:wmn1-a

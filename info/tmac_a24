@@ -2,6 +2,8 @@ description:Time Machine (2.4)
 manufacturer:Data East
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

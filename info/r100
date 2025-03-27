@@ -2,4 +2,6 @@ description:R-100 Digital Drum Machine
 manufacturer:Kawai Musical Instrument Manufacturing
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

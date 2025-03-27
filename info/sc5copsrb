@@ -2,6 +2,8 @@ description:Cops 'n' Robbers (Bellfruit) (Scorpion 5) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5copsr
 cloneof:sc5copsr

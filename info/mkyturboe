@@ -2,6 +2,8 @@ description:Mortal Kombat (Turbo 3.0 08/31/92, hack)
 manufacturer:hack
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mk
 cloneof:mk

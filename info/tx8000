@@ -2,5 +2,7 @@ description:TX-8000 (UK)
 manufacturer:Texet
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:laser200
 cloneof:laser200

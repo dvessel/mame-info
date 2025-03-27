@@ -2,6 +2,8 @@ description:286i
 manufacturer:Kaypro
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:cga
 device:kb_ms_natural

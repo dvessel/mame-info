@@ -2,6 +2,8 @@ description:Dragon Master (set 2)
 manufacturer:Unico
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:drgnmst
 cloneof:drgnmst

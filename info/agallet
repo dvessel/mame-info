@@ -2,4 +2,6 @@ description:Air Gallet (Europe)
 manufacturer:Gazelle (Banpresto license)
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:System P Model G (monochrome)
 manufacturer:Fanuc
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:fanucspg
 cloneof:fanucspg

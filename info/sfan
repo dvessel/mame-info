@@ -2,6 +2,8 @@ description:Street Fighter (World, pneumatic buttons)
 manufacturer:Capcom
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sf
 cloneof:sf

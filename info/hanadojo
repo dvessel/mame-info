@@ -2,4 +2,6 @@ description:Hana Doujou (set 1)
 manufacturer:Alba
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

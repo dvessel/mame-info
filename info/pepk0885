@@ -2,6 +2,8 @@ description:Player's Edge (PK0885-PC056) Deuces Wild Poker (El Cortez)
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:pepk0858
 cloneof:pepk0858

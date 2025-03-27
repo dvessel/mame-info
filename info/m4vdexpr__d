@@ -2,6 +2,8 @@ description:Voodoo Express (BWB) (MPU4) (5/10p stake / £5/£8 jackpot)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4vdexpr

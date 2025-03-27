@@ -2,6 +2,8 @@ description:8810 M16 CGA version
 manufacturer:Nixdorf Computer AG
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:cga
 device:kb_pcat84

@@ -2,3 +2,5 @@ description:Bell Star Plus
 manufacturer:Paloma Elektronik?
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported

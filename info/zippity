@@ -2,3 +2,5 @@ description:Zippity (US)
 manufacturer:LeapFrog
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

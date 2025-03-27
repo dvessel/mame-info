@@ -2,4 +2,6 @@ description:Speed Ball (set 1)
 manufacturer:Tecfri / Desystem S.A.
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

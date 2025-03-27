@@ -2,6 +2,8 @@ description:Pink Panther Club (411) (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4ppclb
 cloneof:sc4ppclb

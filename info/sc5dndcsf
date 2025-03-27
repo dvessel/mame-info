@@ -2,6 +2,8 @@ description:Deal or No Deal Casino (PR1954) (Bellfruit) (Scorpion 5) (set 7)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndcs
 cloneof:sc5dndcs

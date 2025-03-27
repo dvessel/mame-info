@@ -2,6 +2,8 @@ description:XII Stag (V2.01J 2002/6/26 22:27)
 manufacturer:Triangle Service
 year:2002
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh3002t
 disk:xiistag

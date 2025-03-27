@@ -2,6 +2,8 @@ description:Red Bird (bootleg of Space Firebird)
 manufacturer:bootleg (Codematic)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spacefb
 cloneof:spacefb

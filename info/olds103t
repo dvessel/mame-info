@@ -2,6 +2,8 @@ description:Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected)
 manufacturer:bootleg
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:olds
 romof:pgm

@@ -2,6 +2,8 @@ description:Ai-mode - Pet Shiiku (Japan)
 manufacturer:Nichibutsu/eic
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8014

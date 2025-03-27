@@ -2,6 +2,8 @@ description:Top Dog (Barcrest) (MPU4) (TD 1.4 BD)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4topdog

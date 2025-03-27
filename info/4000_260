@@ -2,3 +2,5 @@ description:4000/260
 manufacturer:ADDS
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported

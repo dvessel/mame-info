@@ -2,5 +2,7 @@ description:Taiko no Tatsujin 2 (Japan, TK21 Ver.C)
 manufacturer:Namco
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 disk:nm-002

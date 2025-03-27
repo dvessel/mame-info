@@ -2,5 +2,7 @@ description:Triton L5.1
 manufacturer:Transam
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:triton72
 cloneof:triton72

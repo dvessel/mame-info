@@ -2,6 +2,8 @@ description:Prize Fruit &amp; Loot (Barcrest) (MPU4) (PFR 0.3 R)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4przfrt

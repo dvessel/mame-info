@@ -2,6 +2,8 @@ description:Choy Sun Doa (20104011, NSW/ACT, Show Program)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:csd
 romof:aristmk6
 cloneof:csd

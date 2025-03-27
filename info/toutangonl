@@ -2,6 +2,8 @@ description:Toucan Tango (0301388V, Holland)
 manufacturer:Aristocrat
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:toutango
 romof:aristmk5

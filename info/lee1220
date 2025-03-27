@@ -2,3 +2,5 @@ description:1220 Display Terminal
 manufacturer:Lee Data
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

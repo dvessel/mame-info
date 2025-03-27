@@ -2,6 +2,8 @@ description:Haunted Castle (version K)
 manufacturer:Konami
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hcastle
 cloneof:hcastle

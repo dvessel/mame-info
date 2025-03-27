@@ -2,6 +2,8 @@ description:Targ (cocktail?)
 manufacturer:Exidy
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:targ
 cloneof:targ

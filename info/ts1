@@ -2,3 +2,5 @@ description:TS-1 (v2.13.0)
 manufacturer:Falco Data Products
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:unsupported

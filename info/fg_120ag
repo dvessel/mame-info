@@ -2,6 +2,8 @@ description:Family Guy v12.0 (English,German)
 manufacturer:Stern
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:fg_120af
 cloneof:fg_120af

@@ -2,6 +2,8 @@ description:Mahjong Yarou (Japan, set 2)
 manufacturer:Visco / Video System
 year:1986
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:mjyarou
 cloneof:mjyarou

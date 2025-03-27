@@ -2,6 +2,8 @@ description:Crazy Cop (Japan)
 manufacturer:Konami
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gbusters
 cloneof:gbusters

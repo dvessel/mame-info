@@ -2,4 +2,6 @@ description:Super Ball 2001 (Italy version 5.23)
 manufacturer:GMS
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

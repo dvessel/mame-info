@@ -2,6 +2,8 @@ description:Mini Money (set 3, v1.4?)
 manufacturer:Cirsa
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:minimony
 cloneof:minimony

@@ -2,6 +2,8 @@ description:Michael Jackson's Moonwalker (Japan) (bootleg of FD1094/8751 317-015
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:mwalk
 cloneof:mwalk

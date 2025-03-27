@@ -2,4 +2,6 @@ description:Soldier Girl Amazon
 manufacturer:Nichibutsu
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

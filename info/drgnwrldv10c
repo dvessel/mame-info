@@ -2,6 +2,8 @@ description:Zhongguo Long (China, V010C)
 manufacturer:IGS
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:drgnwrld
 cloneof:drgnwrld

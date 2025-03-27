@@ -2,6 +2,8 @@ description:Note Exchange (set 3) (JPM) (MPS)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:j2notexc
 cloneof:j2notexc

@@ -2,5 +2,7 @@ description:Cubo BIOS
 manufacturer:Commodore
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:bios
 device:microtouch

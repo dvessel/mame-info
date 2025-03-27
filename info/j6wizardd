@@ -2,6 +2,8 @@ description:Wizard Of Odds (JPM) (IMPACT) (WZ 4 C 5) (set 5)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6wizard

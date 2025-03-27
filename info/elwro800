@@ -2,3 +2,5 @@ description:800-3 Junior
 manufacturer:Elwro
 year:1986
 status:good
+emulation:good
+savestate:unsupported

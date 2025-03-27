@@ -2,6 +2,8 @@ description:Jingling Jiazu Genie 2000
 manufacturer:IBS Co. Ltd
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:puckpkmn
 cloneof:puckpkmn

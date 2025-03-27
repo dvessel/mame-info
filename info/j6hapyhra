@@ -2,6 +2,8 @@ description:Happy Hour (JPM) (IMPACT) (HH2 C5) (set 2)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6hapyhr

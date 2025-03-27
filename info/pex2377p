@@ -2,4 +2,6 @@ description:Player's Edge Plus (X002377P+XP000038) Super Double Bonus Poker
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

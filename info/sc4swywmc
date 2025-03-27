@@ -2,6 +2,8 @@ description:Spin When Your Winning (Mazooma) (Scorpion 4) (set 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4swywm
 cloneof:sc4swywm

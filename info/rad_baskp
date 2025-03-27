@@ -2,5 +2,7 @@ description:Connectv Basketball
 manufacturer:Radica / FarSight Studios
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:rad_bask
 cloneof:rad_bask

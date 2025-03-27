@@ -2,6 +2,8 @@ description:Leishen Chuan / Thunder Deity Biography (Chinese hack of Battle Gare
 manufacturer:bootleg (Melody)
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bgaregga
 cloneof:bgaregga

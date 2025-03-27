@@ -2,4 +2,6 @@ description:Mahjong Yoshimoto Gekijou (Japan)
 manufacturer:Nichibutsu / Yoshimoto Kougyou
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

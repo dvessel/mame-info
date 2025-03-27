@@ -2,4 +2,6 @@ description:Dynamite Duke (Europe, 03SEP89)
 manufacturer:Seibu Kaihatsu
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop

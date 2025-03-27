@@ -2,3 +2,5 @@ description:HK1000
 manufacturer:Orla
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

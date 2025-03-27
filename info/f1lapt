@@ -2,6 +2,8 @@ description:F1 Super Lap (World, Unprotected)
 manufacturer:Sega
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:f1lap
 cloneof:f1lap

@@ -2,6 +2,8 @@ description:Black Jack (InterFlip)
 manufacturer:InterFlip
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fortune1
 cloneof:fortune1

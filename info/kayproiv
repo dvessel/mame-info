@@ -2,6 +2,8 @@ description:Kaypro IV - 4/83
 manufacturer:Non-Linear Systems
 year:1983
 status:good
+emulation:good
+savestate:supported
 device:kaypro10kbd
 romof:kayproii
 cloneof:kayproii

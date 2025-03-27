@@ -2,5 +2,7 @@ description:Theatre Of Magic (1.3X)
 manufacturer:Bally
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

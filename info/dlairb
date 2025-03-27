@@ -2,7 +2,8 @@ description:Dragon's Lair (US Rev. B, Pioneer PR-7820)
 manufacturer:Cinematronics
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:dlair
 cloneof:dlair
-disk:dlair

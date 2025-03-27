@@ -2,4 +2,6 @@ description:Game King (Set Chips)
 manufacturer:IGT
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ym2413

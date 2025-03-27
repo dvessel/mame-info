@@ -1,5 +1,7 @@
 description:Super Arcade 101-in-1 (set 2)
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sarc110
 cloneof:sarc110

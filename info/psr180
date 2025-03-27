@@ -2,3 +2,5 @@ description:PSR-180
 manufacturer:Yamaha
 year:1994
 status:imperfect
+emulation:good
+savestate:supported

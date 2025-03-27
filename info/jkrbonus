@@ -1,4 +1,6 @@
 description:Joker Bonus
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

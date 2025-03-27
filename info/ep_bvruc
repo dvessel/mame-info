@@ -2,4 +2,6 @@ description:Beaver Uncovered (Global) (EPOCH) (1.4, set 1)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,5 +2,7 @@ description:Street Fighter III 2nd Impact: Giant Attack (USA 970930)
 manufacturer:Capcom
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 disk:cap-3ga000

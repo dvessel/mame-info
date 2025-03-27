@@ -2,6 +2,8 @@ description:Hyperactive (Bellfruit) (set 1, UK, 10GBP Jackpot, Protocol) (Scorpi
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

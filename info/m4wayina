@@ -2,6 +2,8 @@ description:Way In Mk 2 (Barcrest) (bootleg) (MPU4)
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4wayin

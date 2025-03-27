@@ -2,6 +2,8 @@ description:Asterix (ver EAA)
 manufacturer:Konami
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:asterix
 cloneof:asterix

@@ -2,3 +2,5 @@ description:ZX-80
 manufacturer:Sinclair Research Ltd
 year:1980
 status:good
+emulation:good
+savestate:unsupported

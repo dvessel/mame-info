@@ -2,6 +2,8 @@ description:Red Clash (Suntronics)
 manufacturer:Kaneko (Suntronics license)
 year:1982
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:redclash
 cloneof:redclash

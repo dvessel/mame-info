@@ -2,4 +2,6 @@ description:Whales of Cash (20155711, ASP)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

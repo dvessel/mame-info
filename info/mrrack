@@ -2,3 +2,5 @@ description:MR-Rack
 manufacturer:Ensoniq
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

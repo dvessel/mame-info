@@ -2,9 +2,10 @@ description:Susume! Taisen Puzzle-Dama (GV027 Japan 1.20)
 manufacturer:Konami
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:lacrazyc
 romof:konamigv
 cloneof:lacrazyc
 disk:gv027j1
-disk:gv027-a1

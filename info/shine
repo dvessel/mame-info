@@ -2,3 +2,5 @@ description:Shine/1
 manufacturer:Lorenzon Elettronica
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported

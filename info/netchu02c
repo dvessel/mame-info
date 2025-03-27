@@ -2,5 +2,7 @@ description:Netchuu Pro Yakyuu 2002 (NPY1 Ver. C)
 manufacturer:Namco
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys246
 disk:npy1cd0c

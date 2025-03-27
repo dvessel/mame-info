@@ -2,3 +2,5 @@ description:HengSheng 36-in-1 (Black pad)
 manufacturer:HengSheng
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported

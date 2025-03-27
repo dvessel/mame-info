@@ -2,5 +2,7 @@ description:Olympic 5 (V107US)
 manufacturer:IGS
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:olympic5
 cloneof:olympic5

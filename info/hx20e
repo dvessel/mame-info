@@ -2,5 +2,7 @@ description:HX-20E (MSX1, Spain)
 manufacturer:Toshiba
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:hx20
 cloneof:hx20

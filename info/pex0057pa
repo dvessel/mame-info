@@ -2,6 +2,8 @@ description:Player's Edge Plus (X000057P+XP000038) Deuces Wild Poker (The Orlean
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pex0057p
 cloneof:pex0057p

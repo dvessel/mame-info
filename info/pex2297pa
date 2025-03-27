@@ -2,6 +2,8 @@ description:Player's Edge Plus (X002297P+XP000112) Jackpot Poker
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pex2297p
 cloneof:pex2297p

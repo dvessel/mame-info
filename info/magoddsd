@@ -2,5 +2,7 @@ description:Magical Odds (set 5, custom encrypted CPU block)
 manufacturer:Pal Company
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:magodds
 cloneof:magodds

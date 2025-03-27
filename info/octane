@@ -2,3 +2,5 @@ description:Octane (Version 6.5 Rev 4.9 05/22/03)
 manufacturer:Silicon Graphics Inc
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported

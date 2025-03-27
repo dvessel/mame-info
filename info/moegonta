@@ -2,6 +2,8 @@ description:Moeyo Gonta!! (Japan)
 manufacturer:Yanyaka
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:ladykill

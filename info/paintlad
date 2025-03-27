@@ -2,6 +2,8 @@ description:Painted Lady (Splash) (Ver. 1.3 US)
 manufacturer:Gaelco / OMK Software
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:splash
 cloneof:splash

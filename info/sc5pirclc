@@ -2,6 +2,8 @@ description:The Prize Is Right Club (Bellfruit) (Scorpion 5) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5pircl
 cloneof:sc5pircl

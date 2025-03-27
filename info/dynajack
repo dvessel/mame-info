@@ -2,5 +2,7 @@ description:Dynamite Jack (01J00081, NSW/ACT)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

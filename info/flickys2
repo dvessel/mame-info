@@ -2,6 +2,8 @@ description:Flicky (128k Version, not encrypted)
 manufacturer:Sega
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:flicky
 cloneof:flicky

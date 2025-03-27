@@ -2,3 +2,5 @@ description:Trivia (Rev B)
 manufacturer:Ramtek
 year:1975
 status:preliminary
+emulation:preliminary
+savestate:unsupported

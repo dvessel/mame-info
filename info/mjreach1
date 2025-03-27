@@ -2,5 +2,7 @@ description:Mahjong Reach Ippatsu (Japan)
 manufacturer:Nihon System
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

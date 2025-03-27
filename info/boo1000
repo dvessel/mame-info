@@ -2,3 +2,5 @@ description:Boo 1000
 manufacturer:JK Amusement
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported

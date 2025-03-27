@@ -2,6 +2,8 @@ description:A.G. Soccer Ball (R18u, 2.5L sound)
 manufacturer:Alvin G
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

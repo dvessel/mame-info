@@ -2,6 +2,8 @@ description:Chuugokuryuu Pretty Chance [Dragon World Pretty Chance] (V101 09/26/
 manufacturer:IGS
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:dwpc
 romof:pgm

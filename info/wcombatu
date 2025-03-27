@@ -2,6 +2,8 @@ description:World Combat / Warzaid (ver UCD:B)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:wcombat
 romof:kviper

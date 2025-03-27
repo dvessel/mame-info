@@ -2,5 +2,7 @@ description:P8000 (16bit Board)
 manufacturer:EAW electronic Treptow
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:p8000
 cloneof:p8000

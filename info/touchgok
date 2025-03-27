@@ -2,6 +2,8 @@ description:Touch and Go (Korea, unprotected)
 manufacturer:Gaelco
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:touchgo
 cloneof:touchgo

@@ -2,5 +2,7 @@ description:Paris Dakar (31/03/87, Spanish)
 manufacturer:EFO SA / Cedar
 year:1987
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cedmag

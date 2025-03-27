@@ -2,3 +2,5 @@ description:Game &amp; Watch: Manhole (New Wide Screen)
 manufacturer:Nintendo
 year:1983
 status:good
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:Ring of Destruction: Slammasters II (Asia 940831)
 manufacturer:Capcom
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:ringdest

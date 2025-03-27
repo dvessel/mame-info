@@ -2,4 +2,6 @@ description:Fit of Fighting
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

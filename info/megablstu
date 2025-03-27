@@ -2,6 +2,8 @@ description:Mega Blast (US)
 manufacturer:Taito America Corporation
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:cchip
 romof:megablst

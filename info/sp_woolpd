@@ -2,6 +2,8 @@ description:Woolpack (Ace) (sp.ACE) (set 5)
 manufacturer:Ace
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ace_sp_reelctrl
 device:m68705p3

@@ -2,6 +2,8 @@ description:Hokey Cokey (Astra, V111)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_hc
 cloneof:as_hc

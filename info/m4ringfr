@@ -2,5 +2,7 @@ description:Ring Of Fire (Barcrest) (German) (MPU4) (ROF 0.3)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

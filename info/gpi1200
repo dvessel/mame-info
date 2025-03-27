@@ -2,3 +2,5 @@ description:GPi 1200
 manufacturer:Goldstar
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported

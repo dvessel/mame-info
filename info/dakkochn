@@ -2,4 +2,6 @@ description:DakkoChan House (MC-8123B, 317-5014)
 manufacturer:White Board
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

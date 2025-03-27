@@ -2,5 +2,7 @@ description:Samurai Shodown II / Shin Samurai Spirits - Haohmaru Jigokuhen (NGM-
 manufacturer:SNK
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

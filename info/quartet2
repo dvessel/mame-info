@@ -2,6 +2,8 @@ description:Quartet 2 (8751 317-0010)
 manufacturer:Sega
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:quartet
 cloneof:quartet

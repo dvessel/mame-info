@@ -2,6 +2,8 @@ description:Educator 64 (NTSC)
 manufacturer:Commodore Business Machines
 year:1983
 status:preliminary
+emulation:good
+savestate:supported
 device:c1541
 romof:c64
 cloneof:c64

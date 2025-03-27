@@ -2,6 +2,8 @@ description:Apple //c (UK)
 manufacturer:Apple Computer
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

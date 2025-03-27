@@ -2,4 +2,6 @@ description:The Roulette (Visco)
 manufacturer:Visco
 year:1989?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Star Wars Trilogy Arcade (location test, 16.09.98)
 manufacturer:Sega / LucasArts
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:swtrilgy

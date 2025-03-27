@@ -2,6 +2,8 @@ description:The Who's Tommy Pinball Wizard (Dutch 2.01, display A2.00)
 manufacturer:Data East
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

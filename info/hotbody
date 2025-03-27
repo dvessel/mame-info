@@ -2,4 +2,6 @@ description:Hot Body I
 manufacturer:Gameace
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

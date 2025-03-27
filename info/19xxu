@@ -2,6 +2,8 @@ description:19XX: The War Against Destiny (USA 951207)
 manufacturer:Capcom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:19xx

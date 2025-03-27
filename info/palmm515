@@ -2,5 +2,7 @@ description:Palm m515
 manufacturer:3Com
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pilot1k
 cloneof:pilot1k

@@ -2,6 +2,8 @@ description:Quintoon (UK, Game Card 95-750-203)
 manufacturer:BFM
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:quintoon

@@ -2,6 +2,8 @@ description:Qix (set 2, larger roms)
 manufacturer:Taito America Corporation
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:qix
 cloneof:qix

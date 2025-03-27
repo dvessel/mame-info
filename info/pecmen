@@ -2,6 +2,8 @@ description:Mr. &amp; Mrs. Pec-Men
 manufacturer:LTD
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

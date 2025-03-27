@@ -2,6 +2,8 @@ description:Twinkle (set 2)
 manufacturer:SemiCom / Tirano
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:twinkle
 cloneof:twinkle

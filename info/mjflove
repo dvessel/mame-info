@@ -2,5 +2,7 @@ description:Mahjong Fantasic Love (Japan)
 manufacturer:Nakanihon
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

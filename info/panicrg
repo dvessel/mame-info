@@ -2,6 +2,8 @@ description:Panic Road (Germany)
 manufacturer:Seibu Kaihatsu (Tuning license)
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:t5182
 romof:panicr

@@ -2,6 +2,8 @@ description:Enchanted Forest - Cash Express (AHG1615, US)
 manufacturer:Aristocrat
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:eforsta5
 romof:aristmk5

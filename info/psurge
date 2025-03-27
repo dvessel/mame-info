@@ -2,4 +2,6 @@ description:Power Surge
 manufacturer:Vision Electronics
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

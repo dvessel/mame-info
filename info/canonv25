@@ -2,3 +2,5 @@ description:V-25 (MSX2, Japan)
 manufacturer:Canon
 year:1985
 status:good
+emulation:good
+savestate:unsupported

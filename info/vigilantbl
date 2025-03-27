@@ -2,6 +2,8 @@ description:Vigilante (bootleg)
 manufacturer:bootleg
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:vigilant
 cloneof:vigilant

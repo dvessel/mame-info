@@ -2,6 +2,8 @@ description:US AAF Mustang (25th May. 1990 / Seoul Trading)
 manufacturer:UPL (Seoul Trading license)
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:nmk004
 romof:mustang

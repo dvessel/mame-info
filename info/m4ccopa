@@ -2,6 +2,8 @@ description:Cash Cops (MPU4?) (set 2)
 manufacturer:Coinworld
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4ccop

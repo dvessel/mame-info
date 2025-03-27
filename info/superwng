@@ -2,4 +2,6 @@ description:Super Wing
 manufacturer:Wing
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Strike Master (L-4) (Shuffle)
 manufacturer:Williams
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Mystic Marathon (prototype)
 manufacturer:Williams
 year:1983
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:mysticm
 cloneof:mysticm

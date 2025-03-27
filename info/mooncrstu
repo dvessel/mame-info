@@ -2,6 +2,8 @@ description:Moon Cresta (Nichibutsu USA, encrypted)
 manufacturer:Nichibutsu USA
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mooncrst
 cloneof:mooncrst

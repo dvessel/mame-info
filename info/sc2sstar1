@@ -2,6 +2,8 @@ description:Super Star (Bellfruit) (set 1, UK, 2nd Triennial) (Scorpion 2/3)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

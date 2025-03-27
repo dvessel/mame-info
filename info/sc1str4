@@ -2,5 +2,7 @@ description:Strike 4 (Dutch) (Bellfruit) (Scorpion 1) (set 1)
 manufacturer:BFM/ELAM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

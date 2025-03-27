@@ -2,6 +2,8 @@ description:Crazy Kong Part II (Japan)
 manufacturer:Falcon
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ckongpt2
 cloneof:ckongpt2

@@ -2,6 +2,8 @@ description:Reel Money (JPM) (IMPACT) (RE 9) (set 4)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6reelmn

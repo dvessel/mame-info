@@ -2,6 +2,8 @@ description:Poker De Win
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ampoker2
 cloneof:ampoker2

@@ -2,9 +2,10 @@ description:Quizard 3 (v3.2, German, i8751 DE 132 D3)
 manufacturer:TAB Austria
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:quizard3
 romof:cdibios
 cloneof:quizard3
 disk:quizard32
-disk:quizard34

@@ -2,5 +2,7 @@ description:Pro Wrestling (PlayChoice-10)
 manufacturer:Nintendo
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

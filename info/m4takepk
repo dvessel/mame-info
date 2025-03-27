@@ -2,5 +2,7 @@ description:Take Your Pick (Barcrest) (MPU4) (TAP 0.6)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

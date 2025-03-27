@@ -2,6 +2,8 @@ description:Hot Shots (Empire) (MPU5) (set 3)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5hotsht
 cloneof:m5hotsht

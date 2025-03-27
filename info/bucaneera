@@ -2,6 +2,8 @@ description:Buccaneer (Aristocrat, 10181911, ASP)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:bucaneer
 romof:aristmk6
 cloneof:bucaneer

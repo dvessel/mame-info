@@ -2,4 +2,6 @@ description:Puzzle &amp; Action: Ichidant-R (World)
 manufacturer:Sega
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

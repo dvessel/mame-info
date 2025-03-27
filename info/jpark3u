@@ -2,6 +2,8 @@ description:Jurassic Park III (ver UBC)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:jpark3
 romof:kviper

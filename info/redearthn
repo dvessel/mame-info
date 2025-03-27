@@ -2,7 +2,8 @@ description:Red Earth (Asia 961121, NO CD)
 manufacturer:Capcom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:redearth
 cloneof:redearth
-disk:cap-wzd-5

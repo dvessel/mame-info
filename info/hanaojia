@@ -2,6 +2,8 @@ description:Hana to Ojisan (ver 1.00, 1991/08/23)
 manufacturer:Nichibutsu
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hanaoji
 cloneof:hanaoji

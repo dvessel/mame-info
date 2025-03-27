@@ -2,3 +2,5 @@ description:DCT11-EM
 manufacturer:Digital Equipment Corporation
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported

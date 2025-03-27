@@ -2,6 +2,8 @@ description:Survival (Maygay) (EPOCH) (1.4, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_survi
 cloneof:ep_survi

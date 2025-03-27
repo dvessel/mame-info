@@ -2,6 +2,8 @@ description:California Chase
 manufacturer:The Game Room
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:tgui9680
 disk:calchase

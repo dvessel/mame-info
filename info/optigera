@@ -2,6 +2,8 @@ description:Operation Tiger (Ver 2.10 O)
 manufacturer:Taito
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:optiger
 cloneof:optiger

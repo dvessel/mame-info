@@ -2,4 +2,6 @@ description:Nemo (World 901130)
 manufacturer:Capcom
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

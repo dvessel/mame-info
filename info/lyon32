@@ -2,4 +2,6 @@ description:Mephisto Lyon 32 Bit
 manufacturer:Hegener + Glaser
 year:1990
 status:good
+emulation:good
+savestate:supported
 device:hd44780

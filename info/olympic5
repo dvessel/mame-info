@@ -2,3 +2,5 @@ description:Olympic 5 (V112US)
 manufacturer:IGS
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported

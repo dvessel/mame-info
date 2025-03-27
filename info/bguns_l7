@@ -2,6 +2,8 @@ description:Big Guns (L-7)
 manufacturer:Williams
 year:1987
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bguns_l8

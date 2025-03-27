@@ -2,4 +2,6 @@ description:IQ Pipe
 manufacturer:AMT
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

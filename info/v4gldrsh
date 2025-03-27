@@ -2,4 +2,6 @@ description:Gold Rush (BWB) (Release 8, 20p Fixed, All - Cash) (set 1) (MPU4 Vid
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

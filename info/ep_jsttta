@@ -2,6 +2,8 @@ description:Just The Ticket (Maygay) (EPOCH) (4.2, set 2)
 manufacturer:Maygay
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_jsttt
 cloneof:ep_jsttt

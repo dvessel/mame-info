@@ -2,6 +2,8 @@ description:Acorn Communicator (prototype)
 manufacturer:Acorn Computers
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:saa5240a
 romof:accomm
 cloneof:accomm

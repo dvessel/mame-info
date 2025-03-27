@@ -2,5 +2,7 @@ description:ConnecTV Opus (PAL)
 manufacturer:Radica / SSD Company LTD
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:rad_opus
 cloneof:rad_opus

@@ -2,6 +2,8 @@ description:Ricochet (JPM) (IMPACT) (R I) (set 4)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6rico

@@ -2,6 +2,8 @@ description:Big Bang (9th Nov. 1993, set 1)
 manufacturer:NMK
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tdragon2
 cloneof:tdragon2

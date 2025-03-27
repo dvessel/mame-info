@@ -2,8 +2,9 @@ description:Pop'n Music 1 (ver AA-A, HDD 1.00)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:popn1
 cloneof:popn1
 disk:803jaa11
-disk:803_ta_hdd

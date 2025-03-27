@@ -2,6 +2,8 @@ description:Super Monaco GP (US, Rev B) (FD1094 317-0125a)
 manufacturer:Sega
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:smgp
 cloneof:smgp

@@ -2,6 +2,8 @@ description:Space Trek (Video Game S.A., Spanish bootleg of Scramble)
 manufacturer:bootleg (Video Game S.A.)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:scramble
 cloneof:scramble

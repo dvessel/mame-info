@@ -2,5 +2,7 @@ description:Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu
 manufacturer:Technos Japan
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

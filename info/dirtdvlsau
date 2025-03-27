@@ -2,6 +2,8 @@ description:Dirt Devils (Australia, Revision A)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:dirtdvls

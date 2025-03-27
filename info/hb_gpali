@@ -2,6 +2,8 @@ description:Golden Palace (Qps) (set 10)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:hb_gpal
 cloneof:hb_gpal

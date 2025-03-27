@@ -2,6 +2,8 @@ description:Out Zone (Zero Wing TP-015 PCB conversion)
 manufacturer:Toaplan
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:outzone
 cloneof:outzone

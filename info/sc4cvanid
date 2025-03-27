@@ -2,6 +2,8 @@ description:Cashvania (Qps) (Scorpion 4) (set 5)
 manufacturer:QPS
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cvani
 cloneof:sc4cvani

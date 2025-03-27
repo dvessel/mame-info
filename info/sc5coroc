@@ -2,6 +2,8 @@ description:Coronation Street Triple Bingo (V012) (Mazooma) (Scorpion 5) (set 1)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5coro
 cloneof:sc5coro

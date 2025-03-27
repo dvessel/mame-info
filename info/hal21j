@@ -2,6 +2,8 @@ description:HAL21 (Japan)
 manufacturer:SNK
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:hal21
 cloneof:hal21

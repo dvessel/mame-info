@@ -2,3 +2,5 @@ description:Samsung NUON Enhanced DVD Player / DVD-N501
 manufacturer:Samsung
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported

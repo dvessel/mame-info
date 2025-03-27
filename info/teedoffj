@@ -2,6 +2,8 @@ description:Tee'd Off (Japan)
 manufacturer:Tecmo
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:teedoff
 cloneof:teedoff

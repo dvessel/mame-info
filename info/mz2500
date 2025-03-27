@@ -2,3 +2,5 @@ description:MZ-2500
 manufacturer:Sharp
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported

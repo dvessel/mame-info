@@ -2,6 +2,8 @@ description:Hokuha Syourin Hiryu no Ken
 manufacturer:Taiyo System (Taito license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:shangkid
 cloneof:shangkid

@@ -2,6 +2,8 @@ description:Reel Magic (JPM) [Dutch] (MPS)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:j2reelmg
 cloneof:j2reelmg

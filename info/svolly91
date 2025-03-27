@@ -2,6 +2,8 @@ description:Super Volley '91 (Japan)
 manufacturer:Video System Co.
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pspikes
 cloneof:pspikes

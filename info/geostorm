@@ -2,6 +2,8 @@ description:Geo Storm (Japan, 014 custom sound CPU)
 manufacturer:Irem
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gunforc2
 cloneof:gunforc2

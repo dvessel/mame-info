@@ -2,6 +2,8 @@ description:Hot Property (Bellfruit) (Scorpion 4) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4hotpr
 cloneof:sc4hotpr

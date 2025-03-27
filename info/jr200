@@ -2,3 +2,5 @@ description:JR-200
 manufacturer:National
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported

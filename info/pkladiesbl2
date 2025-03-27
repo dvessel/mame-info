@@ -2,6 +2,8 @@ description:Poker Ladies (Censored bootleg, not encrypted)
 manufacturer:bootleg
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:pkladies

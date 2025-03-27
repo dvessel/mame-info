@@ -2,4 +2,6 @@ description:mc-68000-Computer
 manufacturer:mc / Franzis Verlag
 year:1984
 status:preliminary
+emulation:good
+savestate:supported
 device:kb_pcxt83

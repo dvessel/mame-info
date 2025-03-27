@@ -2,6 +2,8 @@ description:Savanna (bootleg of Jungler)
 manufacturer:bootleg (Olympia)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:jungler
 cloneof:jungler

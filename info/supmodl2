@@ -2,4 +2,6 @@ description:Super Model II
 manufacturer:Comad
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop

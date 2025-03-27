@@ -2,6 +2,8 @@ description:Sunburst (BWB) (Version 1.4 IC, 1993 Awards, 20p Switchable to 10p) 
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4sunbst
 cloneof:v4sunbst

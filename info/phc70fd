@@ -2,6 +2,8 @@ description:PHC-70FD / Wavy70FD (MSX2+, Japan)
 manufacturer:Sanyo
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 device:ym2413
 romof:phc70fd2
 cloneof:phc70fd2

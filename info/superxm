@@ -2,6 +2,8 @@ description:Super-X (Mitchell)
 manufacturer:Dooyong (Mitchell license)
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:superx
 cloneof:superx

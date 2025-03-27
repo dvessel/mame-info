@@ -2,6 +2,8 @@ description:F-15 Strike Eagle (rev. 2.1 02/04/91)
 manufacturer:Microprose Games Inc.
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:f15se
 cloneof:f15se

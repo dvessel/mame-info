@@ -2,3 +2,5 @@ description:HC-7 (MSX1, Japan)
 manufacturer:Victor
 year:1985
 status:good
+emulation:good
+savestate:unsupported

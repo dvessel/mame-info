@@ -2,5 +2,7 @@ description:unknown Barcrest MPU4 'RED 0.4' (MPU4) (bootleg)
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

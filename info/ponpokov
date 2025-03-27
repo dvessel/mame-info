@@ -2,6 +2,8 @@ description:Ponpoko (Venture Line)
 manufacturer:Sigma Enterprises Inc. (Venture Line license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ponpoko
 cloneof:ponpoko

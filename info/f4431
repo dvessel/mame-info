@@ -2,4 +2,6 @@ description:4431
 manufacturer:Facit
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:f4431_kbd

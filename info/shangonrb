@@ -2,6 +2,8 @@ description:Super Hang-On (Hang-On conversion, bootleg)
 manufacturer:bootleg
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:shangon
 cloneof:shangon

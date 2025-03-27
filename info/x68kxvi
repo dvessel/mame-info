@@ -2,5 +2,7 @@ description:X68000 XVI
 manufacturer:Sharp
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:x68000
 cloneof:x68000

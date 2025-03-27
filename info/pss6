@@ -2,5 +2,7 @@ description:PSS-6
 manufacturer:Yamaha
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 romof:pss12
 cloneof:pss12

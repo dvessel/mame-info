@@ -2,4 +2,6 @@ description:Americana (9131-01)
 manufacturer:Merit
 year:1987
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

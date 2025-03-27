@@ -2,4 +2,6 @@ description:Puzzli (revision B)
 manufacturer:Metro / Banpresto
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

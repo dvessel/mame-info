@@ -2,5 +2,7 @@ description:PTC-100
 manufacturer:Grundig
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mupid2
 cloneof:mupid2

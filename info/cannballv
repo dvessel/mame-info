@@ -2,6 +2,8 @@ description:Cannon Ball (Yun Sung, vertical)
 manufacturer:Yun Sung / J&amp;K Production
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:cannball
 cloneof:cannball

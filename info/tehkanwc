@@ -2,4 +2,6 @@ description:Tehkan World Cup (set 1)
 manufacturer:Tehkan
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Dinosaur King (USA)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:segasp

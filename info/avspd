@@ -2,6 +2,8 @@ description:Alien vs. Predator (Europe 940520 Phoenix Edition) (bootleg)
 manufacturer:bootleg
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:avsp

@@ -2,6 +2,8 @@ description:Pirates (10122311, ASP)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pirata6
 romof:aristmk6
 cloneof:pirata6

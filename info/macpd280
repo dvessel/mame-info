@@ -2,4 +2,6 @@ description:Macintosh PowerBook Duo 280
 manufacturer:Apple Computer
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 device:m68hc05pge

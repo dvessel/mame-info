@@ -2,3 +2,5 @@ description:Lost Treasure: The Electronic Deep-Sea Diving Game (Electronic Dive-
 manufacturer:Parker Brothers
 year:1982
 status:good
+emulation:good
+savestate:supported

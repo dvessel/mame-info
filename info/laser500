@@ -2,5 +2,7 @@ description:Laser 500
 manufacturer:Video Technology
 year:1985
 status:good
+emulation:good
+savestate:supported
 romof:laser350
 cloneof:laser350

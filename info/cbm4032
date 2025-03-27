@@ -2,6 +2,8 @@ description:CBM 4032
 manufacturer:Commodore Business Machines
 year:1980
 status:good
+emulation:good
+savestate:supported
 device:c4040
 device:c2040_fdc
 romof:pet4016

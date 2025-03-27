@@ -2,6 +2,8 @@ description:Pop'n Music 6
 manufacturer:Konami
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:gqa16jaa01
 disk:gqa16jaa02

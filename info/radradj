@@ -2,6 +2,8 @@ description:Radical Radial (Japan)
 manufacturer:Logitec Corp.
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:radrad
 cloneof:radrad

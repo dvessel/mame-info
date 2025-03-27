@@ -2,4 +2,6 @@ description:Guitar Hero Arcade (v1.0.5)
 manufacturer:Raw Thrills (Activision / Konami license)
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:slax_restore_dvd_ver.1.0.5

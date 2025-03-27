@@ -2,6 +2,8 @@ description:Darius II (dual screen) (Japan, Rev 1)
 manufacturer:Taito Corporation
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:darius2
 cloneof:darius2

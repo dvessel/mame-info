@@ -2,6 +2,8 @@ description:Gold Rush (BWB) (Release 3, 20p Fixed, Cash+Token) (MPU4 Video)
 manufacturer:BWB
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4gldrsh
 cloneof:v4gldrsh

@@ -2,6 +2,8 @@ description:Dead Or Alive ++ (Korea)
 manufacturer:Tecmo
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:doapp
 romof:coh1002m

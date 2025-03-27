@@ -2,9 +2,10 @@ description:Big Buck Hunter II - Sportsman's Paradise (v2.02.08)
 manufacturer:Incredible Technologies
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bbh2sp
 romof:iteagle
 cloneof:bbh2sp
 disk:bbh2sp_v2.02.08
-disk:bbh2sp_v2.02.11

@@ -1,3 +1,5 @@
 description:PK8020 Korvet
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported

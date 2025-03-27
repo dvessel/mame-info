@@ -2,6 +2,8 @@ description:Prize Zone Gold (USA, v2.01)
 manufacturer:Lazer-Tron
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:virge_pci
 disk:prizezonegold_201

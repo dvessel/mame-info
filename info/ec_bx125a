@@ -2,6 +2,8 @@ description:Bar X 125 (Electrocoin) (set 2)
 manufacturer:Electrocoin
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_bx125
 cloneof:ec_bx125

@@ -2,6 +2,8 @@ description:Snow Board Championship (Version 2.0)
 manufacturer:Gaelco / OMK
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:snowboar
 cloneof:snowboar

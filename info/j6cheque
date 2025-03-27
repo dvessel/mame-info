@@ -2,5 +2,7 @@ description:Cheque Mate (JPM) (IMPACT)
 manufacturer:JPM / Predator
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

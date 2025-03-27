@@ -2,4 +2,6 @@ description:Casanova
 manufacturer:Promat
 year:199?
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

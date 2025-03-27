@@ -2,5 +2,7 @@ description:Huanle Liuhe Yi (Happy 6-in-1) (M68K ver. V101, ARM ver. V102CN)
 manufacturer:IGS
 year:2004
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pgm

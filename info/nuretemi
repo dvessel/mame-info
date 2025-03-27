@@ -2,6 +2,8 @@ description:Nurete Mitaino... - Net Idol Hen (Japan)
 manufacturer:Nichibutsu/Love Factory
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8016

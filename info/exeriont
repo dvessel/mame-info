@@ -2,6 +2,8 @@ description:Exerion (Taito)
 manufacturer:Jaleco (Taito America license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:exerion
 cloneof:exerion

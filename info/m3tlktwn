@@ -1,5 +1,7 @@
 description:Talk of the Town (MPU3?)
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

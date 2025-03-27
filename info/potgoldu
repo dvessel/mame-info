@@ -2,3 +2,5 @@ description:Pot O' Gold (U.S. Games, v400x?)
 manufacturer:U.S. Games, Inc.
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,5 +2,7 @@ description:MU50
 manufacturer:Yamaha
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 device:mulcd
 device:hd44780

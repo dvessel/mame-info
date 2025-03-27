@@ -2,6 +2,8 @@ description:Pelican Pete (10196211, ASP)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pelipete
 romof:aristmk6
 cloneof:pelipete

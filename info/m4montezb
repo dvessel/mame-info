@@ -2,6 +2,8 @@ description:Monte Carlo (MX102.0 K) (BWB) (MPU4)
 manufacturer:BWB
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

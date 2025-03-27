@@ -2,6 +2,8 @@ description:Reno Reels (Release A, 20p Fixed, Cash+Token) (Showcase) (set 1) (MP
 manufacturer:BWB
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4reno
 cloneof:v4reno

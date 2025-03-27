@@ -2,5 +2,7 @@ description:Compis
 manufacturer:Telenova
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 device:compiskb
 device:upd7220

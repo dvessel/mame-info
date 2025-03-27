@@ -2,6 +2,8 @@ description:Red Alert (Barcrest) (MPU4) (RA3 0.2, set 1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

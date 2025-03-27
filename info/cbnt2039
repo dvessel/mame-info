@@ -2,3 +2,5 @@ description:2039 Controller
 manufacturer:Cablenet
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported

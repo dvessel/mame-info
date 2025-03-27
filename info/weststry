@@ -2,6 +2,8 @@ description:West Story (bootleg of Blood Bros., set 1)
 manufacturer:bootleg (Datsu)
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bloodbro
 cloneof:bloodbro

@@ -2,4 +2,6 @@ description:Vs. Wrecking Crew
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

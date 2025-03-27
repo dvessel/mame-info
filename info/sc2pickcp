@@ -2,6 +2,8 @@ description:Pick Of The Bunch (Club?) (Global) (v1.9 Protocol) (Scorpion 2/3)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

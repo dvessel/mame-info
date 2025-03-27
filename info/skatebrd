@@ -2,6 +2,8 @@ description:Skate Board (Inder)
 manufacturer:Inder
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

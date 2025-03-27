@@ -2,6 +2,8 @@ description:Rescue Raider (stand-alone)
 manufacturer:Bally Midway
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb
 romof:rescraid

@@ -2,6 +2,8 @@ description:Casino Beaver Las Vegas (Global) (EPOCH) (CA000720, 2.3, set 5)
 manufacturer:Global
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_beav3
 cloneof:ep_beav3

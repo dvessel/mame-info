@@ -2,6 +2,8 @@ description:Battle Bubble (v2.00)
 manufacturer:Banpresto (Limenko license?)
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bangball
 cloneof:bangball

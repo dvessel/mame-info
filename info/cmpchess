@@ -2,3 +2,5 @@ description:CompuChess
 manufacturer:DataCash Systems / Staid
 year:1977
 status:good
+emulation:good
+savestate:supported

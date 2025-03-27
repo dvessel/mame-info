@@ -2,3 +2,5 @@ description:Rocket Pinball
 manufacturer:Tiger Electronics
 year:1979
 status:good
+emulation:good
+savestate:supported

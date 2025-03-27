@@ -2,5 +2,7 @@ description:HB-55 (MSX1, Japan)
 manufacturer:Sony
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 romof:hb55p
 cloneof:hb55p

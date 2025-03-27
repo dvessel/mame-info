@@ -2,4 +2,6 @@ description:Indian Princess (10174111, NSW/ACT)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

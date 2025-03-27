@@ -2,5 +2,7 @@ description:Honoo no Invader (Japan, main ver. 1.35, video ver. 1.35)
 manufacturer:Taito Corporation
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

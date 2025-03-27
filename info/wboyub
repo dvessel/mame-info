@@ -2,6 +2,8 @@ description:Wonder Boy (US bootleg)
 manufacturer:bootleg
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wboy
 cloneof:wboy

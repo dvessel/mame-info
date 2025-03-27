@@ -2,6 +2,8 @@ description:SuperPET SP-9000
 manufacturer:Commodore Business Machines
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:c8050
 device:c8050fdc
 device:pet_superpet

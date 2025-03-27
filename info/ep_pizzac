@@ -2,6 +2,8 @@ description:Pizza The Action (Maygay) (EPOCH) (2.1, set 4)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_pizza
 cloneof:ep_pizza

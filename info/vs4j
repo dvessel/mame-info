@@ -2,6 +2,8 @@ description:Virtua Striker 4 (Japan, Rev E) (GDT-0013E)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:triforce
 disk:gdt-0013e

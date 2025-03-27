@@ -2,6 +2,8 @@ description:Margarita Magic (EHG1559, US)
 manufacturer:Aristocrat
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:marmagic
 romof:aristmk5

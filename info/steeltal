@@ -2,4 +2,6 @@ description:Steel Talons (rev 2)
 manufacturer:Atari Games
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

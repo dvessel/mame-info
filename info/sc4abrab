@@ -2,6 +2,8 @@ description:Abracadabra (Qps) (Scorpion 4) (set 3, 044)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4abra
 cloneof:sc4abra

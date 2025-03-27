@@ -2,6 +2,8 @@ description:Ninja Baseball Bat Man II (bootleg)
 manufacturer:bootleg
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nbbatman
 cloneof:nbbatman

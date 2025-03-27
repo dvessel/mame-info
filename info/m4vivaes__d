@@ -2,6 +2,8 @@ description:Viva Espana (Barcrest) (MPU4) (EP8 0.1C)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4vivaes

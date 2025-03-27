@@ -2,6 +2,8 @@ description:Hat Trick Hero (US)
 manufacturer:Taito Corporation
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:footchmp
 cloneof:footchmp

@@ -2,3 +2,5 @@ description:INTELLEC 4/MOD 40
 manufacturer:Intel
 year:1974?
 status:good
+emulation:good
+savestate:supported

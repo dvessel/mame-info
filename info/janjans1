@@ -2,4 +2,6 @@ description:Lovely Pop Mahjong JangJang Shimasho (Japan)
 manufacturer:Visco
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

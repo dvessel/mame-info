@@ -2,5 +2,7 @@ description:1944: The Loop Master (Europe 000620)
 manufacturer:Eighting / Raizing (Capcom license)
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

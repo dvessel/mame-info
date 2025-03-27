@@ -2,6 +2,8 @@ description:Puzz Loop (Korea)
 manufacturer:Mitchell
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:puzzloop
 romof:skns

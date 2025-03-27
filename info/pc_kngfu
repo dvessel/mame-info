@@ -2,5 +2,7 @@ description:Kung Fu (PlayChoice-10)
 manufacturer:Irem (Nintendo license)
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

@@ -2,6 +2,8 @@ description:Nudge Double Up Deluxe (JPM) (SRU) (5p/10p Stake, £2 Jackpot)
 manufacturer:JPM
 year:1981?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:j_dud

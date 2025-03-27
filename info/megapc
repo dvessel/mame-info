@@ -2,6 +2,8 @@ description:MegaPC
 manufacturer:Amstrad plc
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ibm_vga
 device:at_keybc
 device:kb_ms_natural

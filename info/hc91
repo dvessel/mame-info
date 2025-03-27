@@ -2,5 +2,7 @@ description:HC-91
 manufacturer:ICE-Felix
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 romof:spectrum
 cloneof:spectrum

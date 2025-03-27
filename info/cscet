@@ -2,5 +2,7 @@ description:Elite Champion Challenger (WMCCC 1981 Travemünde TM)
 manufacturer:Fidelity Electronics
 year:1981
 status:good
+emulation:good
+savestate:supported
 romof:csce
 cloneof:csce

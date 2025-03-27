@@ -2,3 +2,5 @@ description:Ultimate Pocket Console GM-235
 manufacturer:TimeTop
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

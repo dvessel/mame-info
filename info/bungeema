@@ -2,5 +2,7 @@ description:Bungee Monkey (set 2)
 manufacturer:Novotech
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:bungeem
 cloneof:bungeem

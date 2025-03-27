@@ -2,6 +2,8 @@ description:D-Day (Jaleco set 2)
 manufacturer:Jaleco
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ddayjlc
 cloneof:ddayjlc

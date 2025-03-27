@@ -2,6 +2,8 @@ description:Wild Cougar (NHG0632-07, US)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:wcougar
 romof:aristmk5

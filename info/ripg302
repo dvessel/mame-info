@@ -2,6 +2,8 @@ description:Ripley's Believe It or Not! (CPU 3.02, display G3.00, Germany)
 manufacturer:Stern
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:ripleys

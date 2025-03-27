@@ -2,6 +2,8 @@ description:Big Banker (JPM) (IMPACT) (BB2BI H11)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6bigbnk

@@ -2,6 +2,8 @@ description:Galaxian Turbo (hack of 'Super Galaxians')
 manufacturer:hack
 year:1979
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galaxian
 cloneof:galaxian

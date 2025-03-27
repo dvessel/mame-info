@@ -2,6 +2,8 @@ description:NAOMI The House of the Dead 2 BIOS
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios
 kind:coinop
 device:mie

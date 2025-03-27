@@ -2,5 +2,7 @@ description:Kishon Chesster (v2.3)
 manufacturer:Fidelity Electronics International
 year:1991
 status:good
+emulation:good
+savestate:supported
 romof:chesster
 cloneof:chesster

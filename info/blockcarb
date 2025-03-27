@@ -2,6 +2,8 @@ description:Block Carnival / Thunder &amp; Lightning 2 (bootleg)
 manufacturer:bootleg
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:blockcar
 cloneof:blockcar

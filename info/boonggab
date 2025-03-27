@@ -2,4 +2,6 @@ description:Boong-Ga Boong-Ga (Spank'em!)
 manufacturer:Taff System
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Golden Axe (Mega-Tech)
 manufacturer:Sega
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:megatech

@@ -2,5 +2,7 @@ description:Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa K
 manufacturer:SNK
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

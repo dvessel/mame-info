@@ -2,6 +2,8 @@ description:Match Of The Day (Bellfruit) (set 4, Irish, 8GBP Jackpot, Protocol) 
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

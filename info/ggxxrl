@@ -2,6 +2,8 @@ description:Guilty Gear XX #Reload (Japan, Rev A) (GDL-0019A)
 manufacturer:Arc System Works
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

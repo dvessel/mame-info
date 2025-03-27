@@ -2,6 +2,8 @@ description:Gamball (Barcrest) (MPU4) (GAB 2.0, set 2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

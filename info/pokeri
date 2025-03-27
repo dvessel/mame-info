@@ -2,4 +2,6 @@ description:Poker (Impera, V11/90b)
 manufacturer:Impera
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

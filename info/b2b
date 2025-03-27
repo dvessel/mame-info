@@ -2,5 +2,7 @@ description:Bang Bang Busters (2010 NCI release)
 manufacturer:Visco
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

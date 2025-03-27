@@ -2,6 +2,8 @@ description:Touchmaster 4000 (v6.02 England)
 manufacturer:Midway Games Inc.
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:tm4k

@@ -2,5 +2,7 @@ description:Progear (USA 010117)
 manufacturer:Cave (Capcom license)
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

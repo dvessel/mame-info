@@ -2,6 +2,8 @@ description:Deal or No Deal What's In Your Box (Bellfruit) (Scorpion 4) (WIYX419
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4dndwb
 cloneof:sc4dndwb

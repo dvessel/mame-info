@@ -2,6 +2,8 @@ description:Star Raker
 manufacturer:Sega
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:brdrline
 cloneof:brdrline

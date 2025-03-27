@@ -2,5 +2,7 @@ description:Poker Master (ED-1993 set 1)
 manufacturer:Fun USA
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:jkrmast
 cloneof:jkrmast

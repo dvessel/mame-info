@@ -2,6 +2,8 @@ description:Virtua Striker 2002 (Japan) (GDT-0001)
 manufacturer:Sega / Amusement Vision
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:triforce
 disk:gdt-0001

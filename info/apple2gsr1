@@ -2,5 +2,7 @@ description:Apple IIgs (ROM01)
 manufacturer:Apple Computer
 year:1987
 status:good
+emulation:good
+savestate:supported
 romof:apple2gs
 cloneof:apple2gs

@@ -2,6 +2,8 @@ description:Zorro (0151372, US)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:zorroa6
 romof:aristmk6
 cloneof:zorroa6

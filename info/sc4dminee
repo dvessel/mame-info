@@ -2,6 +2,8 @@ description:Diamond Mine (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4dmine
 cloneof:sc4dmine

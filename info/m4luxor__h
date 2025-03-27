@@ -2,6 +2,8 @@ description:Luxor (Barcrest) (MPU4) (LUX 0.6 K)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4luxor

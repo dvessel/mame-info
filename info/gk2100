@@ -2,3 +2,5 @@ description:Kasparov GK 2100
 manufacturer:Saitek
 year:1994
 status:good
+emulation:good
+savestate:supported

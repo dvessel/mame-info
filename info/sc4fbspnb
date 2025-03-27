@@ -2,6 +2,8 @@ description:Fat Boy Spin (Bellfruit) (Scorpion 4) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4fbspn
 cloneof:sc4fbspn

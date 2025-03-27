@@ -2,6 +2,8 @@ description:Virtua Striker 4 (Export, Rev A) (GDT-0015A)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:triforce
 disk:gdt-0015a

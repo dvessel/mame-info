@@ -2,6 +2,8 @@ description:Elvira and the Party Monsters (LG-3)
 manufacturer:Bally
 year:1989
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:eatpm_l4

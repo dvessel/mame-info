@@ -2,6 +2,8 @@ description:Miss Puzzle (Nudes, less explicit)
 manufacturer:Min Corp.
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mspuzzle
 cloneof:mspuzzle

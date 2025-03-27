@@ -1,4 +1,6 @@
 description:unknown poker game PKII/DM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Golden Tee Fore! 2005 Extra (v5.01.06)
 manufacturer:Incredible Technologies
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:iteagle
 disk:golf_fore_2005_v5.01.06

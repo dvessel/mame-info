@@ -2,3 +2,5 @@ description:Coolboy RS-17 - 203 in 1
 manufacturer:Coolboy
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,4 +2,6 @@ description:Mr. Driller (US, DRI3/VER.A2)
 manufacturer:Namco
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

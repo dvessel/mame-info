@@ -2,6 +2,8 @@ description:The Simpsons Pinball Party (CPU 4.00, display A4.00)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

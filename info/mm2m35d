@@ -2,3 +2,5 @@ description:MikroMikko 2 M35D
 manufacturer:Nokia Data
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,9 +2,10 @@ description:Super Puzzle Bobble (V2.04J 1999/2/17 02:10)
 manufacturer:Taito
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spuzbobl
 romof:coh3002t
 cloneof:spuzbobl
 disk:spuzbobj
-disk:spuzbobl

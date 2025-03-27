@@ -2,5 +2,7 @@ description:CB-308
 manufacturer:Cromemco
 year:1977
 status:good
+emulation:good
+savestate:supported
 romof:mcb216
 cloneof:mcb216

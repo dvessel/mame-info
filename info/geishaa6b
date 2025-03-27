@@ -2,6 +2,8 @@ description:Geisha (10112411, ASP)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:geishaa6
 romof:aristmk6
 cloneof:geishaa6

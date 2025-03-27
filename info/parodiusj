@@ -2,6 +2,8 @@ description:Parodius Da!: Shinwa kara Owarai e (Japan)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:parodius
 cloneof:parodius

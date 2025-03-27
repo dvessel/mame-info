@@ -2,6 +2,8 @@ description:Raiden Fighters Jet (Japan)
 manufacturer:Seibu Kaihatsu
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:rfjet
 cloneof:rfjet

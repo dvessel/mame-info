@@ -2,5 +2,7 @@ description:HB-F700D (MSX2, Germany)
 manufacturer:Sony
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 romof:hbf700p
 cloneof:hbf700p

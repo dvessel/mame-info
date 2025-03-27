@@ -2,3 +2,5 @@ description:Doctor PC Jr
 manufacturer:Bung
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported

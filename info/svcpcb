@@ -2,4 +2,6 @@ description:SNK vs. Capcom - SVC Chaos (JAMMA PCB, NEO-MVH MVO PCB)
 manufacturer:Playmore / Capcom
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,3 +2,5 @@ description:Lucky Shell (Ukraine, V. 42.25)
 manufacturer:Extrema
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported

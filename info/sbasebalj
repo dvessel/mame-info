@@ -2,6 +2,8 @@ description:Super Champion Baseball (Japan)
 manufacturer:Alpha Denshi Co.
 year:1989
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:sbasebal

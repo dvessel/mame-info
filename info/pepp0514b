@@ -2,6 +2,8 @@ description:Player's Edge Plus (PP0514) Double Bonus Poker (set 3)
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pepp0514
 cloneof:pepp0514

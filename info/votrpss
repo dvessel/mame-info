@@ -2,4 +2,6 @@ description:Personal Speech System
 manufacturer:Votrax
 year:1982
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a

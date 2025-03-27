@@ -2,3 +2,5 @@ description:Wireless Tennis (WT2000, ABL TV Game)
 manufacturer:Advance Bright Ltd / V-Tac Technology Co Ltd.
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported

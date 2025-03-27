@@ -2,6 +2,8 @@ description:Tehkan World Cup (set 4, earlier)
 manufacturer:Tehkan
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tehkanwc
 cloneof:tehkanwc

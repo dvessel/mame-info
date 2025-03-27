@@ -2,6 +2,8 @@ description:Lord Of The Rings - The Two Towers (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4lotr2
 cloneof:sc4lotr2

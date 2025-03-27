@@ -2,4 +2,6 @@ description:Boggy '84
 manufacturer:Kaneko
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Tank Battalion (bootleg)
 manufacturer:bootleg
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:tankbatt
 cloneof:tankbatt

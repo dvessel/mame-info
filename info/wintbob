@@ -2,6 +2,8 @@ description:The Winter Bobble (bootleg of Snow Bros.)
 manufacturer:bootleg (Sakowa Project Korea)
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:snowbros
 cloneof:snowbros

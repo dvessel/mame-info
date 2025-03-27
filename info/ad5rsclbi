@@ -2,5 +2,7 @@ description:Random Spinner Club (PR1669, BFGPRNDN) (Bellfruit) (Adder 5) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5rsclb
 cloneof:ad5rsclb

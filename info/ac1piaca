@@ -2,5 +2,7 @@ description:Play It Again Casino (Ace) (ACESYS1)
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

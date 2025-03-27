@@ -2,4 +2,6 @@ description:Mephisto Nigel Short
 manufacturer:Hegener + Glaser
 year:1993
 status:good
+emulation:good
+savestate:supported
 device:hd44780

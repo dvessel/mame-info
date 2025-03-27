@@ -2,6 +2,8 @@ description:Dino Rex (Japan)
 manufacturer:Taito Corporation
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dinorex
 cloneof:dinorex

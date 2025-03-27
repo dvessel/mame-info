@@ -2,3 +2,5 @@ description:BittBoy Mini FC 300 in 1
 manufacturer:BittBoy
 year:2017
 status:imperfect
+emulation:good
+savestate:unsupported

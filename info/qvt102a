@@ -2,5 +2,7 @@ description:QVT-102A
 manufacturer:Qume
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:qvt102
 cloneof:qvt102

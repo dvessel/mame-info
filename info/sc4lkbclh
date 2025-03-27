@@ -2,6 +2,8 @@ description:Lock Buster Club (Bellfruit) (Scorpion 4) (311 Club, set 1)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4lkbcl
 cloneof:sc4lkbcl

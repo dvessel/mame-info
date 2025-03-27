@@ -2,6 +2,8 @@ description:Frog (Hermatic, bootleg on Galaxian hardware from Electro Game)
 manufacturer:bootleg (Hermatic)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:frogger
 cloneof:frogger

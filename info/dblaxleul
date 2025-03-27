@@ -2,6 +2,8 @@ description:Double Axle (US, Rev 1, Linkable)
 manufacturer:Taito America Corporation
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:dblaxle
 cloneof:dblaxle

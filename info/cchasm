@@ -2,4 +2,6 @@ description:Cosmic Chasm (set 1)
 manufacturer:Cinematronics / GCE
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

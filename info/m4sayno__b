@@ -2,6 +2,8 @@ description:Say No More (Barcrest) (MPU4) (SNM 0.5, hack, set 2)
 manufacturer:hack?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

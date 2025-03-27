@@ -2,6 +2,8 @@ description:Safe Cracker (0.91)
 manufacturer:Bally
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:sc_18

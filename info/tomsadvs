@@ -1,4 +1,6 @@
 description:Tom's Adventures
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

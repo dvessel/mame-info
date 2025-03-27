@@ -2,5 +2,7 @@ description:Simon (rev. F)
 manufacturer:Milton Bradley
 year:1979
 status:good
+emulation:good
+savestate:supported
 romof:simon
 cloneof:simon

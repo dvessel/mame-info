@@ -2,5 +2,7 @@ description:Unicorn Dreaming (0100791V, NSW/ACT)
 manufacturer:Aristocrat
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

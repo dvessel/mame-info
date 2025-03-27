@@ -2,6 +2,8 @@ description:Radar Scope (TRS01)
 manufacturer:Nintendo
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:radarscp
 cloneof:radarscp

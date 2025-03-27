@@ -2,6 +2,8 @@ description:Mega Bucks (JPM) (IMPACT) (set 3)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6megbck

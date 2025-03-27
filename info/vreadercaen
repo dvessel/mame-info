@@ -2,5 +2,7 @@ description:V.Reader (CA, English, 2011-10-17)
 manufacturer:VTech
 year:2011
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:vreader
 cloneof:vreader

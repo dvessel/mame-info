@@ -2,6 +2,8 @@ description:Driving Force (Galaxian conversion bootleg)
 manufacturer:bootleg (Elsys Software)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:drivfrcp
 cloneof:drivfrcp

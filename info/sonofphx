@@ -2,6 +2,8 @@ description:Son of Phoenix (bootleg of Repulse)
 manufacturer:bootleg (Associated Overseas MFR, Inc.)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:repulse
 cloneof:repulse

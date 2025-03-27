@@ -2,6 +2,8 @@ description:Mobile Suit Gundam 0083 Card Builder Check Disk (CDV-10031)
 manufacturer:Banpresto
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm
@@ -10,4 +12,3 @@ romof:gundcb83
 romof:chihiro
 cloneof:gundcb83
 disk:cdv-10031
-disk:cdv-10030

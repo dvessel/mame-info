@@ -2,6 +2,8 @@ description:Yam! Yam! (Korea)
 manufacturer:Dooyong
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:yamyam
 cloneof:yamyam

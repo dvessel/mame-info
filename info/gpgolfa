@@ -2,6 +2,8 @@ description:Golden Par Golf (Joystick, V1.0)
 manufacturer:Strata / Incredible Technologies
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gpgolf
 cloneof:gpgolf

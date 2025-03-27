@@ -2,4 +2,6 @@ description:Hyper Crash (version D)
 manufacturer:Konami
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

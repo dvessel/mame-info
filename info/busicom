@@ -2,3 +2,5 @@ description:Busicom 141-PF
 manufacturer:Business Computer Corporation
 year:1974
 status:good
+emulation:good
+savestate:supported

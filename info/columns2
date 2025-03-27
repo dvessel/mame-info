@@ -2,4 +2,6 @@ description:Columns II: The Voyage Through Time (World)
 manufacturer:Sega
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,4 +2,6 @@ description:Zero Zone
 manufacturer:Comad
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

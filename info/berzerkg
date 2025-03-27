@@ -2,6 +2,8 @@ description:Berzerk (German Speech, revision RC32)
 manufacturer:Stern Electronics
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:berzerk
 cloneof:berzerk

@@ -2,3 +2,5 @@ description:DPC-200E (MSX1, French)
 manufacturer:Daewoo
 year:1985
 status:good
+emulation:good
+savestate:unsupported

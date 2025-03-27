@@ -2,4 +2,6 @@ description:PC/M
 manufacturer:Mugler/Mathes
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:k7659_keyboard

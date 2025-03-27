@@ -2,10 +2,11 @@ description:DrumMania (GQ881 VER. JAD ALT CD)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:pcnfrk
 romof:sys573
 cloneof:pcnfrk
 disk:881jad01
 disk:881jaa02
-disk:881xxb02

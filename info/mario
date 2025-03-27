@@ -2,4 +2,6 @@ description:Mario Bros. (US, Revision G)
 manufacturer:Nintendo of America
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

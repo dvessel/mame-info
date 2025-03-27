@@ -2,6 +2,8 @@ description:Duty Free (BWB / Barcrest) (MPU4) (DF10 4.3, set 2)
 manufacturer:BWB
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4dtyfre

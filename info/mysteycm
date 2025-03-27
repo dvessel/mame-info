@@ -2,4 +2,6 @@ description:Mystic Eyes - Mr. Cashman (10008111, NSW/ACT)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,6 +2,8 @@ description:Terminator 2 - Judgment Day (prototype, rev PA2 10/18/91)
 manufacturer:Midway
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:term2
 cloneof:term2

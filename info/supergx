@@ -2,6 +2,8 @@ description:Super GX
 manufacturer:Namco / Nichibutsu
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:galaxian
 cloneof:galaxian

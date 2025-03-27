@@ -2,4 +2,6 @@ description:Orbit 9090 - The Dance Planet
 manufacturer:E-mu Systems
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

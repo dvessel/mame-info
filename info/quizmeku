@@ -2,4 +2,6 @@ description:Quiz Mekurumeku Story (Japan, ROM Based)
 manufacturer:Sega
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

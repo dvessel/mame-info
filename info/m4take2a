@@ -2,6 +2,8 @@ description:Take Two (Barcrest) (MPU4) (TTO 1.1) (set 1)
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4take2

@@ -2,9 +2,10 @@ description:Guitar Freaks (GQ886 VER. EAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gtrfrks
 romof:sys573
 cloneof:gtrfrks
 disk:886__a02
-disk:886__d02

@@ -2,6 +2,8 @@ description:Battle Garegga (Japan, bootleg) (Sat Feb 3 1996)
 manufacturer:bootleg
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bgaregga
 cloneof:bgaregga

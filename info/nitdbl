@@ -2,6 +2,8 @@ description:Nightmare in the Dark (bootleg)
 manufacturer:bootleg
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:nitd
 romof:neogeo

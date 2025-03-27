@@ -2,5 +2,7 @@ description:Crazy Joker (Barcrest) (MPU3)
 manufacturer:Barcrest
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

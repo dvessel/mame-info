@@ -2,6 +2,8 @@ description:Game King (EZ Pay, v4.0)
 manufacturer:IGT
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ym2413
 romof:gkigt4
 cloneof:gkigt4

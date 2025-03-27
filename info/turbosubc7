@@ -2,6 +2,8 @@ description:Turbo Sub (prototype rev. TSC7)
 manufacturer:Entertainment Sciences
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:turbosub
 cloneof:turbosub

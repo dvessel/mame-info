@@ -2,5 +2,7 @@ description:Black Panther (0200818V, Victoria)
 manufacturer:Aristocrat
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

@@ -2,6 +2,8 @@ description:5 Koi - Power Pay (1J016211, ASP)
 manufacturer:Aristocrat
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:5koi
 romof:aristmk6
 cloneof:5koi

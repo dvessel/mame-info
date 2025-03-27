@@ -2,6 +2,8 @@ description:Austin Powers (CPU 2.01, display A2.00)
 manufacturer:Stern
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,6 +2,8 @@ description:Tengai (bootleg)
 manufacturer:Psikyo
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:tengai
 cloneof:tengai

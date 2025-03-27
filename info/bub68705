@@ -2,6 +2,8 @@ description:Bubble Bobble (bootleg with 68705)
 manufacturer:bootleg
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p3
 romof:bublbobl

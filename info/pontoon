@@ -2,4 +2,6 @@ description:Pontoon (FD1094 317-0153)
 manufacturer:Sega
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Wizard of Wor (with German language ROM)
 manufacturer:Dave Nutting Associates / Midway
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:votrsc01
 romof:wow

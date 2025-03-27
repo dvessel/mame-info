@@ -2,6 +2,8 @@ description:DrumMania 9th Mix (G*D09 VER. JAA)
 manufacturer:Konami
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573msu
@@ -11,5 +13,3 @@ cloneof:pcnfrk9m
 disk:d09jca02
 disk:d09jaa02
 disk:d09jba02
-disk:d09aba02
-disk:d09aaa02

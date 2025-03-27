@@ -2,6 +2,8 @@ description:Super Space Invaders '91 (World, revised code)
 manufacturer:Taito Corporation Japan
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ssi
 cloneof:ssi

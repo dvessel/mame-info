@@ -2,6 +2,8 @@ description:M1 Plus+1 Music Workstation
 manufacturer:InVision Interactive
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780
 romof:korgm1
 cloneof:korgm1

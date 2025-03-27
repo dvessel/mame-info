@@ -2,6 +2,8 @@ description:Money Monster (Empire) (MPU5) (set 2)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5monmst
 cloneof:m5monmst

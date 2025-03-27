@@ -2,6 +2,8 @@ description:Turbo Force (US, set 1)
 manufacturer:Video System Co.
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:turbofrc
 cloneof:turbofrc

@@ -2,5 +2,7 @@ description:Alchemist (01J02046, Venezuela)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

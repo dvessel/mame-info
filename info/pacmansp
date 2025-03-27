@@ -2,6 +2,8 @@ description:Puck Man (Spanish, 'Made in Greece' bootleg)
 manufacturer:bootleg (Video Game SA)
 year:198?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

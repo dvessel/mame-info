@@ -2,6 +2,8 @@ description:Space Invaders DX (Ver 2.6J 1994/09/14) (F3 Version)
 manufacturer:Taito Corporation
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:spacedx
 cloneof:spacedx

@@ -2,6 +2,8 @@ description:Bingo Belle (BWB) (MPU4) (set 7)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4bingbl

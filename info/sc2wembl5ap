@@ -2,6 +2,8 @@ description:Match Of The Day - Road To Wembley (Bellfruit) (set 2, UK, 16RM moto
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

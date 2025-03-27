@@ -2,5 +2,7 @@ description:NCD 16
 manufacturer:Network Computing Devices
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:m68705p3
 device:kb_ms_natural

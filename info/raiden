@@ -2,4 +2,6 @@ description:Raiden (World set 1)
 manufacturer:Seibu Kaihatsu
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

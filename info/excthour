@@ -2,6 +2,8 @@ description:Exciting Hour
 manufacturer:Technos Japan (Taito license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:matmania
 cloneof:matmania

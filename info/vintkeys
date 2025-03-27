@@ -2,4 +2,6 @@ description:Vintage Keys Classic Analog Keyboards
 manufacturer:E-mu Systems
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

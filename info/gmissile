@@ -2,5 +2,7 @@ description:Guided Missile
 manufacturer:Midway
 year:1977
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:gmissile

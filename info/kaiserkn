@@ -2,4 +2,6 @@ description:Kaiser Knuckle (Ver 2.1O 1994/07/29)
 manufacturer:Taito Corporation Japan
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

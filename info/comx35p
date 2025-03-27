@@ -2,6 +2,8 @@ description:COMX 35 (PAL)
 manufacturer:Comx World Operations Ltd
 year:1983
 status:imperfect
+emulation:good
+savestate:unsupported
 device:comx_eb
 device:comx_fd
 device:comx_clm

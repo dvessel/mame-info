@@ -2,3 +2,5 @@ description:Neo-Geo AES (NTSC)
 manufacturer:SNK
 year:1990
 status:good
+emulation:good
+savestate:supported

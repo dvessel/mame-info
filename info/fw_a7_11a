@@ -2,6 +2,8 @@ description:unknown Fun World A7-11 game 2
 manufacturer:Fun World
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:fw_a7_11
 cloneof:fw_a7_11

@@ -2,6 +2,8 @@ description:Real Puncher (Japan, v2.12J)
 manufacturer:Taito Corporation Japan
 year:1994
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:realpunc

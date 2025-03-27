@@ -2,3 +2,5 @@ description:Pocketchess (CXG)
 manufacturer:CXG Systems / Newcrest Technology / Intelligent Chess Software
 year:1986
 status:good
+emulation:good
+savestate:supported

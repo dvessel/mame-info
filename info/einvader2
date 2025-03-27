@@ -2,3 +2,5 @@ description:Super Space Invader 2 (Entex, black version)
 manufacturer:Entex
 year:1982
 status:good
+emulation:good
+savestate:supported

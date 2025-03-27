@@ -2,4 +2,6 @@ description:Super Two In One
 manufacturer:Fun Tech Corporation
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

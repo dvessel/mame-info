@@ -2,5 +2,7 @@ description:Red Earth (Europe 961121)
 manufacturer:Capcom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 disk:cap-wzd-5

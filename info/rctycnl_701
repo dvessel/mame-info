@@ -2,6 +2,8 @@ description:RollerCoaster Tycoon (CPU 7.01, display L7.00, Spain)
 manufacturer:Stern
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

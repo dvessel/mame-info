@@ -2,6 +2,8 @@ description:Multi Game (Italian, Versione 3.9.8 - 1.5.7, 01-JUL-98)
 manufacturer:EGD
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:gambl186
 cloneof:gambl186

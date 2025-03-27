@@ -2,3 +2,5 @@ description:LW-30
 manufacturer:Brother
 year:1991
 status:good
+emulation:good
+savestate:unsupported

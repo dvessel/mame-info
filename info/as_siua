@@ -2,6 +2,8 @@ description:Step It Up (Astra, V203)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_siu
 cloneof:as_siu

@@ -2,6 +2,8 @@ description:Big Chief (Barcrest) (MPU4 w/ Plasma DMD) (set 3)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4bigchf

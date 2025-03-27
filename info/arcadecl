@@ -2,4 +2,6 @@ description:Arcade Classics (prototype)
 manufacturer:Atari Games
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop

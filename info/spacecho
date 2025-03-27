@@ -2,6 +2,8 @@ description:Space Echo (set 1)
 manufacturer:bootleg (Gayton Games)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:speakres
 cloneof:speakres

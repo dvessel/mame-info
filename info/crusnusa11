@@ -2,6 +2,8 @@ description:Cruis'n USA (v1.1)
 manufacturer:Midway
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:tms32031
 romof:crusnusa

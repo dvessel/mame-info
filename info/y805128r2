@@ -2,5 +2,7 @@ description:YIS805/128R2 (MSX2, USSR)
 manufacturer:Yamaha
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:y805256
 cloneof:y805256

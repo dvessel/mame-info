@@ -2,3 +2,5 @@ description:Disney Classic Handheld Karaoke Player (DKS7000-C)
 manufacturer:IVL Technologies (Disney / Memcorp Inc license)
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported

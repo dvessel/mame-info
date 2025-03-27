@@ -2,6 +2,8 @@ description:Pac-Mania (111187 sound program)
 manufacturer:Namco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pacmania
 cloneof:pacmania

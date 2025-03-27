@@ -2,4 +2,6 @@ description:PC1512 SD
 manufacturer:Amstrad plc
 year:1986
 status:good
+emulation:good
+savestate:supported
 device:pc1512kb

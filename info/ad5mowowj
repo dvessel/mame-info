@@ -2,5 +2,7 @@ description:Monopoly Wheel Of Wealth (PR3075) (Adder 5) (set 1)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5mowow
 cloneof:ad5mowow

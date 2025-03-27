@@ -2,6 +2,8 @@ description:Hot Blocks - Tetrix II (set 3)
 manufacturer:NIX?
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hotblock
 cloneof:hotblock

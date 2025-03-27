@@ -2,6 +2,8 @@ description:J. J. Squawkers (older)
 manufacturer:Athena / Able
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:jjsquawk
 cloneof:jjsquawk

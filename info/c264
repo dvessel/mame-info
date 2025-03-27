@@ -2,4 +2,6 @@ description:Commodore 264 (Prototype)
 manufacturer:Commodore Business Machines
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 device:c1541

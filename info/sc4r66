@@ -2,4 +2,6 @@ description:Route 66 (Mazooma) (Scorpion 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

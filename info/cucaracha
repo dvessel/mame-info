@@ -2,4 +2,6 @@ description:La Cucaracha (set 1)
 manufacturer:Taito
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

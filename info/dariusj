@@ -2,6 +2,8 @@ description:Darius (Japan, rev 1)
 manufacturer:Taito Corporation
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:darius
 cloneof:darius

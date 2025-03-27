@@ -2,5 +2,7 @@ description:Kasparov RISC 2500 (v1.03)
 manufacturer:Saitek / Tasc
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 romof:risc2500
 cloneof:risc2500

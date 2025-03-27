@@ -2,4 +2,6 @@ description:Hungry Hungry Hippos (redemption game)
 manufacturer:ICE (Innovative Concepts in Entertainment)
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,4 +2,6 @@ description:BitGraph rev A
 manufacturer:BBN
 year:1981
 status:imperfect
+emulation:good
+savestate:unsupported
 device:keytronic_l2207

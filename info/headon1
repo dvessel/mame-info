@@ -2,6 +2,8 @@ description:Head On (1 player)
 manufacturer:Gremlin
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:headon
 cloneof:headon

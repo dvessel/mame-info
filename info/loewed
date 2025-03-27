@@ -2,3 +2,5 @@ description:Multitel D
 manufacturer:Loewe
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported

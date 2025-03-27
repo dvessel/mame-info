@@ -2,6 +2,8 @@ description:Chariot Challenge (04J00714, Peru)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:chariotc
 romof:aristmk5

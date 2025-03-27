@@ -2,5 +2,7 @@ description:HB-75D (MSX1, Germany)
 manufacturer:Sony
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 romof:hb75p
 cloneof:hb75p

@@ -2,5 +2,7 @@ description:Gaminator 6 (set 2)
 manufacturer:Novotech
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gamt6
 cloneof:gamt6

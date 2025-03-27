@@ -2,6 +2,8 @@ description:Whizz
 manufacturer:Philko
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:twinfalc
 cloneof:twinfalc

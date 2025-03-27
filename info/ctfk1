@@ -2,3 +2,5 @@ description:Casiotone FK-1
 manufacturer:Casio
 year:1983
 status:imperfect
+emulation:good
+savestate:supported

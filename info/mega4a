@@ -2,5 +2,7 @@ description:Mephisto Mega IV (set 2)
 manufacturer:Hegener + Glaser
 year:1988
 status:good
+emulation:good
+savestate:supported
 romof:mega4
 cloneof:mega4

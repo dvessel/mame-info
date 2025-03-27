@@ -2,6 +2,8 @@ description:Master Ninja (bootleg of Shadow Warriors / Ninja Gaiden)
 manufacturer:bootleg
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:shadoww
 cloneof:shadoww

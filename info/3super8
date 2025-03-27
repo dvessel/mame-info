@@ -1,4 +1,6 @@
 description:3 Super 8 (Italy)
 year:1993?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

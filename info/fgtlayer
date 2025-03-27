@@ -2,4 +2,6 @@ description:Fighting Layer (Asia, FTL3/VER.A)
 manufacturer:Arika / Namco
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

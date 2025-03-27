@@ -2,3 +2,5 @@ description:Vegas 6809
 manufacturer:Microkit
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported

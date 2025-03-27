@@ -2,6 +2,8 @@ description:Defense (System 16B, FD1089A 317-0028)
 manufacturer:Sega
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sdi
 cloneof:sdi

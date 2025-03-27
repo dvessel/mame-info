@@ -2,6 +2,8 @@ description:Player's Edge Plus (PS0041) Jackpot Jungle Slots
 manufacturer:IGT - International Game Technology
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:peps0040
 cloneof:peps0040

@@ -2,6 +2,8 @@ description:Olimpic Hockey (EM Bubble Hockey, set 2)
 manufacturer:Inor
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:olihockey

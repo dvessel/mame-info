@@ -2,6 +2,8 @@ description:Ikari Warriors (US, set 2)
 manufacturer:SNK
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ikari
 cloneof:ikari

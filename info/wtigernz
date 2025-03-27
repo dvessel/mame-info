@@ -2,6 +2,8 @@ description:White Tiger (3VXFC5342, New Zealand)
 manufacturer:Aristocrat
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:wtiger
 cloneof:wtiger

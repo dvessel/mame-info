@@ -2,6 +2,8 @@ description:Jumping Pop (set 2)
 manufacturer:Emag Soft
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:jumppop
 cloneof:jumppop

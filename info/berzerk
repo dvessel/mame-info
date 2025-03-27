@@ -2,4 +2,6 @@ description:Berzerk (revision RC31A)
 manufacturer:Stern Electronics
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Mega Force (US)
 manufacturer:Tehkan (Video Ware license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:starforc
 cloneof:starforc

@@ -2,6 +2,8 @@ description:Deroon DeroDero / Tecmo Stackers
 manufacturer:Tecmo
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:deroon
 cloneof:deroon

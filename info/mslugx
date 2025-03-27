@@ -2,5 +2,7 @@ description:Metal Slug X - Super Vehicle-001 (NGM-2500 ~ NGH-2500)
 manufacturer:SNK
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

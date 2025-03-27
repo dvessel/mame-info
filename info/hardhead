@@ -2,4 +2,6 @@ description:Hard Head
 manufacturer:SunA
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

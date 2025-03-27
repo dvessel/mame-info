@@ -2,5 +2,7 @@ description:Pocket Challenge V2
 manufacturer:Benesse Corporation
 year:2002
 status:imperfect
+emulation:good
+savestate:supported
 romof:wswan
 cloneof:wswan

@@ -2,6 +2,8 @@ description:The Lord Of The Rings (CPU 4.10, display G4.04, Germany)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:lotr

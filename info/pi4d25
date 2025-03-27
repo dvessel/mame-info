@@ -2,4 +2,6 @@ description:Personal IRIS 4D/25
 manufacturer:Silicon Graphics
 year:1989
 status:preliminary
+emulation:good
+savestate:unsupported
 device:sgi_kbd

@@ -2,3 +2,5 @@ description:Gunman
 manufacturer:Taito
 year:1977
 status:preliminary
+emulation:preliminary
+savestate:unsupported

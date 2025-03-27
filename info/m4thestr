@@ -2,5 +2,7 @@ description:The Streak (Barcrest) (MPU4) (TS 3.0 K)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

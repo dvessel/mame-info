@@ -2,6 +2,8 @@ description:BW230 (PRO28 Series)
 manufacturer:Bondwell Holding
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 device:cga
 device:kb_pcxt83
 romof:ibm5150

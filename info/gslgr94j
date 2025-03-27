@@ -2,6 +2,8 @@ description:Great Sluggers '94 (Japan)
 manufacturer:Namco
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc75
 romof:gslgr94u

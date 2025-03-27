@@ -2,3 +2,5 @@ description:Mini2440
 manufacturer:FriendlyARM
 year:2009
 status:good
+emulation:good
+savestate:unsupported

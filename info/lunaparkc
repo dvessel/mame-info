@@ -1,6 +1,8 @@
 description:Luna Park (set 3)
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:lunapark
 cloneof:lunapark

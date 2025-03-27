@@ -2,6 +2,8 @@ description:Swords of Fury (L-1)
 manufacturer:Williams
 year:1988
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:swrds_l2

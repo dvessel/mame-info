@@ -2,6 +2,8 @@ description:Cruisin
 manufacturer:Jaleco (Kitkorp license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:citycon
 cloneof:citycon

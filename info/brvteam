@@ -2,6 +2,8 @@ description:Brave Team
 manufacturer:Inder
 year:1985
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

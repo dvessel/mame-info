@@ -2,6 +2,8 @@ description:10 X 10 (Barcrest) (MPU4) (T20 0.2 B)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4tenten

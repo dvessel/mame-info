@@ -2,6 +2,8 @@ description:Earthshaker (Prototype) (PA-4)
 manufacturer:Williams
 year:1988
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:esha_la3

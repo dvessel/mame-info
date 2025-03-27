@@ -2,6 +2,8 @@ description:Densha de GO 3! Tsukin-hen (V2.03J)
 manufacturer:Taito
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:taitotz
 disk:ddg3

@@ -2,5 +2,7 @@ description:Trivial Pursuit (Volumen III, Spanish, Maibesa license)
 manufacturer:Bally/Sente (Maibesa license)
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb

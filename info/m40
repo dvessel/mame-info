@@ -2,6 +2,8 @@ description:Olivetti L1 M40
 manufacturer:Olivetti
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:m20_8086
 romof:m20
 cloneof:m20

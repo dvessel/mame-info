@@ -2,4 +2,6 @@ description:Silent Scope 2 : Dark Silhouette (ver UAD, Ver 1.03)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

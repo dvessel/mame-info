@@ -2,6 +2,8 @@ description:Terminator 3: Rise of the Machines (CPU 4.00, display I4.00, Italy)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

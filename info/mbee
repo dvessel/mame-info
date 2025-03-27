@@ -2,3 +2,5 @@ description:Microbee 16k Standard
 manufacturer:Applied Technology
 year:1982
 status:good
+emulation:good
+savestate:supported

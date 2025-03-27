@@ -2,6 +2,8 @@ description:Scorpion ZS-256 (Yellow PCB)
 manufacturer:Scorpion, Ltd.
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 device:betadisk
 romof:spec128
 cloneof:spec128

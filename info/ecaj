@@ -2,6 +2,8 @@ description:Emergency Call Ambulance (Japan)
 manufacturer:Sega
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:eca

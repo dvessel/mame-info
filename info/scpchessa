@@ -2,5 +2,7 @@ description:Sensor Computachess (1981 version)
 manufacturer:CXG Systems / White and Allcock / Intelligent Software
 year:1981
 status:good
+emulation:good
+savestate:supported
 romof:scpchess
 cloneof:scpchess

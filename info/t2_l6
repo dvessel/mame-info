@@ -2,6 +2,8 @@ description:Terminator 2: Judgment Day (L-6)
 manufacturer:Williams
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:t2_l8

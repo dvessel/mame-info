@@ -2,5 +2,7 @@ description:Primal Rage (version 2.3, Jan 1995)
 manufacturer:Atari Games
 year:1994
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 device:tms32031

@@ -2,6 +2,8 @@ description:Queen of Sheba (30146921, ASP)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:qsheba
 romof:aristmk6
 cloneof:qsheba

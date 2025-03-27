@@ -2,9 +2,10 @@ description:Bass Angler 2 (GE865 VER. JAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fbait2bc
 romof:sys573
 cloneof:fbait2bc
 disk:865jaa02
-disk:865uab02

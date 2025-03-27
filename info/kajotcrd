@@ -2,4 +2,6 @@ description:Kajot Card (Version 1.01, Wien Euro)
 manufacturer:Amatic
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

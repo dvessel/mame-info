@@ -2,6 +2,8 @@ description:Zero Target (World, CT)
 manufacturer:Data East Corporation
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:zerotrgt
 cloneof:zerotrgt

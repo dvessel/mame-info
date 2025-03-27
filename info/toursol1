@@ -2,6 +2,8 @@ description:Tournament Solitaire (V1.04, 06/22/95)
 manufacturer:Dynamo
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:toursol
 cloneof:toursol

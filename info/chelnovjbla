@@ -2,6 +2,8 @@ description:Atomic Runner Chelnov (Japan, bootleg with I8031, set 2)
 manufacturer:bootleg
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:chelnov
 cloneof:chelnov

@@ -2,6 +2,8 @@ description:Viper Phase 1 (New Version, Portugal)
 manufacturer:Seibu Kaihatsu
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:viprp1
 cloneof:viprp1

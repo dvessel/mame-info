@@ -1,4 +1,6 @@
 description:Saloon (French, encrypted)
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

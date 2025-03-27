@@ -2,5 +2,7 @@ description:Mahjong Neruton Haikujiradan (Japan, Rev. B?)
 manufacturer:Dynax / Yukiyoshi Tokoro
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

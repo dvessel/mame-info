@@ -2,4 +2,6 @@ description:Royal Mahjong (Japan, v1.13)
 manufacturer:Nichibutsu
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

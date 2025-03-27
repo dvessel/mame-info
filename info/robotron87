@@ -2,6 +2,8 @@ description:Robotron: 2084 (1987 'shot-in-the-corner' bugfix)
 manufacturer:hack
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:robotron
 cloneof:robotron

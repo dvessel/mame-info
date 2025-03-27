@@ -2,3 +2,5 @@ description:MPS-65
 manufacturer:Thaler
 year:1984
 status:good
+emulation:good
+savestate:unsupported

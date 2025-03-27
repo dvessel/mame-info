@@ -2,5 +2,7 @@ description:Tap a Tune
 manufacturer:Moloney Manufacturing Inc. / Creative Electronics and Software
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:bsmt2000

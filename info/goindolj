@@ -2,6 +2,8 @@ description:Goindol (SunA, Japan)
 manufacturer:SunA
 year:1987
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:goindol
 cloneof:goindol

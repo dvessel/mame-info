@@ -2,4 +2,6 @@ description:Super A'Can
 manufacturer:Funtech Entertainment
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:umc6650

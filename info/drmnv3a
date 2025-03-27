@@ -2,6 +2,8 @@ description:DrumMania V3 (F32:A:A:A:2006101800)
 manufacturer:Konami
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kpython2
 disk:f32_aaa_2006101800

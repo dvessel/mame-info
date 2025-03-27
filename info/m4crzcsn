@@ -2,5 +2,7 @@ description:Crazy Casino (Nova) (German) (MPU4) (CRZ 0.3)
 manufacturer:Nova
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

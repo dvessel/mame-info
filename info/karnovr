@@ -2,5 +2,7 @@ description:Karnov's Revenge / Fighter's History Dynamite
 manufacturer:Data East Corporation
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

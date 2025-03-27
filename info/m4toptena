@@ -2,6 +2,8 @@ description:Top Tenner (Barcrest) (MPU4, Mod 2 type, TP 2.7)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4topten

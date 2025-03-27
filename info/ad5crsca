@@ -2,5 +2,7 @@ description:Cops 'n' Robbers (PR2476) (Mazooma) (Adder 5) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5crsc
 cloneof:ad5crsc

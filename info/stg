@@ -2,4 +2,6 @@ description:Strike Gunner S.T.G
 manufacturer:Athena / Tecmo
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

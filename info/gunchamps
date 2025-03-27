@@ -2,6 +2,8 @@ description:Gun Champ (newer, Super Shot hardware)
 manufacturer:Model Racing
 year:1980
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:gunchamp
 cloneof:gunchamp

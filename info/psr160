@@ -2,6 +2,8 @@ description:PSR-160
 manufacturer:Yamaha
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:ks0066
 romof:psr260
 cloneof:psr260

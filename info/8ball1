@@ -2,6 +2,8 @@ description:Video Eight Ball (Rev.1)
 manufacturer:Century Electronics
 year:1982
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:8ball
 cloneof:8ball

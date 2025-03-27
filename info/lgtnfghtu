@@ -2,6 +2,8 @@ description:Lightning Fighters (US)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lgtnfght
 cloneof:lgtnfght

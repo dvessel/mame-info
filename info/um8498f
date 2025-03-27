@@ -1,6 +1,8 @@
 description:486 motherboards using the UMC UM8498F, UM8496F chipset
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

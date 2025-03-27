@@ -2,6 +2,8 @@ description:Eighth Wonder (Barcrest) (MPU4) (BEW 0.3, set 7)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4eighth

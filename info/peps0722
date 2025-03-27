@@ -2,6 +2,8 @@ description:Player's Edge Plus (PS0722) River Gambler Slots
 manufacturer:IGT - International Game Technology
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:peps0716
 cloneof:peps0716

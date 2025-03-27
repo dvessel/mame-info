@@ -2,4 +2,6 @@ description:Wild Goose (20131911, NSW/ACT)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

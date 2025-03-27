@@ -2,4 +2,6 @@ description:Jumping Pop (set 1)
 manufacturer:ESD
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop

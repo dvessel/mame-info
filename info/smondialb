@@ -2,5 +2,7 @@ description:Mephisto Super Mondial (ver. B)
 manufacturer:Hegener + Glaser
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:smondial
 cloneof:smondial

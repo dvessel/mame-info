@@ -2,10 +2,12 @@ description:beatmania IIDX Substream (983-AA JAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bmiidxs
 romof:gq863
 cloneof:bmiidxs
-disk:gc983a01
+disk:gc983aa,a01
 disk:gc983a04
 disk:983hdda01

@@ -2,6 +2,8 @@ description:Pole Position II (Atari)
 manufacturer:Namco (Atari license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namco51
 device:namco52

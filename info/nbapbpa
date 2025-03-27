@@ -2,6 +2,8 @@ description:NBA Play By Play (ver AAB)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:nbapbp
 cloneof:nbapbp

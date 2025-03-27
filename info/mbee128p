@@ -2,5 +2,7 @@ description:Microbee 128k Premium
 manufacturer:Microbee Systems
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:mbee
 cloneof:mbee

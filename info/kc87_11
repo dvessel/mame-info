@@ -2,5 +2,7 @@ description:KC 87.11
 manufacturer:Robotron
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:z9001
 cloneof:z9001

@@ -2,5 +2,7 @@ description:X-Men Vs. Street Fighter (Europe 961004)
 manufacturer:Capcom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

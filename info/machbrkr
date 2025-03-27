@@ -2,5 +2,7 @@ description:Mach Breakers (World, MB2)
 manufacturer:Namco
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc75

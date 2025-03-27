@@ -2,3 +2,5 @@ description:Vending machine model T6
 manufacturer:Azkoyen
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported

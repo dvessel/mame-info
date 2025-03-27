@@ -2,5 +2,7 @@ description:Twice As Nice (Associated Leisure) (Scorpion 1)
 manufacturer:Associated Leisure
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

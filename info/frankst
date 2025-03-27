@@ -2,6 +2,8 @@ description:Mary Shelley's Frankenstein
 manufacturer:Sega
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

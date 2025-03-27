@@ -2,6 +2,8 @@ description:Fantasy Zone II - The Tears of Opa-Opa (System 16C version, prototyp
 manufacturer:Sega / M2
 year:2008
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fantzn2x
 cloneof:fantzn2x

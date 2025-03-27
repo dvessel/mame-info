@@ -2,6 +2,8 @@ description:Deal or No Deal The Banker Rings Twice (Bellfruit) (Scorpion 5) (set
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndrt
 cloneof:sc5dndrt

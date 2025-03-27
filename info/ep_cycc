@@ -2,6 +2,8 @@ description:Cyclone (Extreme) (EPOCH) (CYCL 0.3, set 4)
 manufacturer:Extreme
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cyc
 cloneof:ep_cyc

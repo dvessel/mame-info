@@ -2,5 +2,7 @@ description:Enchanted Forest (0400122V, NSW/ACT)
 manufacturer:Aristocrat
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aristmk5

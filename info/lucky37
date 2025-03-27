@@ -2,3 +2,5 @@ description:Lucky 37
 manufacturer:Wing Co., Ltd.
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

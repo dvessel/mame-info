@@ -2,4 +2,6 @@ description:Fortune I (PK485-S) Draw Poker
 manufacturer:IGT - International Game Technology
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

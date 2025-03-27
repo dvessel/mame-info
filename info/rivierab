@@ -2,6 +2,8 @@ description:Riviera Hi-Score (2131-08, U5-2D)
 manufacturer:Merit
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:riviera
 cloneof:riviera

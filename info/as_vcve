@@ -2,6 +2,8 @@ description:Viva Cash Vegas (Astra, V101)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_vcv
 cloneof:as_vcv

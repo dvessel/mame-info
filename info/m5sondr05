@@ -2,6 +2,8 @@ description:Son Of Dracula (Barcrest) (MPU5) (set 2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5sondr
 cloneof:m5sondr

@@ -2,6 +2,8 @@ description:Danger Zone (rev 0)
 manufacturer:Cinematronics
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:dangerz
 cloneof:dangerz

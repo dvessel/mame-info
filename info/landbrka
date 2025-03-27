@@ -2,6 +2,8 @@ description:Land Breaker (World) / Miss Tang Ja Ru Gi (Korea) (pcb ver 3.03) (AT
 manufacturer:Eolith
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:landbrk
 cloneof:landbrk

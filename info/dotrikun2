@@ -2,6 +2,8 @@ description:Dottori Kun (old version)
 manufacturer:Sega
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dotrikun
 cloneof:dotrikun

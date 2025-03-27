@@ -2,5 +2,7 @@ description:FM-Towns (unknown, V03 L01 00 91/07/09)
 manufacturer:Fujitsu
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:fmtowns
 cloneof:fmtowns

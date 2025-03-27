@@ -2,6 +2,8 @@ description:hiphopmania complete MIX 2 (ver UA-A)
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bmcompm2
 cloneof:bmcompm2

@@ -2,4 +2,6 @@ description:Mystic Warriors (ver EAA)
 manufacturer:Konami
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

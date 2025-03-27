@@ -2,4 +2,6 @@ description:River Boat Gambler (Astra, V304)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

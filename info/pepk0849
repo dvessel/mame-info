@@ -2,6 +2,8 @@ description:Player's Edge (PK0849-PC041) Joker Poker (Two Pair or Better)
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:pepk0810
 cloneof:pepk0810

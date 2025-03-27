@@ -2,4 +2,6 @@ description:Super 6 Club (65% Fixed) (Bellfruit) (Scorpion 4) (set 1)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Megatouch 5 Turnier Version (9255-70-50 R0D, Bi-Lingual GER/ENG vers
 manufacturer:Merit
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:megat5

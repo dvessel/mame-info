@@ -2,6 +2,8 @@ description:Narazumono Sentoubutai Bloody Wolf (Japan)
 manufacturer:Data East Corporation
 year:1988
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:battlera
 cloneof:battlera

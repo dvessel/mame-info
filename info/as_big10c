@@ -2,6 +2,8 @@ description:Big 10 (Astra, V601)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_big10
 cloneof:as_big10

@@ -2,6 +2,8 @@ description:Miss World 2002 (Daigom license)
 manufacturer:Daigom
 year:2002
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:missw02
 cloneof:missw02

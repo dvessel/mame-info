@@ -2,6 +2,8 @@ description:Penguin Pays (0200359V, NSW/ACT)
 manufacturer:Aristocrat
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:pengpay
 romof:aristmk5

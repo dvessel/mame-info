@@ -2,4 +2,6 @@ description:Aladdin (bootleg of Mega Drive version)
 manufacturer:bootleg / Sega
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

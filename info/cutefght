@@ -2,4 +2,6 @@ description:Cute Fighter
 manufacturer:SemiCom
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop

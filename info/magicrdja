@@ -2,6 +2,8 @@ description:Magic Card III Jackpot (V4.01 7/98)
 manufacturer:Impera
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:magicrdj
 cloneof:magicrdj

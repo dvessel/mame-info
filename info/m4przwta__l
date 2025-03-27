@@ -2,6 +2,8 @@ description:Prize Winner Takes All (Barcrest) (MPU4) (PWN 0.4 A)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4przwta

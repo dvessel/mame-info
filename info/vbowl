@@ -2,4 +2,6 @@ description:Virtua Bowling (World, V101XCM)
 manufacturer:IGS
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

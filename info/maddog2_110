@@ -2,6 +2,8 @@ description:Mad Dog II: The Lost Gold (v1.10)
 manufacturer:American Laser Games
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:maddog2
 romof:alg_bios

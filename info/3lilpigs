@@ -2,6 +2,8 @@ description:3 Lil' Pigs
 manufacturer:Doyle &amp; Assoc.
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:hd44780

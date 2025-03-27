@@ -2,4 +2,6 @@ description:Double Dragon 3: The Rosetta Stone (US)
 manufacturer:East Technology / Technos Japan
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

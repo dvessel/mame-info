@@ -2,6 +2,8 @@ description:Cash Inferno (BWB) (Release 4, 5p Fixed, All - Cash) (MPU4 Video)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4cshinf
 cloneof:v4cshinf

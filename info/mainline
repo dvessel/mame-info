@@ -2,4 +2,6 @@ description:Mainline Double Joker Poker
 manufacturer:Mainline London
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

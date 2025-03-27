@@ -2,5 +2,7 @@ description:Ready Steady Go (Barcrest) (MPU4, Mod 2 type) (RSG 1.2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Corvette (PX4 Prototype)
 manufacturer:Bally
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:corv_21

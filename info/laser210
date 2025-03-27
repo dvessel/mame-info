@@ -2,3 +2,5 @@ description:Laser 210
 manufacturer:Video Technology
 year:1984
 status:good
+emulation:good
+savestate:supported

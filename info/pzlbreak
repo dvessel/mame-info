@@ -2,4 +2,6 @@ description:Puzzle Break (set 1)
 manufacturer:SemiCom / Tirano
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop

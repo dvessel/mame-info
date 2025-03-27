@@ -2,6 +2,8 @@ description:War of the Bugs or Monsterous Manouvers in a Mushroom Maze (US)
 manufacturer:Armenia / Super Video Games
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:warofbug
 cloneof:warofbug

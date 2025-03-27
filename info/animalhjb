@@ -2,6 +2,8 @@ description:Animal House (bootleg of Jingle Bell)
 manufacturer:bootleg
 year:1995?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:jbell

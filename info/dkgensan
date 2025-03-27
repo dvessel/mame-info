@@ -2,6 +2,8 @@ description:Daiku no Gensan (Japan, M84 hardware)
 manufacturer:Irem
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hharry
 cloneof:hharry

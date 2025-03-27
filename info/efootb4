@@ -2,3 +2,5 @@ description:Color Football 4 (Entex)
 manufacturer:Entex
 year:1980
 status:good
+emulation:good
+savestate:supported

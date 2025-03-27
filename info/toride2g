@@ -2,5 +2,7 @@ description:Toride II Adauchi Gaiden
 manufacturer:Metro
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

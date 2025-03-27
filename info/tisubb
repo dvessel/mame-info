@@ -2,6 +2,8 @@ description:Treasure Island (American Alpha, v3.0N)
 manufacturer:American Alpha
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tisub
 cloneof:tisub

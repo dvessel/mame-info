@@ -2,6 +2,8 @@ description:Chocks Away (Maygay) (EPOCH) (1.1, set 3)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_chock
 cloneof:ep_chock

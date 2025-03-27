@@ -2,5 +2,7 @@ description:CompJU+TEr (ES 4.0)
 manufacturer:Jugend+Technik
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 romof:jtc
 cloneof:jtc

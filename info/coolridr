@@ -2,4 +2,6 @@ description:Cool Riders
 manufacturer:Sega
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

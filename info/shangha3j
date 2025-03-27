@@ -2,6 +2,8 @@ description:Shanghai III (Japan)
 manufacturer:Sunsoft
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:shangha3
 cloneof:shangha3

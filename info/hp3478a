@@ -2,3 +2,5 @@ description:HP 3478A Multimeter
 manufacturer:HP
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

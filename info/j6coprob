@@ -2,5 +2,7 @@ description:Cops 'n' Robbers (Qps) (IMPACT) (set 1)
 manufacturer:Qps
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

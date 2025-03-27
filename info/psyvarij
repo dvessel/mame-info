@@ -2,9 +2,10 @@ description:Psyvariar -Medium Unit- (V2.04J 2000/02/15 11:00)
 manufacturer:Success
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:psyvaria
 romof:coh3002t
 cloneof:psyvaria
 disk:psyvarij
-disk:psyvaria

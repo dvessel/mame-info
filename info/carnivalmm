@@ -2,6 +2,8 @@ description:Carnival (ManilaMatic bootleg)
 manufacturer:bootleg (ManilaMatic)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:carnival
 cloneof:carnival

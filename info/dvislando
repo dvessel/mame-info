@@ -2,6 +2,8 @@ description:Devil Island (Version 1.0R CGA)
 manufacturer:Amcoe
 year:2006
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dvisland
 cloneof:dvisland

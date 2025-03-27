@@ -2,4 +2,6 @@ description:Mahjong Scout Man (Japan)
 manufacturer:Sphinx / AV Japan
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

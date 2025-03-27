@@ -2,5 +2,7 @@ description:VZ-300 (Oceania)
 manufacturer:Dick Smith Electronics
 year:1984
 status:good
+emulation:good
+savestate:supported
 romof:laser310
 cloneof:laser310

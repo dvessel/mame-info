@@ -2,3 +2,5 @@ description:Atari 800XL (NTSC)
 manufacturer:Atari
 year:1983
 status:imperfect
+emulation:good
+savestate:unsupported

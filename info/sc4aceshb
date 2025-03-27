@@ -2,6 +2,8 @@ description:Aces High (Mazooma) (Scorpion 4) (set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4acesh
 cloneof:sc4acesh

@@ -2,5 +2,7 @@ description:Neo Turf Masters / Big Tournament Golf
 manufacturer:Nazca
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

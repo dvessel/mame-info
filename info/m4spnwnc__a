@@ -2,6 +2,8 @@ description:Spin-A-Win (Concept Games Ltd) (MPU4) (set 2)
 manufacturer:Concept Games Ltd
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4spnwnc

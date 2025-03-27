@@ -2,4 +2,6 @@ description:My Computer Terebi C1
 manufacturer:Sharp
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 cloneof:famicom

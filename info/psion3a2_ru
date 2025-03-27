@@ -2,5 +2,7 @@ description:Series 3a (2M) (Russian)
 manufacturer:Psion
 year:1997
 status:good
+emulation:good
+savestate:supported
 romof:psion3a
 cloneof:psion3a

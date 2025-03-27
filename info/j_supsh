@@ -2,6 +2,8 @@ description:Super Shuffle (Louth Coin) (SRU) (10p Stake, £3 Jackpot)
 manufacturer:Louth Coin
 year:1984?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:j_ews

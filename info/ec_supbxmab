@@ -2,6 +2,8 @@ description:Super Bar X (MAB PCB) (Electrocoin) (?)
 manufacturer:Electrocoin
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_sbarx
 cloneof:ec_sbarx

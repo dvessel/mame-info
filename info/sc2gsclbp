@@ -2,6 +2,8 @@ description:The Game Show Club (Bellfruit) (set 4, UK, Arcade, p65, Protocol) (S
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

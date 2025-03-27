@@ -2,6 +2,8 @@ description:Pots Of Luck (Mazooma) (Scorpion 5) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5potsm
 cloneof:sc5potsm

@@ -2,4 +2,6 @@ description:Trivia ? Whiz Edition 3 (6221-05, U5-0D)
 manufacturer:Merit
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

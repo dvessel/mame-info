@@ -2,4 +2,6 @@ description:Sweet Land
 manufacturer:Namco
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical

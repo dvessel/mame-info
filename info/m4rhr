@@ -2,5 +2,7 @@ description:Red Hot Roll (Barcrest) (MPU4) (CR4 0.9)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,5 +2,7 @@ description:Bozo's Pail Toss (v2.07)
 manufacturer:Innovative Creations in Entertainment
 year:1997?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

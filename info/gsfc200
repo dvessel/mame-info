@@ -2,3 +2,5 @@ description:FC-200 (MSX1, Europe)
 manufacturer:Goldstar
 year:1984
 status:good
+emulation:good
+savestate:unsupported

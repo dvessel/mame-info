@@ -2,4 +2,6 @@ description:Moonlight Waltz (10227611, NSW/ACT)
 manufacturer:Aristocrat
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

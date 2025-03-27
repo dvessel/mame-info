@@ -2,6 +2,8 @@ description:RollerCoaster Tycoon (CPU 7.02, display A7.01, ARM7 sound board)
 manufacturer:Stern
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:rctycn

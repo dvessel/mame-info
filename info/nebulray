@@ -2,5 +2,7 @@ description:Nebulas Ray (World, NR2)
 manufacturer:Namco
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc75

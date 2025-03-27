@@ -2,4 +2,6 @@ description:Wonder League Star - Sok-Magicball Fighting (Korea)
 manufacturer:Mijin
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

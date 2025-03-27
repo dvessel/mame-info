@@ -2,3 +2,5 @@ description:Space Invaders [Lunar Rescue, Colony 7, Qix, Phoenix] (Radica, Arcad
 manufacturer:Radica (licensed from Taito)
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported

@@ -2,5 +2,7 @@ description:Skat TV
 manufacturer:ADP
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch

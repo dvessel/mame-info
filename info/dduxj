@@ -2,6 +2,8 @@ description:Dynamite Dux (set 2, Japan) (FD1094 317-0094)
 manufacturer:Sega
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ddux
 cloneof:ddux

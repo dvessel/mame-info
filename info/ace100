@@ -2,6 +2,8 @@ description:Franklin ACE 100
 manufacturer:Franklin Computer
 year:1982
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

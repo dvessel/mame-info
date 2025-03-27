@@ -2,4 +2,6 @@ description:Super Dead Heat (World)
 manufacturer:Taito Corporation
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

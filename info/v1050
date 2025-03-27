@@ -2,4 +2,6 @@ description:Visual 1050
 manufacturer:Visual Technology Inc
 year:1983
 status:preliminary
+emulation:good
+savestate:supported
 device:s1410

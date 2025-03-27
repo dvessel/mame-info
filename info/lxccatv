@@ -2,3 +2,5 @@ description:Compact Cyber Arcade TV - 120 in 1 (JL2370)
 manufacturer:Lexibook
 year:2012
 status:preliminary
+emulation:preliminary
+savestate:unsupported

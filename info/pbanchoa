@@ -2,6 +2,8 @@ description:Gyakuten!! Puzzle Bancho (Japan, set 2)
 manufacturer:Fuuki
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pbancho
 cloneof:pbancho

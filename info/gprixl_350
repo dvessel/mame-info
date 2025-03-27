@@ -2,6 +2,8 @@ description:Grand Prix (CPU 3.50, display L3.03, Spain)
 manufacturer:Stern
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:gprix

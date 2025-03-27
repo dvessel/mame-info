@@ -2,6 +2,8 @@ description:Amuse (Version 30.08A)
 manufacturer:Greyhound Electronics
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:amuse
 cloneof:amuse

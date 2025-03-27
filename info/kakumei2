@@ -2,4 +2,6 @@ description:Mahjong Kakumei 2 - Princess League (Japan)
 manufacturer:Jaleco
 year:1992
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop

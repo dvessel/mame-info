@@ -2,6 +2,8 @@ description:Blue Flash (BWB) (MPU4) (BFL 0.3, set 2)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4blflsh

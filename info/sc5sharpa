@@ -2,6 +2,8 @@ description:Sharp Shooter (Voodoo) (Scorpion 5) (set 2)
 manufacturer:Voodoo
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5sharp
 cloneof:sc5sharp

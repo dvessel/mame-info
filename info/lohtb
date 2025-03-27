@@ -2,6 +2,8 @@ description:Legend of Hero Tonma (Playmark unprotected bootleg)
 manufacturer:bootleg (Playmark)
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:loht
 cloneof:loht

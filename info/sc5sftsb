@@ -2,6 +2,8 @@ description:Shoot For The Stars (Bellfruit) (Scorpion 5) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5sfts
 cloneof:sc5sfts

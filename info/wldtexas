@@ -1,6 +1,8 @@
 description:Wild Texas
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:fpwr2_l2

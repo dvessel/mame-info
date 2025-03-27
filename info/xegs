@@ -2,3 +2,5 @@ description:Atari XE Game System
 manufacturer:Atari
 year:1987
 status:imperfect
+emulation:good
+savestate:unsupported

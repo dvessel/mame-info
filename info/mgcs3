@@ -2,4 +2,6 @@ description:Manguan Caishen 3 (V101CN)
 manufacturer:IGS
 year:2007
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

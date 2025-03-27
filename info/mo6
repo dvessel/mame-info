@@ -2,3 +2,5 @@ description:MO6
 manufacturer:Thomson
 year:1986
 status:good
+emulation:good
+savestate:unsupported

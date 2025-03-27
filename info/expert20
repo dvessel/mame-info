@@ -2,3 +2,5 @@ description:Expert 2.0 (MSX2, Brazil)
 manufacturer:Gradiente
 year:1986
 status:good
+emulation:good
+savestate:unsupported

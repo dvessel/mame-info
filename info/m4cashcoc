@@ -2,6 +2,8 @@ description:Cash Counter (Barcrest) (MPU4) (C3 3.1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4cashco

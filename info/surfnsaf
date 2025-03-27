@@ -2,6 +2,8 @@ description:Surf'n Safari
 manufacturer:Gottlieb
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

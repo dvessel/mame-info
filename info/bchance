@@ -1,4 +1,6 @@
 description:Bonne Chance! (French/English)
 year:198?
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,4 +2,6 @@ description:Mahjong Camera Kozou (Japan 881109, newer hardware)
 manufacturer:Miki Syouji
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:Fighting Hawk (World)
 manufacturer:Taito Corporation Japan
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

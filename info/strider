@@ -2,4 +2,6 @@ description:Strider (USA, B-Board 89624B-2)
 manufacturer:Capcom
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop

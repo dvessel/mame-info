@@ -2,5 +2,7 @@ description:Extreme Hunting 2
 manufacturer:Sega
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:awbios

@@ -2,4 +2,6 @@ description:Clash-Road
 manufacturer:Woodplace Inc.
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

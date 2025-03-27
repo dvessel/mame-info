@@ -2,5 +2,7 @@ description:Magical Drop II
 manufacturer:Data East Corporation
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

@@ -2,6 +2,8 @@ description:Apollo 9 (Maygay) v2.1 (M1A/B)
 manufacturer:Maygay
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413
 romof:m1apollo

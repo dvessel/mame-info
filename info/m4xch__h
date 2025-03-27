@@ -2,6 +2,8 @@ description:X-change (BWB) (MPU4) (20/25/30p stake / £15 jackpot)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4xch

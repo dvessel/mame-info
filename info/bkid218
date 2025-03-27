@@ -2,3 +2,5 @@ description:Handheld Game Console BC-19 - 218 in 1
 manufacturer:BornKid
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

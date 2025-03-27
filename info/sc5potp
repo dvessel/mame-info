@@ -2,4 +2,6 @@ description:Pick Of The Pack (Bellfruit) (Scorpion 5) (set 1)
 manufacturer:BFM
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

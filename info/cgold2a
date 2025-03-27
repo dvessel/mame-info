@@ -2,6 +2,8 @@ description:Caribbean Gold II (3XF5182H04, US)
 manufacturer:Aristocrat
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cgold2
 cloneof:cgold2

@@ -2,6 +2,8 @@ description:Bar X (Mazooma) (Scorpion 4) (BARX, set 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4bonbx
 cloneof:sc4bonbx

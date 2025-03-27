@@ -2,5 +2,7 @@ description:Hanafuda Night Rose (Japan, TSM008-04)
 manufacturer:Techno-Top
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413

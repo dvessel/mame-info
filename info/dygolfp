@@ -2,10 +2,11 @@ description:Virtua Golf / Dynamic Golf (prototype)
 manufacturer:Sega
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
 romof:dygolf
 romof:naomigd
 cloneof:dygolf
-disk:gds-0009a

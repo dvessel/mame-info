@@ -1,4 +1,6 @@
 description:Super Game Mega Type 1
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

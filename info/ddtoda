@@ -2,6 +2,8 @@ description:Dungeons &amp; Dragons: Tower of Doom (Asia 940412)
 manufacturer:Capcom
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:ddtod

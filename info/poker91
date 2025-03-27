@@ -1,4 +1,6 @@
 description:Poker 91
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

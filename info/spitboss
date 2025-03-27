@@ -2,4 +2,6 @@ description:Super Pit Boss (9221-02A)
 manufacturer:Merit
 year:1988
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

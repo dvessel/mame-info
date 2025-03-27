@@ -2,5 +2,7 @@ description:HP48G+
 manufacturer:Hewlett Packard
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 romof:hp48gx
 cloneof:hp48gx

@@ -2,5 +2,7 @@ description:Impulse (JPM) (IMPACT) (IP 5 C13) (set 1)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop

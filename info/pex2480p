@@ -2,4 +2,6 @@ description:Player's Edge Plus (X002480P+XP000154) Joker Poker (Aces or Better) 
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

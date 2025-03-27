@@ -2,3 +2,5 @@ description:Esprit
 manufacturer:Hazeltine
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:unsupported

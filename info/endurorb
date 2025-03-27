@@ -2,6 +2,8 @@ description:Enduro Racer (YM2151, FD1089B 317-0013A)
 manufacturer:Sega
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:enduror
 cloneof:enduror

@@ -2,5 +2,7 @@ description:DECO Cassette System
 manufacturer:Data East Corporation
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

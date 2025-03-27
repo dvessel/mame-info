@@ -2,5 +2,7 @@ description:Ruleta RE-800 (earlier, no attract)
 manufacturer:Entretenimientos GEMINIS
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 romof:re800v1
 cloneof:re800v1

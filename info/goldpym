@@ -2,6 +2,8 @@ description:Golden Pyramids Special Edition - Maximillions (10130811, NSW/ACT)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:qnilese
 romof:aristmk6
 cloneof:qnilese

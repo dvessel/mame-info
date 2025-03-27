@@ -2,4 +2,6 @@ description:Seicross (set 1)
 manufacturer:Nichibutsu / Alice
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Andy Loves Flo (Barcrest) (MPU4) (ALU 0.3 R)
 manufacturer:Barcrest
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4andyfl

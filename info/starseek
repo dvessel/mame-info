@@ -2,6 +2,8 @@ description:Doki Doki Idol Star Seeker (GDL-0005)
 manufacturer:G.Rev
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

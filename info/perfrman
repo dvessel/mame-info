@@ -2,4 +2,6 @@ description:Performan (Japan)
 manufacturer:Toaplan / Data East Corporation
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

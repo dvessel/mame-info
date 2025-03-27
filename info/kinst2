@@ -2,5 +2,7 @@ description:Killer Instinct 2
 manufacturer:Rare (Midway license)
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 disk:kinst2

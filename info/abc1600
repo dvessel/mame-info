@@ -2,6 +2,8 @@ description:ABC 1600
 manufacturer:Luxor
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:abc1600mover
 device:abc1600mac
 device:abc99

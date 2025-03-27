@@ -2,4 +2,6 @@ description:Mystery J &amp; B (V1.3G)
 manufacturer:Dyna
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

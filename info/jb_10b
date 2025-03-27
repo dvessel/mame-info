@@ -2,6 +2,8 @@ description:Jack*Bot (1.0B) (Belgium/Canada)
 manufacturer:Williams
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:jb_10r

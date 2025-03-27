@@ -2,6 +2,8 @@ description:Dr.Who The Timelord (set 3, UK, no Jackpot spin, Protocol) (Scorpion
 manufacturer:BFM
 year:1994
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

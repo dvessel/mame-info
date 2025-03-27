@@ -2,5 +2,7 @@ description:Maque Da Zhonghua Quan (Taiwan, D111)
 manufacturer:Dynax
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

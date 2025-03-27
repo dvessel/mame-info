@@ -2,5 +2,7 @@ description:ITT Tele-Match Processor
 manufacturer:ITT
 year:197?
 status:good
+emulation:good
+savestate:unsupported
 romof:channlf2
 cloneof:channlf2

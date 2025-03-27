@@ -2,6 +2,8 @@ description:Big Ben (20126911, NSW/ACT)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:bigben
 romof:aristmk6
 cloneof:bigben

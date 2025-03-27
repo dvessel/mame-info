@@ -2,6 +2,8 @@ description:Intellivision Keyboard Component (Unreleased)
 manufacturer:Mattel Electronics
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:stic
 romof:intv
 cloneof:intv

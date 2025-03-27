@@ -2,6 +2,8 @@ description:Galaxy Force 2 (Super Deluxe unit)
 manufacturer:Sega
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gforce2
 cloneof:gforce2

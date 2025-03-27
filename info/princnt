@@ -2,5 +2,7 @@ description:Prin-C (Rev 1)
 manufacturer:Tomy
 year:1996?
 status:preliminary
+emulation:good
+savestate:unsupported
 romof:princ
 cloneof:princ

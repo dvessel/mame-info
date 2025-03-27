@@ -2,6 +2,9 @@ description:LTM Portable (B+)
 manufacturer:Lawrie T&amp;M Ltd.
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 device:saa5050
 romof:bbcbp
 cloneof:bbcbp
+sampleof:bbc

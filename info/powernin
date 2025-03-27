@@ -2,3 +2,5 @@ description:Power Ninja Action Challenge
 manufacturer:Linus Åkesson
 year:2009
 status:good
+emulation:good
+savestate:unsupported

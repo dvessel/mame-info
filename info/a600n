@@ -2,6 +2,8 @@ description:Amiga 600 (NTSC)
 manufacturer:Commodore
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:a600kbd_us
 romof:a600
 cloneof:a600

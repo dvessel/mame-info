@@ -2,6 +2,8 @@ description:Player's Edge Plus (PS0372) Double Diamond Deluxe Slots
 manufacturer:IGT - International Game Technology
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:peps0366
 cloneof:peps0366

@@ -2,3 +2,5 @@ description:DynamiDesk (Germany)
 manufacturer:VTech
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported

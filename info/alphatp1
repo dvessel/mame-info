@@ -2,5 +2,7 @@ description:alphatronic P1
 manufacturer:Triumph-Adler
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:alphatp2
 cloneof:alphatp2

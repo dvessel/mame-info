@@ -2,6 +2,8 @@ description:Xybots (German, rev 3)
 manufacturer:Atari Games
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:xybots
 cloneof:xybots

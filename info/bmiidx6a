@@ -2,10 +2,12 @@ description:beatmania IIDX 6th style (GCB4U JAA)
 manufacturer:Konami
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bmiidx6
 romof:gq863
 cloneof:bmiidx6
-disk:b4ujab01
+disk:b4ujaa01
 disk:b4ujaa02
 disk:b4ujaa03

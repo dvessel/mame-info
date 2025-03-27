@@ -2,6 +2,8 @@ description:Moon Light (v.02L0A, low program)
 manufacturer:bootleg
 year:199?
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:goldstar
 cloneof:goldstar

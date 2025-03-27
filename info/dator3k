@@ -2,5 +2,7 @@ description:Dator 3000
 manufacturer:Dator
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wales210
 cloneof:wales210

@@ -2,4 +2,6 @@ description:Long Hu Zhengba 4 Dui Hua Ban (V203CN)
 manufacturer:IGS
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,4 +2,6 @@ description:Multi Game (IGT, M0000164)
 manufacturer:IGT
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ym2413

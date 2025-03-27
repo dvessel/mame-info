@@ -2,3 +2,5 @@ description:BattleFront
 manufacturer:TJF
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported

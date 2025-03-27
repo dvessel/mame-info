@@ -2,5 +2,7 @@ description:Clowns (rev. 2)
 manufacturer:Midway
 year:1978
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:clowns

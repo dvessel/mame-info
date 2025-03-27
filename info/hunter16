@@ -2,4 +2,6 @@ description:Husky Hunter 16
 manufacturer:Husky Computers Ltd
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd61830

@@ -2,4 +2,6 @@ description:Space Invaders II (Midway, cocktail)
 manufacturer:Midway
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Gynotai (Japan)
 manufacturer:Namco
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

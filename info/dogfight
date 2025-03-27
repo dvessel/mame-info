@@ -2,4 +2,6 @@ description:Dog Fight (Thunderbolt)
 manufacturer:Orca / Thunderbolt
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

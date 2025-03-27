@@ -2,6 +2,8 @@ description:Asteroid Annie and the Aliens
 manufacturer:Gottlieb
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:gts1

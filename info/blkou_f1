@@ -2,6 +2,8 @@ description:Blackout (L-1, French Speech)
 manufacturer:Williams
 year:1979
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:blkou_l1

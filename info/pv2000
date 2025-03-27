@@ -2,3 +2,5 @@ description:PV-2000
 manufacturer:Casio
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Versus Net Soccer (ver AAA)
 manufacturer:Konami
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:vsnetscr
 romof:konamigx

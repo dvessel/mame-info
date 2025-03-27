@@ -2,4 +2,6 @@ description:Grid Seeker: Project Storm Hammer (Ver 1.3O)
 manufacturer:Taito Corporation Japan
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

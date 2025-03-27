@@ -2,5 +2,7 @@ description:Medieval Madness (1.0)
 manufacturer:Williams
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

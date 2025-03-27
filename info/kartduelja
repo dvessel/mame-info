@@ -2,6 +2,8 @@ description:Kart Duel (Japan, KTD1/VER.A)
 manufacturer:Gaps / Namco
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:kartduel
 cloneof:kartduel

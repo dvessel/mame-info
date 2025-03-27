@@ -2,6 +2,8 @@ description:F1 Exhaust Note (US, Rev A)
 manufacturer:Sega
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:f1en
 cloneof:f1en

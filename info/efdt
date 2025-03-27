@@ -2,4 +2,6 @@ description:El Fin Del Tiempo
 manufacturer:Niemer
 year:1981
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

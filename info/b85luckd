@@ -2,4 +2,6 @@ description:Lucky Dice (Dutch) (System 85)
 manufacturer:BFM/ELAM
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

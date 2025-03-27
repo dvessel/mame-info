@@ -2,3 +2,5 @@ description:MagiBook (Spanish)
 manufacturer:VTech
 year:2016
 status:preliminary
+emulation:preliminary
+savestate:unsupported

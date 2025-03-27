@@ -2,6 +2,8 @@ description:Last Bronx (USA, Revision A)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:lastbrnx

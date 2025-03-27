@@ -2,6 +2,8 @@ description:Super Big 7 (MAB PCB) (Electrocoin) (?)
 manufacturer:Electrocoin
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_big7
 cloneof:ec_big7

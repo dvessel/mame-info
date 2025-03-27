@@ -2,6 +2,8 @@ description:Stargate (pinball)
 manufacturer:Gottlieb
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:stargatp

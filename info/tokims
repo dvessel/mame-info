@@ -2,6 +2,8 @@ description:Toki (Modular System)
 manufacturer:bootleg
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:toki
 cloneof:toki

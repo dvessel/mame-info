@@ -2,3 +2,5 @@ description:Lucky 75
 manufacturer:Wing Co., Ltd.
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported

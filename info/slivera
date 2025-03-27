@@ -2,6 +2,8 @@ description:Sliver (set 2)
 manufacturer:Hollow Corp
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:sliver
 cloneof:sliver

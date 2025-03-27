@@ -2,5 +2,7 @@ description:Brave Blade (World)
 manufacturer:Eighting / Raizing
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh1002m

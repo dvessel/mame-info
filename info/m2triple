@@ -2,6 +2,8 @@ description:Triple Chance (VFS) (MPU2) (Spot Light conversion, 2p Stake, £1.50 
 manufacturer:VFS
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:fruitsamples

@@ -2,6 +2,8 @@ description:Power Balls (Super Slam conversion)
 manufacturer:Playmark
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:powerbal
 cloneof:powerbal

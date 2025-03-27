@@ -2,4 +2,6 @@ description:Kaypro 10 - 1983
 manufacturer:Non-Linear Systems
 year:1983
 status:good
+emulation:good
+savestate:supported
 device:kaypro10kbd

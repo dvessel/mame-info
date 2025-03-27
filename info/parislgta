@@ -2,6 +2,8 @@ description:Paris Lights (10139011, ASP)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:parislgt
 romof:aristmk6
 cloneof:parislgt

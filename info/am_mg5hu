@@ -2,4 +2,6 @@ description:Multi Game V (AMGHU_VB3.65)
 manufacturer:Amatic Trading GmbH
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

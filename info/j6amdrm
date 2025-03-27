@@ -2,5 +2,7 @@ description:American Dream (Mdm) (IMPACT)
 manufacturer:Mdm
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

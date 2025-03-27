@@ -2,6 +2,8 @@ description:Tales From the Crypt (USA 1.04, display L1.03)
 manufacturer:Data East
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

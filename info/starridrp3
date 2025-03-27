@@ -2,6 +2,8 @@ description:Star Rider (PROTO 3)
 manufacturer:Williams
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:starridr
 cloneof:starridr

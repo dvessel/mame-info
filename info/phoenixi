@@ -2,6 +2,8 @@ description:Phoenix (IDI bootleg)
 manufacturer:bootleg (IDI)
 year:1981
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:phoenix
 cloneof:phoenix

@@ -2,6 +2,8 @@ description:Knights of the Round (Japan 911127, B-Board 91634B-2)
 manufacturer:Capcom
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:knights
 cloneof:knights

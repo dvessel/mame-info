@@ -2,4 +2,6 @@ description:Gold Bug
 manufacturer:Century Electronics
 year:1982
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

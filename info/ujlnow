@@ -2,5 +2,7 @@ description:Um Jammer Lammy NOW! (Japan, UL1/VER.A)
 manufacturer:Namco
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:ul1-a

@@ -2,6 +2,8 @@ description:Aracnis (bootleg of Scorpion on Moon Cresta hardware, set 1)
 manufacturer:bootleg
 year:19??
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:scorpion
 cloneof:scorpion

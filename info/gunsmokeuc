@@ -2,6 +2,8 @@ description:Gun.Smoke (USA and Canada, 1985-11-15, set 2)
 manufacturer:Capcom (Romstar license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gunsmoke
 cloneof:gunsmoke

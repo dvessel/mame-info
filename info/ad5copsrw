@@ -2,5 +2,7 @@ description:Cops 'n' Robbers (PR3206) (Bellfruit) (Adder 5) (set 14)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5copsr
 cloneof:ad5copsr

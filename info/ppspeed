@@ -2,6 +2,8 @@ description:Speed Up (Spanish bootleg of Pole Position)
 manufacturer:bootleg
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namco51
 device:namco52

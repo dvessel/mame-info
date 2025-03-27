@@ -2,6 +2,8 @@ description:Big 7 / Super Big 7 (Electrocoin) (set 32)
 manufacturer:Electrocoin
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_big7
 cloneof:ec_big7

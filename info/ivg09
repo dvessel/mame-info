@@ -2,5 +2,7 @@ description:CPU09 with IVG09 and IFD09
 manufacturer:C. Tavernier
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:cpu09
 cloneof:cpu09

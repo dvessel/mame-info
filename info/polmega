@@ -2,3 +2,5 @@ description:TV MegaMax active power game system 30-in-1 (MegaMax GPD001SDG)
 manufacturer:Polaroid / JungleTac
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported

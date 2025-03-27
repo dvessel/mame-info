@@ -2,5 +2,7 @@ description:Demolition Man (LX-4)
 manufacturer:Williams
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

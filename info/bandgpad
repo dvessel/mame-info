@@ -2,3 +2,5 @@ description:Multi Game Player Gamepad
 manufacturer:Bandai
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported

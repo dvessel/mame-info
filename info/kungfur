@@ -2,4 +2,6 @@ description:Kung-Fu Roushi
 manufacturer:Namco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

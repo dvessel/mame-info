@@ -2,4 +2,6 @@ description:Funny Strip
 manufacturer:Microhard / MagicGames
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

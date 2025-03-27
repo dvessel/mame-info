@@ -1,5 +1,7 @@
 description:Kristall-2
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:mikro80
 cloneof:mikro80

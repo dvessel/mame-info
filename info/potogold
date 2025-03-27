@@ -2,6 +2,8 @@ description:Pot of Gold
 manufacturer:Pacific Polytechnical Corp. (Game Plan license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:leprechn
 cloneof:leprechn

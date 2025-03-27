@@ -2,5 +2,7 @@ description:London Underground (Maygay M2, SW8-233 SW8-155)
 manufacturer:Maygay
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mg_lug
 cloneof:mg_lug

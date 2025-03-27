@@ -2,4 +2,6 @@ description:Dodge Man
 manufacturer:Omori Electric Co., Ltd.
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

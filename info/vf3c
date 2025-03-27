@@ -2,6 +2,8 @@ description:Virtua Fighter 3 (Japan, Revision C)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:vf3

@@ -2,6 +2,8 @@ description:Buccaneer (Barcrest) (MPU4) (BUG 0.5 B)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4buc

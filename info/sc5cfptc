@@ -2,6 +2,8 @@ description:Crazy Fruits Casino Party Time (Bellfruit) (Scorpion 5) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5cfpt
 cloneof:sc5cfpt

@@ -2,6 +2,8 @@ description:Ring no Ohja (Japan 2 Players ver. N)
 manufacturer:Konami
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mainevt
 cloneof:mainevt

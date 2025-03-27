@@ -2,5 +2,7 @@ description:Simatic PG685 OUA12
 manufacturer:Siemens
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pg685
 cloneof:pg685

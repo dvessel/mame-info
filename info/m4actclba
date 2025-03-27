@@ -2,6 +2,8 @@ description:Action Club (Barcrest) (MPU4) (A2C 1.1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4actclb

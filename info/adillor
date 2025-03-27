@@ -2,5 +2,7 @@ description:Armadillo Racing (World, AM2 Ver.A)
 manufacturer:Namco
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc71

@@ -2,4 +2,6 @@ description:Fruit Bonus 2000 / New Cherry 2000 (Version 4.4E Dual)
 manufacturer:Amcoe
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop

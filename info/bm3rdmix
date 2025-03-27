@@ -2,5 +2,7 @@ description:beatmania 3rd MIX (ver JA-A)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:825jaa11

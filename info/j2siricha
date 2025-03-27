@@ -2,6 +2,8 @@ description:Strike It Rich (JPM) (MPS) (set 2)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:j2sirich
 cloneof:j2sirich

@@ -2,4 +2,6 @@ description:Phoenix (Amstar, set 1)
 manufacturer:Amstar
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop

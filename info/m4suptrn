@@ -2,5 +2,7 @@ description:Supatron (Barcrest) (MPU4) (DSU 2.1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

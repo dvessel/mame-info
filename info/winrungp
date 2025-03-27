@@ -2,5 +2,7 @@ description:Winning Run Suzuka Grand Prix (Japan) (89/12/03, Ver.02)
 manufacturer:Namco
 year:1989
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:namcoc65

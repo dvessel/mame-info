@@ -2,6 +2,8 @@ description:F1 Grand Prix (Nuova Bell Games)
 manufacturer:Nuova Bell Games
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

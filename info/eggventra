@@ -2,6 +2,8 @@ description:Egg Venture (A.L. Release)
 manufacturer:The Game Room (A.L. Australia license)
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:eggventr
 cloneof:eggventr

@@ -2,6 +2,8 @@ description:Hydra (prototype 5/25/90)
 manufacturer:Atari Games
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hydra
 cloneof:hydra

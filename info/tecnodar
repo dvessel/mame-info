@@ -2,5 +2,7 @@ description:Tecnodarts
 manufacturer:Automatics Pasqual
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

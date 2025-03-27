@@ -2,6 +2,8 @@ description:Bounty Hunter (German)
 manufacturer:Gottlieb
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bountyh

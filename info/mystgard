@@ -2,5 +2,7 @@ description:Mystic Garden (0100275V, NSW/ACT)
 manufacturer:Aristocrat
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aristmk5

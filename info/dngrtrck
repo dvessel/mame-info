@@ -2,6 +2,8 @@ description:Danger Track (bootleg of Rally X)
 manufacturer:bootleg (Petaco)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:rallyx
 cloneof:rallyx

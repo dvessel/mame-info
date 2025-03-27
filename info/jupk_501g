@@ -2,6 +2,8 @@ description:Jurassic Park (USA 5.01, display G5.01)
 manufacturer:Data East
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

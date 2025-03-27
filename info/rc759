@@ -2,3 +2,5 @@ description:RC759 Piccoline
 manufacturer:Regnecentralen
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported

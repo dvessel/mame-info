@@ -2,6 +2,8 @@ description:Ninja Emaki (Tecfri license)
 manufacturer:Nichibutsu (Tecfri license)
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:ninjemak
 cloneof:ninjemak

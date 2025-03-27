@@ -2,6 +2,8 @@ description:Apple //e (enhanced, UK)
 manufacturer:Apple Computer
 year:1985
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

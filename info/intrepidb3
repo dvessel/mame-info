@@ -2,6 +2,8 @@ description:Intrepid (Elsys bootleg, set 2)
 manufacturer:bootleg (Elsys)
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:intrepid
 cloneof:intrepid

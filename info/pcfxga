@@ -2,5 +2,7 @@ description:PC-FX/GA (PC ISA Card)
 manufacturer:NEC
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pcfx
 cloneof:pcfx

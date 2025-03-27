@@ -2,6 +2,8 @@ description:Fantasia II (1998)
 manufacturer:Comad
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fantsia2
 cloneof:fantsia2

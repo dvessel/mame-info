@@ -2,3 +2,5 @@ description:Speak &amp; Spell (US, 1980 version)
 manufacturer:Texas Instruments
 year:1980
 status:imperfect
+emulation:good
+savestate:supported

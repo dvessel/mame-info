@@ -2,6 +2,8 @@ description:La Rana (set 1)
 manufacturer:Inder
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

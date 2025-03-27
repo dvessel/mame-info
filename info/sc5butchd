@@ -2,6 +2,8 @@ description:Butch Cashidy &amp; The Sundance Quid (Bellfruit) (Scorpion 5) (set 
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5butch
 cloneof:sc5butch

@@ -2,6 +2,8 @@ description:Double Or Quits (Bwb) (MPU5) (set 3)
 manufacturer:Bwb
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5dblqts
 cloneof:m5dblqts

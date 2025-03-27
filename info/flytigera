@@ -2,6 +2,8 @@ description:Flying Tiger (set 2)
 manufacturer:Dooyong
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:flytiger
 cloneof:flytiger

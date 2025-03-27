@@ -2,5 +2,7 @@ description:The King of Fighters '96 (NGM-214)
 manufacturer:SNK
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

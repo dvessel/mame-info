@@ -2,5 +2,7 @@ description:Mephisto MM II (set 3, v2.00)
 manufacturer:Hegener + Glaser
 year:1985
 status:good
+emulation:good
+savestate:supported
 romof:mm2
 cloneof:mm2

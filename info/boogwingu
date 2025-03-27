@@ -2,6 +2,8 @@ description:Boogie Wings (USA v1.7, 92.12.14)
 manufacturer:Data East Corporation
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:boogwing
 cloneof:boogwing

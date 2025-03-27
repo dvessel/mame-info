@@ -2,5 +2,7 @@ description:Gradius (Bubble System)
 manufacturer:Konami
 year:1985
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bubsys

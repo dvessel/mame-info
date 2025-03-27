@@ -2,6 +2,8 @@ description:Snakes &amp; Ladders (JPM) (IMPACT) (SL18 AC22) (set 3)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6snakes

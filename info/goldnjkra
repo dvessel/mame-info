@@ -2,6 +2,8 @@ description:Golden Joker (Ver 16.06UNG-25, set 2)
 manufacturer:Webak Elektronik
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:goldnjkr
 cloneof:goldnjkr

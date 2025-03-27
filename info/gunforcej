@@ -2,6 +2,8 @@ description:Gunforce - Battle Fire Engulfed Terror Island (Japan)
 manufacturer:Irem
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gunforce
 cloneof:gunforce

@@ -2,6 +2,8 @@ description:Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGH-087)
 manufacturer:SNK
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:samsho3
 romof:neogeo

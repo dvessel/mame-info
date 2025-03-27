@@ -2,6 +2,8 @@ description:Nebulous Bee
 manufacturer:bootleg
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namco51
 romof:galaga

@@ -2,4 +2,6 @@ description:Go &amp; Stop
 manufacturer:Astro Corp.
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

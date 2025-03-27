@@ -2,9 +2,10 @@ description:Dance Dance Revolution SuperNOVA 2 (GDJ:J:A:A:2007071100)
 manufacturer:Konami
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:ddrsn2j
 romof:kpython2
 cloneof:ddrsn2j
 disk:gdj_jaa_2007071100
-disk:gdj_jaa_2007100800

@@ -2,6 +2,8 @@ description:Airborne Avenger
 manufacturer:Atari
 year:1977
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

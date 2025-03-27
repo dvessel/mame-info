@@ -2,4 +2,6 @@ description:The Adventures of Robby Roto!
 manufacturer:Dave Nutting Associates / Bally Midway
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

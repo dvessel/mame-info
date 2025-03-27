@@ -2,4 +2,6 @@ description:Fever SOS (World, 98/09/25 VER)
 manufacturer:Cave (Nihon System license)
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop

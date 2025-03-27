@@ -2,6 +2,8 @@ description:Wild Angels (QHG0477-04, US)
 manufacturer:Aristocrat
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:wldangel
 romof:aristmk5

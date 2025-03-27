@@ -2,6 +2,8 @@ description:Lunar Rescue (Artic bootleg)
 manufacturer:bootleg (Artic)
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:lrescue
 cloneof:lrescue

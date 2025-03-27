@@ -2,6 +2,8 @@ description:The Lord Of The Rings (CPU 7.00, display A7.00)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:lotr

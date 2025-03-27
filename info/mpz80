@@ -2,4 +2,6 @@ description:MPZ80
 manufacturer:Morrow Designs
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:s100_sj2db

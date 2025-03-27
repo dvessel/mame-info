@@ -2,3 +2,5 @@ description:F387X PEP System
 manufacturer:Fairchild Instrument &amp; Camera Corporation
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:unsupported

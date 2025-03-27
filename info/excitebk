@@ -2,4 +2,6 @@ description:Vs. Excitebike (set EB4-3 E)
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

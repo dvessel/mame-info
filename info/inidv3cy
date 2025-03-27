@@ -2,6 +2,8 @@ description:Initial D Arcade Stage Ver. 3 Cycraft Edition (Export, Rev B) (GDS-0
 manufacturer:Sega
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

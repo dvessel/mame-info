@@ -2,6 +2,8 @@ description:Magic 7s / Cool 7 / Bar X 7 (2001 COOL7) (Electrocoin) (set 30)
 manufacturer:Electrocoin
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_mag7s
 cloneof:ec_mag7s

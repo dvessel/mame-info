@@ -2,3 +2,5 @@ description:Star Wars: Electronic Laser Battle Game
 manufacturer:Kenner
 year:1978
 status:good
+emulation:good
+savestate:supported

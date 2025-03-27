@@ -2,5 +2,7 @@ description:V.Smile Baby (France, with 'En Ville avec l'ourson Patoune')
 manufacturer:VTech
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:vsmileb
 cloneof:vsmileb

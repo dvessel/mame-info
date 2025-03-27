@@ -2,6 +2,8 @@ description:Spooky Hollow (Global) (EPOCH) (2.7, set 3)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_spook
 cloneof:ep_spook

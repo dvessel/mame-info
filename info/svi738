@@ -2,3 +2,5 @@ description:SVI-738 (MSX1, International)
 manufacturer:Spectravideo
 year:1985
 status:good
+emulation:good
+savestate:unsupported

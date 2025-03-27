@@ -2,6 +2,8 @@ description:Fun River (Version 1.3R CGA)
 manufacturer:Amcoe
 year:2005
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:funriver
 cloneof:funriver

@@ -2,6 +2,8 @@ description:Maximum Overdrive (JPM) (IMPACT) (set 4, Whitbread)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6maxod

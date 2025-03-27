@@ -2,6 +2,8 @@ description:Mushiking The King Of Beetles 2006 First (Japan)
 manufacturer:Sega
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

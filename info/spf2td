@@ -2,6 +2,8 @@ description:Super Puzzle Fighter II Turbo (USA 960620 Phoenix Edition) (bootleg)
 manufacturer:bootleg
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:spf2t

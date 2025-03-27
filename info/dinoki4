@@ -2,6 +2,8 @@ description:Kodai Ouja Kyouryuu King - Mezame yo! Arata-naru Chikara!! (Japan, V
 manufacturer:Sega
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:segasp
 disk:mda-c0061

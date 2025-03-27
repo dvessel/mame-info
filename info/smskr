@@ -2,5 +2,7 @@ description:Gam*Boy II (Korea)
 manufacturer:Samsung
 year:1991
 status:good
+emulation:good
+savestate:supported
 romof:sms
 cloneof:sms

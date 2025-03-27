@@ -2,4 +2,6 @@ description:Playcenter Evolution III (v14.0, 'Epox' hardware)
 manufacturer:Recreativos Presas / Undergaming
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:playcenter_e_14_0_t

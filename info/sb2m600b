@@ -2,3 +2,5 @@ description:Superboard II Model 600 (Rev. B)
 manufacturer:Ohio Scientific
 year:1978
 status:good
+emulation:good
+savestate:supported

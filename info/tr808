@@ -2,3 +2,5 @@ description:TR-808 Rhythm Composer
 manufacturer:Roland
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:unsupported

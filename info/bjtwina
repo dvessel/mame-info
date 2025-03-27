@@ -2,6 +2,8 @@ description:Bombjack Twin (set 2)
 manufacturer:NMK
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bjtwin
 cloneof:bjtwin

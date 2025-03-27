@@ -2,6 +2,8 @@ description:Gun Dealer (Yam! Yam!? hardware, set 1)
 manufacturer:Dooyong
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gundealr
 cloneof:gundealr

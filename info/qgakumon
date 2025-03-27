@@ -2,4 +2,6 @@ description:Quiz Gakumon no Susume (Japan ver. JA1 Type H)
 manufacturer:Konami
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

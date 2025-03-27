@@ -2,6 +2,8 @@ description:HS-80 Programmable Polyphonic Synthesizer
 manufacturer:Roland
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780
 romof:ajuno2
 cloneof:ajuno2

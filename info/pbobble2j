@@ -2,6 +2,8 @@ description:Puzzle Bobble 2 (Ver 2.2J 1995/07/20)
 manufacturer:Taito Corporation
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pbobble2
 cloneof:pbobble2

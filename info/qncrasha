@@ -2,6 +2,8 @@ description:Quick &amp; Crash (US)
 manufacturer:Namco
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:qncrash
 cloneof:qncrash

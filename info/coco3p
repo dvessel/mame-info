@@ -2,6 +2,8 @@ description:Color Computer 3 (PAL)
 manufacturer:Tandy Radio Shack
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 device:coco_fdc
 romof:coco
 cloneof:coco

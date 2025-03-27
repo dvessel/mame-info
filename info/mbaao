@@ -2,6 +2,8 @@ description:Melty Blood Actress Again (Japan)
 manufacturer:Type-Moon / Ecole
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

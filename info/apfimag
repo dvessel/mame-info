@@ -2,5 +2,7 @@ description:APF Imagination Machine
 manufacturer:APF Electronics Inc.
 year:1979
 status:good
+emulation:good
+savestate:supported
 romof:apfm1000
 cloneof:apfm1000

@@ -2,6 +2,8 @@ description:Player's Edge Plus (PP0508) Loose Deuce Deuces Wild! Poker (set 2)
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pepp0450
 cloneof:pepp0450

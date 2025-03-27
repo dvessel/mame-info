@@ -2,4 +2,6 @@ description:Boulder Dash / Boulder Dash Part 2 (World)
 manufacturer:Data East Corporation (licensed from First Star)
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

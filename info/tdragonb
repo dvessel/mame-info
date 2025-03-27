@@ -2,6 +2,8 @@ description:Thunder Dragon (bootleg with Raiden sounds, encrypted)
 manufacturer:bootleg
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tdragon
 cloneof:tdragon

@@ -2,6 +2,8 @@ description:Street Fighter II (pinball, set 2)
 manufacturer:Gottlieb
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:sfightii

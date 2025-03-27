@@ -2,6 +2,8 @@ description:Majestic Twelve - The Space Invaders Part IV (US, revised code)
 manufacturer:Taito America Corporation
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ssi
 cloneof:ssi

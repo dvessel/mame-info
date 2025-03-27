@@ -2,6 +2,8 @@ description:Daytona USA (Turbo hack, set 1)
 manufacturer:hack (Kyle Hodgetts)
 year:1994?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:model1io
 romof:daytona

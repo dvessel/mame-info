@@ -2,6 +2,8 @@ description:Road Hog Club (PR3248) (Bellfruit) (Scorpion 5) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5rhclb
 cloneof:sc5rhclb

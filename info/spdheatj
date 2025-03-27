@@ -2,6 +2,8 @@ description:Super Dead Heat (Japan)
 manufacturer:Taito Corporation
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spdheat
 cloneof:spdheat

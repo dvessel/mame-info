@@ -2,6 +2,8 @@ description:Mephisto Milano (v1.01)
 manufacturer:Hegener + Glaser
 year:1991
 status:good
+emulation:good
+savestate:supported
 device:hd44780
 romof:milano
 cloneof:milano

@@ -2,6 +2,8 @@ description:Metal Hawk (Japan, Rev F)
 manufacturer:Namco
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65
 romof:metlhawk

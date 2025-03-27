@@ -2,6 +2,8 @@ description:Mr. Evil
 manufacturer:Recel
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:recel

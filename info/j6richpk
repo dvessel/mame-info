@@ -2,5 +2,7 @@ description:Rich Pickings (Ace) (IMPACT)
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

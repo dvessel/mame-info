@@ -1,5 +1,7 @@
 description:Anakonda
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:special
 cloneof:special

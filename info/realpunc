@@ -2,5 +2,7 @@ description:Real Puncher (World, v2.12O)
 manufacturer:Taito Corporation Japan
 year:1994
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop

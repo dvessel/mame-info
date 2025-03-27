@@ -2,5 +2,7 @@ description:Spectar (revision 3)
 manufacturer:Exidy
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:targ

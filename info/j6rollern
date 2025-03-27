@@ -2,6 +2,8 @@ description:Roller Coaster (JPM) (IMPACT) (RC4 I L15, 20p Stake, £8 Jackpot)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6roller

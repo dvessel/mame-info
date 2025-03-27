@@ -2,3 +2,5 @@ description:The Excellence (model 6080B)
 manufacturer:Fidelity International
 year:1987
 status:good
+emulation:good
+savestate:supported

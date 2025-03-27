@@ -2,6 +2,8 @@ description:Caesars Palace (Crystal) (IMPACT) (set 3)
 manufacturer:Crystal
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6cpal

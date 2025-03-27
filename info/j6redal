@@ -2,6 +2,8 @@ description:Red Alert (Crystal) (IMPACT) (set 1)
 manufacturer:Crystal
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6ra

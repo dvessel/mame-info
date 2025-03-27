@@ -2,4 +2,6 @@ description:Genius Leader 4004 Quadro L (Germany)
 manufacturer:Video Technology
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

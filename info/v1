@@ -2,6 +2,8 @@ description:V.1
 manufacturer:IDSA
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 sampleof:genpin

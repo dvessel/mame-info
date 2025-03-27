@@ -2,6 +2,8 @@ description:Turtle Treasure (10239811, ASP)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:turtreas
 romof:aristmk6
 cloneof:turtreas

@@ -2,6 +2,8 @@ description:Jolly Joker (Apple Time)
 manufacturer:Apple Time
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:jolyjokr
 cloneof:jolyjokr

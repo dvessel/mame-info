@@ -2,6 +2,8 @@ description:Le Bagnard (set 1)
 manufacturer:Valadon Automation
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bagman
 cloneof:bagman

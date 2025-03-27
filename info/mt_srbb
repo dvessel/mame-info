@@ -2,5 +2,7 @@ description:Super Real Basketball (Mega-Tech)
 manufacturer:Sega
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:megatech

@@ -2,4 +2,6 @@ description:unknown Zilec game on Blue Print hardware
 manufacturer:Zilec Electronics / Exodis
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

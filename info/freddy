@@ -2,6 +2,8 @@ description:Freddy: A Nightmare on Elm Street (rev.4)
 manufacturer:Gottlieb
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

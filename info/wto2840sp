@@ -2,3 +2,5 @@ description:Web Touch One (model 2840, Terra, Spanish)
 manufacturer:Alcatel
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported

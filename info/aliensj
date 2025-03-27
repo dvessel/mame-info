@@ -2,6 +2,8 @@ description:Aliens (Japan set 1)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:aliens
 cloneof:aliens

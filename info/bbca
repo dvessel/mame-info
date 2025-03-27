@@ -2,6 +2,9 @@ description:BBC Micro Model A
 manufacturer:Acorn Computers
 year:1981
 status:imperfect
+emulation:good
+savestate:unsupported
 device:saa5050
 romof:bbcb
 cloneof:bbcb
+sampleof:bbc

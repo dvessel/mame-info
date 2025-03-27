@@ -2,3 +2,5 @@ description:Exciting Black Jack
 manufacturer:Sega
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported

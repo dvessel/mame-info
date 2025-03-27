@@ -2,6 +2,8 @@ description:Pac-Man (bootleg on Moon Alien 'AL-10A1' hardware)
 manufacturer:bootleg
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

@@ -2,5 +2,7 @@ description:Chess Champion: MK II (set 1)
 manufacturer:Novag Industries / Commodore
 year:1979
 status:good
+emulation:good
+savestate:supported
 romof:chmate
 cloneof:chmate

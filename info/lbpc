@@ -2,5 +2,7 @@ description:Little Board/PC
 manufacturer:Ampro Computers
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:kb_pcxt83
 device:ega

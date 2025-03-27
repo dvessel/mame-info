@@ -2,3 +2,5 @@ description:The Last Starfighter (prototype)
 manufacturer:Atari Games
 year:1984
 status:imperfect
+emulation:good
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Motor Raid - Twin/DX
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:motoraid

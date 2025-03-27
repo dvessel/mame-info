@@ -2,6 +2,8 @@ description:Donkey Kong (Maygay) v8.1 (Alternate) (M1A/B)
 manufacturer:Maygay
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413
 romof:m1dkong

@@ -2,6 +2,8 @@ description:Alligator Hunt (protected, prototype?)
 manufacturer:Gaelco
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aligator
 cloneof:aligator

@@ -2,6 +2,8 @@ description:Commando (bootleg set 2)
 manufacturer:bootleg
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:commando
 cloneof:commando

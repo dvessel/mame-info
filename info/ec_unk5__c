@@ -2,6 +2,8 @@ description:unknown 'Electrocoin' Fruit Machines (Electrocoin) (set 4)
 manufacturer:Electrocoin
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_unk5
 cloneof:ec_unk5

@@ -2,6 +2,8 @@ description:Hi De Hi Deluxe (Ace) (ACESYS1) (set 2)
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:sp_hideh

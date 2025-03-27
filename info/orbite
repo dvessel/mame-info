@@ -2,3 +2,5 @@ description:Orbite (prototype)
 manufacturer:Model Racing
 year:1979?
 status:good
+emulation:good
+savestate:supported

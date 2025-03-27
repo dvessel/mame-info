@@ -2,6 +2,8 @@ description:Blaster (location test)
 manufacturer:Williams / Vid Kidz
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:blaster
 cloneof:blaster

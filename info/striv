@@ -2,4 +2,6 @@ description:Super Triv (English questions)
 manufacturer:Nova du Canada
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

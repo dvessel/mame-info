@@ -2,6 +2,8 @@ description:Make A Million Club (Bellfruit) (set 3, UK, 250GBP Jackpot) (Scorpio
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

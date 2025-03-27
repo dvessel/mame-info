@@ -2,6 +2,8 @@ description:The Phantom of the Opera (3.2)
 manufacturer:Data East
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

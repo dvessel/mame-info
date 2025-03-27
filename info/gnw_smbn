@@ -2,5 +2,7 @@ description:Game &amp; Watch: Super Mario Bros. (New Wide Screen)
 manufacturer:Nintendo
 year:1988
 status:good
+emulation:good
+savestate:supported
 romof:gnw_smb
 cloneof:gnw_smb

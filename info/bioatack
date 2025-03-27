@@ -2,4 +2,6 @@ description:Bio Attack
 manufacturer:Taito Corporation
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

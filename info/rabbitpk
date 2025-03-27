@@ -2,6 +2,8 @@ description:Rabbit Poker (Arizona Poker v1.1?)
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ampoker2
 cloneof:ampoker2

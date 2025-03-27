@@ -2,6 +2,8 @@ description:Family Guy (Bellfruit) (Scorpion 4) (set 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4fguy
 cloneof:sc4fguy

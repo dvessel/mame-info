@@ -2,3 +2,5 @@ description:Sudoku Plug &amp; Play TV Game '6 Intelligent Games'
 manufacturer:Smart Planet
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported

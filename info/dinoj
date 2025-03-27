@@ -2,6 +2,8 @@ description:Cadillacs: Kyouryuu Shin Seiki (Japan 930201)
 manufacturer:Capcom
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:dino

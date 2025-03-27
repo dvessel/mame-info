@@ -2,3 +2,5 @@ description:The Incredible Crash Dummies (Tiger)
 manufacturer:Tiger Electronics
 year:1993
 status:good
+emulation:good
+savestate:supported

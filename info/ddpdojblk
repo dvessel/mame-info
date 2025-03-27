@@ -2,6 +2,8 @@ description:DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07.Black Ver, newe
 manufacturer:Cave (AMI license)
 year:2002
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ddp3
 cloneof:ddp3

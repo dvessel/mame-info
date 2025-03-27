@@ -2,6 +2,8 @@ description:Pool 10 (Italian, set 10)
 manufacturer:C.M.C.
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pool10
 cloneof:pool10

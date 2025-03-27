@@ -2,6 +2,8 @@ description:Grand Golden Game (Mazooma) (PR2353) (Scorpion 4) (GGGB, 35GBP, set 
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4ggg
 cloneof:sc4ggg

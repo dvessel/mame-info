@@ -2,6 +2,8 @@ description:Monkey Land (Ver. AA.21.B)
 manufacturer:Astro Corp.
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:monkeyl
 cloneof:monkeyl

@@ -2,6 +2,8 @@ description:Soul Calibur (Asia, SOC14/VER.C)
 manufacturer:Namco
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:soulclbr
 cloneof:soulclbr

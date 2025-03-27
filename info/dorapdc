@@ -2,3 +2,5 @@ description:Dora l'exploratrice - Pocket Dream Console (VideoJet, France)
 manufacturer:Conny / VideoJet
 year:2013
 status:imperfect
+emulation:good
+savestate:unsupported

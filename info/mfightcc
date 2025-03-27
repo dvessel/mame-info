@@ -2,9 +2,10 @@ description:Mahjong Fight Club (ver JAC)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:mfightc
 romof:kviper
 cloneof:mfightc
 disk:c09c04
-disk:c09d04

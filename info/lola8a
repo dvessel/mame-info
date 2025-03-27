@@ -2,5 +2,7 @@ description:Lola 8A
 manufacturer:Institut Ivo Lola Ribar
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:lola8
 cloneof:lola8

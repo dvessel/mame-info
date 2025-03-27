@@ -2,6 +2,8 @@ description:Gingateikoku no Gyakushu (bootleg set 3)
 manufacturer:bootleg (Honly)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:uniwars
 cloneof:uniwars

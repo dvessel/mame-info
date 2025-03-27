@@ -2,5 +2,7 @@ description:Magic Johnson's Fast Break (Arcadia, V 2.8)
 manufacturer:Arcadia Systems
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ar_bios

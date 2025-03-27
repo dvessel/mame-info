@@ -2,3 +2,5 @@ description:ZX Spectrum +3e
 manufacturer:Amstrad plc
 year:2000
 status:good
+emulation:good
+savestate:unsupported

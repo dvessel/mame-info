@@ -2,10 +2,11 @@ description:MegaTouch XL Gold (Version r00)
 manufacturer:Merit Industries
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:dm_clgd5430
 device:microtouch
 romof:mtchxlgld
 cloneof:mtchxlgld
 disk:r00
-disk:r01

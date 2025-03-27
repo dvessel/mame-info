@@ -2,10 +2,11 @@ description:Photo Play 1999 (Netherlands)
 manufacturer:Funworld
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:clgd5446_pci
 romof:photoply99sp
 cloneof:photoply99sp
 disk:photoplay99nl
-disk:photoplay99sp

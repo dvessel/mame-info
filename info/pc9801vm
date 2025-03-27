@@ -2,5 +2,7 @@ description:PC-9801VM
 manufacturer:NEC
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:pc9801_26
 device:upd7220

@@ -2,6 +2,8 @@ description:Run For Your Money (Barcrest) (MPU4) (RU5 0.1 K)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4rfym

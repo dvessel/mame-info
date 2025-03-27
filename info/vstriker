@@ -2,5 +2,7 @@ description:Virtua Striker (Revision A)
 manufacturer:Sega
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill

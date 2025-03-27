@@ -2,6 +2,8 @@ description:Big Run (11th Rallye version, US?)
 manufacturer:Jaleco
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bigrun
 cloneof:bigrun

@@ -2,6 +2,8 @@ description:Plus 2 (CTL) (SRU) (2p Stake, £1 Jackpot)
 manufacturer:CTL
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:j_lt

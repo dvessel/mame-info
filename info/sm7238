@@ -2,4 +2,6 @@ description:SM 7238
 manufacturer:USSR
 year:1989
 status:imperfect
+emulation:good
+savestate:unsupported
 device:km035

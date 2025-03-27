@@ -2,6 +2,8 @@ description:The Simpsons - Duff Beer Guide (Maygay) (EPOCH) (set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_duff
 cloneof:ep_duff

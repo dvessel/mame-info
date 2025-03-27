@@ -2,6 +2,8 @@ description:Elvis (CPU 3.02, display A3.02)
 manufacturer:Stern
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:elvisp

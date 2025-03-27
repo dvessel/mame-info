@@ -2,6 +2,8 @@ description:F-Zero AX (Rev E) (GDT-0004E)
 manufacturer:Sega / Amusement Vision / Nintendo
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:triforce
 disk:gdt-0004e

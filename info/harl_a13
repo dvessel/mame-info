@@ -2,6 +2,8 @@ description:Harley Davidson (Sega, CPU 1.03, display A1.04)
 manufacturer:Sega
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

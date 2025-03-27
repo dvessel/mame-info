@@ -2,6 +2,8 @@ description:Dragon Treasure (Rev B) (GDS-0030B)
 manufacturer:Sega
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

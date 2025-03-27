@@ -2,6 +2,8 @@ description:Ares no Tsubasa (Japan, rev. B)
 manufacturer:Capcom
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lwings
 cloneof:lwings

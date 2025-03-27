@@ -2,5 +2,7 @@ description:Creature from the Black Lagoon (L-4)
 manufacturer:Bally
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

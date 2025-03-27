@@ -2,6 +2,8 @@ description:Queen of the Nile Special Edition (10102811, NSW/ACT)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:qnilese
 romof:aristmk6
 cloneof:qnilese

@@ -2,6 +2,8 @@ description:Crazy Gang (Bellfruit) (Scorpion 4) (set 12)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4crzgn
 cloneof:sc4crzgn

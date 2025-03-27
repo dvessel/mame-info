@@ -2,3 +2,5 @@ description:Swyft
 manufacturer:Information Applicance Inc
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

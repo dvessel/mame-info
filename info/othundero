@@ -2,6 +2,8 @@ description:Operation Thunderbolt (World)
 manufacturer:Taito Corporation Japan
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:othunder
 cloneof:othunder

@@ -2,6 +2,8 @@ description:Micro-Sep Model 3
 manufacturer:ILCE / SEP
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 device:coco_fdc
 romof:coco
 cloneof:coco

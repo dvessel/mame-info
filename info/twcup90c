@@ -2,6 +2,8 @@ description:Tecmo World Cup '90 (Europe set 3)
 manufacturer:Tecmo
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2608
 romof:twcup90

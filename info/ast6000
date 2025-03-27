@@ -2,6 +2,8 @@ description:Advantage! 6050d/6066d
 manufacturer:AST
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:clgd542x

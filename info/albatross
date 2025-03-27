@@ -2,6 +2,8 @@ description:Albatross (US prototype?)
 manufacturer:Nasco (Technos license)
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:suprgolf
 cloneof:suprgolf

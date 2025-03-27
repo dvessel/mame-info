@@ -2,5 +2,7 @@ description:Mars Matrix: Hyper Solid Shooting (USA 000412)
 manufacturer:Takumi (Capcom license)
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

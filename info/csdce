@@ -2,6 +2,8 @@ description:Choy Sun Doa - Cash Express (30149511, NSW/ACT)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:csd
 romof:aristmk6
 cloneof:csd

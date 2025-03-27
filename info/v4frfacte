@@ -2,6 +2,8 @@ description:Fruit Factory (BWB) (set 6) (MPU4 Video)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4frfact
 romof:v4bios

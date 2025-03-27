@@ -2,6 +2,8 @@ description:Satan of Saturn (set 2)
 manufacturer:SNK
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:satansat
 cloneof:satansat

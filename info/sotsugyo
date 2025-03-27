@@ -2,4 +2,6 @@ description:Sotsugyo Shousho (Japan)
 manufacturer:Mitchell (Atlus license)
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

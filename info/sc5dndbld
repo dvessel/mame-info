@@ -2,6 +2,8 @@ description:Deal or No Deal Beat The Banker Club (Bellfruit) (Scorpion 5) (set 5
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndbl
 cloneof:sc5dndbl

@@ -2,4 +2,6 @@ description:Hot Slots (6.00)
 manufacturer:Impera
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

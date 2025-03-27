@@ -2,6 +2,8 @@ description:Wrestle War (set 1, Japan) (FD1094 317-0090)
 manufacturer:Sega
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:wrestwar
 cloneof:wrestwar

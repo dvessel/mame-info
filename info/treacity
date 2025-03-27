@@ -2,4 +2,6 @@ description:Treasure City (Ver. 208)
 manufacturer:Subsino (American Alpha license)
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Skelagon
 manufacturer:Nihon Game (Nichibutsu USA license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sfx
 cloneof:sfx

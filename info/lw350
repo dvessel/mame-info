@@ -2,3 +2,5 @@ description:LW-350
 manufacturer:Brother
 year:1995
 status:good
+emulation:good
+savestate:unsupported

@@ -2,4 +2,6 @@ description:Tricky Doc (set 1)
 manufacturer:Tecfri
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

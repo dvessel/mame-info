@@ -2,4 +2,6 @@ description:Lady Gum
 manufacturer:Videos A A
 year:1995?
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

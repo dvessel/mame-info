@@ -2,6 +2,8 @@ description:My Hero (bootleg, 315-5132 encryption)
 manufacturer:bootleg
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:myhero
 cloneof:myhero

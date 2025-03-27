@@ -2,8 +2,9 @@ description:War: Final Assault (EPROM 1.3 Apr 7 1999, GUTS 1.3 Apr 7 1999, GAME 
 manufacturer:Atari Games
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:warfa
 cloneof:warfa
 disk:warfa15
-disk:warfa

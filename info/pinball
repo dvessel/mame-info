@@ -2,6 +2,8 @@ description:Pinball
 manufacturer:Stern
 year:1977
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

@@ -2,6 +2,8 @@ description:Kaleidoscope (011) (Qps) (Scorpion 4) (set 3)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4kalei
 cloneof:sc4kalei

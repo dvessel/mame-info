@@ -2,6 +2,8 @@ description:SegaSonic The Hedgehog (Japan, prototype)
 manufacturer:Sega
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sonic
 cloneof:sonic

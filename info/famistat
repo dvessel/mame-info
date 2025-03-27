@@ -2,6 +2,8 @@ description:FamicomStation
 manufacturer:Nintendo
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:famibox
 cloneof:famibox

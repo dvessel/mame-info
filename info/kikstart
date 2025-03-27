@@ -2,5 +2,7 @@ description:Kick Start: Wheelie King
 manufacturer:Taito Corporation
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5

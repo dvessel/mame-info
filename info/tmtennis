@@ -2,3 +2,5 @@ description:Tennis (Tomy)
 manufacturer:Tomy
 year:1980
 status:good
+emulation:good
+savestate:supported

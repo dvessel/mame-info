@@ -2,6 +2,8 @@ description:Untouchable (JPM) (IMPACT) (UN3BI LO6)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6untch

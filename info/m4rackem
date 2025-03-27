@@ -2,5 +2,7 @@ description:Rack Em Up (BWB) (MPU4) (ver. 3) (20/25/30p stake / £5/£15 jackpot
 manufacturer:BWB
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

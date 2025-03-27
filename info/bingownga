@@ -2,6 +2,8 @@ description:Bingo (set 2)
 manufacturer:Wing Co., Ltd.
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bingowng
 cloneof:bingowng

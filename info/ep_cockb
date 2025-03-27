@@ -2,6 +2,8 @@ description:Cock A Doodle Dosh (Maygay - Union) (EPOCH) (set 3)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cock
 cloneof:ep_cock

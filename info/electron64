@@ -2,6 +2,8 @@ description:Acorn Electron (64K Master RAM Board)
 manufacturer:Acorn Computers / Slogger
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 device:electron_plus3
 device:electron_plus1
 romof:electron

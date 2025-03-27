@@ -2,3 +2,5 @@ description:La Régence
 manufacturer:France Double R / Intelligent Software
 year:1982
 status:good
+emulation:good
+savestate:supported

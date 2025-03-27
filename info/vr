@@ -2,6 +2,8 @@ description:Virtua Racing
 manufacturer:Sega
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:model1io
 device:m1comm

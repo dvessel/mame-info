@@ -2,5 +2,7 @@ description:Laser 310 (SHRG)
 manufacturer:Video Technology
 year:1984
 status:good
+emulation:good
+savestate:supported
 romof:laser310
 cloneof:laser310

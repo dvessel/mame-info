@@ -2,4 +2,6 @@ description:Popper
 manufacturer:Omori Electric Co., Ltd.
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

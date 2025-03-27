@@ -2,6 +2,8 @@ description:Deal or No Deal The Perfect Game (Bellfruit) (Scorpion 4) (TPBG471, 
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4dndpg
 cloneof:sc4dndpg

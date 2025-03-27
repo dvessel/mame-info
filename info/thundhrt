@@ -2,5 +2,7 @@ description:Thunder Heart (13XF528902, US)
 manufacturer:Aristocrat
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 sampleof:3bagfull

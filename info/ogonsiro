@@ -2,6 +2,8 @@ description:Ougon no Shiro (Japan)
 manufacturer:Allumer / Taito Corporation
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gladiatr
 cloneof:gladiatr

@@ -2,4 +2,6 @@ description:Clay Shoot
 manufacturer:Allied Leisure
 year:1979
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

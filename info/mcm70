@@ -2,3 +2,5 @@ description:MCM/70
 manufacturer:Micro Computer Machines
 year:1974
 status:preliminary
+emulation:preliminary
+savestate:unsupported

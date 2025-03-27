@@ -2,5 +2,7 @@ description:Excel 68000 Mach II (rev. C+, set 2)
 manufacturer:Fidelity International
 year:1988
 status:good
+emulation:good
+savestate:supported
 romof:fex68k
 cloneof:fex68k

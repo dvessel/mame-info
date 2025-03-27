@@ -2,6 +2,8 @@ description:Coccinelle (bootleg of Lady Bug)
 manufacturer:bootleg (Model Racing)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ladybug
 cloneof:ladybug

@@ -2,5 +2,7 @@ description:Knights of Valour Super Heroes Plus / Sanguo Zhan Ji Luanshi Xiaoxio
 manufacturer:IGS
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:pgm

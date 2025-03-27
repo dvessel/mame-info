@@ -2,6 +2,8 @@ description:M.I.A. - Missing in Action (version S)
 manufacturer:Konami
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mia
 cloneof:mia

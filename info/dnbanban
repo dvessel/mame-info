@@ -2,5 +2,7 @@ description:Dora Neco BanBan
 manufacturer:Kato Seisakusho
 year:1993
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop

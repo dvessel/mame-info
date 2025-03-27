@@ -2,6 +2,8 @@ description:Pounds Of The Baskervilles (Maygay) (EPOCH) (2.2, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_baskr
 cloneof:ep_baskr

@@ -2,5 +2,7 @@ description:X1 Turbo (CZ-862C)
 manufacturer:Sharp
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:x1
 cloneof:x1

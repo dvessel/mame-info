@@ -2,5 +2,7 @@ description:Satan of Saturn (set 1)
 manufacturer:SNK
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:vanguard

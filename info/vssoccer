@@ -2,4 +2,6 @@ description:Vs. Soccer (set SC4-2 A)
 manufacturer:Nintendo
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

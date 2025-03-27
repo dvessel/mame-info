@@ -2,5 +2,7 @@ description:3DO (PAL)
 manufacturer:The 3DO Company
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:3do
 cloneof:3do

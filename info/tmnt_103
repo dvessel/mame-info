@@ -2,6 +2,8 @@ description:Teenage Mutant Ninja Turtles (1.03)
 manufacturer:Data East
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:tmnt_104

@@ -2,3 +2,5 @@ description:BCS 3 rev 2.4
 manufacturer:Eckhard Schiller
 year:1984
 status:good
+emulation:good
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Bully's Star Prize (PR3040) (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4bsp
 cloneof:sc4bsp

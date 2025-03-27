@@ -2,3 +2,5 @@ description:NWS-3860
 manufacturer:Sony
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported

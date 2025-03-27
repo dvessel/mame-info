@@ -2,6 +2,8 @@ description:Sunset Riders (bootleg 4 Players ver ADD)
 manufacturer:bootleg
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:ssriders
 cloneof:ssriders

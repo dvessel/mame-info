@@ -2,5 +2,7 @@ description:Tekken 5.1 (TE51 Ver. B)
 manufacturer:Namco
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys256
 disk:te51-dvd0

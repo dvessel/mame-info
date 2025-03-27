@@ -2,4 +2,6 @@ description:Skill Cherry '97 (Talking ver. sc3.52)
 manufacturer:Amcoe
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

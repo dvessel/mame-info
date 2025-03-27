@@ -2,4 +2,6 @@ description:Blood Storm (v2.22)
 manufacturer:Strata / Incredible Technologies
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

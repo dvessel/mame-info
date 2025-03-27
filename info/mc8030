@@ -2,3 +2,5 @@ description:MC-80.30/31
 manufacturer:VEB Elektronik Gera
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported

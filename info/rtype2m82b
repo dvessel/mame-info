@@ -2,6 +2,8 @@ description:R-Type II (Japan, bootleg M82 conversion)
 manufacturer:bootleg
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:rtype2
 cloneof:rtype2

@@ -2,6 +2,8 @@ description:Time Machine (LTD, 2 players)
 manufacturer:LTD
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:tmacltd4

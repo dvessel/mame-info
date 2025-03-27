@@ -2,4 +2,6 @@ description:Blackjack (Ver. 1.31)
 manufacturer:Cadillac Jack
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

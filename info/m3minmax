@@ -2,5 +2,7 @@ description:Mini Max (Associated Leisure) (MPU3)
 manufacturer:Associated Leisure
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

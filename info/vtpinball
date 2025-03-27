@@ -2,3 +2,5 @@ description:VRT VT SDK 'Pinball' (C-Compiler Demo Program 2)
 manufacturer:VRT / OJ-Jungle
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

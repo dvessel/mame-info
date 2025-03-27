@@ -2,6 +2,8 @@ description:Back to the Future - The Pinball (2.1)
 manufacturer:Data East
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bttf_a28

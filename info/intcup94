@@ -2,4 +2,6 @@ description:International Cup '94 (Ver 2.2O 1994/05/26)
 manufacturer:Taito Corporation Japan
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

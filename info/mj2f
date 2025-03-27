@@ -2,6 +2,8 @@ description:Sega Network Taisen Mahjong MJ 2 (Rev F) (GDX-0006F)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm
@@ -10,4 +12,3 @@ romof:mj2
 romof:chihiro
 cloneof:mj2
 disk:gdx-0006f
-disk:gdx-0006g

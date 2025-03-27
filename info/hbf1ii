@@ -2,5 +2,7 @@ description:HB-F1II (MSX2, Japan)
 manufacturer:Sony
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 romof:hbf1xd
 cloneof:hbf1xd

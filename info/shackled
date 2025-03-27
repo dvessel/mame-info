@@ -2,4 +2,6 @@ description:Shackled (US)
 manufacturer:Data East USA
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

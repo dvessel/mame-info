@@ -2,6 +2,8 @@ description:Crazy Monkey (bootleg, 050120, LOTO PROGRAM V-CM2)
 manufacturer:bootleg
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:czmon_13
 cloneof:czmon_13

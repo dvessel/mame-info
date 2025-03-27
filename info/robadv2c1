@@ -2,6 +2,8 @@ description:Robin's Adventure 2 (Version 1.7R, set 1)
 manufacturer:Amcoe
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:robadv2
 cloneof:robadv2

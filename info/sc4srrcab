@@ -2,6 +2,8 @@ description:Shake Rattle Roll Casino (Mazooma) (Scorpion 4) (set 7)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4srrmz
 cloneof:sc4srrmz

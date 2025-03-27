@@ -2,4 +2,6 @@ description:707 Performing Synthesizer
 manufacturer:Korg
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

@@ -2,4 +2,6 @@ description:Joker's Wild (Rev. B)
 manufacturer:Sega
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

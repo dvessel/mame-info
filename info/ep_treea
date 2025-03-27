@@ -2,6 +2,8 @@ description:Tree Amigos (Maygay) (EPOCH) (TRAM 0.3, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_tree
 cloneof:ep_tree

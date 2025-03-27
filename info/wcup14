@@ -2,5 +2,7 @@ description:World Cup (Ver 1.4)
 manufacturer:Nazionale Elettronica
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wcup
 cloneof:wcup

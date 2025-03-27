@@ -2,4 +2,6 @@ description:Freedom 220
 manufacturer:Liberty Electronics
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 device:freedom220_kbd

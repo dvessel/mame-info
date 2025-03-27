@@ -2,6 +2,8 @@ description:Poly Development System
 manufacturer:Polycorp
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:saa5050
 romof:poly1
 cloneof:poly1

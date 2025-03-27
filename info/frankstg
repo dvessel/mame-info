@@ -2,6 +2,8 @@ description:Mary Shelley's Frankenstein (Germany)
 manufacturer:Sega
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

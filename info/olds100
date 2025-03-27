@@ -2,6 +2,8 @@ description:Oriental Legend Special / Xiyou Shi E Zhuan Super (ver. 100, set 1)
 manufacturer:IGS
 year:1998
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:olds
 romof:pgm

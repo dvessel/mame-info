@@ -2,6 +2,8 @@ description:Bone Busters Inc.
 manufacturer:Gottlieb
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

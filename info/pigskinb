@@ -2,6 +2,8 @@ description:Pigskin 621AD (rev 1.1 6/05/90)
 manufacturer:Midway
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pigskin
 cloneof:pigskin

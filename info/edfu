@@ -2,6 +2,8 @@ description:E.D.F.: Earth Defense Force (North America)
 manufacturer:Jaleco
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:edf
 cloneof:edf

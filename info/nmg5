@@ -2,4 +2,6 @@ description:Multi 5 / New Multi Game 5 (set 1)
 manufacturer:Yun Sung
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop

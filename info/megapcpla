@@ -2,6 +2,8 @@ description:MegaPC Plus (WINBUS chipset)
 manufacturer:Amstrad plc
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:dm_clgd5430
 device:kb_ms_natural

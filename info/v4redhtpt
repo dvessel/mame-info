@@ -2,6 +2,8 @@ description:Red Hot Poker (Release 3, 20p Switchable to 10p, Cash+Token, Datapak
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4redhtp
 cloneof:v4redhtp

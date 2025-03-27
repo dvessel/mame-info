@@ -2,5 +2,7 @@ description:CIP-01
 manufacturer:Electronica
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 romof:spectrum
 cloneof:spectrum

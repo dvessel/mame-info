@@ -2,6 +2,8 @@ description:Fun Spot (Version 1.1, set 1) (Coinworld)
 manufacturer:Coinworld
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pr_fspot
 cloneof:pr_fspot

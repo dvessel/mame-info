@@ -2,4 +2,6 @@ description:Deluxe 5 (ver. 0107, 07/01/2000, set 1)
 manufacturer:ESD
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Atom with BBC Basic
 manufacturer:Acorn
 year:1982
 status:good
+emulation:good
+savestate:supported
 romof:atom
 cloneof:atom

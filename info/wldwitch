@@ -2,4 +2,6 @@ description:Wild Witch (Export, 6T/12T ver 1.84A)
 manufacturer:Video Klein
 year:2001
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

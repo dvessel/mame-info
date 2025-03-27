@@ -2,4 +2,6 @@ description:SR-16 (Alesis)
 manufacturer:Alesis
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

@@ -2,6 +2,8 @@ description:Super Expert (version A, set 2)
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1987
 status:good
+emulation:good
+savestate:supported
 device:hd44780
 romof:sexperta
 cloneof:sexperta

@@ -2,5 +2,7 @@ description:PC-386M
 manufacturer:Epson
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:pc9801_26
 device:upd7220

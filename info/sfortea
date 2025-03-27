@@ -2,4 +2,6 @@ description:Super Forte (version A, set 1)
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1987
 status:good
+emulation:good
+savestate:supported
 device:hd44780

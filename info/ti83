@@ -2,3 +2,5 @@ description:TI-83
 manufacturer:Texas Instruments
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -1,6 +1,8 @@
 description:Witch Card (English, no witch game)
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:witchcrd
 cloneof:witchcrd

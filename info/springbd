@@ -2,6 +2,8 @@ description:Springboard (bootleg of Circus)
 manufacturer:bootleg (Sub-Electro)
 year:1977
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:circus
 cloneof:circus

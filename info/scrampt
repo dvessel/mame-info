@@ -2,6 +2,8 @@ description:Scramble (Petaco S.A., Spanish bootleg)
 manufacturer:bootleg (Petaco S.A.)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:scramble
 cloneof:scramble

@@ -2,6 +2,8 @@ description:Indian Dreaming (0101340V, Queensland)
 manufacturer:Aristocrat
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:indrema5
 romof:aristmk5

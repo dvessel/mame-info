@@ -2,6 +2,8 @@ description:Aliens (World set 4)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:aliens
 cloneof:aliens

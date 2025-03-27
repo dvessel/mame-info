@@ -2,3 +2,5 @@ description:Zeus IG900 20-in-1 (US?)
 manufacturer:Lexibook / JungleTac
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported

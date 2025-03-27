@@ -2,6 +2,8 @@ description:10-Yard Fight '85 (US, Taito license)
 manufacturer:Irem (Taito license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:10yard
 cloneof:10yard

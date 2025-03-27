@@ -2,6 +2,8 @@ description:Cadash (Germany, rev 1)
 manufacturer:Taito Corporation Japan
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:cadash
 cloneof:cadash

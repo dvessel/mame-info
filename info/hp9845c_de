@@ -2,6 +2,8 @@ description:9845C (Germany)
 manufacturer:Hewlett-Packard
 year:1980
 status:good
+emulation:good
+savestate:unsupported
 device:hp9845_prt
 romof:hp9845c
 cloneof:hp9845c

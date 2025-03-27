@@ -2,5 +2,7 @@ description:Gold Mine (Bellfruit) (Adder 5) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5gldmn
 cloneof:ad5gldmn

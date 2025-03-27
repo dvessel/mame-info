@@ -2,6 +2,8 @@ description:Lazy Bones (BWB) (MPU4) (LBD 1.2, set 1)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4lazy

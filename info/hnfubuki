@@ -2,6 +2,8 @@ description:Hana Fubuki (Japan)
 manufacturer:Dynax
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hnayayoi
 cloneof:hnayayoi

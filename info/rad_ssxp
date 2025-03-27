@@ -2,5 +2,7 @@ description:ConnecTV SSX Snowboarder (PAL)
 manufacturer:Radica / Electronic Arts / SSD Company LTD
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:rad_ssx
 cloneof:rad_ssx

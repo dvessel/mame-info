@@ -2,5 +2,7 @@ description:Palm Pilot Pro
 manufacturer:U.S. Robotics
 year:1997
 status:good
+emulation:good
+savestate:supported
 romof:pilot1k
 cloneof:pilot1k

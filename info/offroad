@@ -2,4 +2,6 @@ description:Ironman Ivan Stewart's Super Off-Road (rev 4)
 manufacturer:Leland Corporation
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

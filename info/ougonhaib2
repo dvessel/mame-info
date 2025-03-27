@@ -2,6 +2,8 @@ description:Mahjong Ougon no Pai (Japan bootleg set 2, medal)
 manufacturer:bootleg
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:ougonhai

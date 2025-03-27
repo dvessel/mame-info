@@ -2,6 +2,8 @@ description:Dr.Who The Timelord Deluxe (set 1) (Scorpion 2/3)
 manufacturer:BFM
 year:1994
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

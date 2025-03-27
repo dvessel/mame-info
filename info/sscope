@@ -2,4 +2,6 @@ description:Silent Scope (ver UAD, Ver 1.33)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:Monster Slider (Japan)
 manufacturer:Visco / Datt Japan
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop

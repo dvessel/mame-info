@@ -2,4 +2,6 @@ description:Power Flipper Pinball Shooting (v1.33)
 manufacturer:Excellent System
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:Royal Poker '96 (set 1, v97-3.5)
 manufacturer:Amcoe
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

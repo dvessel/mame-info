@@ -2,6 +2,8 @@ description:Andy Capp (BWB / Barcrest) (MPU4) (AC10C, hack?, set 3)
 manufacturer:hack?
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4andycp

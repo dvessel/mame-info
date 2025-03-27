@@ -2,3 +2,5 @@ description:Elegance Chess Challenger (model 6085)
 manufacturer:Fidelity International
 year:1986
 status:good
+emulation:good
+savestate:supported

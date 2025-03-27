@@ -2,3 +2,5 @@ description:ML-G30 Model 2 (MSX2, Japan)
 manufacturer:Mitsubishi
 year:1985
 status:good
+emulation:good
+savestate:unsupported

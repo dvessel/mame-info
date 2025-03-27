@@ -2,6 +2,8 @@ description:MotoTour / Zippy Race (Tecfri license)
 manufacturer:Irem (Tecfri license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:travrusa
 cloneof:travrusa

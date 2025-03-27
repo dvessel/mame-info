@@ -2,6 +2,8 @@ description:50 Lions (10156111, ASP)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:50lions
 romof:aristmk6
 cloneof:50lions

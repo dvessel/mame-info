@@ -2,3 +2,5 @@ description:Game &amp; Watch: Octopus
 manufacturer:Nintendo
 year:1981
 status:good
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:Win Can Alley (Qps) (Scorpion 5) (set 8)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5wca
 cloneof:sc5wca

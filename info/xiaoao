@@ -2,6 +2,8 @@ description:Xiao Ao Jiang Hu (China, Ver. 1.00)
 manufacturer:Subsino
 year:1999
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bishjan
 cloneof:bishjan

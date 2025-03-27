@@ -2,4 +2,6 @@ description:Rack + Roll
 manufacturer:Senko Industries (Status license from Shinkai Inc.)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

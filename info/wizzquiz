@@ -2,4 +2,6 @@ description:Wizz Quiz (Konami version)
 manufacturer:Zilec-Zenitone (Konami license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

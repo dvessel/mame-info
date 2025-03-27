@@ -2,6 +2,8 @@ description:Tokimeki Mahjong Paradise - Doki Doki Hen
 manufacturer:Media / Sonnet
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:tmmjprd
 cloneof:tmmjprd

@@ -1,4 +1,6 @@
 description:Robot
 year:20??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

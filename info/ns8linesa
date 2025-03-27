@@ -2,6 +2,8 @@ description:New Lucky 8 Lines / New Super 8 Lines (W-4, Lucky97 HW)
 manufacturer:Yamate (bootleg)
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ns8lines
 cloneof:ns8lines

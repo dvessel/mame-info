@@ -2,4 +2,6 @@ description:Air Attack (set 1)
 manufacturer:Comad
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

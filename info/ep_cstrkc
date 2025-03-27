@@ -2,6 +2,8 @@ description:Crazy Streak Club (Global) (EPOCH) (set 4)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cstrk
 cloneof:ep_cstrk

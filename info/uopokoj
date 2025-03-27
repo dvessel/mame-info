@@ -2,6 +2,8 @@ description:Puzzle Uo Poko (Japan)
 manufacturer:Cave (Jaleco license)
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:uopoko
 cloneof:uopoko

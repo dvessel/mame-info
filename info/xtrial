@@ -2,6 +2,8 @@ description:Xtrial Racing (ver JAB)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:b4xb02

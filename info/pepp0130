@@ -2,4 +2,6 @@ description:Player's Edge Plus (PP0130) Aces and Faces Bonus Poker (Grand Casino
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,3 +2,5 @@ description:Gran Trak 20/Trak 20/Twin Racer
 manufacturer:Atari/Kee
 year:1974
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:The Big Breakfast Casino (Mazooma, set 2) (Scorpion 2/3)
 manufacturer:BFM/Mazooma
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

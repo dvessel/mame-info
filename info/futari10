@@ -2,6 +2,8 @@ description:Mushihime-Sama Futari Ver 1.0 (2006/10/23 MASTER VER.)
 manufacturer:Cave (AMI license)
 year:2006
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:futari15
 cloneof:futari15

@@ -2,6 +2,8 @@ description:Italian Job (Mazooma) (Scorpion 4) (set 11)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4ijob
 cloneof:sc4ijob

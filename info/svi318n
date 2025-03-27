@@ -2,5 +2,7 @@ description:SVI-318 (NTSC)
 manufacturer:Spectravideo
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:svi318
 cloneof:svi318

@@ -2,6 +2,8 @@ description:Hells Bells (PR1419) (Bellfruit) (Scorpion 4) (set 7)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4hellb
 cloneof:sc4hellb

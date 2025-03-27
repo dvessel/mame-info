@@ -2,6 +2,8 @@ description:Howzat!
 manufacturer:Hankin
 year:1980
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

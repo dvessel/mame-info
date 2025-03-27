@@ -2,6 +2,8 @@ description:Unicorn Dreaming (BHG1584, US)
 manufacturer:Aristocrat
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:unicornd
 romof:aristmk5

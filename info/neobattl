@@ -2,4 +2,6 @@ description:SD Gundam Neo Battling (Japan)
 manufacturer:Banpresto
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

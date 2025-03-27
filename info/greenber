@@ -2,5 +2,7 @@ description:Green Beret (Irem)
 manufacturer:Irem
 year:1980
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:ipminvad

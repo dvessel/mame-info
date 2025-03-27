@@ -2,4 +2,6 @@ description:CTK-2100
 manufacturer:Casio
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:hd44780

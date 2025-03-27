@@ -2,6 +2,8 @@ description:IQ Block (V113FR, gambling)
 manufacturer:IGS
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:iqblock

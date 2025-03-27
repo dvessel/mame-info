@@ -2,6 +2,8 @@ description:Punchy The Clown (R03)
 manufacturer:Alvin G
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:punchy

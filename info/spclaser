@@ -2,6 +2,8 @@ description:Space Laser
 manufacturer:Konami (Taito license)
 year:1980
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:spcewarl
 cloneof:spcewarl

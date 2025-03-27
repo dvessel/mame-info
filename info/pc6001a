@@ -2,5 +2,7 @@ description:PC-6001A "NEC Trek" (US)
 manufacturer:NEC
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pc6001
 cloneof:pc6001

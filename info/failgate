@@ -2,4 +2,6 @@ description:Fail Gate
 manufacturer:Success (Seibu Kaihatsu license)
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

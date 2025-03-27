@@ -2,6 +2,8 @@ description:Tao Taido (6 button version)
 manufacturer:Video System Co.
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:taotaido
 cloneof:taotaido

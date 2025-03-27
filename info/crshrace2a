@@ -2,6 +2,8 @@ description:Lethal Crash Race / Bakuretsu Crash Race (set 2, alternate sound ROM
 manufacturer:Video System Co.
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:crshrace
 cloneof:crshrace

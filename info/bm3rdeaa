@@ -2,8 +2,9 @@ description:beatmania 3rd MIX (ver EA-A)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bm3rdmix
 cloneof:bm3rdmix
 disk:825jab11
-disk:825jaa11

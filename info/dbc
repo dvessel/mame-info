@@ -2,6 +2,8 @@ description:Daai Baan Sing (Hong Kong, V027H)
 manufacturer:IGS
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lhb
 cloneof:lhb

@@ -2,6 +2,8 @@ description:Mighty Monkey (Kaina Games, bootleg on Scramble hardware)
 manufacturer:bootleg (Kaina Games)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mimonkey
 cloneof:mimonkey

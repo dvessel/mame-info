@@ -2,6 +2,8 @@ description:Monopoly Casino (PR2354) (Mazooma) (Scorpion 4) (GMBU, set 17)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4mcas
 cloneof:sc4mcas

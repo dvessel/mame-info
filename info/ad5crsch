@@ -2,5 +2,7 @@ description:Cops 'n' Robbers (PR2628) (Mazooma) (Adder 5) (set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5crsc
 cloneof:ad5crsc

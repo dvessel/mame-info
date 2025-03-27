@@ -2,6 +2,8 @@ description:Capcom Vs. SNK 2: Millionaire Fighting 2001 (Japan, Rev A) (GDL-0007
 manufacturer:Capcom / SNK
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:cvs2
 romof:naomigd
 cloneof:cvs2
 disk:gdl-0007a
-disk:gdl-0008

@@ -2,5 +2,7 @@ description:Over Top
 manufacturer:ADK
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

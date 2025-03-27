@@ -2,3 +2,5 @@ description:Eldorado Chess Challenger
 manufacturer:Fidelity Electronics International / CXG Systems
 year:1990
 status:good
+emulation:good
+savestate:supported

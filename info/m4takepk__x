@@ -2,6 +2,8 @@ description:Take Your Pick (Barcrest) (MPU4) (TA4 2.1, hack, set 1)
 manufacturer:hack
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4takepk

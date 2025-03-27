@@ -2,6 +2,8 @@ description:Flying Shark (bootleg with 8741)
 manufacturer:bootleg
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fshark
 cloneof:fshark

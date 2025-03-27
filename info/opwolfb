@@ -2,6 +2,8 @@ description:Operation Bear (bootleg of Operation Wolf)
 manufacturer:bootleg (Bear Corporation Korea)
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:opwolf
 cloneof:opwolf

@@ -2,4 +2,6 @@ description:Mission Possible (Lowen, V118)
 manufacturer:Lowen
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

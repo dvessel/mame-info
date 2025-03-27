@@ -2,6 +2,8 @@ description:Heavy Metal Meltdown (German)
 manufacturer:Bally
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:hvymetap

@@ -2,4 +2,6 @@ description:Tetris Plus 2 (World, V2.8)
 manufacturer:Jaleco / The Tetris Company
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop

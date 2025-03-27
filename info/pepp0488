@@ -2,6 +2,8 @@ description:Player's Edge Plus (PP0488) Standard Draw Poker (Arizona Charlie's)
 manufacturer:IGT - International Game Technology
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pepp0001
 cloneof:pepp0001

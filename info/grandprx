@@ -2,3 +2,5 @@ description:Grand Prix
 manufacturer:4fun
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

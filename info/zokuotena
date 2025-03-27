@@ -2,9 +2,10 @@ description:Zoku Otenamihaiken (V2.03J 2001/02/16 16:00)
 manufacturer:Success
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:zokuoten
 romof:coh3002t
 cloneof:zokuoten
 disk:zokuotena
-disk:zokuoten

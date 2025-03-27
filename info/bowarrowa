@@ -2,6 +2,8 @@ description:Bow &amp; Arrow (Prototype, rev. 22)
 manufacturer:Bally
 year:1976
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bowarrow

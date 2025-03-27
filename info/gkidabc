@@ -2,3 +2,5 @@ description:Genius KID ABC Fan (Germany)
 manufacturer:VTech
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

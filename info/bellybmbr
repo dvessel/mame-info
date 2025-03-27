@@ -2,4 +2,6 @@ description:Belly Bomber
 manufacturer:Namco
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

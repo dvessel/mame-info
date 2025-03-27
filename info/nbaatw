@@ -2,6 +2,8 @@ description:NBA All The Way (ver EAB)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:nbapbp
 cloneof:nbapbp

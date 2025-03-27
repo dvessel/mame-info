@@ -2,4 +2,6 @@ description:K-2-8: Talking Learning Computer (model 7-230)
 manufacturer:Tiger Electronics
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 device:votrsc01a

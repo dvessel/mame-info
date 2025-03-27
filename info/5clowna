@@ -2,6 +2,8 @@ description:Five Clown (English, set 2)
 manufacturer:IGS
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:5clown
 cloneof:5clown

@@ -2,5 +2,7 @@ description:Ragnagard / Shin-Oh-Ken
 manufacturer:Saurus
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

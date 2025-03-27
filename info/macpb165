@@ -2,5 +2,7 @@ description:Macintosh PowerBook 165
 manufacturer:Apple Computer
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 romof:macpb160
 cloneof:macpb160

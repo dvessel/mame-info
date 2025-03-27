@@ -2,11 +2,12 @@ description:Guitar Freaks 10th Mix (G*D10 VER. JAA)
 manufacturer:Konami
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 romof:gtfrk10m
 romof:sys573
 cloneof:gtfrk10m
-disk:d10jab01
 disk:d10jba02
 disk:d10jaa02

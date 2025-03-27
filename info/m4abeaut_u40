@@ -2,6 +2,8 @@ description:American Beauty (Avantime?) (MPU4) (ABU1, Ukraine, set 40)
 manufacturer:Avantime?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4abeaut

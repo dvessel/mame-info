@@ -2,3 +2,5 @@ description:Flash (Ideal)
 manufacturer:Ideal Toy Corporation
 year:1980
 status:good
+emulation:good
+savestate:supported

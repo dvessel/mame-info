@@ -2,6 +2,8 @@ description:Mad Alien (set 2)
 manufacturer:Data East Corporation
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:madalien
 cloneof:madalien

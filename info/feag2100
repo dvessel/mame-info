@@ -2,5 +2,7 @@ description:Elite Avant Garde 2100 (set 1)
 manufacturer:Fidelity International
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:feag
 cloneof:feag

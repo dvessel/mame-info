@@ -2,4 +2,6 @@ description:Rough Racer (Japan, Floppy Based, FD1094 317-0058-06b)
 manufacturer:Sega
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

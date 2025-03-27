@@ -2,6 +2,8 @@ description:Passport To Riches Club (Maygay) (EPOCH) (1.2, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_passp
 cloneof:ep_passp

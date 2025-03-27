@@ -2,4 +2,6 @@ description:Othello (version 3.0)
 manufacturer:Success
 year:1984
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

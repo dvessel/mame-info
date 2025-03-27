@@ -2,6 +2,8 @@ description:Reel To Reel (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4r2r
 cloneof:sc4r2r

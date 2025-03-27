@@ -2,4 +2,6 @@ description:Super-80 (V1.2)
 manufacturer:Dick Smith Electronics
 year:1981
 status:good
+emulation:good
+savestate:supported
 sampleof:relay

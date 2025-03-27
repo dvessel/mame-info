@@ -2,6 +2,8 @@ description:Spin Up (CTL) (Black Box) (10p Stake, £3 Jackpot)
 manufacturer:CTL
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bb_dblit

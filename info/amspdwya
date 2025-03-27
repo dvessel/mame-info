@@ -2,6 +2,8 @@ description:American Speedway (set 2)
 manufacturer:Enerdyne Technologies Inc.
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:amspdwy
 cloneof:amspdwy

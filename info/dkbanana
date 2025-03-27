@@ -2,5 +2,7 @@ description:Donkey Kong Banana Kingdom (host)
 manufacturer:Capcom
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 disk:dkbanana

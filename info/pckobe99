@@ -2,6 +2,8 @@ description:Print Club 2 Kobe Luminaire '99 (Print Club Custom 3) (J 991203 V1.0
 manufacturer:Atlus
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

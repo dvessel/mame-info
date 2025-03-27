@@ -2,6 +2,8 @@ description:Moon War (bootleg of Moon Cresta)
 manufacturer:bootleg
 year:198?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mooncrst
 cloneof:mooncrst

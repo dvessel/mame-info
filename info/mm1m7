@@ -2,5 +2,7 @@ description:MikroMikko 1 M7
 manufacturer:Nokia Data
 year:1981
 status:good
+emulation:good
+savestate:supported
 device:mm1kb
 sampleof:MM1_keyboard

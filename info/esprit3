@@ -2,5 +2,7 @@ description:Esprit III
 manufacturer:Hazeltine
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:esprit
 cloneof:esprit

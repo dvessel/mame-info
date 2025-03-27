@@ -2,3 +2,5 @@ description:Z-100
 manufacturer:Zenith Data Systems
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported

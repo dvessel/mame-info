@@ -2,6 +2,8 @@ description:Sala Due (Version 1.04)
 manufacturer:Industrias Brasileiras
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:saladue
 cloneof:saladue

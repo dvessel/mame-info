@@ -2,5 +2,7 @@ description:Acorn Electron
 manufacturer:Acorn Computers
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 device:electron_plus3
 device:electron_plus1

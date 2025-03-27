@@ -2,4 +2,6 @@ description:Gunbuster (World)
 manufacturer:Taito Corporation Japan
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

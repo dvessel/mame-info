@@ -2,6 +2,8 @@ description:Oni - The Ninja Master (Japan)
 manufacturer:Banpresto / Pandorabox
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:metmqstr
 cloneof:metmqstr

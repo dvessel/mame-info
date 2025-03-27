@@ -2,5 +2,7 @@ description:Wondermega (Japan, NTSC)
 manufacturer:Sega
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:xeye
 cloneof:xeye

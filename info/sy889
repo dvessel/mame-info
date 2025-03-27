@@ -2,3 +2,5 @@ description:SY-889 300 in 1 Handheld
 manufacturer:SY Corp
 year:2017
 status:imperfect
+emulation:good
+savestate:unsupported

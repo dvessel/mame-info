@@ -2,6 +2,8 @@ description:Best League (bootleg of Big Striker, World Cup)
 manufacturer:bootleg
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bigstrik
 cloneof:bigstrik

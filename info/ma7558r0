@@ -2,4 +2,6 @@ description:Multi-Action 7558-01-R0
 manufacturer:Merit
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

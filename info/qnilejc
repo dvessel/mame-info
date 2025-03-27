@@ -2,6 +2,8 @@ description:Queen of the Nile Special Edition - Jackpot Carnival (20123911, NSW/
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:qnilese
 romof:aristmk6
 cloneof:qnilese

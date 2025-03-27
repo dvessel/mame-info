@@ -2,5 +2,7 @@ description:Random Spin 'n' Win (PR2226, MAZPRNDN) (Mazooma) (Adder 5) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5rsnw
 cloneof:ad5rsnw

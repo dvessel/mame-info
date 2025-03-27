@@ -2,6 +2,8 @@ description:The Atarians
 manufacturer:Atari
 year:1976
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

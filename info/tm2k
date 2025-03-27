@@ -2,5 +2,7 @@ description:Touchmaster 2000 Plus (v4.63 Standard)
 manufacturer:Midway Games Inc.
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch

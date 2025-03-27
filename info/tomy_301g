@@ -2,6 +2,8 @@ description:The Who's Tommy Pinball Wizard (German 3.01, display G3.00)
 manufacturer:Data East
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,3 +2,5 @@ description:Sound Canvas SC-55
 manufacturer:Roland
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported

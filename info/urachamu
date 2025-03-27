@@ -2,5 +2,7 @@ description:Urachacha Mudaeri (Korea)
 manufacturer:GamToU
 year:2002
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:crysbios

@@ -2,6 +2,8 @@ description:Sega Touring Car Championship (Revision B)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:stcc
 cloneof:stcc

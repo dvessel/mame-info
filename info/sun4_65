@@ -2,6 +2,8 @@ description:SPARCstation 1+ (Sun 4/65)
 manufacturer:Sun Microsystems
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:bwtwo
 romof:sun4_300
 cloneof:sun4_300

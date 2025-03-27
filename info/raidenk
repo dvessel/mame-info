@@ -2,6 +2,8 @@ description:Raiden (Korea)
 manufacturer:Seibu Kaihatsu (IBL Corporation license)
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:raiden
 cloneof:raiden

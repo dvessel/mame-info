@@ -2,6 +2,8 @@ description:Skull Fang - Kuhga Gaiden (Asia 1.13)
 manufacturer:Data East Corporation
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:skullfng
 cloneof:skullfng

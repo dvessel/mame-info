@@ -2,6 +2,8 @@ description:Sahara Love (France)
 manufacturer:Christian Tabart
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:sinbad

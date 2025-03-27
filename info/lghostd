@@ -2,6 +2,8 @@ description:Laser Ghost (World) (bootleg of FD1094 317-0166 set)
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:lghost
 cloneof:lghost

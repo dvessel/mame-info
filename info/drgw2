@@ -2,5 +2,7 @@ description:Dragon World II (ver. 110X, Export)
 manufacturer:IGS
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pgm

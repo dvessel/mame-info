@@ -2,4 +2,6 @@ description:Paperboy (rev 3)
 manufacturer:Atari Games
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop

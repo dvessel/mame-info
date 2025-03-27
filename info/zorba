@@ -2,5 +2,7 @@ description:Zorba (Modular Micros)
 manufacturer:Modular Micros
 year:1984?
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:zorba_kbd
 device:m68705p3

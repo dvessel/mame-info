@@ -2,4 +2,6 @@ description:3X3 Puzzle (Enterprise)
 manufacturer:Ace Enterprise
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Oxo Bingo (JPM) (IMPACT) (OX6 L12) (set 1)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop

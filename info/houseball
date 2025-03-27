@@ -2,4 +2,6 @@ description:House Ball
 manufacturer:Olakoa
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

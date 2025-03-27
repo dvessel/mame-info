@@ -2,3 +2,5 @@ description:Les Maths Magiques (France)
 manufacturer:Texas Instruments
 year:1982
 status:imperfect
+emulation:good
+savestate:supported

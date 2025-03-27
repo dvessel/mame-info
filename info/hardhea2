@@ -2,4 +2,6 @@ description:Hard Head 2 (v2.0, Music Program v2.4)
 manufacturer:SunA
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,5 +2,7 @@ description:Mahjong Reach (Ver. 1.00)
 manufacturer:Dynax
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

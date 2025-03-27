@@ -2,6 +2,8 @@ description:Phantomas (bootleg of Spectar)
 manufacturer:bootleg (Jeutel)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spectar
 cloneof:spectar

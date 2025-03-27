@@ -2,6 +2,8 @@ description:Master Boy (Spanish, rev A, hack?)
 manufacturer:Gaelco
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mastboy
 cloneof:mastboy

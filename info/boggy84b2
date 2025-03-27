@@ -2,6 +2,8 @@ description:Boggy '84 (bootleg, set 2)
 manufacturer:bootleg
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:boggy84
 cloneof:boggy84

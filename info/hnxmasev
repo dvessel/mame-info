@@ -2,4 +2,6 @@ description:AV Hanafuda Hana no Christmas Eve (Japan 901204)
 manufacturer:Nichibutsu / AV Japan
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Cops 'n' Robbers Deluxe (Dutch) (Bellfruit) (Scorpion 1)
 manufacturer:BFM/ELAM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

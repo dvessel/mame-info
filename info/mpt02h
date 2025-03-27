@@ -2,5 +2,7 @@ description:MPT-02 Jeu TV Programmable (France)
 manufacturer:Hanimex
 year:1978
 status:good
+emulation:good
+savestate:supported
 romof:studio2
 cloneof:studio2

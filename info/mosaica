@@ -2,6 +2,8 @@ description:Mosaic (Fuuki)
 manufacturer:Space (Fuuki license)
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mosaic
 cloneof:mosaic

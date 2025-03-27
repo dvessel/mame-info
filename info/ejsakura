@@ -2,4 +2,6 @@ description:E-Jan Sakurasou (Japan, SYS386F V2.0)
 manufacturer:Seibu Kaihatsu
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,3 +2,5 @@ description:V-8 (MSX1, Japan)
 manufacturer:Canon
 year:1985
 status:good
+emulation:good
+savestate:unsupported

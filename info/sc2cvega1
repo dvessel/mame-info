@@ -2,6 +2,8 @@ description:Cash Vegas (Bellfruit) (set 4, UK, 10GBP Jackpot, 3rd Triennial) (Sc
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

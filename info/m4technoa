@@ -2,6 +2,8 @@ description:Techno Reel (Barcrest) (Dutch) (MPU4) (DTE 1.3, set 2, hack?)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4techno

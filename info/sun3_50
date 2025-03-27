@@ -2,3 +2,5 @@ description:Sun 3/50
 manufacturer:Sun Microsystems
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Cops 'n' Robbers Gold Club (Bellfruit) (Scorpion 4) (set 21)
 manufacturer:BFM
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4crgc
 cloneof:sc4crgc

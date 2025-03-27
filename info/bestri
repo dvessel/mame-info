@@ -2,4 +2,6 @@ description:Bestri (Korea, set 1)
 manufacturer:F2 System
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop

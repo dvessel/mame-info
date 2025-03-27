@@ -2,5 +2,7 @@ description:Driver's Edge (v1.6)
 manufacturer:Strata / Incredible Technologies
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:tms32031

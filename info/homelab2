@@ -2,3 +2,5 @@ description:Homelab 2 / Aircomp 16
 manufacturer:Jozsef and Endre Lukacs
 year:1982
 status:good
+emulation:good
+savestate:supported

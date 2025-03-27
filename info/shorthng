@@ -2,4 +2,6 @@ description:Shore Thing (0251088, US)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

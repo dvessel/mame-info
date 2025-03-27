@@ -2,3 +2,5 @@ description:VG-8235 (MSX2, Europe)
 manufacturer:Philips
 year:1986
 status:good
+emulation:good
+savestate:unsupported

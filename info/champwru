@@ -2,6 +2,8 @@ description:Champion Wrestler (US)
 manufacturer:Taito America Corporation
 year:1989
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:champwr
 cloneof:champwr

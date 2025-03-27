@@ -2,3 +2,5 @@ description:101 Games in 1 (Senario, NES/Famicom bootlegs)
 manufacturer:Senario
 year:2009
 status:imperfect
+emulation:good
+savestate:unsupported

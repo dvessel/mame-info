@@ -2,3 +2,5 @@ description:Sun 3/75/140/150/160/180
 manufacturer:Sun Microsystems
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Rolling Thunder (rev 3, hack)
 manufacturer:bootleg
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rthunder
 cloneof:rthunder

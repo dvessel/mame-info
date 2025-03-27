@@ -2,4 +2,6 @@ description:Syvalion (Japan)
 manufacturer:Taito Corporation
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:Haunted House Club (Maygay) (EPOCH) (1.4, set 1)
 manufacturer:Maygay
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

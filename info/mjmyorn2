@@ -2,5 +2,7 @@ description:Mahjong The Mysterious Orient Part 2 ~ Exotic Dream ~ (Japan, v1.00)
 manufacturer:Dynax
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

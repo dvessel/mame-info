@@ -2,5 +2,7 @@ description:Quiz Sangokushi (Japan)
 manufacturer:Capcom
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

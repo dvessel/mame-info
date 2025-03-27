@@ -2,5 +2,7 @@ description:Macintosh PowerBook 145
 manufacturer:Apple Computer
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 romof:macpb140
 cloneof:macpb140

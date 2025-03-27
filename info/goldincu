@@ -2,6 +2,8 @@ description:Golden Incas (0252533, US)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:goldinc
 romof:aristmk6
 cloneof:goldinc

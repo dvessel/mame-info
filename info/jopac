@@ -2,6 +2,8 @@ description:Jopac JO7400 (France)
 manufacturer:Philips (Brandt license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 device:ef9340_1
 device:i8245
 romof:videopacp

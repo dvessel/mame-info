@@ -2,3 +2,5 @@ description:Super Constellation
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1984
 status:good
+emulation:good
+savestate:supported

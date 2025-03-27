@@ -2,4 +2,6 @@ description:Super Nudge Gambler (Cotswold Microsystems) (MPS)
 manufacturer:Cotswold Microsystems
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

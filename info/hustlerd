@@ -2,6 +2,8 @@ description:Video Hustler (Dynamo Games)
 manufacturer:Konami (Dynamo Games license)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hustler
 cloneof:hustler

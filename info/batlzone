@@ -2,6 +2,8 @@ description:Battle Zone (bootleg of Mayday)
 manufacturer:bootleg (Video Game)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mayday
 cloneof:mayday

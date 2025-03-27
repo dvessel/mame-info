@@ -2,5 +2,7 @@ description:Sea Wolf II
 manufacturer:Dave Nutting Associates / Midway
 year:1978
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:seawolf

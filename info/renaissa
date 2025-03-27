@@ -2,3 +2,5 @@ description:Kasparov Renaissance (set 1)
 manufacturer:Saitek / Heuristic Software
 year:1989
 status:good
+emulation:good
+savestate:supported

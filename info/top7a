@@ -2,5 +2,7 @@ description:Top-7 (V8.8, set 2)
 manufacturer:bootleg (UTech)
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:top7
 cloneof:top7

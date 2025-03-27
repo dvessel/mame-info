@@ -2,6 +2,8 @@ description:Flame of Olympus - Cash Express (0351025, US)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:adonisa6
 romof:aristmk6
 cloneof:adonisa6

@@ -2,4 +2,6 @@ description:Stadium Hero '96 (Europe, EAJ, Tuning license)
 manufacturer:Data East Corporation
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Head Panic (ver. 0315, 15/03/2000)
 manufacturer:ESD / Fuuki
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hedpanic
 cloneof:hedpanic

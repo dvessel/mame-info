@@ -2,5 +2,7 @@ description:Lunar Lander (screen test)
 manufacturer:Atari
 year:1979
 status:good
+emulation:good
+savestate:supported
 romof:llander
 cloneof:llander

@@ -2,4 +2,6 @@ description:Blasteroids (rev 4)
 manufacturer:Atari Games
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

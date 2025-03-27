@@ -2,3 +2,5 @@ description:The Solution
 manufacturer:SCAT
 year:1984
 status:good
+emulation:good
+savestate:supported

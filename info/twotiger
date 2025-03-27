@@ -2,6 +2,8 @@ description:Two Tigers (dedicated)
 manufacturer:Bally Midway
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:midssio
 sampleof:twotiger

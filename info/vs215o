@@ -2,6 +2,8 @@ description:Virtua Striker 2 (Step 1.5, Japan, test/debug?)
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:vs2

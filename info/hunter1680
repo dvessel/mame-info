@@ -2,5 +2,7 @@ description:Husky Hunter 16/80
 manufacturer:Husky Computers Ltd
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:hunter16
 cloneof:hunter16

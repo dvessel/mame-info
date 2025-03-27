@@ -2,3 +2,5 @@ description:SpongeBob SquarePants Ticket Boom
 manufacturer:Sega
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

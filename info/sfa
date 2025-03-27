@@ -2,5 +2,7 @@ description:Street Fighter Alpha: Warriors' Dreams (Europe 950727)
 manufacturer:Capcom
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

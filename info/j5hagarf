@@ -2,6 +2,8 @@ description:Hagar (JPM) (SYSTEM5, set 7)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

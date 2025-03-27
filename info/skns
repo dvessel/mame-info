@@ -2,5 +2,7 @@ description:Super Kaneko Nova System BIOS
 manufacturer:Kaneko
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

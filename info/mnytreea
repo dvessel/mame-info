@@ -2,6 +2,8 @@ description:Money Tree (10122211, ASP)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mnytree
 romof:aristmk6
 cloneof:mnytree

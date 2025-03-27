@@ -2,6 +2,8 @@ description:Fruit Bonus 2010 (v. 2.0.1.0)
 manufacturer:Amcoe
 year:2009
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fb2010
 cloneof:fb2010

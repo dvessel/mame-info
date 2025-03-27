@@ -2,6 +2,8 @@ description:KP920121523 V2.20
 manufacturer:Morse
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

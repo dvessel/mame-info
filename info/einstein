@@ -2,3 +2,5 @@ description:Einstein TC-01
 manufacturer:Tatung
 year:1984
 status:good
+emulation:good
+savestate:unsupported

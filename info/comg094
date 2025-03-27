@@ -2,4 +2,6 @@ description:Cal Omega - Game 9.4 (Keno)
 manufacturer:Cal Omega Inc.
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

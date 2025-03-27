@@ -2,5 +2,7 @@ description:SportStation: NBA Showtime NBA on NBC (ver 2.1, Sep 22 1999) / NFL B
 manufacturer:Midway Games
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 disk:nbanfl

@@ -2,4 +2,6 @@ description:Acorn System 5
 manufacturer:Acorn Computers
 year:1982
 status:good
+emulation:good
+savestate:supported
 device:acorn_vdu80

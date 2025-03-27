@@ -2,6 +2,8 @@ description:Gallop Racer 3 (Japan)
 manufacturer:Tecmo
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:glpracr3
 romof:coh1002m

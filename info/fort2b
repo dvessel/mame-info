@@ -2,4 +2,6 @@ description:Fortress 2 Blue Arcade (World) (ver 1.01 / pcb ver 3.05)
 manufacturer:Eolith
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

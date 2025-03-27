@@ -2,6 +2,8 @@ description:Final Fight 30th Anniversary Edition (World, hack)
 manufacturer:hack
 year:2019
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ffight
 cloneof:ffight

@@ -2,6 +2,8 @@ description:Dennis The Menace (Barcrest) (MPU4) (DMT 0.1 YD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4denmen

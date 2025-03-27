@@ -2,6 +2,8 @@ description:Sicomp PC16-05
 manufacturer:Siemens
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:isa_hercules
 device:isa_hdc
 device:kb_pcxt83

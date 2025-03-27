@@ -2,6 +2,8 @@ description:Bubble Symphony (Ver 2.5A 1994/10/05)
 manufacturer:Taito America Corporation
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bublbob2
 cloneof:bublbob2

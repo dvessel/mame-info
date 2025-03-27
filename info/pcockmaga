@@ -2,6 +2,8 @@ description:Peacock Magic (10134311, ASP)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pcockmag
 romof:aristmk6
 cloneof:pcockmag

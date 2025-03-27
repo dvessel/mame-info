@@ -2,3 +2,5 @@ description:Tomy Tutor
 manufacturer:Tomy
 year:1983?
 status:good
+emulation:good
+savestate:unsupported

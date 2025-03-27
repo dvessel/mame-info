@@ -2,5 +2,7 @@ description:Sanma - San-nin Uchi Mahjong (Japan, version 2.60)
 manufacturer:ANES
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:ym2413

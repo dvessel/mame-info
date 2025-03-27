@@ -2,5 +2,7 @@ description:DPC-200A (MSX1, Argentina)
 manufacturer:Talent
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 romof:dpc200
 cloneof:dpc200

@@ -2,6 +2,8 @@ description:Maverick, The Movie (4.04, Display Rev. 4.02)
 manufacturer:Sega
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

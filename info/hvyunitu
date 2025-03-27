@@ -2,6 +2,8 @@ description:Heavy Unit -U.S.A. Version- (US)
 manufacturer:Kaneko / Taito
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hvyunit
 cloneof:hvyunit

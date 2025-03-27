@@ -2,6 +2,8 @@ description:Torpedo Alley (1.6)
 manufacturer:Data East
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:torp_e21

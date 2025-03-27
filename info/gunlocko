@@ -2,6 +2,8 @@ description:Gunlock (Ver 2.0O 1993/12/15)
 manufacturer:Taito Corporation Japan
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gunlock
 cloneof:gunlock

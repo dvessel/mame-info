@@ -2,6 +2,8 @@ description:Print Club Yoshimoto V1 (J 970208 V1.000)
 manufacturer:Atlus
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

@@ -2,5 +2,7 @@ description:Aladdin's Cave (Maygay M2, SW8-298 SW8-144)
 manufacturer:Maygay
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mg_alad
 cloneof:mg_alad

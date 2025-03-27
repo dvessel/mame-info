@@ -2,6 +2,8 @@ description:Decision Mate V
 manufacturer:NCR
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:dmv_keyboard
 device:upd7220
 device:dmv_k230

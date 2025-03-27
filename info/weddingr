@@ -2,6 +2,8 @@ description:Wedding Rhapsody (GX624 JAA)
 manufacturer:Konami
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:konamigv
 disk:weddingr

@@ -2,5 +2,7 @@ description:HX-10E (MSX1, Spain)
 manufacturer:Toshiba
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 romof:hx10
 cloneof:hx10

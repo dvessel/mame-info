@@ -2,6 +2,8 @@ description:Omni 4 Logic Analyzer
 manufacturer:Omni Logic Inc.
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:kaypro10kbd
 romof:kaypro484
 cloneof:kaypro484

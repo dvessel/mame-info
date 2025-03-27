@@ -2,5 +2,7 @@ description:Primo C-64
 manufacturer:Microkey
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:primoa32
 cloneof:primoa32

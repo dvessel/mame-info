@@ -2,3 +2,5 @@ description:Supremo
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1988
 status:good
+emulation:good
+savestate:supported

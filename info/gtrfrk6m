@@ -2,6 +2,8 @@ description:Guitar Freaks 6th Mix (G*B06 VER. JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 romof:sys573

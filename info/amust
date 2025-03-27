@@ -2,3 +2,5 @@ description:Amust Executive 816
 manufacturer:Amust
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported

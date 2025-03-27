@@ -2,3 +2,5 @@ description:Mini Sensory Chess Challenger (MCS-48 version)
 manufacturer:Fidelity Electronics
 year:1982
 status:good
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:Legend of Hero Tonma (Japan, bootleg with i8751)
 manufacturer:bootleg
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:loht
 cloneof:loht

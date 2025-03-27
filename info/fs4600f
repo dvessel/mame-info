@@ -2,3 +2,5 @@ description:FS-4600F (MSX2, Japan)
 manufacturer:National
 year:1986
 status:good
+emulation:good
+savestate:unsupported

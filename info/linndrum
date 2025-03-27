@@ -2,3 +2,5 @@ description:LinnDrum
 manufacturer:Linn Electronics
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported

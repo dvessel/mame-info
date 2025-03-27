@@ -2,6 +2,8 @@ description:Cross Blades! (Japan)
 manufacturer:Irem
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bmaster
 cloneof:bmaster

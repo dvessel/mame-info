@@ -2,4 +2,6 @@ description:Mephisto Berlin Professional 68020
 manufacturer:Hegener + Glaser
 year:1994
 status:good
+emulation:good
+savestate:supported
 device:hd44780

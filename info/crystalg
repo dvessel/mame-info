@@ -2,4 +2,6 @@ description:Crystal Gal (Japan 860512)
 manufacturer:Nichibutsu
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

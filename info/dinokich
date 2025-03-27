@@ -2,9 +2,10 @@ description:Konglongwang - D-Kids VS Alpha Yaosai (China, Ver 2.501) (MDA-C0081)
 manufacturer:Sega
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:dinoki25
 romof:segasp
 cloneof:dinoki25
 disk:mda-c0081
-disk:mda-c0047

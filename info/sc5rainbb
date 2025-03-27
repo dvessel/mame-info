@@ -2,6 +2,8 @@ description:Over The Rainbow (Bellfruit) (Scorpion 5) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5rainb
 cloneof:sc5rainb

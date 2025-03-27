@@ -2,6 +2,8 @@ description:Two Minute Drill (Ver 2.2A 1993/10/18)
 manufacturer:Taito America Corporation
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:2mindril

@@ -2,3 +2,5 @@ description:Integral Personal Computer 9808A
 manufacturer:Hewlett-Packard
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

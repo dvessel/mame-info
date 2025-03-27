@@ -2,5 +2,7 @@ description:Power Spikes II (NGM-068)
 manufacturer:Video System Co.
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

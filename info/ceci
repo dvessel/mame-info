@@ -2,6 +2,8 @@ description:China Education Computer I
 manufacturer:Shaanxi Province Computer Factory
 year:1987
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

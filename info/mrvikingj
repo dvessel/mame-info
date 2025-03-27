@@ -2,6 +2,8 @@ description:Mister Viking (315-5041, Japan)
 manufacturer:Sega
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mrviking
 cloneof:mrviking

@@ -2,5 +2,7 @@ description:Primo A-64
 manufacturer:Microkey
 year:1984
 status:good
+emulation:good
+savestate:supported
 romof:primoa32
 cloneof:primoa32

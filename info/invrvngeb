@@ -2,6 +2,8 @@ description:Invader's Revenge (set 3)
 manufacturer:Zenitone-Microsec Ltd.
 year:1980?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:invrvnge
 cloneof:invrvnge

@@ -2,6 +2,8 @@ description:Asura Buster - Eternal Warriors (Japan) (ARCADIA review build)
 manufacturer:Fuuki
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:asurabus
 cloneof:asurabus

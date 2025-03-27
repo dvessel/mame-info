@@ -2,6 +2,8 @@ description:Mario Kart Arcade GP (Japan, MKA1 Ver.C, update)
 manufacturer:Namco / Nintendo
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mkartagp
 romof:triforce
 cloneof:mkartagp

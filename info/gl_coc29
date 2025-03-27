@@ -2,6 +2,8 @@ description:Carry On Clubbin' (Global) (v2.9) (Stealth)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:gl_coc
 cloneof:gl_coc

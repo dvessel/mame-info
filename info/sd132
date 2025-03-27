@@ -2,5 +2,7 @@ description:SD-1 (32 voice)
 manufacturer:Ensoniq
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sd1
 cloneof:sd1

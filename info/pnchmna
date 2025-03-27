@@ -2,9 +2,10 @@ description:Punch Mania: Hokuto no Ken (GQ918 VER. JAB ALT CD)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:fghtmn
 romof:sys573
 cloneof:fghtmn
 disk:918jab02
-disk:918xxb02

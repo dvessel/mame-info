@@ -2,6 +2,8 @@ description:Yataimura Kingyosukui (4-player, China, Ver 1.000)
 manufacturer:Sega
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kingyo
 romof:segasp

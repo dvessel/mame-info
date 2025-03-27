@@ -2,4 +2,6 @@ description:Battle of the Solar System (rev. 1.1a 7/23/92)
 manufacturer:Microprose Games Inc.
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

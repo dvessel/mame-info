@@ -2,6 +2,8 @@ description:Pyros (US)
 manufacturer:Toaplan / Taito America Corporation
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wardner
 cloneof:wardner

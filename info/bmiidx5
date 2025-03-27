@@ -2,6 +2,8 @@ description:beatmania IIDX 5th style (GCA17 JAA)
 manufacturer:Konami
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gq863
 disk:a17jaa01

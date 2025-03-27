@@ -2,6 +2,8 @@ description:Atomic Boy (revision A)
 manufacturer:Irem (Memetron license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wilytowr
 cloneof:wilytowr

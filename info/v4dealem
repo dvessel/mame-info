@@ -2,4 +2,6 @@ description:Deal 'Em (MPU4 Conversion Kit, v7.0)
 manufacturer:Zenitone
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

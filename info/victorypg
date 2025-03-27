@@ -2,6 +2,8 @@ description:Victory (Pinball, German)
 manufacturer:Gottlieb
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:victoryp

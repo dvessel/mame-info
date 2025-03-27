@@ -2,5 +2,7 @@ description:MU15
 manufacturer:Yamaha
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:mu5lcd
 device:lc7985

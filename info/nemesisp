@@ -2,6 +2,8 @@ description:Nemesis
 manufacturer:Peyper
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

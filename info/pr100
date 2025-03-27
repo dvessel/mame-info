@@ -2,3 +2,5 @@ description:PR-100 Digital Sequencer (v2.02)
 manufacturer:Roland
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported

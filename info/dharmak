@@ -2,6 +2,8 @@ description:Dharma Doujou (Korea)
 manufacturer:Metro
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:dharma

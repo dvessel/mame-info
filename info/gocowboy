@@ -2,4 +2,6 @@ description:Go Go Cowboy (English, prize)
 manufacturer:Sammy
 year:2003
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

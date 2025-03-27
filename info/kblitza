@@ -2,5 +2,7 @@ description:Kasparov Blitz (set 2)
 manufacturer:Saitek / Heuristic Software
 year:1990
 status:good
+emulation:good
+savestate:supported
 romof:kblitz
 cloneof:kblitz

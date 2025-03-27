@@ -2,5 +2,7 @@ description:Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)
 manufacturer:SNK
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

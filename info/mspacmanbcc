@@ -2,6 +2,8 @@ description:Come-Cocos (Ms. Pac-Man) ('Made in Greece' Tecnausa bootleg)
 manufacturer:bootleg (Tecnausa)
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mspacman
 cloneof:mspacman

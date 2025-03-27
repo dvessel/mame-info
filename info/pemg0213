@@ -2,4 +2,6 @@ description:Player's Choice (MG0213) Multi-Game
 manufacturer:IGT - International Game Technology
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Coliseum Cash (JPM) (IMPACT) (set 1)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

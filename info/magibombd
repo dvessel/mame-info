@@ -2,6 +2,8 @@ description:Magic Bomb (Ver. AA.72.D, 14/11/05)
 manufacturer:Astro Corp.
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:magibomb
 cloneof:magibomb

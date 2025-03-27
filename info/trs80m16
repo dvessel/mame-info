@@ -2,6 +2,8 @@ description:TRS-80 Model 16
 manufacturer:Tandy Radio Shack
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:trs80m2kb
 romof:trs80m2
 cloneof:trs80m2

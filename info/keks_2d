@@ -2,6 +2,8 @@ description:Keks (bootleg, 060403, VIDEO GAME-1 KS01 set 2)
 manufacturer:bootleg
 year:2006
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:keks_6
 cloneof:keks_6

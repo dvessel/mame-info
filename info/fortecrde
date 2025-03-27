@@ -2,6 +2,8 @@ description:Forte Card (Ver 103, English)
 manufacturer:Fortex Ltd.
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fortecrd
 cloneof:fortecrd

@@ -2,6 +2,8 @@ description:Diamond Derby (Quinella bet, EDG Impeuropex bootleg)
 manufacturer:bootleg (EDG Impeuropex)
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:dmndrby
 cloneof:dmndrby

@@ -2,4 +2,6 @@ description:1000 Miglia: Great 1000 Miles Rally (Taiwan 94/07/18)
 manufacturer:Kaneko
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

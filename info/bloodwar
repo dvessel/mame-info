@@ -2,4 +2,6 @@ description:Blood Warrior
 manufacturer:Kaneko
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

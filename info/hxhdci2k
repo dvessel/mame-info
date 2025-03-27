@@ -2,3 +2,5 @@ description:HUMAX HDCI-2000
 manufacturer:HUMAX
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported

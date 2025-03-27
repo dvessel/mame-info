@@ -2,6 +2,8 @@ description:Take The Piste (Mazooma) (Scorpion 4) (set 6)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4ttp
 cloneof:sc4ttp

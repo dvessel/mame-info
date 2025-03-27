@@ -2,4 +2,6 @@ description:Soul Calibur (World, SOC12/VER.A2)
 manufacturer:Namco
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

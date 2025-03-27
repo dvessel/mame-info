@@ -2,6 +2,8 @@ description:Flash Point (Japan, bootleg set 1)
 manufacturer:bootleg (Datsu)
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fpoint
 cloneof:fpoint

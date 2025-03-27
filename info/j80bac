@@ -2,4 +2,6 @@ description:Bank A Coin (JPM) (SYSTEM80)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,4 +2,6 @@ description:Fruit Dream (Japan, Ver. 1.20)
 manufacturer:Nippon Data Kiki / Star Fish
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,3 +2,5 @@ description:Computer Chess (Conic, model 7012)
 manufacturer:Conic
 year:1980
 status:good
+emulation:good
+savestate:supported

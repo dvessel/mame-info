@@ -2,4 +2,6 @@ description:Dino Dino (Ver. A1.1, 01/13/2005)
 manufacturer:Astro Corp.
 year:2005
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

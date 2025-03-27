@@ -2,6 +2,8 @@ description:Lost in Space (CPU 1.01, display G1.02, Germany)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

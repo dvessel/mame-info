@@ -2,6 +2,8 @@ description:Three Ds - Three Dealers Casino House (set 2)
 manufacturer:Nichibutsu
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:threeds
 cloneof:threeds

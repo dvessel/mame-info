@@ -2,5 +2,7 @@ description:Buck Rogers: Planet of Zoom
 manufacturer:Sega
 year:1982
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 sampleof:buckrog

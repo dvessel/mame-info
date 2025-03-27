@@ -2,6 +2,8 @@ description:B256-80HP
 manufacturer:Commodore Business Machines
 year:1983
 status:good
+emulation:good
+savestate:supported
 device:c8050
 device:c8050fdc
 romof:b128hp

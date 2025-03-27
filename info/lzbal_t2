@@ -2,6 +2,8 @@ description:Laser Ball (T-2)
 manufacturer:Williams
 year:1980
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:lzbal_l2

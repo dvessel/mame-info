@@ -2,5 +2,7 @@ description:Pit Boss Megatouch (9234-20-01 R0A)
 manufacturer:Merit
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch

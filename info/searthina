@@ -2,6 +2,8 @@ description:Super Earth Invasion (set 2)
 manufacturer:bootleg (Competitive Video)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

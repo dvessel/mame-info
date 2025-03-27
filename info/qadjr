@@ -2,6 +2,8 @@ description:Quiz &amp; Dragons: Capcom Quiz Game (Japan Resale Ver. 940921)
 manufacturer:Capcom
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:qad
 cloneof:qad

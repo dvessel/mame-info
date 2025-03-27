@@ -2,6 +2,8 @@ description:The Last Bounty Hunter (v0.06)
 manufacturer:American Laser Games
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:lastbh
 romof:alg_bios

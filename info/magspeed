@@ -2,4 +2,6 @@ description:Magical Speed
 manufacturer:Allumer
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

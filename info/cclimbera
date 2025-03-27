@@ -2,6 +2,8 @@ description:Crazy Climber (US set 2)
 manufacturer:Nichibutsu
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:cclimber
 cloneof:cclimber

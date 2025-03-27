@@ -2,6 +2,8 @@ description:Waiwai Animal Land Jr. (Japan)
 manufacturer:Nakanihon / East Technology (Taito license)
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:animaljr

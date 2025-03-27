@@ -2,6 +2,8 @@ description:Pinball Magic (Redemption)
 manufacturer:Capcom
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pmv112
 cloneof:pmv112

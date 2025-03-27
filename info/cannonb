@@ -2,6 +2,8 @@ description:Cannon Ball (bootleg on Crazy Kong hardware) (set 1, buggy)
 manufacturer:bootleg (Soft)
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:cannonbp
 cloneof:cannonbp

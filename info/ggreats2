@@ -2,6 +2,8 @@ description:Golfing Greats 2 (ver JAC)
 manufacturer:Konami
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:opengolf
 romof:konamigx

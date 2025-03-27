@@ -2,6 +2,8 @@ description:Knights of the Round (USA 911127)
 manufacturer:Capcom
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:knights
 cloneof:knights

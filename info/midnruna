@@ -2,6 +2,8 @@ description:Midnight Run: Road Fighter 2 (AAA, Asia v1.10, older sound program)
 manufacturer:Konami
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:midnrun
 cloneof:midnrun

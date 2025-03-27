@@ -2,5 +2,7 @@ description:HC-85
 manufacturer:ICE-Felix
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:spectrum
 cloneof:spectrum

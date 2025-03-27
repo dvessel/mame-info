@@ -2,6 +2,8 @@ description:Carry On Joker (Barcrest) (MPU4) (COJ 2.1, set 5)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

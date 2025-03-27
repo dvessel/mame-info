@@ -2,4 +2,6 @@ description:Little Robin
 manufacturer:TCH
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

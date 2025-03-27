@@ -2,6 +2,8 @@ description:Ridge Racer (US, RR3)
 manufacturer:Namco
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc71
 device:namcoc74

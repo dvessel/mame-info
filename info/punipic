@@ -2,6 +2,8 @@ description:The Punisher (bootleg with PIC16C57, set 1)
 manufacturer:bootleg
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:punisher
 cloneof:punisher

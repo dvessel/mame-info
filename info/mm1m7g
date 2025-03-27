@@ -2,7 +2,10 @@ description:MikroMikko 1 M7G
 manufacturer:Nokia Data
 year:1981
 status:good
+emulation:good
+savestate:supported
 device:mm1kb
 device:upd7220
 romof:mm1m7
 cloneof:mm1m7
+sampleof:MM1_keyboard

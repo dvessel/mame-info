@@ -2,6 +2,8 @@ description:Sprint 4 (Rev 02, set 1)
 manufacturer:Atari
 year:1977
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sprint4
 cloneof:sprint4

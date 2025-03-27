@@ -2,4 +2,6 @@ description:Mahjong Raijinhai DX (Ver. D105)
 manufacturer:Dynax
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

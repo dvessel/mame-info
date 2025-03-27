@@ -2,6 +2,8 @@ description:Fitter
 manufacturer:Taito Corporation
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:roundup
 cloneof:roundup

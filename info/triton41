@@ -2,5 +2,7 @@ description:Triton L4.1
 manufacturer:Transam
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:triton72
 cloneof:triton72

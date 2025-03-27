@@ -2,3 +2,5 @@ description:Money In The Bank (NSW, Australia)
 manufacturer:Konami
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,5 +2,7 @@ description:The Lost Castle In Darkmist
 manufacturer:Seibu Kaihatsu (Taito license)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:t5182

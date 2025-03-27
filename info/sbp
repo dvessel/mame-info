@@ -2,5 +2,7 @@ description:Super Bubble Pop
 manufacturer:Vektorlogic
 year:2004
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

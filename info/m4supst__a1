@@ -2,6 +2,8 @@ description:Super Streak (Barcrest) (MPU4) (SPS 0.8, set 2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

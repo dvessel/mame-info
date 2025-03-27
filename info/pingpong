@@ -2,4 +2,6 @@ description:Konami's Ping-Pong
 manufacturer:Konami
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

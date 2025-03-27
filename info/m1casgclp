@@ -2,6 +2,8 @@ description:Casino Gambler Club (Maygay) v1.2 (Protocol) (M1A/B)
 manufacturer:Maygay
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413
 romof:m1casgcl

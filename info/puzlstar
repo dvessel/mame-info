@@ -2,5 +2,7 @@ description:Puzzle Star / Mohuan Xingzuo (ver. 100MG, 09/30/99 build)
 manufacturer:IGS (Metro license)
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:pgm

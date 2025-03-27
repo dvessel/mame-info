@@ -2,6 +2,8 @@ description:Fighters Swords (Korean release of Samurai Shodown III)
 manufacturer:SNK
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:samsho3
 romof:neogeo

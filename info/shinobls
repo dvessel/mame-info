@@ -2,6 +2,8 @@ description:Shinobi (Star bootleg, System 16A)
 manufacturer:bootleg (Star)
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:shinobi
 cloneof:shinobi

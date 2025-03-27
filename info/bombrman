@@ -2,6 +2,8 @@ description:Bomber Man (Japan)
 manufacturer:Irem (licensed from Hudson Soft)
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dynablst
 cloneof:dynablst

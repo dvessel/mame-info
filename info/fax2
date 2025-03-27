@@ -2,6 +2,8 @@ description:FAX 2
 manufacturer:Exidy
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fax
 cloneof:fax

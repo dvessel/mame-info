@@ -2,4 +2,6 @@ description:Rip Off
 manufacturer:Cinematronics
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop

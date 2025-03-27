@@ -2,3 +2,5 @@ description:Coolboy RS-18 (280 in 1)
 manufacturer:CoolBoy
 year:201?
 status:imperfect
+emulation:good
+savestate:unsupported

@@ -2,5 +2,7 @@ description:ConnecTV Card Night (PAL)
 manufacturer:Radica / SSD Company LTD
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:rad_crdn
 cloneof:rad_crdn

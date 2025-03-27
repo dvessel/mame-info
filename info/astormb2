@@ -2,6 +2,8 @@ description:Alien Storm (bootleg, set 2)
 manufacturer:bootleg
 year:1990
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:astorm
 cloneof:astorm

@@ -2,6 +2,8 @@ description:Fireball (JPM) (SYSTEM5-SAA, set 2)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j5firebl

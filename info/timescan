@@ -2,4 +2,6 @@ description:Time Scanner (set 2, System 16B)
 manufacturer:Sega
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

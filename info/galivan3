@@ -2,6 +2,8 @@ description:Cosmo Police Galivan (12/11/1985)
 manufacturer:Nichibutsu
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galivan
 cloneof:galivan

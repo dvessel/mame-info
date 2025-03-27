@@ -2,4 +2,6 @@ description:Enchanted Lamp (Konami Endeavour, Russia)
 manufacturer:Konami
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:konendev

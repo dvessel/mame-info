@@ -2,6 +2,8 @@ description:Battle Gear (Ver 2.40 A)
 manufacturer:Taito
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:taitotz
 disk:batlgear

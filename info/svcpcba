@@ -2,6 +2,8 @@ description:SNK vs. Capcom - SVC Chaos (JAMMA PCB, NEO-MVH MVOB PCB)
 manufacturer:Playmore / Capcom
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:svcpcb
 cloneof:svcpcb

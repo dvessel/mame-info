@@ -2,4 +2,6 @@ description:Kuru Kuru Pyon Pyon (Japan)
 manufacturer:Success / Taiyo Jidoki
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

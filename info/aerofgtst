@@ -2,6 +2,8 @@ description:Aero Fighters Special (Taiwan)
 manufacturer:Video System Co.
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:aerofgts
 romof:coh1002v

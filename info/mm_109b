@@ -2,6 +2,8 @@ description:Medieval Madness (1.09B)
 manufacturer:Williams
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:mm_10

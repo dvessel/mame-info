@@ -2,3 +2,5 @@ description:IBM 5110
 manufacturer:International Business Machines
 year:1978
 status:good
+emulation:good
+savestate:unsupported

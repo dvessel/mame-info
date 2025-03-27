@@ -2,6 +2,8 @@ description:SRD: Super Real Darwin (Japan, bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:srdarwin
 cloneof:srdarwin

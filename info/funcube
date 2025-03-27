@@ -2,4 +2,6 @@ description:Funcube (v1.5)
 manufacturer:Namco
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

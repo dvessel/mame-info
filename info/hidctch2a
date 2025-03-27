@@ -2,6 +2,8 @@ description:Hidden Catch 2 (pcb ver 1.00) (Kor/Eng/Jpn/Chi)
 manufacturer:Eolith
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:hidctch2
 cloneof:hidctch2

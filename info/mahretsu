@@ -2,5 +2,7 @@ description:Mahjong Kyo Retsuden (NGM-004 ~ NGH-004)
 manufacturer:SNK
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

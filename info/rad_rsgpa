@@ -2,5 +2,7 @@ description:Connectv Real Swing Golf (set 2)
 manufacturer:Radica / FarSight Studios
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:rad_rsg
 cloneof:rad_rsg

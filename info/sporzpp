@@ -2,3 +2,5 @@ description:Game Sporz Wireless Duet Play Ping-Pong
 manufacturer:Macro Winners
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported

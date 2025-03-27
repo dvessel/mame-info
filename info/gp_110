@@ -2,6 +2,8 @@ description:Model 110
 manufacturer:Game Plan
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios
 kind:coinop
 sampleof:genpin

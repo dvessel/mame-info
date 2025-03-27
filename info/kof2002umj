@@ -2,5 +2,7 @@ description:The King of Fighters 2002 Unlimited Match (Japan)
 manufacturer:SNK Playmore
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:kof2002um
 cloneof:kof2002um

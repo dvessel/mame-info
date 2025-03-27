@@ -2,4 +2,6 @@ description:iMac (Bondi blue)
 manufacturer:Apple Computer
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:cuda

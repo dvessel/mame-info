@@ -1,6 +1,8 @@
 description:EC-1841
 year:1987
 status:imperfect
+emulation:good
+savestate:unsupported
 device:ec1841_0002
 device:isa_hdc_ec1841
 device:kb_ec1841

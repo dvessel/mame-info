@@ -2,5 +2,7 @@ description:Bowling Road (Ver 1.4, ND2001 hardware)
 manufacturer:Nazionale Elettronica
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:bowlroad
 cloneof:bowlroad

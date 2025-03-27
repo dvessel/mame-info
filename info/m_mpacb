@@ -2,6 +2,8 @@ description:Mr. and Mrs. PacMan (set 2)
 manufacturer:Bally
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:m_mpac

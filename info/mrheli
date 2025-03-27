@@ -2,6 +2,8 @@ description:Mr. HELI no Daibouken (Japan)
 manufacturer:Irem
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bchopper
 cloneof:bchopper

@@ -2,3 +2,5 @@ description:MobiGo 2 (Germany)
 manufacturer:VTech
 year:2012
 status:preliminary
+emulation:preliminary
+savestate:unsupported

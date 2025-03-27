@@ -2,3 +2,5 @@ description:Micro Vs. System: Donkey Kong 3
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:supported

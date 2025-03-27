@@ -2,6 +2,8 @@ description:Metal Slug 3 (NGH-2560)
 manufacturer:SNK
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mslug3
 romof:neogeo

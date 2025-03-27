@@ -2,7 +2,8 @@ description:Star Trek: Voyager (stand-up version 1.002)
 manufacturer:Team Play/Game Refuge/Monaco Entertainment
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:voyager
 cloneof:voyager
 disk:voyagers
-disk:voyager

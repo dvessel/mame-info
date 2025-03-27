@@ -2,4 +2,6 @@ description:World Poker Tour v14.00
 manufacturer:Stern
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

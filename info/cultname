@@ -2,5 +2,7 @@ description:Seimei-Kantei-Meimei-Ki Cult Name
 manufacturer:I'Max
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:macsbios

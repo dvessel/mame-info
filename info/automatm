@@ -2,5 +2,7 @@ description:Automat (bootleg of Robocop, Modular System)
 manufacturer:bootleg (Gaelco / Ervisa)
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:robocop
 cloneof:robocop

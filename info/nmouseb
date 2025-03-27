@@ -2,6 +2,8 @@ description:Naughty Mouse (set 2)
 manufacturer:Amenip Nova Games Ltd.
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:nmouse
 cloneof:nmouse

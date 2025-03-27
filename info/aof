@@ -2,5 +2,7 @@ description:Art of Fighting / Ryuuko no Ken (NGM-044 ~ NGH-044)
 manufacturer:SNK
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

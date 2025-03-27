@@ -2,6 +2,8 @@ description:£6-X (BWB) (Release 3, 20p Switchable to 10p, Cash+Token, Datapak) 
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4sixx
 cloneof:v4sixx

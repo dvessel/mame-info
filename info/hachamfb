@@ -2,6 +2,8 @@ description:Hacha Mecha Fighter (19th Sep. 1991, unprotected, bootleg Thunder Dr
 manufacturer:bootleg
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:nmk004
 romof:hachamf

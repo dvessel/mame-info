@@ -2,6 +2,8 @@ description:Slap Fight (A76 set, GX-006-A PCB)
 manufacturer:Toaplan / Taito
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5
 romof:alcon

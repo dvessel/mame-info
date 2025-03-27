@@ -2,4 +2,6 @@ description:E Jong High School (Japan)
 manufacturer:Seibu Kaihatsu
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Torpedo Alley (2.1, Europe)
 manufacturer:Data East
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

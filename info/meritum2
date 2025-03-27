@@ -2,5 +2,7 @@ description:Meritum I (Model 2)
 manufacturer:Mera-Elzab
 year:1985
 status:good
+emulation:good
+savestate:supported
 romof:meritum1
 cloneof:meritum1

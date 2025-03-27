@@ -2,4 +2,6 @@ description:Long Hu Zhengba III Shengji Ban (V300C5)
 manufacturer:IGS
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

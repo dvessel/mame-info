@@ -2,4 +2,6 @@ description:Casino 21 UCMC/IWC (ver 30.08)
 manufacturer:UCMC/IWC
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

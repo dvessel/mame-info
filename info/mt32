@@ -2,4 +2,6 @@ description:MT-32
 manufacturer:Roland
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:sed1200da

@@ -2,3 +2,5 @@ description:Genius Leader Notebook
 manufacturer:VTech
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported

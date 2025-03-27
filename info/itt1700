@@ -2,3 +2,5 @@ description:ITT 1700
 manufacturer:ITT Courier
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

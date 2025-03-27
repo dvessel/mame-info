@@ -2,6 +2,8 @@ description:Las Vegas, Nevada
 manufacturer:hack
 year:198?
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:murogem
 cloneof:murogem

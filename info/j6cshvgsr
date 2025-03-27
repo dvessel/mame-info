@@ -2,6 +2,8 @@ description:Cash Vegas Strip (JPM) (IMPACT) (set 19)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6cshvgs

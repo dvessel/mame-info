@@ -2,5 +2,7 @@ description:Cybiko Classic (V2)
 manufacturer:Cybiko Inc
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:cybikov1
 cloneof:cybikov1

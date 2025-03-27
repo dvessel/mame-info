@@ -2,5 +2,7 @@ description:Chain Reaction (Maygay) (M1A/B)
 manufacturer:Maygay
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413

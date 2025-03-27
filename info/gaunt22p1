@@ -2,6 +2,8 @@ description:Gauntlet II (2 Players, rev 1)
 manufacturer:Atari Games
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gaunt2
 cloneof:gaunt2

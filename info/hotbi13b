@@ -2,5 +2,7 @@ description:HB-8000 Hotbit 1.3b (MSX1, Brazil)
 manufacturer:Sharp / Epcom
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 romof:hotbi13p
 cloneof:hotbi13p

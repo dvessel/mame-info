@@ -2,4 +2,6 @@ description:Jongkyo
 manufacturer:Kiwako
 year:1985
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

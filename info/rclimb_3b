@@ -2,6 +2,8 @@ description:Rock Climber (bootleg, 040827, new service menu)
 manufacturer:bootleg
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rclimb_3
 cloneof:rclimb_3

@@ -2,6 +2,8 @@ description:Good Vibrations (Union - Empire) (MPU4, set 2)
 manufacturer:Union / Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4gvibes

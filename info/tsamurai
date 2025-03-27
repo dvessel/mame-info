@@ -2,4 +2,6 @@ description:Samurai Nihon-Ichi (rev 1)
 manufacturer:Kaneko / Taito
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Multi Wars (bootleg of UniWar S)
 manufacturer:bootleg (Gayton Games)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:uniwars
 cloneof:uniwars

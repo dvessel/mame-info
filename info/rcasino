@@ -2,4 +2,6 @@ description:Royal Casino (D-2608208A1-2)
 manufacturer:Dyna Electronics
 year:1984
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

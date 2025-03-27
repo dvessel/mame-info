@@ -2,4 +2,6 @@ description:Lode Runner - The Dig Fight (ver. B)
 manufacturer:Psikyo
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop

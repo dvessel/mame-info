@@ -2,5 +2,7 @@ description:Baseball Stars: Be a Champ! (PlayChoice-10)
 manufacturer:SNK (Nintendo of America license)
 year:1989
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

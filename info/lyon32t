@@ -2,6 +2,8 @@ description:Mephisto Lyon 68030
 manufacturer:Hegener + Glaser
 year:1990
 status:good
+emulation:good
+savestate:supported
 device:hd44780
 romof:lyon32
 cloneof:lyon32

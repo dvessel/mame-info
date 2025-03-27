@@ -2,6 +2,8 @@ description:Macintosh 512k
 manufacturer:Apple Computer
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:mackbd_m0120
 device:mackbd_m0110
 romof:mac128k

@@ -2,6 +2,8 @@ description:Android (prototype, early build)
 manufacturer:Nasco
 year:198?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:androidp
 cloneof:androidp

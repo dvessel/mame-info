@@ -2,6 +2,8 @@ description:Royal Card (German, set 6)
 manufacturer:TAB Austria
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:royalcrd
 cloneof:royalcrd

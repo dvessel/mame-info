@@ -2,5 +2,7 @@ description:Marvel Super Heroes (Europe 951024)
 manufacturer:Capcom
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

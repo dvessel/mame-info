@@ -2,6 +2,8 @@ description:Jewel In the Crown (Barcrest) (MPU4) (JCC 3.7)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4jwlcwn

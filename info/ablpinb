@@ -2,3 +2,5 @@ description:Pinball (P8002, ABL TV Game)
 manufacturer:Advance Bright Ltd
 year:2005
 status:imperfect
+emulation:good
+savestate:unsupported

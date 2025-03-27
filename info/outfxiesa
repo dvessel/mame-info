@@ -2,6 +2,8 @@ description:The Outfoxies (Korea?)
 manufacturer:Namco
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc75
 romof:outfxies

@@ -2,4 +2,6 @@ description:Sonic The Hedgehog 3 (bootleg of Mega Drive version)
 manufacturer:bootleg / Sega
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

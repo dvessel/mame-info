@@ -2,6 +2,8 @@ description:Waga Seishun no Arcadia
 manufacturer:Sigma Enterprises Inc.
 year:1982
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:nyny
 cloneof:nyny

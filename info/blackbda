@@ -2,5 +2,7 @@ description:Black Beard (Russia, set 2)
 manufacturer:Astro Corp.
 year:2005?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:blackbd
 cloneof:blackbd

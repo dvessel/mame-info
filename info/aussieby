@@ -2,4 +2,6 @@ description:Aussie Byte II
 manufacturer:SME Systems
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 device:votrsc01a

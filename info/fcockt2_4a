@@ -2,6 +2,8 @@ description:Fruit Cocktail 2 (bootleg, 081105, banking address hack)
 manufacturer:bootleg
 year:2008
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fcockt2
 cloneof:fcockt2

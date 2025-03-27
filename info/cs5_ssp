@@ -2,4 +2,6 @@ description:Casino Strip V (Shooting Game version, for Pioneer LD)
 manufacturer:Status Games
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

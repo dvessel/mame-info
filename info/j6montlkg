@@ -2,6 +2,8 @@ description:Money Talks (JPM) (IMPACT) (MT7 P L19) (set 8, Protocol)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6montlk

@@ -2,6 +2,8 @@ description:Rapid Hero (Media Trading)
 manufacturer:NMK (Media Trading license)
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:arcadian
 cloneof:arcadian

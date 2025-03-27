@@ -2,4 +2,6 @@ description:News (set 1)
 manufacturer:Poby / Virus
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

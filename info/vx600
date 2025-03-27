@@ -2,3 +2,5 @@ description:VX600 Programmable Matrix Synthesizer
 manufacturer:Akai
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported

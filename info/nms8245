@@ -2,3 +2,5 @@ description:NMS 8245 (MSX2, Europe)
 manufacturer:Philips
 year:1987
 status:good
+emulation:good
+savestate:unsupported

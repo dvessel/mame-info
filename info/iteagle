@@ -2,5 +2,7 @@ description:Eagle BIOS
 manufacturer:Incredible Technologies
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

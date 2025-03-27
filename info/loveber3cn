@@ -2,9 +2,10 @@ description:Love And Berry - 3rd-5th Collection (China, Ver 1.001) (MDA-C0071)
 manufacturer:Sega
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:loveber3
 romof:segasp
 cloneof:loveber3
 disk:mda-c0071
-disk:mda-c0042

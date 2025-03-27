@@ -2,6 +2,8 @@ description:Raizin Ping Pong (V2.01O)
 manufacturer:Taito
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:taitotz
 disk:raizpin

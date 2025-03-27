@@ -2,6 +2,8 @@ description:Terminator 3: Rise of the Machines (CPU 3.01, display F3.00, France)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,3 +2,5 @@ description:TI-82
 manufacturer:Texas Instruments
 year:1993
 status:good
+emulation:good
+savestate:unsupported

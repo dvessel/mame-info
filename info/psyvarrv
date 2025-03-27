@@ -2,6 +2,8 @@ description:Psyvariar -Revision- (V2.04J 2000/08/11 22:00)
 manufacturer:Success
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh3002t
 disk:psyvarrv

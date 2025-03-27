@@ -2,5 +2,7 @@ description:Blast A Bank (MPU4) (BB 1.0)
 manufacturer:bootleg?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

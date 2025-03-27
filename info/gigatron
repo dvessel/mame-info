@@ -2,3 +2,5 @@ description:Gigatron TTL Microcomputer
 manufacturer:Marcel van Kervinck / Walter Belgers
 year:2018
 status:good
+emulation:good
+savestate:supported

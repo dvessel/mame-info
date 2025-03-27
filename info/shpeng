@@ -2,4 +2,6 @@ description:Sea Hunter Penguin
 manufacturer:WSAC Systems?
 year:1995
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

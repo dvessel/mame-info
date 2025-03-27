@@ -2,6 +2,8 @@ description:V Goal Soccer (US/Japan/Korea)
 manufacturer:Tecmo
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:vgoalsoc
 cloneof:vgoalsoc

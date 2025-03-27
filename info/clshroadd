@@ -2,6 +2,8 @@ description:Clash-Road (Data East license)
 manufacturer:Woodplace Inc. (Data East license)
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:clshroad
 cloneof:clshroad

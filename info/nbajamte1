@@ -2,6 +2,8 @@ description:NBA Jam Tournament Edition (rev 1.00 1/17/94)
 manufacturer:Midway
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:nbajamte
 cloneof:nbajamte

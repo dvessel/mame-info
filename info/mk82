@@ -2,6 +2,8 @@ description:MK-82
 manufacturer:Scomar
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:x820kb
 romof:bigboard
 cloneof:bigboard

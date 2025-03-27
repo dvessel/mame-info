@@ -2,6 +2,8 @@ description:Space Fortress (Zaccaria)
 manufacturer:Cinematronics (Zaccaria license)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:starcas
 cloneof:starcas

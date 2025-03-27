@@ -2,6 +2,8 @@ description:Gemini 2000 (set 2)
 manufacturer:Taito do Brasil
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:gemini2k

@@ -2,6 +2,8 @@ description:Enduro Racer (bootleg set 2)
 manufacturer:bootleg
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:enduror
 cloneof:enduror

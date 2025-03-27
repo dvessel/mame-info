@@ -2,6 +2,8 @@ description:Surprise Attack (Asia ver. L)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:suratk
 cloneof:suratk

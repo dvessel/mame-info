@@ -2,5 +2,7 @@ description:MC7105
 manufacturer:Elektronika
 year:1983
 status:imperfect
+emulation:good
+savestate:unsupported
 device:upd7220
 device:ms7004

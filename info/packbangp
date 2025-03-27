@@ -2,6 +2,8 @@ description:Pack'n Bang Bang (prototype)
 manufacturer:Kaneko
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:packbang
 cloneof:packbang

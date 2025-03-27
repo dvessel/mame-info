@@ -2,6 +2,8 @@ description:Lethal Enforcers II: Gun Fighters (ver UAA)
 manufacturer:Konami
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:le2
 romof:konamigx

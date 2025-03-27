@@ -2,6 +2,8 @@ description:Public Enemy No1 (Bellfruit) (Scorpion 4) (set 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4pen1
 cloneof:sc4pen1

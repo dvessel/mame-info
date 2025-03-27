@@ -2,5 +2,7 @@ description:Ping Pong Masters '93
 manufacturer:Electronic Devices S.R.L.
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

@@ -2,4 +2,6 @@ description:Imperial (3P1940IZ) Cashline D Bucks
 manufacturer:IGT - International Game Technology
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

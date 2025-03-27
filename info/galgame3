@@ -2,5 +2,7 @@ description:Galaxy Games StarPak 3
 manufacturer:Creative Electronics &amp; Software / Atari
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:galgbios

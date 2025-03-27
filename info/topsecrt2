@@ -2,6 +2,8 @@ description:Top Secret (Japan, revision B)
 manufacturer:Capcom
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bionicc
 cloneof:bionicc

@@ -2,6 +2,8 @@ description:More Chilli (20289311, Queensland)
 manufacturer:Aristocrat
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mchilli
 romof:aristmk6
 cloneof:mchilli

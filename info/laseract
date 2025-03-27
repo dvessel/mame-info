@@ -2,3 +2,5 @@ description:LaserActive with Genesis Pack PAC-S10 (USA, NTSC)
 manufacturer:Pioneer / Sega
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported

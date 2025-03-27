@@ -2,3 +2,5 @@ description:ADM-31 Data Display Terminal
 manufacturer:Lear Siegler
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:unsupported

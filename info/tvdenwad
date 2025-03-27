@@ -2,4 +2,6 @@ description:Terebi Denwa Doraemon
 manufacturer:Banpresto
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

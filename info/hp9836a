@@ -2,3 +2,5 @@ description:HP 9836A
 manufacturer:Hewlett-Packard
 year:1981
 status:good
+emulation:good
+savestate:unsupported

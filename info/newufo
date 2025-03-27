@@ -2,5 +2,7 @@ description:New UFO Catcher (standard)
 manufacturer:Sega
 year:1991
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Eggs Playing Chicken
 manufacturer:The Game Room
 year:2002
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:tgui9680
 disk:eggsplc

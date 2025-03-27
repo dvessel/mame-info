@@ -2,6 +2,8 @@ description:Super Six Plus II English Mark Darts (v2.7)
 manufacturer:Arachnid
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:arac6k33

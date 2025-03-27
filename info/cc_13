@@ -2,5 +2,7 @@ description:Cactus Canyon (1.3)
 manufacturer:Bally
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

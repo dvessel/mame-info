@@ -2,6 +2,8 @@ description:Jumping Jackpots (Astra, V102)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_jmpj
 cloneof:as_jmpj

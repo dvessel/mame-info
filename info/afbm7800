@@ -2,3 +2,5 @@ description:Atari Flashback Mini 7800
 manufacturer:Atari / Nice Code
 year:2004
 status:good
+emulation:good
+savestate:unsupported

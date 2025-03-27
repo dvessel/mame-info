@@ -2,4 +2,6 @@ description:FB-01 FM Sound Generator
 manufacturer:Yamaha
 year:1986
 status:good
+emulation:good
+savestate:supported
 device:hd44780

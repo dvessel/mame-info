@@ -2,4 +2,6 @@ description:Dolmen
 manufacturer:Afega
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Triple Cash (Maygay - Union) (EPOCH) (set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_trics
 cloneof:ep_trics

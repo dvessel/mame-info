@@ -2,6 +2,8 @@ description:Bottle 10 (Italian, set 2)
 manufacturer:C.M.C.
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bottle10
 cloneof:bottle10

@@ -1,5 +1,7 @@
 description:Lucky Wild Boar (MPU4) (set 1)
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

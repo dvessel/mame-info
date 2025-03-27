@@ -2,5 +2,7 @@ description:Safe Cracker (1.8)
 manufacturer:Bally
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

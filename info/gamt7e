@@ -2,5 +2,7 @@ description:Gaminator 7 (set 6)
 manufacturer:Novotech
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gamt7
 cloneof:gamt7

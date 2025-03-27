@@ -2,3 +2,5 @@ description:Invader 2000
 manufacturer:Gakken
 year:1982
 status:good
+emulation:good
+savestate:supported

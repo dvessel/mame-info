@@ -2,4 +2,6 @@ description:Poke Champ (set 1)
 manufacturer:D.G.R.M.
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

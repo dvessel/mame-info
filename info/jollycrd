@@ -2,4 +2,6 @@ description:Jolly Card (German, set 1)
 manufacturer:TAB Austria
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

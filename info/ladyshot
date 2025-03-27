@@ -2,6 +2,8 @@ description:Lady Sharpshooter (set 1)
 manufacturer:Game Plan
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

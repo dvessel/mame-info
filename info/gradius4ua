@@ -2,6 +2,8 @@ description:Gradius IV (ver UAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:gradius4
 cloneof:gradius4

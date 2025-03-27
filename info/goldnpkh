@@ -2,6 +2,8 @@ description:Golden Poker Double Up (tearoom*sara hack)
 manufacturer:Bonanza Enterprises, Ltd
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:goldnpkr
 cloneof:goldnpkr

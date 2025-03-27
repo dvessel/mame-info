@@ -2,3 +2,5 @@ description:CIT-101XL Video Display Terminal
 manufacturer:CIE Terminals
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported

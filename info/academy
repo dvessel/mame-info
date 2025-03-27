@@ -2,4 +2,6 @@ description:Mephisto Academy (English, 04-10-88)
 manufacturer:Hegener + Glaser
 year:1989
 status:good
+emulation:good
+savestate:supported
 device:hd44780

@@ -2,6 +2,8 @@ description:Toki (US, set 2)
 manufacturer:TAD Corporation (Fabtek license)
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:toki
 cloneof:toki

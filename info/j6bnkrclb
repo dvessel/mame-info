@@ -2,6 +2,8 @@ description:Banker Club (JPM) (IMPACT) (V6, set 3)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6bnkrcl

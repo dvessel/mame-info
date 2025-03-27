@@ -2,6 +2,8 @@ description:Money To Money (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4m2m
 cloneof:sc4m2m

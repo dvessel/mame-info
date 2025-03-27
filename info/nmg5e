@@ -2,6 +2,8 @@ description:Multi 5 / New Multi Game 5 (set 3, earlier)
 manufacturer:Yun Sung
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:nmg5
 cloneof:nmg5

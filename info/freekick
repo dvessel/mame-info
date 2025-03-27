@@ -2,4 +2,6 @@ description:Free Kick (NS6201-A 1987.10)
 manufacturer:Nihon System (Merit license)
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:Mission 660 (US)
 manufacturer:Wood Place Co. Ltd. (Taito America Corporation license)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

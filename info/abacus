@@ -2,3 +2,5 @@ description:Abacus (Ver 1.0)
 manufacturer:Nazionale Elettronica
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported

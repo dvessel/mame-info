@@ -2,6 +2,8 @@ description:Super Streak (Barcrest) (MPU4) (CS4 0.2 / CSP 0.2, set 1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

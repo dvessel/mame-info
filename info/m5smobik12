@@ -2,6 +2,8 @@ description:Smokey Bikin (Bwb) (MPU5) (set 2)
 manufacturer:Bwb
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5smobik
 cloneof:m5smobik

@@ -2,6 +2,8 @@ description:Super Rock and Bowl (V1.1)
 manufacturer:Bromley
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

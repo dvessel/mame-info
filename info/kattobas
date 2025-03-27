@@ -2,4 +2,6 @@ description:Kattobase Power Pro Kun
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

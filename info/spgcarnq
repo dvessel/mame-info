@@ -2,6 +2,8 @@ description:Spring Carnival (10008011, Queensland)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:spgcarn
 romof:aristmk6
 cloneof:spgcarn

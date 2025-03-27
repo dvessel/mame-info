@@ -2,6 +2,8 @@ description:Pipi &amp; Bibis / Whoopee!! (Teki Paki hardware)
 manufacturer:Toaplan
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pipibibs
 cloneof:pipibibs

@@ -2,6 +2,8 @@ description:Tetris Plus 2 (Japan, V2.1)
 manufacturer:Jaleco / The Tetris Company
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tetrisp2
 cloneof:tetrisp2

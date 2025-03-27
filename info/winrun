@@ -2,5 +2,7 @@ description:Winning Run (World) (89/06/06, Ver.09)
 manufacturer:Namco
 year:1988
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:namcoc65

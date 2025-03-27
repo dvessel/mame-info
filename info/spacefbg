@@ -2,6 +2,8 @@ description:Space Firebird (Gremlin)
 manufacturer:Nintendo (Gremlin license)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spacefb
 cloneof:spacefb

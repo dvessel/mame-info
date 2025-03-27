@@ -2,4 +2,6 @@ description:Adventure Quiz Capcom World 2 (Japan 920611)
 manufacturer:Capcom
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop

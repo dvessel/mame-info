@@ -2,5 +2,7 @@ description:Atari 65XE (Arabic)
 manufacturer:Atari
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:a800xl
 cloneof:a800xl

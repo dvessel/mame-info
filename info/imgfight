@@ -2,4 +2,6 @@ description:Image Fight (World)
 manufacturer:Irem
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

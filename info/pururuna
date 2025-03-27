@@ -2,6 +2,8 @@ description:Pururun (set 2)
 manufacturer:Metro / Banpresto
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pururun
 cloneof:pururun

@@ -2,3 +2,5 @@ description:Super "9" Sensory Chess Challenger
 manufacturer:Fidelity Electronics
 year:1983
 status:good
+emulation:good
+savestate:supported

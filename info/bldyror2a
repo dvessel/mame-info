@@ -2,6 +2,8 @@ description:Bloody Roar 2 (Asia)
 manufacturer:Eighting / Raizing
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:bldyror2
 romof:coh1002e

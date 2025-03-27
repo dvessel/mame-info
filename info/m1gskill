@@ -2,5 +2,7 @@ description:Greek Skill (Hitech Amusement)
 manufacturer:Hitech Amusement
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413

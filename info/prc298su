@@ -2,6 +2,8 @@ description:Print Club 2 '98 Summer Ver (J 980603 V1.100)
 manufacturer:Atlus
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

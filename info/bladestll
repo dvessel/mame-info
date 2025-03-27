@@ -2,6 +2,8 @@ description:Blades of Steel (version L, Trackball)
 manufacturer:Konami
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bladestl
 cloneof:bladestl

@@ -2,6 +2,8 @@ description:Space Invaders Multigame (M8.01A)
 manufacturer:hack (Braze Technologies)
 year:2002
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:invmulti
 cloneof:invmulti

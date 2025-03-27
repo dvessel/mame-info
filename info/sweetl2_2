@@ -2,6 +2,8 @@ description:Sweet Life 2 (080320 World)
 manufacturer:Igrosoft
 year:2007
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sweetl2
 cloneof:sweetl2

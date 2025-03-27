@@ -2,4 +2,6 @@ description:Pastel Island (Japan, prototype)
 manufacturer:Visco
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

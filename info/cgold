@@ -2,5 +2,7 @@ description:Caribbean Gold (3VXEC449, US)
 manufacturer:Ainsworth Nominees P.L.
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 sampleof:3bagfull

@@ -2,4 +2,6 @@ description:Super Stars (v839, encrypted)
 manufacturer:Fun World
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

@@ -2,5 +2,7 @@ description:Metal Slug 2 - Super Vehicle-001/II (NGM-2410 ~ NGH-2410)
 manufacturer:SNK
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

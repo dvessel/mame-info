@@ -2,6 +2,8 @@ description:Pac Man Club (PR2018, CPAC) (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4paccl
 cloneof:sc4paccl

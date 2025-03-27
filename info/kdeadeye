@@ -2,6 +2,8 @@ description:Dead Eye (GV054 UAA01)
 manufacturer:Konami
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:konamigv
 disk:054uaa01

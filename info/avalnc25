@@ -2,6 +2,8 @@ description:The Key Of Avalon 2.5 - War of the Key (client, Rev B) (GDT-0019B)
 manufacturer:Sega / Hitmaker
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:triforce
 disk:gdt-0019b

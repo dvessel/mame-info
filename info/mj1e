@@ -2,6 +2,8 @@ description:Sega Yonin Uchi Mahjong MJ Network Taisen Ver. (Update Disc Ver.2.00
 manufacturer:Sega
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:mj1
 romof:naomigd
 cloneof:mj1
 disk:cdp-10002e
-disk:cdp-10002f

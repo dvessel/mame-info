@@ -2,5 +2,7 @@ description:Black Rhino (4VXFC830, NSW)
 manufacturer:Aristocrat
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 sampleof:3bagfull

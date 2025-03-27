@@ -2,4 +2,6 @@ description:Vs. Baseball (US, set BA E-1)
 manufacturer:Nintendo of America
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,5 +2,7 @@ description:Falco 500e
 manufacturer:Falco Data Products
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:falco5220e
 cloneof:falco5220e

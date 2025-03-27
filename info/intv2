@@ -2,6 +2,8 @@ description:Intellivision II
 manufacturer:Mattel Electronics
 year:1982
 status:good
+emulation:good
+savestate:supported
 device:stic
 romof:intv
 cloneof:intv

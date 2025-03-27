@@ -2,4 +2,6 @@ description:Driving Force (Pac-Man conversion)
 manufacturer:Shinkai Inc. (Magic Electronics Inc. license)
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop

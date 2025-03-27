@@ -2,5 +2,7 @@ description:Gallop Racer 2 (Export)
 manufacturer:Tecmo
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh1002m

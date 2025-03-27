@@ -2,4 +2,6 @@ description:Grand Cross (v1.02F)
 manufacturer:Excellent System
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

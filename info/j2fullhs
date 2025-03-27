@@ -2,4 +2,6 @@ description:Full House Club (JPM) (MPS)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

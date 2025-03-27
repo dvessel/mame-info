@@ -2,6 +2,8 @@ description:Bloxeed (US, C System, Rev A)
 manufacturer:Sega / Elorg
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bloxeed
 cloneof:bloxeed

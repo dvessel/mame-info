@@ -2,3 +2,5 @@ description:Super Derby II
 manufacturer:Sega
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

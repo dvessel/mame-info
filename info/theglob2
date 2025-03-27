@@ -2,6 +2,8 @@ description:The Glob (earlier)
 manufacturer:Epos Corporation
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:suprglob
 cloneof:suprglob

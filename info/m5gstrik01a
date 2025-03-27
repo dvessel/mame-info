@@ -2,6 +2,8 @@ description:Gold Strike (Barcrest) (MPU5) (set 5)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5gstrik
 cloneof:m5gstrik

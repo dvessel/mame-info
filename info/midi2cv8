@@ -2,3 +2,5 @@ description:midi2cv8
 manufacturer:PAiA Electronics
 year:1997
 status:good
+emulation:good
+savestate:supported

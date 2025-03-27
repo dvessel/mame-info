@@ -2,4 +2,6 @@ description:Buggy Boy/Speed Buggy (cockpit, rev. D)
 manufacturer:Tatsumi
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

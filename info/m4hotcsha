@@ -2,6 +2,8 @@ description:Hot Cash (Empire) (MPU4, set 2)
 manufacturer:Empire
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4hotcsh

@@ -2,6 +2,8 @@ description:Battle Bakraid - Unlimited Version (China) (Tue Jun 8 1999)
 manufacturer:Eighting
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bbakraid
 cloneof:bbakraid

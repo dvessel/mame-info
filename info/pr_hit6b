@@ -2,6 +2,8 @@ description:Hit The Six (Project) (set 3) (PROCONN)
 manufacturer:Project
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pr_hit6
 cloneof:pr_hit6

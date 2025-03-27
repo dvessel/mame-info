@@ -2,6 +2,8 @@ description:RollerCoaster Tycoon (CPU 4.00, display F4.00, France)
 manufacturer:Stern
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,4 +2,6 @@ description:Street Fighter (US, set 1)
 manufacturer:Capcom
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

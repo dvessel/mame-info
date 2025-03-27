@@ -2,9 +2,10 @@ description:Virtua Striker 4 Ver.2006 (Japan, Rev B) (GDT-0020B)
 manufacturer:Sega
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:vs42006
 romof:triforce
 cloneof:vs42006
 disk:gdt-0020b
-disk:gdt-0020d

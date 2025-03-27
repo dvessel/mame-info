@@ -2,6 +2,8 @@ description:Jumanji (V113)
 manufacturer:I.A.M.
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:jumanji
 cloneof:jumanji

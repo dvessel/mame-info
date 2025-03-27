@@ -2,6 +2,8 @@ description:Hi Stakes (Qps) (IMPACT) (set 2)
 manufacturer:Qps
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6histk

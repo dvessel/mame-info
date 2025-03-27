@@ -2,6 +2,8 @@ description:Cannonball Run Club (Global) (EPOCH) (set 6)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cbrcl
 cloneof:ep_cbrcl

@@ -2,6 +2,8 @@ description:Deal or No Deal Beat The Banker (Bellfruit) (Scorpion 4) (DBTK012, s
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4dndbe
 cloneof:sc4dndbe

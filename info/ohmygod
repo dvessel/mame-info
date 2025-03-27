@@ -2,4 +2,6 @@ description:Oh My God! (Japan)
 manufacturer:Atlus
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

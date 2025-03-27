@@ -2,4 +2,6 @@ description:Monita to Rimoko no Head On Channel (prototype, hack)
 manufacturer:hack
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Adders and Ladders (v2.1d) (MPU4 Video)
 manufacturer:Barcrest
 year:1989
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:v4addlad
 romof:v4bios

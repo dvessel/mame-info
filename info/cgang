@@ -2,5 +2,7 @@ description:Cosmo Gang (US)
 manufacturer:Namco (Data East license)
 year:1990
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop

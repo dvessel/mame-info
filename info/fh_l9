@@ -2,5 +2,7 @@ description:Funhouse (L-9, SL-2m)
 manufacturer:Williams
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

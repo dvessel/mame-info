@@ -2,4 +2,6 @@ description:Ten Spot
 manufacturer:Thomas Automatics
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

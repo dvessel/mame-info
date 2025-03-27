@@ -2,6 +2,8 @@ description:Bar Trekkin (Maygay) (EPOCH) (4.4, set 5)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_bartk
 cloneof:ep_bartk

@@ -2,3 +2,5 @@ description:intellec 8/Mod 80
 manufacturer:Intel
 year:1974
 status:preliminary
+emulation:preliminary
+savestate:unsupported

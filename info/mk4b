@@ -2,6 +2,8 @@ description:Mortal Kombat 4 (version 1.0)
 manufacturer:Midway
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:tms32032
 romof:mk4

@@ -2,4 +2,6 @@ description:Reel A Win (Vivid / Whitbread) (MPU5)
 manufacturer:Vivid / Whitbread
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,5 +2,7 @@ description:Gaminator 17 (set 3)
 manufacturer:Novotech
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gamt17
 cloneof:gamt17

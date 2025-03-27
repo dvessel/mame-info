@@ -2,4 +2,6 @@ description:Macintosh PowerBook Duo 270c
 manufacturer:Apple Computer
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 device:m68hc05pge

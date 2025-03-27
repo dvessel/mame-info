@@ -2,5 +2,7 @@ description:TK-80BS
 manufacturer:NEC
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:tk80
 cloneof:tk80

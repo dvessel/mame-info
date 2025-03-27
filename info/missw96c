@@ -2,6 +2,8 @@ description:Miss World '96 (Nude) (C-3000B PCB)
 manufacturer:Comad
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:missw96
 cloneof:missw96

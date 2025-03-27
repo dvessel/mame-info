@@ -2,5 +2,7 @@ description:Super World Stadium '95 (Japan)
 manufacturer:Namco
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc75

@@ -2,6 +2,8 @@ description:Ripper Ribbit (Version 2.8.4)
 manufacturer:LAI Games
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ripribit
 cloneof:ripribit

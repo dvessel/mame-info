@@ -2,5 +2,7 @@ description:Elite A/S Challenger (Glasgow program, set 3)
 manufacturer:Fidelity Electronics
 year:1984
 status:good
+emulation:good
+savestate:supported
 romof:feas
 cloneof:feas

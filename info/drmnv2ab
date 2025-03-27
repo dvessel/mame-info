@@ -2,9 +2,10 @@ description:DrumMania V2 (F02:A:A:A:2005101600)
 manufacturer:Konami
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:drmnv2a
 romof:kpython2
 cloneof:drmnv2a
 disk:f02_aaa_2005101600
-disk:f02_aaa_2006011201

@@ -2,4 +2,6 @@ description:Nudge Bonanza (JPM) (MPS)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,6 +2,8 @@ description:A Question of Sport (set 3, 39-960-089)
 manufacturer:BFM
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:qos
 cloneof:qos

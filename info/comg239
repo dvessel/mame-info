@@ -2,4 +2,6 @@ description:Cal Omega - Game 23.9 (Gaming Draw Poker)
 manufacturer:Cal Omega / Casino Electronics Inc.
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

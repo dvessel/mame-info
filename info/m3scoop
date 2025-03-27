@@ -2,5 +2,7 @@ description:Scoop (Peter Simper, prototype?) (MPU3)
 manufacturer:Peter Simper
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

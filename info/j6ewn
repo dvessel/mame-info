@@ -2,5 +2,7 @@ description:Each Way Nudger Mark 3 (Crystal) (IMPACT) (set 1)
 manufacturer:Crystal
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

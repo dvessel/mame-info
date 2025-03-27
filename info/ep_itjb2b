@@ -2,6 +2,8 @@ description:The Italian Job 2 (Maygay) (EPOCH) (2.3, set 3)
 manufacturer:Maygay
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_itjb2
 cloneof:ep_itjb2

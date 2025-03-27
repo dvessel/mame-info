@@ -2,6 +2,8 @@ description:Hi Impact (JPM) (IMPACT) (15GBP Jackpot)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6impact

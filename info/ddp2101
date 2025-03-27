@@ -2,6 +2,8 @@ description:DoDonPachi II - Bee Storm (World, ver. 101)
 manufacturer:IGS
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ddp2
 romof:pgm

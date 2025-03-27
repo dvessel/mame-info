@@ -2,6 +2,8 @@ description:Cash Lines (Barcrest) (MPU4) (CLS 0.3 K)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4cashln

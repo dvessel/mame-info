@@ -2,6 +2,8 @@ description:Jokers Wild (Fairgames) (set 2)
 manufacturer:Fairgames
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:hb_jkrwl
 cloneof:hb_jkrwl

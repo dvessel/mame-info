@@ -2,3 +2,5 @@ description:Super Sensor IV
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1981
 status:good
+emulation:good
+savestate:supported

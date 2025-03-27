@@ -2,5 +2,7 @@ description:Grafitti (Barcrest) (Dutch) (MPU4) (DGR 1.3)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

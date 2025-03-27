@@ -2,4 +2,6 @@ description:Ace
 manufacturer:Allied Leisure
 year:1976
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

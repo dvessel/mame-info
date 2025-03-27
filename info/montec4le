@@ -2,5 +2,7 @@ description:Mephisto Monte Carlo IV: Limited Edition
 manufacturer:Hegener + Glaser
 year:1990
 status:good
+emulation:good
+savestate:supported
 romof:montec4
 cloneof:montec4

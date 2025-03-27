@@ -2,3 +2,5 @@ description:FS-5000F2 (MSX2, Japan)
 manufacturer:National
 year:1986
 status:good
+emulation:good
+savestate:unsupported

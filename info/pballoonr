@@ -2,6 +2,8 @@ description:Pioneer Balloon (Rock-Ola license)
 manufacturer:SNK (Rock-Ola license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pballoon
 cloneof:pballoon

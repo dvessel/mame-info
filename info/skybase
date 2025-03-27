@@ -2,4 +2,6 @@ description:Sky Base
 manufacturer:Omori Electric Co., Ltd.
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop

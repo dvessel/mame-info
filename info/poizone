@@ -2,4 +2,6 @@ description:Poizone
 manufacturer:Eterna
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

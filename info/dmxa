@@ -2,10 +2,11 @@ description:Dance Maniax (G*874 VER. AAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 romof:dncfrks
 romof:sys573
 cloneof:dncfrks
 disk:874aaa02
-disk:874kaa

@@ -2,3 +2,5 @@ description:JR-100
 manufacturer:National
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported

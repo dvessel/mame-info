@@ -2,6 +2,8 @@ description:Cuore 1 (Italian, set 7)
 manufacturer:bootleg
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cuoreuno
 cloneof:cuoreuno

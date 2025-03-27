@@ -2,5 +2,7 @@ description:Lynx 96k
 manufacturer:Camputers
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:lynx48k
 cloneof:lynx48k

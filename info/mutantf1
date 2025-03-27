@@ -2,6 +2,8 @@ description:Heroes (World ver EM-1)
 manufacturer:Data East Corporation
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:mutantf
 cloneof:mutantf

@@ -2,5 +2,7 @@ description:Eyes Down (PR2246, MAZNEYDW) (Mazooma) (Adder 5) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5eyes
 cloneof:ad5eyes

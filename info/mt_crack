@@ -2,5 +2,7 @@ description:Crack Down (Mega-Tech)
 manufacturer:Sega
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:megatech

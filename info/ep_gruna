@@ -2,6 +2,8 @@ description:Grid Runner (Global) (EPOCH) (set 2)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_grun
 cloneof:ep_grun

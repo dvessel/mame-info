@@ -2,6 +2,8 @@ description:Geisha - Jackpot Carnival (0351033, US)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:geishaa6
 romof:aristmk6
 cloneof:geishaa6

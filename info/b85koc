@@ -2,5 +2,7 @@ description:King of Clubs (Bellfruit) (System 85, set 1)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

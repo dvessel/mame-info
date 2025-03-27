@@ -2,6 +2,8 @@ description:Ninja-Kid II / NinjaKun Ashura no Shou (set 3, bootleg?)
 manufacturer:UPL
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ninjakd2
 cloneof:ninjakd2

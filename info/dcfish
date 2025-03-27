@@ -2,4 +2,6 @@ description:Fish Life Amazon Playful Edition (Japan)
 manufacturer:Sega
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:fish_life_amazon

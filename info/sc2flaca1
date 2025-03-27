@@ -2,6 +2,8 @@ description:Flash Cash (Bellfruit) (set 1, UK, 10GBP Jackpot, 2nd Triennial) (Sc
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

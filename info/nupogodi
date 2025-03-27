@@ -2,5 +2,7 @@ description:Nu, pogodi!
 manufacturer:bootleg (Elektronika)
 year:1984
 status:good
+emulation:good
+savestate:supported
 romof:gnw_mmouse
 cloneof:gnw_mmouse

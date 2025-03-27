@@ -2,6 +2,8 @@ description:Golden Tee Golf II (Joystick, V1.0)
 manufacturer:Strata / Incredible Technologies
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gtg2
 cloneof:gtg2

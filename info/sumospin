@@ -2,5 +2,7 @@ description:Sumo Spins (0200606V, NSW/ACT)
 manufacturer:Aristocrat
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

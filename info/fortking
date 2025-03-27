@@ -2,6 +2,8 @@ description:Fortune King (10230911, ASP)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:csret
 romof:aristmk6
 cloneof:csret

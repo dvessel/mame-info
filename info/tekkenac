@@ -2,6 +2,8 @@ description:Tekken (Asia, TE4/VER.C)
 manufacturer:Namco
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:namcoc76
 romof:tekken

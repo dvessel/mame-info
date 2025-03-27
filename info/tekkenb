@@ -2,6 +2,8 @@ description:Tekken (World, TE2/VER.B)
 manufacturer:Namco
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:namcoc76
 romof:tekken

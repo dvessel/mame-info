@@ -2,6 +2,8 @@ description:Hot Mind (Fit of Fighting hardware)
 manufacturer:Playmark
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:hotmind
 cloneof:hotmind

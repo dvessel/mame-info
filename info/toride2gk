@@ -2,6 +2,8 @@ description:Toride II Bok Su Oi Jeon Adauchi Gaiden (Korea)
 manufacturer:Metro
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:toride2g

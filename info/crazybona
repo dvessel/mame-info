@@ -2,6 +2,8 @@ description:Crazy Bonus 2002 (Ver. 1, set 2)
 manufacturer:bootleg (Crazy Co.)
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:crazybon
 cloneof:crazybon

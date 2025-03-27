@@ -2,6 +2,8 @@ description:The Combatribes (US, rev 1)
 manufacturer:Technos Japan
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ctribe
 cloneof:ctribe

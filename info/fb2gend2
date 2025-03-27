@@ -2,6 +2,8 @@ description:Fruit Bonus 2nd Generation (Version 1.8LT, set 2)
 manufacturer:Amcoe
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fb2gen
 cloneof:fb2gen

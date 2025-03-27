@@ -2,6 +2,8 @@ description:5 Dragons - Cash Express (0152309, US)
 manufacturer:Aristocrat
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:5drag
 romof:aristmk6
 cloneof:5drag

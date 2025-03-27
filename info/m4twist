@@ -2,5 +2,7 @@ description:Twist Again (J.A. Brown) (MPU4) (TA 9.6, set 1)
 manufacturer:J.A. Brown
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Cannonball Run (Global) (EPOCH) (3.1, set 5)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cbrun
 cloneof:ep_cbrun

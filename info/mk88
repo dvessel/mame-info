@@ -1,6 +1,8 @@
 description:MK-88
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ec1841_0002
 device:kb_pcxt83
 romof:ibm5150

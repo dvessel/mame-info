@@ -2,6 +2,8 @@ description:Tano Dragon 64 (NTSC; HD6309E)
 manufacturer:Dragon Data Ltd / Tano Ltd
 year:19??
 status:good
+emulation:good
+savestate:unsupported
 device:sdtandy_fdc
 romof:dragon32
 cloneof:dragon32

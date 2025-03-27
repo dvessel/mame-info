@@ -2,6 +2,8 @@ description:Crazy Taxi High Roller (Rev B) (GDX-0002B)
 manufacturer:Sega / Hitmaker
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

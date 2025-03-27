@@ -2,6 +2,8 @@ description:Space Attack II (bootleg of Super Invaders)
 manufacturer:bootleg (Video Games UK)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

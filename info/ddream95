@@ -2,6 +2,8 @@ description:Dunk Dream '95 (Japan 1.4, EAM)
 manufacturer:Data East Corporation
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:hoops96
 cloneof:hoops96

@@ -2,5 +2,7 @@ description:Multiway (Barcrest) (Dutch) (MPU4) (DMU 1.7)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

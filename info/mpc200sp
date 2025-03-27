@@ -2,5 +2,7 @@ description:MPC-200SP (MSX1, Spain)
 manufacturer:Sanyo
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:mpc200
 cloneof:mpc200

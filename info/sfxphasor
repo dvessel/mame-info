@@ -2,3 +2,5 @@ description:Sound FX Phasor
 manufacturer:Electroplay
 year:1981
 status:imperfect
+emulation:good
+savestate:supported

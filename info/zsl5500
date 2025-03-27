@@ -2,3 +2,5 @@ description:Zaurus SL-5500 "Collie"
 manufacturer:Sharp
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported

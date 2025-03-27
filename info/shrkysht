@@ -2,6 +2,8 @@ description:Sharkey's Shootout (CPU 2.11, display A2.01)
 manufacturer:Stern
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

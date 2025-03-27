@@ -2,6 +2,8 @@ description:America 1492
 manufacturer:Juegos Populares
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

@@ -2,6 +2,8 @@ description:Wangan Midnight Maximum Tune 2 (Export, Rev A) (GDX-0016A)
 manufacturer:Namco
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

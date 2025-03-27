@@ -2,6 +2,8 @@ description:Continental (Bingo, alternate version)
 manufacturer:Bally
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:cntinntl
 cloneof:cntinntl

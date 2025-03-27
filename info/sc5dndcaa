@@ -2,6 +2,8 @@ description:Deal or No Deal The Crazy Chair Arcade (PR3250) (Bellfruit) (Scorpio
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndca
 cloneof:sc5dndca

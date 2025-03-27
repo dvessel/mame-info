@@ -2,6 +2,8 @@ description:Safe Money (Konami Endeavour, NSW)
 manufacturer:Konami
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:safemon
 romof:konendev
 cloneof:safemon

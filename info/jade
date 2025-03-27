@@ -2,3 +2,5 @@ description:unknown S-100 computer with Serial/Parallel/Interrupt Controller
 manufacturer:Jade Computer Products
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported

@@ -2,3 +2,5 @@ description:Nightmare Before Christmas (Tiger)
 manufacturer:Tiger Electronics
 year:1993
 status:good
+emulation:good
+savestate:supported

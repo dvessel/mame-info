@@ -2,6 +2,8 @@ description:Lucky Ladders (Maygay) (EPOCH) (LULA 0.2, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_lukld
 cloneof:ep_lukld

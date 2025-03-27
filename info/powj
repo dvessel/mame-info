@@ -2,6 +2,8 @@ description:Datsugoku - Prisoners of War (Japan)
 manufacturer:SNK
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pow
 cloneof:pow

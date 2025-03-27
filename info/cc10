@@ -2,3 +2,5 @@ description:Chess Challenger "10" (model CCX, rev. B)
 manufacturer:Fidelity Electronics
 year:1978
 status:good
+emulation:good
+savestate:supported

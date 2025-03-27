@@ -2,4 +2,6 @@ description:Magic Colors (ver. 1.7a)
 manufacturer:ABM Games
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Phoenix (T.P.N. bootleg)
 manufacturer:bootleg (T.P.N.)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:phoenix
 cloneof:phoenix

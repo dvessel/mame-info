@@ -2,5 +2,7 @@ description:Big Deal (Maygay) (M1A/B)
 manufacturer:Maygay
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413

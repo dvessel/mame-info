@@ -2,6 +2,8 @@ description:Fantasy Story (set 2)
 manufacturer:Z Soft
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:fantstry
 cloneof:fantstry

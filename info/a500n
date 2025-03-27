@@ -2,6 +2,8 @@ description:Amiga 500 (NTSC)
 manufacturer:Commodore
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:a500kbd_us
 romof:a500
 cloneof:a500

@@ -2,6 +2,8 @@ description:Spy Hunter (Playtronic license)
 manufacturer:Bally Midway (Playtronic license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:midssio
 device:midcsd

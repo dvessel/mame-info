@@ -2,3 +2,5 @@ description:Super Mario World (Nelsonic)
 manufacturer:Nelsonic
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported

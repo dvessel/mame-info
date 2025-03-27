@@ -2,6 +2,8 @@ description:Break The Bank (Barcrest - Red Gaming) (MPU5) (set 2)
 manufacturer:Barcrest / Red Gaming
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5bbank
 cloneof:m5bbank

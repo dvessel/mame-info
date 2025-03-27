@@ -2,5 +2,7 @@ description:World Soccer Winning Eleven Arcade Game 2003
 manufacturer:Konami
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:kpython
 disk:c27jaa03

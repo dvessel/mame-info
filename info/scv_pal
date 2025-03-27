@@ -2,5 +2,7 @@ description:Super Cassette Vision (PAL)
 manufacturer:Yeno
 year:198?
 status:imperfect
+emulation:good
+savestate:supported
 romof:scv
 cloneof:scv

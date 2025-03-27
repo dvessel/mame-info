@@ -2,4 +2,6 @@ description:Wild Pilot
 manufacturer:Jaleco
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

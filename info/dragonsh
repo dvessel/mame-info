@@ -2,5 +2,7 @@ description:Dragon's Heaven (development board)
 manufacturer:Face
 year:1997
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

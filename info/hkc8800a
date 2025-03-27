@@ -2,6 +2,8 @@ description:HKC 8800A
 manufacturer:China HKC
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

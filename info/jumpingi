@@ -2,6 +2,8 @@ description:Jumping (set 3, Imnoe PCB)
 manufacturer:bootleg (Seyutu)
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rbisland
 cloneof:rbisland

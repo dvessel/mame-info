@@ -2,5 +2,7 @@ description:Vegas 1 (Ver 2.3 dual coin pulse, shorter)
 manufacturer:MGA
 year:1985
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop

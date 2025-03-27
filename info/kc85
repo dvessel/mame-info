@@ -2,3 +2,5 @@ description:Kyotronic 85 (Japan)
 manufacturer:Kyosei
 year:1983
 status:good
+emulation:good
+savestate:supported

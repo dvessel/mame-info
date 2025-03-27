@@ -2,4 +2,6 @@ description:Player's Edge Plus (X002016P+XP000038) Full House Bonus Poker
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

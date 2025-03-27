@@ -2,6 +2,8 @@ description:Loco Loot (0100472V, NSW/ACT)
 manufacturer:Aristocrat
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:locoloot
 romof:aristmk5

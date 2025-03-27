@@ -2,4 +2,6 @@ description:Sel-Jan (Japan)
 manufacturer:Jem / Dyna Corp
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

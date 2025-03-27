@@ -2,6 +2,8 @@ description:Dragon Spirit (old version (DS1))
 manufacturer:Namco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dspirit
 cloneof:dspirit

@@ -2,6 +2,8 @@ description:Pharaoh's Gold Club (Bellfruit) (Scorpion 4) (set 8)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4pglcl
 cloneof:sc4pglcl

@@ -2,4 +2,6 @@ description:Pirate 2002 (Version 2.0E Dual)
 manufacturer:Amcoe
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop

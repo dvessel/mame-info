@@ -2,6 +2,8 @@ description:Special Brew (Maygay) (EPOCH) (1.9, set 14)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_spcbw
 cloneof:ep_spcbw

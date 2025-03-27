@@ -2,4 +2,6 @@ description:Mayjinsen
 manufacturer:Seta
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

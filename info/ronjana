@@ -2,6 +2,8 @@ description:Ron Jan (set 2)
 manufacturer:Wing Co., Ltd
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:ronjans
 cloneof:ronjans

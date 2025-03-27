@@ -2,6 +2,8 @@ description:Pro Bowl 2
 manufacturer:Zuck / Able Corp
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:nprobowl

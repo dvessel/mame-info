@@ -2,6 +2,8 @@ description:Silver Screen (Barcrest) (MPU5) (set 3)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5silver
 cloneof:m5silver

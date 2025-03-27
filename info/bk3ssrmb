@@ -2,4 +2,6 @@ description:Bare Knuckle III / Sunset Riders (scrambled bootleg of Mega Drive ve
 manufacturer:bootleg / Sega
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

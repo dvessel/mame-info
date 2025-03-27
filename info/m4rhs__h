@@ -2,6 +2,8 @@ description:Rocky Horror Show (Barcrest) (MPU4) (RH__4.0 YKD)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4rhs

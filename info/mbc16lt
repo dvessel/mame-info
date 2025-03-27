@@ -2,6 +2,8 @@ description:MBC-16LT
 manufacturer:Sanyo
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:isa_ibm_mda
 device:kb_pcxt83
 romof:ibm5150

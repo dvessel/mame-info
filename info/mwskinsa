@@ -2,8 +2,9 @@ description:Skins Game (1.06, alt)
 manufacturer:Midway
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:mwskins
 cloneof:mwskins
 disk:mwskinsa
-disk:mwskins

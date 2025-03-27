@@ -2,4 +2,6 @@ description:Hang Pilot (ver JAB)
 manufacturer:Konami
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

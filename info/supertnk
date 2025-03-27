@@ -2,4 +2,6 @@ description:Super Tank
 manufacturer:Video Games GmbH
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

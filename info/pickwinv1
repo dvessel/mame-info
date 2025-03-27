@@ -2,6 +2,8 @@ description:Pick 'n Win (Version 2.9R Dual)
 manufacturer:Amcoe
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pickwin
 cloneof:pickwin

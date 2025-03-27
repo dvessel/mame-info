@@ -2,5 +2,7 @@ description:Tian Jiang Shen Bing (China, V137C)
 manufacturer:IGS
 year:1997
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

@@ -2,6 +2,8 @@ description:Skullduggery Club (Empire) (MPU5) (set 3)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5skulcl
 cloneof:m5skulcl

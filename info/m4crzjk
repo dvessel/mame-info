@@ -2,5 +2,7 @@ description:Crazy Jokers (Nova?) (MPU4)
 manufacturer:Nova?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

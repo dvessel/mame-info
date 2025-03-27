@@ -2,3 +2,5 @@ description:Interactive M.A.G. Motion Activated Gear: Toy Story and Beyond! Buzz
 manufacturer:Thinkway Toys
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Fever Chance (W-6, Taiwan)
 manufacturer:Yamate
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:feverch
 cloneof:feverch

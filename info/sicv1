@@ -2,6 +2,8 @@ description:Space Invaders (CV Version, smaller roms)
 manufacturer:Taito
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

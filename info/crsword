@@ -2,5 +2,7 @@ description:Crossed Swords (ALM-002 ~ ALH-002)
 manufacturer:Alpha Denshi Co.
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

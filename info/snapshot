@@ -2,4 +2,6 @@ description:Snap Shot (20115211, ASP)
 manufacturer:Aristocrat
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

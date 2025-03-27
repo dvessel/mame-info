@@ -2,6 +2,8 @@ description:Global Champion (Ver 2.1A 1994/07/29)
 manufacturer:Taito America Corporation
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:kaiserkn
 cloneof:kaiserkn

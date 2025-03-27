@@ -2,4 +2,6 @@ description:Medal Mahjong Circuit no Mehyou (Japan)
 manufacturer:Nichibutsu / Kawakusu
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop

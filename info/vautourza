@@ -2,6 +2,8 @@ description:Vautour (bootleg of Phoenix) (Z80 CPU, single PROM)
 manufacturer:bootleg (Jeutel)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:phoenix
 cloneof:phoenix

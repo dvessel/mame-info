@@ -2,6 +2,8 @@ description:Party Fruits (Astra, V803)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_ptf
 cloneof:as_ptf

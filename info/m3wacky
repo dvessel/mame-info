@@ -2,5 +2,7 @@ description:Wacky Racer (Mdm) (MPU3)
 manufacturer:Mdm
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

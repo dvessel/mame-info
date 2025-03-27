@@ -2,5 +2,7 @@ description:Wacky Weekend Club (Global) (MPU4) (set 1)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Devil's Dare (Sound Only)
 manufacturer:Gottlieb
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

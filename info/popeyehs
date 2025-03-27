@@ -2,6 +2,8 @@ description:Popeye (Braze High Score Kit P1.00D)
 manufacturer:hack (Braze Technologies)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:popeye
 cloneof:popeye

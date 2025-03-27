@@ -2,4 +2,6 @@ description:Crazy Fruits (Germany?) (PR6982, GCRF, 1.02) (Bellfruit) (Scorpion 4
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

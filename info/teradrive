@@ -2,6 +2,8 @@ description:TeraDrive (Japan)
 manufacturer:Sega / International Business Machines
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:ibm_vga
 device:kb_pcat84

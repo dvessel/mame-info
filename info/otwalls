@@ -2,5 +2,7 @@ description:Off the Wall (Sente) (10/16/84)
 manufacturer:Bally/Sente
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb

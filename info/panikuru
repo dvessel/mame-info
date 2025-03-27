@@ -2,4 +2,6 @@ description:Panikuru Panekuru (Japan, PPA1 Ver.A)
 manufacturer:Namco
 year:2002
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

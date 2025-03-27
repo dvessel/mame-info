@@ -2,6 +2,8 @@ description:Nitro Ball (World, set 2)
 manufacturer:Data East Corporation
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:nitrobal
 cloneof:nitrobal

@@ -2,6 +2,8 @@ description:486 motherboards using the SiS 85C496/85C497 chipset + 3dfx Voodoo 1
 manufacturer:Hack Inc.
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:wd90c31_lr

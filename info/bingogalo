@@ -2,6 +2,8 @@ description:Bingo Galaxy (main) (MDA-C0039A)
 manufacturer:Sega
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:bingogal
 romof:segasp

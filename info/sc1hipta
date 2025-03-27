@@ -2,6 +2,8 @@ description:High Point (Bellfruit) (Scorpion 1) (set 2)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:sc1hipt

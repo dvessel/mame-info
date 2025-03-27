@@ -2,6 +2,8 @@ description:Melty Blood Act Cadenza (Japan) (GDL-0028)
 manufacturer:Ecole Software
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:meltybld
 romof:naomigd
 cloneof:meltybld
 disk:gdl-0028
-disk:gdl-0028c

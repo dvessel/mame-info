@@ -2,3 +2,5 @@ description:Electronic Football (Epoch)
 manufacturer:Epoch
 year:1980
 status:good
+emulation:good
+savestate:supported

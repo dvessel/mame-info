@@ -2,6 +2,8 @@ description:Pirates (set 2)
 manufacturer:NIX
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pirates
 cloneof:pirates

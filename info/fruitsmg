@@ -2,4 +2,6 @@ description:Fruits Magic - The Magic Party
 manufacturer:Konami
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

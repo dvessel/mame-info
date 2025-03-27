@@ -2,4 +2,6 @@ description:Markham
 manufacturer:Sun Electronics
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

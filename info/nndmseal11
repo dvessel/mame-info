@@ -2,6 +2,8 @@ description:Nandemo Seal Iinkai (ver 1.1)
 manufacturer:I'Max / Jaleco
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:nndmseal
 cloneof:nndmseal

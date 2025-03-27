@@ -2,3 +2,5 @@ description:FS-5500F2 (MSX2, Japan)
 manufacturer:National
 year:1985
 status:good
+emulation:good
+savestate:unsupported

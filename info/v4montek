@@ -2,6 +2,8 @@ description:Monte Carlo Or Bust (BWB) (Release ?, set 1) (MPU4 Video)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4monte
 cloneof:v4monte

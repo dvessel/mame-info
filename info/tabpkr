@@ -2,3 +2,5 @@ description:Royal Poker V 1.85
 manufacturer:TAB Austria
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

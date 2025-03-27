@@ -2,6 +2,8 @@ description:G-LOC Air Battle (US)
 manufacturer:Sega
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gloc
 cloneof:gloc

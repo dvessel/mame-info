@@ -2,4 +2,6 @@ description:Goindol (SunA, World)
 manufacturer:SunA
 year:1987
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

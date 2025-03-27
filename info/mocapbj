@@ -2,9 +2,10 @@ description:Mocap Boxing (ver JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:mocapb
 romof:kviper
 cloneof:mocapb
 disk:a29a02
-disk:a29b02

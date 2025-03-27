@@ -2,6 +2,8 @@ description:Red and Ted's Road Show (La-4)
 manufacturer:Williams
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:rs_l6

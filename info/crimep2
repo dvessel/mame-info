@@ -2,5 +2,7 @@ description:Crime Patrol 2: Drug Wars (v1.3)
 manufacturer:American Laser Games
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:alg_bios

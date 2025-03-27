@@ -1,5 +1,7 @@
 description:What's Up Dr (Scorpion 1?)
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

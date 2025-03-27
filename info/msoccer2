@@ -2,3 +2,5 @@ description:Soccer 2 (Mattel)
 manufacturer:Mattel Electronics
 year:1979
 status:good
+emulation:good
+savestate:supported

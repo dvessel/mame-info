@@ -2,5 +2,7 @@ description:Bullseye Pounds For Points (Mazooma) (Adder 5) (set 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5bpfpm
 cloneof:ad5bpfpm

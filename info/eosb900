@@ -2,5 +2,7 @@ description:EOS B900
 manufacturer:Yamaha
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:qs300
 cloneof:qs300

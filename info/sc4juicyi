@@ -2,6 +2,8 @@ description:Juicy Jackpots Club (PR1136) (Bellfruit) (Scorpion 4) (311 Club, set
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4juicy
 cloneof:sc4juicy

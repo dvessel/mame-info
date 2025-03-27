@@ -2,6 +2,8 @@ description:King of the Nile (20106321, NSW/ACT)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:kingnile
 romof:aristmk6
 cloneof:kingnile

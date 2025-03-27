@@ -2,6 +2,8 @@ description:Impulse (JPM) (IMPACT) (IP 6 C14) (set 2)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6impuls

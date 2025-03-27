@@ -2,3 +2,5 @@ description:Codata
 manufacturer:Contel Codata Corporation
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported

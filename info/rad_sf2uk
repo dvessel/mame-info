@@ -2,5 +2,7 @@ description:Street Fighter II: Special Champion Edition [Ghouls'n Ghosts] (Radic
 manufacturer:Radica / Capcom / Sega
 year:2004
 status:good
+emulation:good
+savestate:unsupported
 romof:rad_sf2
 cloneof:rad_sf2

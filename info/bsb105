@@ -2,6 +2,8 @@ description:Breakshot (Beta)
 manufacturer:Capcom
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:bsv103
 cloneof:bsv103

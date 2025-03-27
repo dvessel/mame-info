@@ -2,6 +2,8 @@ description:Ghost Buster (Barcrest) (MPU4) (GB 3.0 YD, set 2)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

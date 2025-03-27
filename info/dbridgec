@@ -2,3 +2,5 @@ description:Diamond Bridge Computer
 manufacturer:Micro-Concepts
 year:1987
 status:good
+emulation:good
+savestate:supported

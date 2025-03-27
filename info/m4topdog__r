@@ -2,6 +2,8 @@ description:Top Dog (Barcrest) (MPU4) (TDT 8.3 B / TD 8.3)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4topdog

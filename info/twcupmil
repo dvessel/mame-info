@@ -2,5 +2,7 @@ description:Tecmo World Cup Millennium (Japan)
 manufacturer:Tecmo
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh1002m

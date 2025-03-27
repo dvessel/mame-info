@@ -2,6 +2,8 @@ description:Gold Rush Five Liner (Barcrest) (MPU5) (set 2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5grush5
 cloneof:m5grush5

@@ -2,4 +2,6 @@ description:Aurail (set 3, US) (unprotected)
 manufacturer:Sega / Westone
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

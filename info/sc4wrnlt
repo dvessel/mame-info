@@ -2,6 +2,8 @@ description:Werner (German) (PR7027, GWER) (Nova) (Scorpion 4) (set 2)
 manufacturer:Nova
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4wernr
 cloneof:sc4wernr

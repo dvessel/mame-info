@@ -2,6 +2,8 @@ description:Flashgal (set 2)
 manufacturer:Kyugo / Sega
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:flashgal
 cloneof:flashgal

@@ -2,4 +2,6 @@ description:Dyna Gear
 manufacturer:Sammy
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

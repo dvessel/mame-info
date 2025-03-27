@@ -2,6 +2,8 @@ description:Pac-Man (Midway, speedup hack)
 manufacturer:hack
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

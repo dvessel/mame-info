@@ -2,6 +2,8 @@ description:Port Man (bootleg on Moon Cresta hardware)
 manufacturer:bootleg
 year:1982
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:dockman
 cloneof:dockman

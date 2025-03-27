@@ -2,6 +2,8 @@ description:Spooky Night (Version 1.0.1)
 manufacturer:Amcoe
 year:200?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:spooky
 cloneof:spooky

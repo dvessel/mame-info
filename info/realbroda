@@ -2,6 +2,8 @@ description:The Real Broadway (9131-20-00 R0A)
 manufacturer:Merit
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:realbrod

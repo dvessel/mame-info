@@ -2,5 +2,7 @@ description:The Killing Blade Plus / Ao Jian Kuang Dao Jiaqiang Ban (China, ver.
 manufacturer:IGS
 year:2005
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pgm

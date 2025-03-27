@@ -2,5 +2,7 @@ description:unknown Ace System 1 game
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

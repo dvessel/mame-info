@@ -2,4 +2,6 @@ description:Metal Slug 5 (JAMMA PCB)
 manufacturer:SNK Playmore
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop

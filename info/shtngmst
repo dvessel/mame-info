@@ -2,4 +2,6 @@ description:Shooting Master (8751 315-5159a)
 manufacturer:Sega
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

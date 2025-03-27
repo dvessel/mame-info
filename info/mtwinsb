@@ -2,6 +2,8 @@ description:Twins (bootleg of Mega Twins)
 manufacturer:David Inc. (bootleg)
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mtwins
 cloneof:mtwins

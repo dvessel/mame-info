@@ -2,4 +2,6 @@ description:Space Fever (new version)
 manufacturer:Nintendo
 year:1979
 status:good
+emulation:good
+savestate:supported
 kind:coinop

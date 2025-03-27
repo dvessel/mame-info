@@ -2,5 +2,7 @@ description:Rhythm Nation (v01.00.04, boot v3.1.5)
 manufacturer:ICE/Play Mechanix
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 disk:rhn010104

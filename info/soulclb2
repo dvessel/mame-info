@@ -2,5 +2,7 @@ description:Soul Calibur II (SC23 Ver. A)
 manufacturer:Namco
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys246
 disk:sc21-dvd0d

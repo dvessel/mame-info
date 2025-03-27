@@ -2,6 +2,8 @@ description:Fortune &amp; Glory (Maygay - Impulse) (EPOCH) (set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_fortg
 cloneof:ep_fortg

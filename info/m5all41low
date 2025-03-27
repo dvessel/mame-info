@@ -2,6 +2,8 @@ description:All 4 One (Lowen) (MPU5)
 manufacturer:Lowen
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5all41
 cloneof:m5all41

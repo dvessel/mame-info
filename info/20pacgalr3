@@ -2,6 +2,8 @@ description:Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.03)
 manufacturer:Namco / Cosmodog
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:20pacgal
 cloneof:20pacgal

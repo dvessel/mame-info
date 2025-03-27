@@ -2,4 +2,6 @@ description:Spider (Buena Vision, without nudity)
 manufacturer:Buena Vision
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

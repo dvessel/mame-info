@@ -2,6 +2,8 @@ description:Money Madness (Mazooma) (Scorpion 5) (set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5mmad
 cloneof:sc5mmad

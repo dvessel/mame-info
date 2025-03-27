@@ -2,6 +2,8 @@ description:Pump It Up BIOS
 manufacturer:Andamiro
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios
 kind:coinop
 device:banshee_x86

@@ -2,4 +2,6 @@ description:Big Bang Bar (Beta 1.9 US)
 manufacturer:Capcom
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

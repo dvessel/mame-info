@@ -2,3 +2,5 @@ description:PHC-28 (MSX1, France)
 manufacturer:Olympia
 year:1984
 status:good
+emulation:good
+savestate:unsupported

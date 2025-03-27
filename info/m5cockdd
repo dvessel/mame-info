@@ -2,4 +2,6 @@ description:Cock A Doodle Dough! (Empire) (MPU5) (set 1)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

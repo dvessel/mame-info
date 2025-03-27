@@ -2,6 +2,8 @@ description:World Club Champion Football European Clubs 2005-2006 (Export) (CDV-
 manufacturer:Sega
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

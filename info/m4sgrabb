@@ -2,6 +2,8 @@ description:Smash 'n' Grab (Barcrest) (MPU4) (SAG 3.4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4sgrab

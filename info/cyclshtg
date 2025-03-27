@@ -2,4 +2,6 @@ description:Cycle Shooting
 manufacturer:Taito
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

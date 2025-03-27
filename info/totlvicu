@@ -2,8 +2,9 @@ description:Total Vice (ver UAC)
 manufacturer:Konami
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:totlvice
 cloneof:totlvice
 disk:639uac01
-disk:639eba01

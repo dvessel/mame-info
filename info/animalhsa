@@ -2,6 +2,8 @@ description:Animal House (V1.0, set 2)
 manufacturer:Suns Co Ltd.
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:animalhs
 cloneof:animalhs

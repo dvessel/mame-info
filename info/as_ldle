@@ -2,6 +2,8 @@ description:Little Devils (Astra, V103)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_ldl
 cloneof:as_ldl

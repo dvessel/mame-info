@@ -2,6 +2,8 @@ description:Rave Racer (World, RV2 Ver.B)
 manufacturer:Namco
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc71
 device:namcoc74

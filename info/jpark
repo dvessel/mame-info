@@ -2,4 +2,6 @@ description:Jurassic Park (World, Rev A)
 manufacturer:Sega
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

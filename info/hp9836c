@@ -2,3 +2,5 @@ description:HP 9836C
 manufacturer:Hewlett-Packard
 year:1983
 status:good
+emulation:good
+savestate:unsupported

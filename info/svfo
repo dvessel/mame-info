@@ -2,6 +2,8 @@ description:Super Visual Football: European Sega Cup
 manufacturer:Sega
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:svf
 cloneof:svf

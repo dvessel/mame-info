@@ -2,6 +2,8 @@ description:Strike Fighter (Japan)
 manufacturer:Sega
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:strkfgtr
 cloneof:strkfgtr

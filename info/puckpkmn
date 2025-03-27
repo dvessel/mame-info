@@ -2,4 +2,6 @@ description:Puckman Pockimon Genie 2000
 manufacturer:Sun Mixing
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

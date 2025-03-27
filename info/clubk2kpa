@@ -2,6 +2,8 @@ description:Club Kart: European Session (2003, prototype, set 2)
 manufacturer:Sega
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

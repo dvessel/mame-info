@@ -2,4 +2,6 @@ description:Ace Attacker (FD1094 317-0059)
 manufacturer:Sega
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

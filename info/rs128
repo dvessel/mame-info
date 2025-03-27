@@ -2,5 +2,7 @@ description:RS 128
 manufacturer:Memotech Ltd
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 romof:mtx512
 cloneof:mtx512

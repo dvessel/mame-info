@@ -2,5 +2,7 @@ description:Dragon's Lair 2: Time Warp (US v2.00, AMOA prototype)
 manufacturer:Leland Corporation
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:dlair2
 cloneof:dlair2

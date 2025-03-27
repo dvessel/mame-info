@@ -2,6 +2,8 @@ description:Super Visual Soccer: Sega Cup (US, Rev A)
 manufacturer:Sega
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:svf
 cloneof:svf

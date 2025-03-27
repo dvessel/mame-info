@@ -2,3 +2,5 @@ description:CGC 7900
 manufacturer:Chromatics
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,3 +2,5 @@ description:Mini Game Player 48-in-1
 manufacturer:Jungle's Soft
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

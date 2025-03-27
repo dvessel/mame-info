@@ -2,5 +2,7 @@ description:Astro Warrior (Mega-Tech, SMS based)
 manufacturer:Sega
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:megatech

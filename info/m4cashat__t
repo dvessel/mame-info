@@ -2,6 +2,8 @@ description:Cash Attack (Barcrest) (MPU4) (CAA 2.3 DR)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4cashat

@@ -2,4 +2,6 @@ description:Super Speed Race
 manufacturer:Taito (Midway license)
 year:1979
 status:good
+emulation:good
+savestate:supported
 kind:coinop

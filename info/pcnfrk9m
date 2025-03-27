@@ -2,6 +2,8 @@ description:Percussion Freaks 9th Mix (G*D09 VER. AAA)
 manufacturer:Konami
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573msu

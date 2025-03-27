@@ -2,6 +2,8 @@ description:Animal Treasure Hunt (Version 1.7)
 manufacturer:Amcoe
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:anithunt
 cloneof:anithunt

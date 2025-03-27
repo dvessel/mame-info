@@ -2,5 +2,7 @@ description:Super Slam (Bellfruit) (Adder 5) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5sslam
 cloneof:ad5sslam

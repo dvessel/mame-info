@@ -2,5 +2,7 @@ description:MU128
 manufacturer:Yamaha
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:mulcd
 device:hd44780

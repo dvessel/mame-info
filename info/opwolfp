@@ -2,6 +2,8 @@ description:Operation Wolf (Japan, prototype)
 manufacturer:Taito Corporation
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:opwolf
 cloneof:opwolf

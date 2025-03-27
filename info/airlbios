@@ -2,6 +2,8 @@ description:NAOMI Airline Pilots (deluxe) BIOS
 manufacturer:Sega
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios
 kind:coinop
 device:mie

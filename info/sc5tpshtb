@@ -2,6 +2,8 @@ description:Top Of The Shots (Mazooma) (Scorpion 5) (set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5tpsht
 cloneof:sc5tpsht

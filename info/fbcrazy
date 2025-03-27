@@ -2,6 +2,8 @@ description:Football Crazy (Video Quiz)
 manufacturer:BFM
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:tms32031
 disk:95100303

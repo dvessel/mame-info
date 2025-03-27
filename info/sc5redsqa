@@ -2,6 +2,8 @@ description:Red Square (Mazooma) (Scorpion 5) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5redsq
 cloneof:sc5redsq

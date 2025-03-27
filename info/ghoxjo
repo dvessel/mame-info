@@ -2,6 +2,8 @@ description:Ghox (joystick, older)
 manufacturer:Toaplan
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ghox
 cloneof:ghox

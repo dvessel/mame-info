@@ -2,5 +2,7 @@ description:WonderSwan Color
 manufacturer:Bandai
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 romof:wswan
 cloneof:wswan

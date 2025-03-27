@@ -2,4 +2,7 @@ description:Virtua Fighter 5 (Export)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:lindbios
+disk:mda-c0004a_revb_lindyellow_v2.4.20_mvl31a_boot_2.01

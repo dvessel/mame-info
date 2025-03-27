@@ -2,5 +2,7 @@ description:Puzzled / Joy Joy Kid (NGM-021 ~ NGH-021)
 manufacturer:SNK
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

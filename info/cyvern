@@ -2,5 +2,7 @@ description:Cyvern - The Dragon Weapons (US)
 manufacturer:Kaneko
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:skns

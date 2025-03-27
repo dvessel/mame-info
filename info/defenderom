@@ -2,6 +2,8 @@ description:Operacion Defender (bootleg of Defender)
 manufacturer:bootleg (Operamatic)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:defender
 cloneof:defender

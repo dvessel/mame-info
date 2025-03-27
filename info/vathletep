@@ -2,10 +2,11 @@ description:Virtua Athletics / Virtua Athlete (prototype)
 manufacturer:Sega
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
 romof:vathlete
 romof:naomigd
 cloneof:vathlete
-disk:gds-0019

@@ -2,3 +2,5 @@ description:NMS 8260 (MSX2, Prototype)
 manufacturer:Philips
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported

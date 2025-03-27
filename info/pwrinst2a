@@ -2,6 +2,8 @@ description:Power Instinct 2 (US, Ver. 94.04.08, set 2)
 manufacturer:Atlus
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pwrinst2
 cloneof:pwrinst2

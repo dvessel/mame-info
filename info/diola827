@@ -2,6 +2,8 @@ description:Diana Olakoa (v8.27)
 manufacturer:Compumatic / Olakoa
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:diolakoa
 cloneof:diolakoa

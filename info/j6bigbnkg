@@ -2,6 +2,8 @@ description:Big Banker (JPM) (IMPACT) (BB6 C 16) (set 1, Protocol)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6bigbnk

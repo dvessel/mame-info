@@ -2,5 +2,7 @@ description:Neo-Geo CD (NTSC?)
 manufacturer:SNK
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:neocdz
 cloneof:neocdz

@@ -2,5 +2,7 @@ description:Red Hot Fever (BWB) (MPU4) (ver. 7) (20/25/30p stake / £5/£10/£15
 manufacturer:BWB
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

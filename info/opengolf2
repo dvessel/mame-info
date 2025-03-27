@@ -2,6 +2,8 @@ description:Konami's Open Golf Championship (ver EAD)
 manufacturer:Konami
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:opengolf
 romof:konamigx

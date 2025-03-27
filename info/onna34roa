@@ -2,6 +2,8 @@ description:Onna Sanshirou - Typhoon Gal (bootleg)
 manufacturer:Taito
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:onna34ro
 cloneof:onna34ro

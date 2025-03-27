@@ -2,6 +2,8 @@ description:Player's Edge Plus (PP0050) Joker Poker (set 2)
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pepp0048
 cloneof:pepp0048

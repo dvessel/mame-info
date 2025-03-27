@@ -2,3 +2,5 @@ description:FS-A1 / 2nd released version (MSX2, Japan)
 manufacturer:Panasonic
 year:1986
 status:good
+emulation:good
+savestate:unsupported

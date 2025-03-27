@@ -2,6 +2,8 @@ description:Kyukyoku no Hito (Japan 880824)
 manufacturer:Roller Tron
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kanatuen
 cloneof:kanatuen

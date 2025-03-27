@@ -2,5 +2,7 @@ description:beatmania CORE REMIX (ver JA-A)
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:a05jaa11

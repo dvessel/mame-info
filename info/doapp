@@ -2,5 +2,7 @@ description:Dead Or Alive ++ (Japan/USA/Export)
 manufacturer:Tecmo
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh1002m

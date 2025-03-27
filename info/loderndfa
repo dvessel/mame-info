@@ -2,6 +2,8 @@ description:Lode Runner - The Dig Fight (ver. A)
 manufacturer:Psikyo
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:loderndf
 cloneof:loderndf

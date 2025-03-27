@@ -2,6 +2,8 @@ description:Zoo Keeper (set 2)
 manufacturer:Taito America Corporation
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p3
 romof:zookeep

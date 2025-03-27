@@ -2,5 +2,7 @@ description:Mega Double Poker (conversion kit, version 2.3 MD)
 manufacturer:Blitz System
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:m68705p5

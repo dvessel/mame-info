@@ -2,6 +2,8 @@ description:Polaris (second revision)
 manufacturer:Taito
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:polaris
 cloneof:polaris

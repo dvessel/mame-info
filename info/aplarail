@@ -2,6 +2,8 @@ description:Attack Pla Rail (Japan, AP1/VER.A)
 manufacturer:Namco / Tomy
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:namco_cyberlead
 device:namco_cyberlead_led

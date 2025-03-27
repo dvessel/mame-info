@@ -2,5 +2,7 @@ description:JX-8P Polyphonic Synthesizer (Ver. 2.x)
 manufacturer:Roland
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:jx8p
 cloneof:jx8p

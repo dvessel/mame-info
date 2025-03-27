@@ -2,5 +2,7 @@ description:MC Word (German)
 manufacturer:Psion
 year:1992
 status:good
+emulation:good
+savestate:supported
 romof:mc400
 cloneof:mc400

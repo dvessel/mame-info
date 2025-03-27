@@ -2,5 +2,7 @@ description:Monster Farm Jump (Japan)
 manufacturer:Tecmo
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh1002m

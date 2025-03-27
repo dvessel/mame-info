@@ -2,6 +2,8 @@ description:Baby AT 386
 manufacturer:Soyo
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

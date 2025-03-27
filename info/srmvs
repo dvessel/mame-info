@@ -2,5 +2,7 @@ description:Super Real Mahjong VS (Rev A)
 manufacturer:Seta
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aleck64

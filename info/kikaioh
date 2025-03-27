@@ -2,6 +2,8 @@ description:Choukou Senki Kikaioh (Japan 980914)
 manufacturer:Capcom
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:techromn

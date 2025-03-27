@@ -2,6 +2,8 @@ description:Cash Lines (Barcrest) (MPU4) (CLI 1.2 BD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4cashln

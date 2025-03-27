@@ -2,4 +2,6 @@ description:Luna 88K²
 manufacturer:Omron
 year:1992?
 status:good
+emulation:good
+savestate:unsupported
 device:ks0066

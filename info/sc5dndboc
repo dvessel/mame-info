@@ -2,6 +2,8 @@ description:Deal or No Deal Banker's Bonus (Bellfruit) (Scorpion 5) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndbo
 cloneof:sc5dndbo

@@ -2,4 +2,6 @@ description:Android (prototype, later build)
 manufacturer:Nasco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

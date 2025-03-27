@@ -2,6 +2,8 @@ description:Deal or No Deal It's Your Show (Bellfruit) (Scorpion 4) (DOBO474, se
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4dndys
 cloneof:sc4dndys

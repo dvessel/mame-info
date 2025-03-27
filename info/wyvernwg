@@ -2,6 +2,8 @@ description:Wyvern Wings (set 1)
 manufacturer:SemiCom (Game Vision license)
 year:2001
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:wivernwg
 cloneof:wivernwg

@@ -2,6 +2,8 @@ description:Bachelorette Party (BHG1248, US)
 manufacturer:Aristocrat
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:aristmk5

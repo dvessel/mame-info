@@ -2,5 +2,7 @@ description:V-20G (MSX1, Germany)
 manufacturer:Canon
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 romof:canonv20
 cloneof:canonv20

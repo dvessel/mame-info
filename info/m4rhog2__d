@@ -2,6 +2,8 @@ description:Road Hog 2 - I'm Back (Barcrest) (MPU4) (2RH 0.6 D)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4rhog2

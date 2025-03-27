@@ -2,6 +2,8 @@ description:Viva Espana (Barcrest) (MPU4) (VE5 5.0, set 2)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4vivaes

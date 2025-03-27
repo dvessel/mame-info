@@ -2,4 +2,6 @@ description:Vs. Hogan's Alley (set HA4-1 E-1)
 manufacturer:Nintendo
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

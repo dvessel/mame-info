@@ -2,3 +2,5 @@ description:Deluxe Football with Instant Replay
 manufacturer:Tiger Electronics
 year:1980
 status:good
+emulation:good
+savestate:supported

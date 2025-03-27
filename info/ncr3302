@@ -2,6 +2,8 @@ description:Class 3302 Model 0110
 manufacturer:NCR
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

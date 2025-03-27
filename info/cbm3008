@@ -2,6 +2,8 @@ description:CBM 3008
 manufacturer:Commodore Business Machines
 year:1979
 status:good
+emulation:good
+savestate:supported
 device:c4040
 device:c2040_fdc
 romof:pet2001n

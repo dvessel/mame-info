@@ -2,6 +2,8 @@ description:Alpha One (prototype, 5 lives)
 manufacturer:Atari
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mhavoc
 cloneof:mhavoc

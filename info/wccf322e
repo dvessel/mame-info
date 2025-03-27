@@ -2,6 +2,8 @@ description:World Club Champion Football European Clubs 2004-2005 Ver.3.22 (Expo
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

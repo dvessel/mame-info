@@ -2,3 +2,5 @@ description:Mini Arcade Console (Arcade 10-in-1)
 manufacturer:Fizz Creations
 year:201?
 status:imperfect
+emulation:good
+savestate:unsupported

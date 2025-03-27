@@ -2,6 +2,8 @@ description:Pink Sweets: Ibara Sorekara (2006/04/06 MASTER VER...)
 manufacturer:Cave (AMI license)
 year:2006
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pinkswts
 cloneof:pinkswts

@@ -2,5 +2,7 @@ description:Dora the Explorer - Doras Abenteuer-Globus (Germany)
 manufacturer:VTech
 year:2007
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:doraglob
 cloneof:doraglob

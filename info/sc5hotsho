@@ -2,6 +2,8 @@ description:Hot Shot (Bellfruit) (Scorpion 5) (set 16)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5hotsh
 cloneof:sc5hotsh

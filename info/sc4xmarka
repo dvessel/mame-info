@@ -2,6 +2,8 @@ description:X Marks The Spot (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4xmark
 cloneof:sc4xmark

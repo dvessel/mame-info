@@ -2,5 +2,7 @@ description:Super Note Club µ girlish (Japan)
 manufacturer:Bandai
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:snotecu
 cloneof:snotecu

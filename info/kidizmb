@@ -2,3 +2,5 @@ description:Kidizoom (Germany, blue camera)
 manufacturer:VTech
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

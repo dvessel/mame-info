@@ -2,6 +2,8 @@ description:Fiddle Stix (1st Rev)
 manufacturer:Quick $ilver Development Co.
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:hd44780

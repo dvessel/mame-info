@@ -2,6 +2,8 @@ description:Spider-Man: The Videogame (Japan)
 manufacturer:Sega
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:spidman
 cloneof:spidman

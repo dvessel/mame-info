@@ -2,5 +2,7 @@ description:The Flintstones in Viva Rock Vegas (JPM) (IMPACT) (set 1)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

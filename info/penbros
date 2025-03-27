@@ -2,4 +2,6 @@ description:Penguin Brothers (Japan)
 manufacturer:Subsino
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

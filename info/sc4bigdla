@@ -2,6 +2,8 @@ description:Big Deal (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4bigdl
 cloneof:sc4bigdl

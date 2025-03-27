@@ -2,6 +2,8 @@ description:Loco Loot (0600725V, New Zealand)
 manufacturer:Aristocrat
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:locoloot
 romof:aristmk5

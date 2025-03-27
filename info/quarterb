@@ -2,4 +2,6 @@ description:Quarterback (rev 5)
 manufacturer:Leland Corporation
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

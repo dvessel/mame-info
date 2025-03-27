@@ -2,6 +2,8 @@ description:Asterion
 manufacturer:bootleg? (Olympia)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:astrof
 cloneof:astrof

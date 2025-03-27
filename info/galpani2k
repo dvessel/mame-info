@@ -2,6 +2,8 @@ description:Gals Panic II (Korea, single PCB)
 manufacturer:Kaneko (Karam Trading Co., Ltd. license)
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:galpani2
 cloneof:galpani2

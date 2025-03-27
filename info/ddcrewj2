@@ -2,6 +2,8 @@ description:D. D. Crew (Japan, 2 Players) (FD1094 317-0182)
 manufacturer:Sega
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ddcrew
 cloneof:ddcrew

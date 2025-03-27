@@ -2,6 +2,8 @@ description:Deals On Wheels Club (Global) (v1.6 Protocol) (Stealth)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:gl_dowcl
 cloneof:gl_dowcl

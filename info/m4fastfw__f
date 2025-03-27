@@ -2,6 +2,8 @@ description:Fast Forward (Barcrest) (MPU4) (FFD 1.0, hack)
 manufacturer:hack
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

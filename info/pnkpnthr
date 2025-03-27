@@ -2,6 +2,8 @@ description:Pink Panther
 manufacturer:Gottlieb
 year:1981
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

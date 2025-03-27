@@ -2,5 +2,7 @@ description:Super Game Boy 2
 manufacturer:Nintendo
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 romof:gameboy
 cloneof:gameboy

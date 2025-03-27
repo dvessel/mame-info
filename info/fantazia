@@ -2,6 +2,8 @@ description:Fantazia (bootleg?)
 manufacturer:bootleg (Subelectro)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mooncrst
 cloneof:mooncrst

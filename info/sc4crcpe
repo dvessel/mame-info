@@ -2,6 +2,8 @@ description:Cops 'n' Robbers Club Platinum (Bellfruit) (Scorpion 4) (set 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4crcp
 cloneof:sc4crcp

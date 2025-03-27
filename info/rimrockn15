@@ -2,6 +2,8 @@ description:Rim Rockin' Basketball (V1.5)
 manufacturer:Strata / Incredible Technologies
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:rimrockn
 cloneof:rimrockn

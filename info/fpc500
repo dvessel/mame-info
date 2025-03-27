@@ -2,3 +2,5 @@ description:FPC-500 (MSX1, Italy)
 manufacturer:Fenner
 year:1985
 status:good
+emulation:good
+savestate:unsupported

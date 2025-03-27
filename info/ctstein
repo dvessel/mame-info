@@ -2,3 +2,5 @@ description:Einstein (Castle Toy)
 manufacturer:Castle Toy
 year:1979
 status:good
+emulation:good
+savestate:supported

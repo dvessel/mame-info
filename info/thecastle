@@ -1,3 +1,5 @@
 description:The Castle
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

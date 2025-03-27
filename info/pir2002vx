@@ -2,6 +2,8 @@ description:Pirate 2002 (Version 1.90XT Dual)
 manufacturer:Amcoe
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pir2002
 cloneof:pir2002

@@ -2,4 +2,6 @@ description:Tsururin Kun
 manufacturer:Konami
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

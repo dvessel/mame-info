@@ -2,6 +2,8 @@ description:Pompeii (0251010, US)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pompeia6
 romof:aristmk6
 cloneof:pompeia6

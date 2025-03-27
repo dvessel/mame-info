@@ -2,5 +2,7 @@ description:Net@Select: Horse Racing - Victory Furlong
 manufacturer:Progress / Sammy
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:awbios

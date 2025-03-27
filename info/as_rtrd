@@ -2,6 +2,8 @@ description:Ready To Roll (Astra, V100, )
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_rtr
 cloneof:as_rtr

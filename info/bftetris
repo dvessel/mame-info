@@ -2,3 +2,5 @@ description:Tetris (mini arcade)
 manufacturer:Basic Fun
 year:2019
 status:preliminary
+emulation:preliminary
+savestate:unsupported

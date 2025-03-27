@@ -2,5 +2,7 @@ description:Type Zero BIOS
 manufacturer:Taito
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios
 kind:coinop

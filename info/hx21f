@@ -2,5 +2,7 @@ description:HX-21F (MSX1, France)
 manufacturer:Toshiba
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:hx21
 cloneof:hx21

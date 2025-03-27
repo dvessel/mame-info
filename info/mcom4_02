@@ -2,3 +2,5 @@ description:Minicom IV (2002-04-19)
 manufacturer:Ultratec
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported

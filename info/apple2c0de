@@ -2,6 +2,8 @@ description:Apple //c (UniDisk 3.5, Germany)
 manufacturer:Apple Computer
 year:1985
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 romof:apple2c
 cloneof:apple2c

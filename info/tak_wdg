@@ -2,3 +2,5 @@ description:Webdiver DX W-05 Gladion (Japan)
 manufacturer:Takara / SSD Company LTD
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported

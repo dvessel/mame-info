@@ -2,6 +2,8 @@ description:Black Gold (Nova) (Scorpion 4) (set 2)
 manufacturer:Nova
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4bgold
 cloneof:sc4bgold

@@ -2,6 +2,8 @@ description:Poker (Version 50.02 ICB, set 4)
 manufacturer:Greyhound Electronics
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:gepoker
 cloneof:gepoker

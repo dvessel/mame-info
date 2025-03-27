@@ -2,5 +2,7 @@ description:Magical Kengo 2005 (Ver. 1.2)
 manufacturer:Herb Home
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:ym2413

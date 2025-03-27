@@ -2,6 +2,8 @@ description:Roller Aces (set 1)
 manufacturer:Kaneko (Williams license)
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:fightrol
 cloneof:fightrol

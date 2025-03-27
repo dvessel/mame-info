@@ -2,4 +2,6 @@ description:Treasure Bonus (Subsino, v1.6)
 manufacturer:American Alpha
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

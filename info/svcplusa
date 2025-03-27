@@ -2,6 +2,8 @@ description:SNK vs. Capcom - SVC Chaos Plus (bootleg set 2)
 manufacturer:bootleg
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:svc
 romof:neogeo

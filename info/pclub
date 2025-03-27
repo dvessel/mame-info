@@ -2,6 +2,8 @@ description:Print Club (World)
 manufacturer:Atlus
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:pclubjv2
 cloneof:pclubjv2

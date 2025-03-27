@@ -2,6 +2,8 @@ description:Road Runner (JPM) (SYSTEM80, set 2)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:j80rr
 cloneof:j80rr

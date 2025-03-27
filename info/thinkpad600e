@@ -2,3 +2,5 @@ description:ThinkPad 600E
 manufacturer:IBM
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported

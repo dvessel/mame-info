@@ -2,5 +2,7 @@ description:Super Mario Bros. 2 (PlayChoice-10)
 manufacturer:Nintendo
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

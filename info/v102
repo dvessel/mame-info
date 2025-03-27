@@ -2,4 +2,6 @@ description:Visual 102
 manufacturer:Visual Technology
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:v102_kbd

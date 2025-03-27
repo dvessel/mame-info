@@ -2,6 +2,8 @@ description:All Japan Pro-Wrestling Featuring Virtua (T 971123 V1.000)
 manufacturer:Sega
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:znpwfv

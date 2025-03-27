@@ -2,4 +2,6 @@ description:Super Trivia Master
 manufacturer:Enerdyne Technologies Inc.
 year:1986
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

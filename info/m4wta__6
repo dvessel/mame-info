@@ -2,6 +2,8 @@ description:Winner Takes All (Barcrest) (MPU4) (V1 0.1, hack)
 manufacturer:hack
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4wta

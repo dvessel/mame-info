@@ -2,6 +2,8 @@ description:Space Dungeon (larger roms)
 manufacturer:Taito America Corporation
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p3
 romof:sdungeon

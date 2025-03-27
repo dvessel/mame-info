@@ -2,3 +2,5 @@ description:Plug 'N' Play 30-in-1 (DGUN-851)
 manufacturer:dreamGEAR / JungleTac
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported

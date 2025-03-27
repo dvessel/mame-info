@@ -2,6 +2,8 @@ description:Senjou no Ookami
 manufacturer:Capcom
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:commando
 cloneof:commando

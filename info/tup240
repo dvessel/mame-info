@@ -2,5 +2,7 @@ description:Thumbs Up 240-in-1 Mini Arcade Machine
 manufacturer:Thumbs Up
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:lpgm240
 cloneof:lpgm240

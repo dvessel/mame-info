@@ -2,6 +2,8 @@ description:Birdie Try (Japan, sample version)
 manufacturer:Data East Corporation
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:birdtry
 cloneof:birdtry

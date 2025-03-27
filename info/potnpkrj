@@ -2,6 +2,8 @@ description:Jack Potten's Poker (set 11, German, W.W.)
 manufacturer:bootleg
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pottnpkr
 cloneof:pottnpkr

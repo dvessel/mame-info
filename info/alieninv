@@ -2,6 +2,8 @@ description:Alien Invasion
 manufacturer:bootleg (Margamatics)
 year:19??
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

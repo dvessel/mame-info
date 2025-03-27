@@ -2,5 +2,7 @@ description:RM-380Z, COS 4.0B/M with HRG
 manufacturer:Research Machines
 year:1978
 status:good
+emulation:good
+savestate:unsupported
 romof:rm380z
 cloneof:rm380z

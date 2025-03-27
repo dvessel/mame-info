@@ -2,5 +2,7 @@ description:Pink Panther (PR2267, MAZNPINK) (Mazooma) (Adder 5) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5pp
 cloneof:ad5pp

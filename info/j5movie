@@ -2,6 +2,8 @@ description:Movie Magic Club (Crystal) (SYSTEM5)
 manufacturer:Crystal
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

@@ -2,3 +2,5 @@ description:JD-800 Programmable Synthesizer
 manufacturer:Roland
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported

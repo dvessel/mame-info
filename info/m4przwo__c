@@ -2,6 +2,8 @@ description:Prize What's On (Barcrest) (MPU4) (PWO 0.5 YD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4przwo

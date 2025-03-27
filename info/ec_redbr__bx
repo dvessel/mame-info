@@ -2,6 +2,8 @@ description:Red Bar (Electrocoin) (set 97)
 manufacturer:Electrocoin
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_redbr
 cloneof:ec_redbr

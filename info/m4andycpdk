@@ -2,6 +2,8 @@ description:Andy Capp (Barcrest) (MPU4) (AND K)
 manufacturer:Barcrest
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4andycp

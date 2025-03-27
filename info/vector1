@@ -2,4 +2,6 @@ description:Vector 1+ (DD drive)
 manufacturer:Vector Graphic
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:s100_nsmdsad

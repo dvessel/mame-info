@@ -2,6 +2,8 @@ description:Player's Edge Plus (PP0542) One Eyed Jacks Wild Poker (CG2020)
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pepp0542
 cloneof:pepp0542

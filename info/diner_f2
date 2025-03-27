@@ -2,6 +2,8 @@ description:Diner (LF-2) French
 manufacturer:Williams
 year:1990
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:diner_l4

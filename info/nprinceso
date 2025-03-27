@@ -2,6 +2,8 @@ description:Ninja Princess (315-5098, 128k Ver.)
 manufacturer:Sega
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:seganinj
 cloneof:seganinj

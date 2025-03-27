@@ -2,6 +2,8 @@ description:Samurai Shodown / Samurai Spirits (NGH-045)
 manufacturer:SNK
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:samsho
 romof:neogeo

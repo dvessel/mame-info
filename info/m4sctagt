@@ -2,5 +2,7 @@ description:Secret Agent (Nova) (German) (MPU4) (GSE 3.0)
 manufacturer:Nova
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,4 +2,6 @@ description:DX100 Digital Programmable Algorithm Synthesizer
 manufacturer:Yamaha
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 device:hd44780

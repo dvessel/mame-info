@@ -2,6 +2,8 @@ description:The Berlin Wall (Korea)
 manufacturer:Kaneko (Inter license)
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:berlwall
 cloneof:berlwall

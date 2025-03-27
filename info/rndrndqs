@@ -2,6 +2,8 @@ description:Round and Round (Rev 6) (Quick $ilver)
 manufacturer:Quick $ilver Development Co.
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:hd44780

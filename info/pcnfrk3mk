@@ -2,10 +2,11 @@ description:Percussion Freaks 3rd Mix (G*A23 VER. KAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 romof:pcnfrk3m
 romof:sys573
 cloneof:pcnfrk3m
 disk:a23kaa02
-disk:a23aaa02

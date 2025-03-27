@@ -2,6 +2,8 @@ description:TT030 (Poland)
 manufacturer:Atari
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:st_kbd
 romof:tt030
 cloneof:tt030

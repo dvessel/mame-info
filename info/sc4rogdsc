@@ -2,6 +2,8 @@ description:Rogan Dosh (Qps) (Scorpion 4) (set 4)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4rogds
 cloneof:sc4rogds

@@ -2,6 +2,8 @@ description:Choro Q Hyper Racing 5 (J 981230 V1.000)
 manufacturer:Sega / Takara
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

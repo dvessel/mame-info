@@ -2,6 +2,8 @@ description:Space Attack (upright set 2)
 manufacturer:Sega
 year:1979
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:sspaceat
 cloneof:sspaceat

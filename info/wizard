@@ -2,3 +2,5 @@ description:Wizard (Ver 1.0)
 manufacturer:A.A.
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported

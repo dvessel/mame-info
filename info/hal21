@@ -2,4 +2,6 @@ description:HAL21
 manufacturer:SNK
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

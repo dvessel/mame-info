@@ -2,6 +2,8 @@ description:Space Duel (version 1)
 manufacturer:Atari
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:spacduel
 cloneof:spacduel

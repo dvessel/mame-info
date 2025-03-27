@@ -2,5 +2,7 @@ description:Magic the Gathering: Armageddon (set 2)
 manufacturer:Acclaim
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:magictg
 cloneof:magictg

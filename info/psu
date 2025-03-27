@@ -2,6 +2,8 @@ description:Sony PlayStation (USA)
 manufacturer:Sony Computer Entertainment Inc
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:psx_cd
 romof:psj
 cloneof:psj

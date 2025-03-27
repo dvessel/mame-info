@@ -2,5 +2,7 @@ description:Super GT 24h
 manufacturer:Jaleco
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill

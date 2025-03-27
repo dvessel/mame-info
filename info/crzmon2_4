@@ -2,6 +2,8 @@ description:Crazy Monkey 2 (100618 Russia)
 manufacturer:Igrosoft
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:crzmon2
 cloneof:crzmon2

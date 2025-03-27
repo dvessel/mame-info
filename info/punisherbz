@@ -2,6 +2,8 @@ description:Biaofeng Zhanjing (Chinese bootleg of The Punisher)
 manufacturer:bootleg
 year:2002
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:punisher
 cloneof:punisher

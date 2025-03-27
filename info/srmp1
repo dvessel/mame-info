@@ -2,4 +2,6 @@ description:Super Real Mahjong Part 1 (Japan)
 manufacturer:Seta
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

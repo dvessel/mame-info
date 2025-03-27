@@ -2,6 +2,8 @@ description:Indianapolis 500 (1.1 Belgium)
 manufacturer:Bally
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:i500_11r

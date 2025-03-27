@@ -2,6 +2,8 @@ description:Terminator 3: Rise of the Machines (CPU 2.05, display L2.01, Spain)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

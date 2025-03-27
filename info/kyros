@@ -2,4 +2,6 @@ description:Kyros
 manufacturer:Alpha Denshi Co. (World Games Inc. license)
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

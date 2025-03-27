@@ -2,5 +2,7 @@ description:TRS-80 Model 4P
 manufacturer:Tandy Radio Shack
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:trs80m3
 cloneof:trs80m3

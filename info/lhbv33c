@@ -2,6 +2,8 @@ description:Long Hu Bang (China, V033C)
 manufacturer:IGS
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lhb
 cloneof:lhb

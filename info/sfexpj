@@ -2,6 +2,8 @@ description:Street Fighter EX Plus (Japan 970407)
 manufacturer:Capcom / Arika
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:sfexp

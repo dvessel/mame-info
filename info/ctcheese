@@ -2,6 +2,8 @@ description:Cut The Cheese (Redemption)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

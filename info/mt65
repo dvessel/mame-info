@@ -2,5 +2,7 @@ description:Microtan 65
 manufacturer:Tangerine
 year:1979
 status:good
+emulation:good
+savestate:unsupported
 device:microtan_kbd_mt009
 device:tanbus_tanex

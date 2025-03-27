@@ -2,6 +2,8 @@ description:Kaypro 4x
 manufacturer:Kaypro Corporation
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:kaypro10kbd
 romof:robie
 cloneof:robie

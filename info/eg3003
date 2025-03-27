@@ -2,3 +2,5 @@ description:Video Genie EG3003
 manufacturer:EACA Computers Ltd
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported

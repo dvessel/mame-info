@@ -2,6 +2,8 @@ description:Pentacup (rev. S)
 manufacturer:Micropin
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 romof:pentacup
 cloneof:pentacup

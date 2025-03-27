@@ -2,6 +2,8 @@ description:Time Warp (Extreme) (EPOCH) (TWRP 0.4, set 4)
 manufacturer:Extreme
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_twarp
 cloneof:ep_twarp

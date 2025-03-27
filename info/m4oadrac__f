@@ -2,6 +2,8 @@ description:Ooh Aah Dracula (Barcrest) (MPU4) (DR_ 2.0 B)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4oadrac

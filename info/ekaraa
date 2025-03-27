@@ -2,5 +2,7 @@ description:e-kara (US?, NTSC, set 2)
 manufacturer:Takara / SSD Company LTD / Hasbro
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ekara
 cloneof:ekara

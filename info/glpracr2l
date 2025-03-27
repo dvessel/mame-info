@@ -2,6 +2,8 @@ description:Gallop Racer 2 Link HW (Japan)
 manufacturer:Tecmo
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:glpracr2
 romof:coh1002m

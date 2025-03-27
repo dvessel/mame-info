@@ -2,6 +2,8 @@ description:No Good Gofers (1.0)
 manufacturer:Williams
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:ngg_13

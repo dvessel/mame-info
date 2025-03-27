@@ -2,5 +2,7 @@ description:Gaminator 16 (set 7)
 manufacturer:Novotech
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gamt16
 cloneof:gamt16

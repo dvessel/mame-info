@@ -2,5 +2,7 @@ description:League Bowling (NGM-019 ~ NGH-019)
 manufacturer:SNK
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

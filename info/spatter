@@ -2,4 +2,6 @@ description:Spatter (315-5096)
 manufacturer:Sega
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop

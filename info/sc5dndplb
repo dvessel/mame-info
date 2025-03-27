@@ -2,6 +2,8 @@ description:Deal or No Deal The Perfect Game Classic (Bellfruit) (Scorpion 5) (s
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndpl
 cloneof:sc5dndpl

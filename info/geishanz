@@ -2,6 +2,8 @@ description:Geisha (0101408V, New Zealand)
 manufacturer:Aristocrat
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:geisha
 romof:aristmk5

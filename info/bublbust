@@ -2,6 +2,8 @@ description:Bubble Buster (USA, B-System)
 manufacturer:Taito America Corporation
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pbobble
 cloneof:pbobble

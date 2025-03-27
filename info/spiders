@@ -2,4 +2,6 @@ description:Spiders (set 1)
 manufacturer:Sigma Enterprises Inc.
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Gnome (100407 Entertainment X)
 manufacturer:Igrosoft
 year:2007
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gnome_9
 cloneof:gnome_9

@@ -2,4 +2,6 @@ description:Diamond Derby (Win bet, newer)
 manufacturer:Electrocoin
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

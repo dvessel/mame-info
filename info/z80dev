@@ -1,3 +1,5 @@
 description:Z80 dev board
 year:198?
 status:good
+emulation:good
+savestate:supported

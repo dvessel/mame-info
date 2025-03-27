@@ -2,6 +2,8 @@ description:Final Fight (bootleg with single OKI)
 manufacturer:bootleg (Soon Hwa)
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ffight
 cloneof:ffight

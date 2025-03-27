@@ -2,6 +2,8 @@ description:Arcadia (JPM) (IMPACT) (AR10 C11, V10, set 1, Protocol)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6arcade

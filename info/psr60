@@ -2,3 +2,5 @@ description:PSR-60 PortaSound
 manufacturer:Yamaha
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported

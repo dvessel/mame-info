@@ -2,4 +2,6 @@ description:Frankie Dettori's 7th Heaven (Bellfruit) (Scorpion 4) (set 1)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Golden X (Mazooma) (Scorpion 4) (GLDX, set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4ggame
 cloneof:sc4ggame

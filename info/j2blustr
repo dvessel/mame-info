@@ -2,4 +2,6 @@ description:Blue Streak (Pcp) (MPS)
 manufacturer:Pcp
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

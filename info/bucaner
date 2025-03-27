@@ -2,6 +2,8 @@ description:Buccaneer (set 1)
 manufacturer:hack (Video Research)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

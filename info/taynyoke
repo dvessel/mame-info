@@ -2,5 +2,7 @@ description:Tayny okeana
 manufacturer:bootleg (Elektronika)
 year:1988
 status:good
+emulation:good
+savestate:supported
 romof:gnw_octopus
 cloneof:gnw_octopus

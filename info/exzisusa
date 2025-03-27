@@ -2,6 +2,8 @@ description:Exzisus (Japan, conversion)
 manufacturer:Taito Corporation
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:exzisus
 cloneof:exzisus

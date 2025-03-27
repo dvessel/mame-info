@@ -2,5 +2,7 @@ description:Les Fiches (ver 1.2)
 manufacturer:Minivideo
 year:1995?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:fiches
 cloneof:fiches

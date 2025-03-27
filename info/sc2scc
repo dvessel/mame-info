@@ -2,6 +2,8 @@ description:Safe Cracker Club (Mdm) (v4.4) (Scorpion 2/3)
 manufacturer:Mdm
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

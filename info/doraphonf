@@ -2,5 +2,7 @@ description:Dora the Explorer - Dora TV Explorer Phone / L'anniversaire de Babou
 manufacturer:VTech
 year:2006
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:doraphon
 cloneof:doraphon

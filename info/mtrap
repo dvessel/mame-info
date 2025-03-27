@@ -2,4 +2,6 @@ description:Mouse Trap (version 5)
 manufacturer:Exidy
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

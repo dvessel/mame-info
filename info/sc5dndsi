@@ -2,4 +2,6 @@ description:Deal or No Deal Simply Deal or No Deal (Bellfruit) (Scorpion 5) (set
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

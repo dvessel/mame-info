@@ -2,6 +2,8 @@ description:Fright Night (Empire) (MPU4, v4.1)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4fright

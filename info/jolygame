@@ -2,6 +2,8 @@ description:Jolly Game (V1, Otti Karl logo)
 manufacturer:bootleg
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:jollycrd
 cloneof:jollycrd

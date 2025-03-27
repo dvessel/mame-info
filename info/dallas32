@@ -2,3 +2,5 @@ description:Mephisto Dallas 68020 (set 1)
 manufacturer:Hegener + Glaser
 year:1986
 status:good
+emulation:good
+savestate:supported

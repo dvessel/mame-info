@@ -2,3 +2,5 @@ description:RD-500 Digital Piano
 manufacturer:Roland
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported

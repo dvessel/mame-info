@@ -2,6 +2,8 @@ description:The Simpsons - Homer's Meltdown (Maygay) (EPOCH) (2.B, set 5)
 manufacturer:Maygay
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_homer
 cloneof:ep_homer

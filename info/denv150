@@ -2,3 +2,5 @@ description:Denver Game Console GMP-240C 150-in-1
 manufacturer:Denver
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

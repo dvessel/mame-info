@@ -2,6 +2,8 @@ description:Multi Champ (Korea, older)
 manufacturer:ESD
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:multchmp
 cloneof:multchmp

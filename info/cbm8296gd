@@ -2,6 +2,8 @@ description:CBM 8296GD
 manufacturer:Commodore Business Machines
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:c8250lp
 device:c8050fdc
 romof:cbm8296

@@ -2,6 +2,8 @@ description:CC2-Schachzwerg (German)
 manufacturer:Elektor
 year:2009
 status:good
+emulation:good
+savestate:supported
 device:hd44780u
 romof:atm18mcc
 cloneof:atm18mcc

@@ -2,6 +2,8 @@ description:Ms. Pac-Man II (Orca bootleg, set 2)
 manufacturer:bootleg (Orca)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mspacman
 cloneof:mspacman

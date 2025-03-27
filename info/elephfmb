@@ -2,6 +2,8 @@ description:Elephant Family (Italian, old)
 manufacturer:C.M.C.
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:elephfam
 cloneof:elephfam

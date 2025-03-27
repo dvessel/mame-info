@@ -2,6 +2,8 @@ description:Fruit Bonus 2000 / New Cherry 2000 (Version 4.1LT, set 2)
 manufacturer:Amcoe
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ch2000
 cloneof:ch2000

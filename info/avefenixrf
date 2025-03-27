@@ -2,6 +2,8 @@ description:Ave Fenix (Recreativos Franco, Spanish bootleg of Phoenix)
 manufacturer:bootleg (Recreativos Franco S.A.)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:phoenix
 cloneof:phoenix

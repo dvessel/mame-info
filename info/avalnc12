@@ -2,9 +2,10 @@ description:The Key Of Avalon 1.2 - Summon The New Monsters (client, Rev A) (GDT
 manufacturer:Sega / Hitmaker
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:avalnc13
 romof:triforce
 cloneof:avalnc13
 disk:gdt-0010a
-disk:gdt-0010c

@@ -2,6 +2,8 @@ description:1991 Spikes (Italian bootleg, set 1)
 manufacturer:bootleg
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pspikes
 cloneof:pspikes

@@ -2,6 +2,8 @@ description:Backfire! (Japan, set 2)
 manufacturer:Data East Corporation
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:backfire
 cloneof:backfire

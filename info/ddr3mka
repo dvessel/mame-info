@@ -2,6 +2,8 @@ description:Dance Dance Revolution 3rd Mix - Ver.Korea (GN887 VER. KAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573mcr
@@ -9,4 +11,3 @@ romof:ddr3mk
 romof:sys573
 cloneof:ddr3mk
 disk:887kaa02
-disk:887kba02

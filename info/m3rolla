@@ -2,5 +2,7 @@ description:Rollamatic 5-Line Special (MPU3)
 manufacturer:Nationwide Group
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Wizz Quiz (version 4)
 manufacturer:Zilec-Zenitone
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wizzquiz
 cloneof:wizzquiz

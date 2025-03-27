@@ -2,6 +2,8 @@ description:Star Force (encrypted, set 2)
 manufacturer:Tehkan
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:starforc
 cloneof:starforc

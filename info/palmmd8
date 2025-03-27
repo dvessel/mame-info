@@ -2,3 +2,5 @@ description:Palmtronic MD-8 (Multi 8)
 manufacturer:Canon
 year:1977
 status:good
+emulation:good
+savestate:supported

@@ -2,3 +2,5 @@ description:CD-i (Mono-I) (PAL)
 manufacturer:Philips
 year:1991
 status:imperfect
+emulation:good
+savestate:supported

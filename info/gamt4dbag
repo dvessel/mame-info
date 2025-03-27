@@ -2,5 +2,7 @@ description:Gaminator 4 (bootleg, Bag, set 1)
 manufacturer:bootleg
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gamt4
 cloneof:gamt4

@@ -2,3 +2,5 @@ description:TeleVideo 995-65
 manufacturer:TeleVideo
 year:1994
 status:good
+emulation:good
+savestate:supported

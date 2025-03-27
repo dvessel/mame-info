@@ -2,3 +2,5 @@ description:Hector 2HR+
 manufacturer:Micronique
 year:1983
 status:imperfect
+emulation:good
+savestate:unsupported

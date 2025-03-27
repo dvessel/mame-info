@@ -2,4 +2,6 @@ description:Super Mario (Maygay) (EPOCH) (1.5, set 1)
 manufacturer:Maygay
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

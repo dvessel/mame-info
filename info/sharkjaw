@@ -2,3 +2,5 @@ description:Shark JAWS
 manufacturer:Atari/Horror Games
 year:1975
 status:preliminary
+emulation:preliminary
+savestate:unsupported

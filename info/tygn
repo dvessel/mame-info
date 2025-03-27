@@ -2,6 +2,8 @@ description:Te Yi Gong Neng (China, V632C)
 manufacturer:IGS
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:ym2413
 romof:lhb2

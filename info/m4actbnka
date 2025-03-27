@@ -2,6 +2,8 @@ description:Action Bank (Barcrest) (Mod 2 type, AC3.0) (MPU4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4actbnk

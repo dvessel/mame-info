@@ -2,6 +2,8 @@ description:PC-9821Ra266 (98MATE R)
 manufacturer:NEC
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:pc9801_86
 device:ym2608
 device:upd7220

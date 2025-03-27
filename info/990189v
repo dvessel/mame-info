@@ -2,5 +2,7 @@ description:TM 990/189 University Board microcomputer with Video Board Interface
 manufacturer:Texas Instruments
 year:1980
 status:good
+emulation:good
+savestate:unsupported
 romof:990189
 cloneof:990189

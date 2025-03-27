@@ -2,4 +2,6 @@ description:Minna Atsumare! Dodge Hero
 manufacturer:Sigma
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

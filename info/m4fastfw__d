@@ -2,6 +2,8 @@ description:Fast Forward (Barcrest) (MPU4) (SFF 3.0, set 5)
 manufacturer:Bwb / Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

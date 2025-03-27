@@ -2,6 +2,8 @@ description:Snake Rattle &amp; Roll (Qps) (Scorpion 5) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5srrqp
 cloneof:sc5srrqp

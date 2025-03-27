@@ -2,6 +2,8 @@ description:Crazy Monkey 2 (101220 Entertainment N)
 manufacturer:Igrosoft
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:crzmon2
 cloneof:crzmon2

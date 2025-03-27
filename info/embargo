@@ -2,4 +2,6 @@ description:Embargo
 manufacturer:Cinematronics
 year:1977
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

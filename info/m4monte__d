@@ -2,6 +2,8 @@ description:Monte Carlo (NM8 0.1 D) (Barcrest) (MPU4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

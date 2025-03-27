@@ -2,5 +2,7 @@ description:Exeltel
 manufacturer:Exelvision
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:exl100
 cloneof:exl100

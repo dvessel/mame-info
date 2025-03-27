@@ -2,3 +2,5 @@ description:PCW8256
 manufacturer:Amstrad plc
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

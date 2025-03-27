@@ -2,6 +2,8 @@ description:Batsugun - Special Version
 manufacturer:Toaplan
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:batsugun
 cloneof:batsugun

@@ -2,5 +2,7 @@ description:SPARCstation 1 (Sun 4/60)
 manufacturer:Sun Microsystems
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:sun4_300
 cloneof:sun4_300

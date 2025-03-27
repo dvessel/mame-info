@@ -2,6 +2,8 @@ description:Flash Gordon (French)
 manufacturer:Bally
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:flashgdn

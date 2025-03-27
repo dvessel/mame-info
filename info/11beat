@@ -2,5 +2,7 @@ description:Eleven Beat
 manufacturer:Hudson
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aleck64

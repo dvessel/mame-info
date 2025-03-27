@@ -2,5 +2,7 @@ description:JR-100U
 manufacturer:Panasonic
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:jr100
 cloneof:jr100

@@ -2,3 +2,5 @@ description:Millennium Arcade 101 (M489) (Game Station 2 101-in-1)
 manufacturer:Millennium 2000 GmbH
 year:2014
 status:imperfect
+emulation:good
+savestate:unsupported

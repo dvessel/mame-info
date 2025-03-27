@@ -2,6 +2,8 @@ description:King Derby (Taiwan bootleg)
 manufacturer:bootleg (Casino Electronics)
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:kingdrby
 cloneof:kingdrby

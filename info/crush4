@@ -2,6 +2,8 @@ description:Crush Roller (set 4)
 manufacturer:Alpha Denshi Co. / Kural Electric, Ltd.
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:crush
 cloneof:crush

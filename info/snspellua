@@ -2,5 +2,7 @@ description:Speak &amp; Spell (US, 1978 version)
 manufacturer:Texas Instruments
 year:1978
 status:imperfect
+emulation:good
+savestate:supported
 romof:snspell
 cloneof:snspell

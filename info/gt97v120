@@ -2,6 +2,8 @@ description:Golden Tee '97 (v1.20)
 manufacturer:Incredible Technologies
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gt97
 cloneof:gt97

@@ -2,6 +2,8 @@ description:The King of Fighters 10th Anniversary 2005 Unique (bootleg of The Ki
 manufacturer:bootleg
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kof2002
 romof:neogeo

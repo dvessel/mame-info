@@ -2,6 +2,8 @@ description:Freeze (Atari) (prototype, 96/09/07, Jamma-96)
 manufacturer:Atari Games
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:freezeat
 cloneof:freezeat

@@ -2,4 +2,6 @@ description:S-Plus SET015 Set chip
 manufacturer:IGT - International Game Technology
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

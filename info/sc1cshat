@@ -2,5 +2,7 @@ description:Cash Attraction (Bellfruit) (set 5, Protocol) (Scorpion 1)
 manufacturer:BFM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

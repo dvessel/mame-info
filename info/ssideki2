@@ -2,5 +2,7 @@ description:Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - Real Fig
 manufacturer:SNK
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

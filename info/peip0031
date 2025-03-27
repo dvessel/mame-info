@@ -2,4 +2,6 @@ description:Player's Edge Plus (IP0031) Standard Draw Poker - French
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

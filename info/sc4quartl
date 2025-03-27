@@ -2,6 +2,8 @@ description:Quaterback (PR2064) (German) (Mazooma) (Scorpion 4) (set 7)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4quart
 cloneof:sc4quart

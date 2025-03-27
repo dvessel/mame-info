@@ -2,6 +2,8 @@ description:Suits U Sir Club (Qps) (Scorpion 4) (set 3)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4suscl
 cloneof:sc4suscl

@@ -2,6 +2,8 @@ description:Monster Bash (1.06)
 manufacturer:Williams
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:mb_10

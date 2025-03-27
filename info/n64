@@ -2,3 +2,5 @@ description:Nintendo 64 (NTSC)
 manufacturer:Nintendo
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

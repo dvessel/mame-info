@@ -2,6 +2,8 @@ description:Dog Fight (Orca, prototype)
 manufacturer:Orca
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:dogfight
 cloneof:dogfight

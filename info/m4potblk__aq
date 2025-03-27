@@ -2,6 +2,8 @@ description:Pot Black (Barcrest) (MPU4) (PBS 0.6 R)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4potblk

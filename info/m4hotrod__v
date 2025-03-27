@@ -2,6 +2,8 @@ description:Hot Rod (Barcrest) (MPU4) (ROD 0.4, hack?, set 3)
 manufacturer:hack
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4hotrod

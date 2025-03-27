@@ -2,4 +2,6 @@ description:Cannon Ball (Yun Sung, horizontal)
 manufacturer:Yun Sung / Soft Vision
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

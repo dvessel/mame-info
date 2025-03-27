@@ -2,6 +2,8 @@ description:Ronnie O'Sullivan's Tournament Snooker (Bellfruit) (Scorpion 4) (set
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4rosts
 cloneof:sc4rosts

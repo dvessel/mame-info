@@ -2,4 +2,6 @@ description:Disney Frozen TV Game Console (32-bit, Lexibook, JG7420FZ)
 manufacturer:Lexibook
 year:2016
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:sdcard

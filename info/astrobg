@@ -2,6 +2,8 @@ description:Astro Blaster (German)
 manufacturer:Sega
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:astrob
 cloneof:astrob

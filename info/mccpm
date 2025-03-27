@@ -2,3 +2,5 @@ description:mc-CP/M-Computer
 manufacturer:GRAF Elektronik Systeme GmbH
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported

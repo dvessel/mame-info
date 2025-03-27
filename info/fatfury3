@@ -2,5 +2,7 @@ description:Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - Haruka
 manufacturer:SNK
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

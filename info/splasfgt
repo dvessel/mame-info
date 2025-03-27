@@ -2,3 +2,5 @@ description:Space Laser Fight
 manufacturer:Bambino
 year:1980
 status:good
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:Queen of the Nile - Cash Express (AHG1525, US)
 manufacturer:Aristocrat
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:qnile
 romof:aristmk5

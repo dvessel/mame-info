@@ -2,6 +2,8 @@ description:It's Your Call (Global) (v2.7 Protocol) (Scorpion 2/3)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

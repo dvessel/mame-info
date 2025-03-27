@@ -2,6 +2,8 @@ description:Club Vegas (Barcrest) (MPU4) (CLA 2.4, set 4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4clbveg

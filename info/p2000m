@@ -2,5 +2,7 @@ description:Philips P2000M
 manufacturer:Philips
 year:1980
 status:good
+emulation:good
+savestate:unsupported
 romof:p2000t
 cloneof:p2000t

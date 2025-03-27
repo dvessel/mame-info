@@ -2,3 +2,5 @@ description:Bridge Challenger III
 manufacturer:Fidelity Electronics
 year:1982
 status:imperfect
+emulation:good
+savestate:supported

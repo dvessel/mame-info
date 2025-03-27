@@ -2,5 +2,7 @@ description:Nickelodeon (Barcrest) (MPU4) (NIL 4.1, set 1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

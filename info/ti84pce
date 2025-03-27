@@ -2,5 +2,7 @@ description:TI-84 Plus CE (Boot Code 5.0.0.0089)
 manufacturer:Texas Instruments
 year:2015
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ti84pse
 cloneof:ti84pse

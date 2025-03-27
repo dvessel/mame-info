@@ -2,4 +2,6 @@ description:Fever 13 (Japan, v1.3)
 manufacturer:Excellent System
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

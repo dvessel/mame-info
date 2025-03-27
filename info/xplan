@@ -2,4 +2,6 @@ description:X-Plan (Ver. 101)
 manufacturer:Subsino
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

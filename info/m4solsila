@@ -2,6 +2,8 @@ description:Solid Silver Club (Barcrest) (MPU4) (SOS 2.1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4solsil

@@ -2,6 +2,8 @@ description:Point Blank 2 (US, GNB3/VER.A)
 manufacturer:Namco
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:namcoc76
 romof:ptblank2

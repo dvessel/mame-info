@@ -2,4 +2,6 @@ description:Super Nudger II - P173 (Version 5.21)
 manufacturer:Coinmaster
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

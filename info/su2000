@@ -2,4 +2,6 @@ description:SU2000
 manufacturer:Virtuality
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios

@@ -2,4 +2,6 @@ description:Macintosh LC II
 manufacturer:Apple Computer
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 device:egret

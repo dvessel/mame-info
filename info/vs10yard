@@ -2,6 +2,8 @@ description:Vs 10-Yard Fight (World, 11/05/84)
 manufacturer:Irem
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:10yard
 cloneof:10yard

@@ -2,4 +2,6 @@ description:Amazon Temple (10299811, NSW/ACT)
 manufacturer:Aristocrat
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,5 +2,7 @@ description:Duty Free (Barcrest) (MPU4) (DUT 0.4)
 manufacturer:Barcrest
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

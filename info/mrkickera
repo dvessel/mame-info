@@ -2,6 +2,8 @@ description:Mr. Kicker (SEMICOM-003b PCB)
 manufacturer:SemiCom
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:mrkicker
 cloneof:mrkicker

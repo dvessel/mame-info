@@ -2,6 +2,8 @@ description:Compact Computer 40 Plus (prototype)
 manufacturer:Texas Instruments
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:hd44780
 romof:cc40
 cloneof:cc40

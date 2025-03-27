@@ -2,4 +2,6 @@ description:Many Block
 manufacturer:Bee-Oh
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

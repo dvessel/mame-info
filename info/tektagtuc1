@@ -2,6 +2,8 @@ description:Tekken Tag Tournament (US, TEG3/VER.C1)
 manufacturer:Namco
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tektagt
 cloneof:tektagt

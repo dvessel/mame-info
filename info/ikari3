@@ -2,4 +2,6 @@ description:Ikari III - The Rescue (World version 1, 8-Way Joystick)
 manufacturer:SNK
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop

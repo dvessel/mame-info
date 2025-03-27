@@ -2,4 +2,6 @@ description:Trivial Pursuit (Volumen IV, Spanish, Maibesa hardware)
 manufacturer:Bally/Sente (Maibesa license)
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

@@ -2,5 +2,7 @@ description:Microbee 64k
 manufacturer:Applied Technology
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:mbee
 cloneof:mbee

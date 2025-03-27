@@ -2,6 +2,8 @@ description:Cookie &amp; Bibi 2 (English, set 3)
 manufacturer:SemiCom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:cookbib2
 cloneof:cookbib2

@@ -2,3 +2,5 @@ description:Casiotone MB-1
 manufacturer:Casio
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported

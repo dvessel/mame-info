@@ -2,6 +2,8 @@ description:Lock 'n' Load Club (Barcrest - Red Gaming) (MPU5) (set 3)
 manufacturer:Barcrest / Red Gaming
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5lockcl
 cloneof:m5lockcl

@@ -2,5 +2,7 @@ description:Bonanza (JPM) (IMPACT) (BO1 H06)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop

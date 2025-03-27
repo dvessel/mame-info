@@ -2,6 +2,8 @@ description:Bare Knuckle III (bootleg of Mega Drive version)
 manufacturer:bootleg / Sega
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:barek3mb
 cloneof:barek3mb

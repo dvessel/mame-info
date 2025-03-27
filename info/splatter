@@ -2,4 +2,6 @@ description:Splatter House (World, new version (SH3))
 manufacturer:Namco
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Keks (060403 World)
 manufacturer:Igrosoft
 year:2006
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:keks_6
 cloneof:keks_6

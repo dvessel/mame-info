@@ -2,5 +2,7 @@ description:Tennis (PlayChoice-10)
 manufacturer:Nintendo
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

@@ -2,5 +2,7 @@ description:Cosmo Gang the Video (US)
 manufacturer:Namco
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65

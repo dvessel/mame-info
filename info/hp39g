@@ -2,3 +2,5 @@ description:HP39G
 manufacturer:Hewlett Packard
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported

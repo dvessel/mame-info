@@ -2,4 +2,6 @@ description:Noraut Red Hot Joker Poker
 manufacturer:Noraut Ltd.
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

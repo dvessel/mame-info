@@ -2,6 +2,8 @@ description:Manx TT Superbike - DX
 manufacturer:Sega
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:manxtt

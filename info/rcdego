@@ -2,9 +2,10 @@ description:RC De Go (V2.03J 1999/05/22 19:29)
 manufacturer:Taito
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:gobyrc
 romof:coh3002t
 cloneof:gobyrc
 disk:rcdego
-disk:gobyrc

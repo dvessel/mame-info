@@ -2,5 +2,7 @@ description:BCS 3 rev 3.2
 manufacturer:Eckhard Schiller
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:bcs3
 cloneof:bcs3

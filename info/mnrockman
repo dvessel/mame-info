@@ -2,4 +2,6 @@ description:Medal Network: Rockman EXE
 manufacturer:Banpresto / Capcom / Shogakukan / ShoPro / TV Tokyo
 year:2002
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,4 +2,6 @@ description:Truco Clemente
 manufacturer:Miky SRL
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

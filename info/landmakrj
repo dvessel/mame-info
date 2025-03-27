@@ -2,6 +2,8 @@ description:Land Maker (Ver 2.01J 1998/06/01)
 manufacturer:Taito Corporation
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:landmakr
 cloneof:landmakr

@@ -2,3 +2,5 @@ description:PMD-85.1
 manufacturer:Tesla
 year:1985
 status:good
+emulation:good
+savestate:supported

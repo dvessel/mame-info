@@ -2,5 +2,7 @@ description:Championship Soccer (BWB) (MPU4) (5/10/20/25/30p stake / £5 jackpot
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

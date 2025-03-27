@@ -2,3 +2,5 @@ description:Galaga (Tiny Arcade)
 manufacturer:Super Impulse
 year:2017
 status:preliminary
+emulation:preliminary
+savestate:unsupported

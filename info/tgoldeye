@@ -2,3 +2,5 @@ description:007: GoldenEye (Tiger)
 manufacturer:Tiger Electronics
 year:1996
 status:good
+emulation:good
+savestate:supported

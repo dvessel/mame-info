@@ -2,4 +2,6 @@ description:Polaroid Instant Memories
 manufacturer:Capcom / Polaroid
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,6 +2,8 @@ description:Top Dog (Barcrest) (MPU4) (TDT 7.1 BAD / TD 7.1)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4topdog

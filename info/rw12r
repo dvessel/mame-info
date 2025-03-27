@@ -2,3 +2,5 @@ description:12R: Square Root
 manufacturer:Rockwell
 year:1975
 status:good
+emulation:good
+savestate:supported

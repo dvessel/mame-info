@@ -2,6 +2,8 @@ description:Meijinsen (set 2)
 manufacturer:SNK
 year:1986
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:meijinsn
 cloneof:meijinsn

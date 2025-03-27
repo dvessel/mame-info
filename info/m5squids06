@@ -2,6 +2,8 @@ description:Squids In (Barcrest) (MPU5) (set 4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5squids
 cloneof:m5squids

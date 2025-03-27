@@ -2,5 +2,7 @@ description:Kick &amp; Kick (GNA36 VER. EAA)
 manufacturer:Konami
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sys573

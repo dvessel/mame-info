@@ -2,6 +2,8 @@ description:Last Action Hero (USA 1.12, display A1.06)
 manufacturer:Data East
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

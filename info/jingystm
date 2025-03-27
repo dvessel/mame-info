@@ -2,6 +2,8 @@ description:Jingi Storm - The Arcade (Japan) (GDL-0037)
 manufacturer:Atrativa Japan
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

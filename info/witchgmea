@@ -2,6 +2,8 @@ description:Witch Game (Video Klein, set 2)
 manufacturer:Video Klein
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:witchgme
 cloneof:witchgme

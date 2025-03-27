@@ -2,4 +2,6 @@ description:F-Zero AX Monster Ride
 manufacturer:Sega / Amusement Vision / Nintendo
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:triforce

@@ -2,6 +2,8 @@ description:Match Of The Day - Road To Wembley (Bellfruit) (set 7, UK) (Scorpion
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

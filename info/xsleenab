@@ -2,6 +2,8 @@ description:Xain'd Sleena (bootleg, set 1)
 manufacturer:bootleg
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:xsleena
 cloneof:xsleena

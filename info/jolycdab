@@ -2,6 +2,8 @@ description:Jolly Card (German, Fun World, bootleg)
 manufacturer:Inter Games
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:jollycrd
 cloneof:jollycrd

@@ -2,5 +2,7 @@ description:Moon Lite (Bwb)
 manufacturer:Bwb
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Snakes &amp; Ladders Club (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4slc
 cloneof:sc4slc

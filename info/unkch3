@@ -2,6 +2,8 @@ description:New Cherry Gold '99 (bootleg of Super Cherry Master) (set 2)
 manufacturer:bootleg
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:scmaster
 cloneof:scmaster

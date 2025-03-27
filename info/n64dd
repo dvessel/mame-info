@@ -2,5 +2,7 @@ description:Nintendo 64DD
 manufacturer:Nintendo
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:n64
 cloneof:n64

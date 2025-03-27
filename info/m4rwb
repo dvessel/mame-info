@@ -2,5 +2,7 @@ description:Red White &amp; Blue (Barcrest) (Dutch) (MPU4) (DRW 1.4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

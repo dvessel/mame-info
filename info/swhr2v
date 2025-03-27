@@ -2,6 +2,8 @@ description:Sweethearts II (01J01986, Venezuela)
 manufacturer:Aristocrat
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:swhr2
 romof:aristmk5

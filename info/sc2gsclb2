@@ -2,6 +2,8 @@ description:The Game Show Club (Bellfruit) (set 3, UK, Arcade) (Scorpion 2/3)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

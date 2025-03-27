@@ -2,5 +2,7 @@ description:Mephisto Rebell 5,0 (set 2)
 manufacturer:Hegener + Glaser
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:rebel5
 cloneof:rebel5

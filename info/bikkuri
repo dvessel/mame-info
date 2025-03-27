@@ -2,4 +2,6 @@ description:Bikkuri Pro Wrestling (Japan 881221, Ver 1.05)
 manufacturer:Nichibutsu
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

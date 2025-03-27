@@ -2,5 +2,7 @@ description:19XX: The War Against Destiny (Europe 960104)
 manufacturer:Capcom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

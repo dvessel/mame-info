@@ -2,6 +2,8 @@ description:Teraburst (1998/07/17 ver JEL)
 manufacturer:Konami
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:terabrst
 cloneof:terabrst

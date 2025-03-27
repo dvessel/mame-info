@@ -2,6 +2,8 @@ description:Zero Point (set 2)
 manufacturer:Unico
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:zeropnt
 cloneof:zeropnt

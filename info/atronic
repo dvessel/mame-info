@@ -2,4 +2,6 @@ description:Atronic SetUp/Clear Chips (Russia, set 1)
 manufacturer:Atronic
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:atronic

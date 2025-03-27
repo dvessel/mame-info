@@ -2,6 +2,8 @@ description:Ms. Pac-Man (Impeuropex bootleg)
 manufacturer:bootleg (Impeuropex)
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mspacman
 cloneof:mspacman

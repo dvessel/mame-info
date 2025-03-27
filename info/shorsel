@@ -2,6 +2,8 @@ description:Star Horse (live and backup)
 manufacturer:Sega
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

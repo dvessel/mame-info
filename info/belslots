@@ -2,4 +2,6 @@ description:Bel Slots Export (5.01)
 manufacturer:Impera
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

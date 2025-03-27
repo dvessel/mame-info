@@ -1,5 +1,7 @@
 description:Wully Bully
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:crysbios

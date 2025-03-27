@@ -2,6 +2,8 @@ description:Mad Shark (bootleg)
 manufacturer:bootleg
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:madshark
 cloneof:madshark

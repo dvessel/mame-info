@@ -2,6 +2,8 @@ description:Labyrinth Runner (Japan)
 manufacturer:Konami
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tricktrp
 cloneof:tricktrp

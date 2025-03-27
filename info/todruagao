@@ -2,6 +2,8 @@ description:The Tower of Druaga (Old Ver.)
 manufacturer:Namco
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:todruaga
 cloneof:todruaga

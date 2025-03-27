@@ -2,6 +2,8 @@ description:Robotron: 2084 (Yellow/Orange label)
 manufacturer:Williams / Vid Kidz
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:robotron
 cloneof:robotron

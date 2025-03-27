@@ -2,3 +2,5 @@ description:NANOS
 manufacturer:Ingenieurhochschule fur Seefahrt Warnemunde/Wustrow
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported

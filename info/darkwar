@@ -2,4 +2,6 @@ description:Dark Warrior
 manufacturer:Century Electronics
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

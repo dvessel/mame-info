@@ -2,10 +2,11 @@ description:MegaTouch XL Super 5000 (Version R5B)
 manufacturer:Merit Industries
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:dm_clgd5430
 device:microtouch
 romof:mtchxl5k
 cloneof:mtchxl5k
 disk:r5b
-disk:r5i

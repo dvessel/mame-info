@@ -2,4 +2,6 @@ description:APC
 manufacturer:NEC
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:upd7220

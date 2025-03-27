@@ -2,6 +2,8 @@ description:The Legend of Kage (bootleg set 1)
 manufacturer:bootleg
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lkage
 cloneof:lkage

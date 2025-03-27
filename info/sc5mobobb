@@ -2,6 +2,8 @@ description:Monopoly Boom Or Bust (Bellfruit) (Scorpion 5) (set 1)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5mobob
 cloneof:sc5mobob

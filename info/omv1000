@@ -2,4 +2,6 @@ description:Othello Multivision FG-1000
 manufacturer:Tsukuda Original
 year:1984
 status:good
+emulation:good
+savestate:supported
 cloneof:sg1000

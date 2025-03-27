@@ -2,6 +2,8 @@ description:Manguan Caishen (China, V106CS)
 manufacturer:IGS
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:mgcs
 cloneof:mgcs

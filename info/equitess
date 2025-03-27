@@ -2,6 +2,8 @@ description:Equites (Sega)
 manufacturer:Alpha Denshi Co. (Sega license)
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:equites
 cloneof:equites

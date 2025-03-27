@@ -2,4 +2,6 @@ description:DoDonPachi III (World, 2002.05.15 Master Ver)
 manufacturer:Cave (AMI license)
 year:2002
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

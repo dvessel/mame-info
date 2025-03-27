@@ -2,3 +2,5 @@ description:138 in 1 CoolBaby (CoolBoy RS-5, PCB060-10009011V1.3)
 manufacturer:CoolBoy
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported

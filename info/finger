@@ -2,6 +2,8 @@ description:Finger (bootleg of Stinger)
 manufacturer:bootleg
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:stinger
 cloneof:stinger

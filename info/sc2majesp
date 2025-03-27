@@ -2,6 +2,8 @@ description:Majestic Bells (Bellfruit) (set 1, Protocol) (set 2)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

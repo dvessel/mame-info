@@ -2,4 +2,6 @@ description:Big Fight - Big Trouble In The Atlantic Ocean
 manufacturer:Tatsumi
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,3 +2,5 @@ description:Virus A
 manufacturer:Access
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported

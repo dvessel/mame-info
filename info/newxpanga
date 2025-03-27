@@ -2,6 +2,8 @@ description:New Cross Pang (set 2)
 manufacturer:F2 System
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:newxpang
 cloneof:newxpang

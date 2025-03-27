@@ -2,6 +2,8 @@ description:Dragon Treasure 3 (Rev A) (GDS-0041A)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

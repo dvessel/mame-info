@@ -2,6 +2,8 @@ description:Dragon Ball Z (rev A)
 manufacturer:Banpresto
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:dbz
 cloneof:dbz

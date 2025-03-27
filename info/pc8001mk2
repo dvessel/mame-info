@@ -2,6 +2,8 @@ description:PC-8001mkII
 manufacturer:NEC
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:pc80s31
 romof:pc8001
 cloneof:pc8001

@@ -2,6 +2,8 @@ description:Cluedo (Maygay) v1.2 (Newer) (Protocol) (M1A/B)
 manufacturer:Maygay
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413
 romof:m1cluedo

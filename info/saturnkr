@@ -2,6 +2,8 @@ description:Saturn (Korea)
 manufacturer:Samsung
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:satcdb
 romof:saturn
 cloneof:saturn

@@ -2,3 +2,5 @@ description:TPS-312 (MSX2, Argentina)
 manufacturer:Talent
 year:1987
 status:good
+emulation:good
+savestate:unsupported

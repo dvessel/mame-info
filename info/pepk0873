@@ -2,6 +2,8 @@ description:Player's Edge (PK0873-PC093) Deuces Wild Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:pepk0858
 cloneof:pepk0858

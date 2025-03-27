@@ -2,6 +2,8 @@ description:Vendetta (Asia, 2 Players, ver. U)
 manufacturer:Konami
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:vendetta
 cloneof:vendetta

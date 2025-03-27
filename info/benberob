@@ -2,4 +2,6 @@ description:Ben Bero Beh (Japan)
 manufacturer:Taito
 year:1984
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,5 +2,7 @@ description:Hatris (US)
 manufacturer:Video System Co.
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2608

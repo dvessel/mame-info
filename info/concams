@@ -2,3 +2,5 @@ description:Conchess Plymate Amsterdam
 manufacturer:Systemhuset / Loproc
 year:1985
 status:good
+emulation:good
+savestate:supported

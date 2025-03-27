@@ -2,6 +2,8 @@ description:Super Bear X (MPU4?) (set 4)
 manufacturer:AET/Coinworld
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4sbx

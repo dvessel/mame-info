@@ -2,5 +2,7 @@ description:Elite Avant Garde 2325 (model 6117-6/7, set 1)
 manufacturer:Fidelity International
 year:1989
 status:good
+emulation:good
+savestate:supported
 romof:feagv4
 cloneof:feagv4

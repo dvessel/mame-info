@@ -2,5 +2,7 @@ description:Jeu Intéractif TV (France)
 manufacturer:Taikee / V-Tac
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ordentv
 cloneof:ordentv

@@ -2,4 +2,6 @@ description:Atomic Runner Chelnov (World)
 manufacturer:Data East Corporation
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

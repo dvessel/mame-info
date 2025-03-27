@@ -2,6 +2,8 @@ description:Pirates of the Caribbean v4.00 (English,French)
 manufacturer:Stern
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:potc_600
 cloneof:potc_600

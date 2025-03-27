@@ -2,6 +2,8 @@ description:Aristocrat (Shuffle) (L-1)
 manufacturer:Williams/United
 year:1978
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

@@ -2,4 +2,6 @@ description:Nimbus
 manufacturer:Research Machines
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported
 device:s1410

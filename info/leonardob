@@ -2,5 +2,7 @@ description:Kasparov Leonardo (v1.0)
 manufacturer:SciSys / Heuristic Software
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:leonardo
 cloneof:leonardo

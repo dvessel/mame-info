@@ -2,6 +2,8 @@ description:Major Poker (set 2, Micro Manufacturing intro)
 manufacturer:PAL System / Micro Manufacturing
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:majorpkr
 cloneof:majorpkr

@@ -2,3 +2,5 @@ description:Tektronix 4051
 manufacturer:Tektronix
 year:1975
 status:preliminary
+emulation:preliminary
+savestate:unsupported

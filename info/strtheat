@@ -2,4 +2,6 @@ description:Street Heat (set 1, newer?)
 manufacturer:Epos Corporation
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

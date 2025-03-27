@@ -2,6 +2,8 @@ description:Growl (World, prototype)
 manufacturer:Taito Corporation Japan
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:growl
 cloneof:growl

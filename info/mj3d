@@ -2,6 +2,8 @@ description:Sega Network Taisen Mahjong MJ 3 (Rev D) (GDX-0017D)
 manufacturer:Sega
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm
@@ -10,4 +12,3 @@ romof:mj3
 romof:chihiro
 cloneof:mj3
 disk:gdx-0017d
-disk:gdx-0017f

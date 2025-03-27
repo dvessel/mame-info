@@ -2,5 +2,7 @@ description:Zorton Brothers / Los Justicieros (v1.01)
 manufacturer:Picmatic
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:alg_bios

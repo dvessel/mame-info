@@ -2,3 +2,5 @@ description:Mephisto Super Mondial (ver. A)
 manufacturer:Hegener + Glaser
 year:1986
 status:good
+emulation:good
+savestate:supported

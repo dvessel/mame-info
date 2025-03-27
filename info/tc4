@@ -2,3 +2,5 @@ description:Total Control 4
 manufacturer:Coleco
 year:1981
 status:good
+emulation:good
+savestate:supported

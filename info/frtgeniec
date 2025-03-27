@@ -2,6 +2,8 @@ description:Fruit Genie (Version 1-1-03, set 4)
 manufacturer:Global
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:frtgenie
 cloneof:frtgenie

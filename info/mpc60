@@ -2,4 +2,6 @@ description:MPC60 MIDI Production Center
 manufacturer:Akai Electric
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd61830

@@ -2,6 +2,8 @@ description:Impulse (JPM) (IMPACT) (IP 7 AC13) (set 5)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6impuls

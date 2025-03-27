@@ -1,6 +1,8 @@
 description:unknown 'Pac Man with cars' gambling game
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:unkpacg
 cloneof:unkpacg

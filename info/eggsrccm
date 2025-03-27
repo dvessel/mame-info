@@ -2,4 +2,6 @@ description:Eggstreme Riches - Mr. Cashman (0351149, US)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

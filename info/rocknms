@@ -2,4 +2,6 @@ description:Rock'n MegaSession (Japan)
 manufacturer:Jaleco
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

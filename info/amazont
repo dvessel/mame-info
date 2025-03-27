@@ -2,6 +2,8 @@ description:Soldier Girl Amazon (Tecfri license)
 manufacturer:Nichibutsu (Tecfri license)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:amazon
 cloneof:amazon

@@ -2,6 +2,8 @@ description:Star Wars (set 3)
 manufacturer:Atari
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:starwars
 cloneof:starwars

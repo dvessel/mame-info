@@ -2,6 +2,8 @@ description:Dolphin Treasure (0101250V, Queensland)
 manufacturer:Aristocrat
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:dolphntr
 romof:aristmk5

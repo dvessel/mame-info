@@ -2,6 +2,8 @@ description:Premier Soccer (ver JAB)
 manufacturer:Konami
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:prmrsocr
 cloneof:prmrsocr

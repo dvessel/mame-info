@@ -2,6 +2,8 @@ description:CBM 720 (Germany)
 manufacturer:Commodore Business Machines
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:c8050
 device:c8050fdc
 romof:b128hp

@@ -2,6 +2,8 @@ description:Playboy (CPU 5.00, display F5.00, France)
 manufacturer:Stern
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

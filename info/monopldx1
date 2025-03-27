@@ -2,6 +2,8 @@ description:Monopoly Deluxe (JPM) (Version 1) (SYSTEM5 VIDEO)
 manufacturer:JPM
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:monopldx

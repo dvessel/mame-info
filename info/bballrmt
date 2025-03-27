@@ -2,3 +2,5 @@ description:Baseball (Ramtek)
 manufacturer:Ramtek
 year:1974
 status:preliminary
+emulation:preliminary
+savestate:unsupported

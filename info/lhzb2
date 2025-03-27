@@ -2,4 +2,6 @@ description:Long Hu Zhengba 2 (China, set 1)
 manufacturer:IGS
 year:1998
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop

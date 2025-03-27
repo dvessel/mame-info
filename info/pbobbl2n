@@ -2,5 +2,7 @@ description:Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)
 manufacturer:Taito (SNK license)
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

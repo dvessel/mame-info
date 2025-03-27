@@ -2,4 +2,6 @@ description:More More Plus
 manufacturer:SemiCom / Exit
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

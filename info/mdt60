@@ -2,4 +2,6 @@ description:MDT 60 Video Display Terminal
 manufacturer:Morrow Designs
 year:1983
 status:good
+emulation:good
+savestate:supported
 device:md_kbd

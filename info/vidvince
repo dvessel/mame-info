@@ -2,4 +2,6 @@ description:Video Vince and the Game Factory (prototype)
 manufacturer:Mylstar
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

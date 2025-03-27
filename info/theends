@@ -2,6 +2,8 @@ description:The End (Stern Electronics)
 manufacturer:Konami (Stern Electronics license)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:theend
 cloneof:theend

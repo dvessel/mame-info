@@ -2,4 +2,6 @@ description:Mahjong La Man (Japan)
 manufacturer:Nichibutsu / AV Japan
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

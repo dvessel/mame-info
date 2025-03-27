@@ -2,4 +2,6 @@ description:Mr. Driller G (Japan, DRG1 Ver.A)
 manufacturer:Namco
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

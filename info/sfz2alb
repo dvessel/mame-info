@@ -2,6 +2,8 @@ description:Street Fighter Zero 2 Alpha (Brazil 960813)
 manufacturer:Capcom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:sfz2al

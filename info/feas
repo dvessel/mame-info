@@ -2,3 +2,5 @@ description:Elite A/S Challenger (original program)
 manufacturer:Fidelity Electronics
 year:1983
 status:good
+emulation:good
+savestate:supported

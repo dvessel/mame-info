@@ -2,6 +2,8 @@ description:Crazy Balloon (set 2)
 manufacturer:Taito Corporation
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:crbaloon
 cloneof:crbaloon

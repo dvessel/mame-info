@@ -2,6 +2,8 @@ description:Card Shark Club (Vivid) (MPU5) (set 2)
 manufacturer:Vivid
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5cshkcb
 cloneof:m5cshkcb

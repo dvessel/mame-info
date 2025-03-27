@@ -2,6 +2,8 @@ description:Vs. Excitebike (set EB4-3 ?)
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:excitebk
 cloneof:excitebk

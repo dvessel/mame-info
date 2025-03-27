@@ -2,6 +2,8 @@ description:Pac Man (FAMARE S.A. bootleg of Puck Man)
 manufacturer:bootleg (FAMARE S.A.)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

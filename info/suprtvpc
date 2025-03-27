@@ -2,3 +2,5 @@ description:Super TV-PC (Japan)
 manufacturer:Epoch / SSD Company LTD
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported

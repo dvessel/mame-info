@@ -2,4 +2,6 @@ description:Marchen Maze (Japan)
 manufacturer:Namco
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,3 +2,5 @@ description:Q*Bert (Parker Brothers)
 manufacturer:Parker Brothers
 year:1983
 status:good
+emulation:good
+savestate:supported

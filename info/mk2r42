@@ -2,6 +2,8 @@ description:Mortal Kombat II (rev L4.2, hack)
 manufacturer:hack
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mk2
 cloneof:mk2

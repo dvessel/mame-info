@@ -2,6 +2,8 @@ description:Spelunker (Japan)
 manufacturer:Irem (licensed from Broderbund)
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spelunkr
 cloneof:spelunkr

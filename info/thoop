@@ -2,4 +2,6 @@ description:Thunder Hoop (ver. 1, checksum 02a09f7d)
 manufacturer:Gaelco
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop

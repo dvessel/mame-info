@@ -2,6 +2,8 @@ description:Crystal Springs (0352557, US)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:cryspri
 romof:aristmk6
 cloneof:cryspri

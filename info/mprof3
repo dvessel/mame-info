@@ -2,6 +2,8 @@ description:Microprofessor III
 manufacturer:Multitech
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

@@ -2,5 +2,7 @@ description:The Tin Star (A10, 4 PCB version)
 manufacturer:Taito Corporation
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5

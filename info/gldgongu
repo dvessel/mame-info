@@ -2,6 +2,8 @@ description:The Golden Gong (0152558, US)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gldgong
 romof:aristmk6
 cloneof:gldgong

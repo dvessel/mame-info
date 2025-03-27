@@ -2,4 +2,6 @@ description:Umi de Poker / Marine Paradise (Japan, newer)
 manufacturer:World Station Co.,LTD
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop

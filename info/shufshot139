@@ -2,6 +2,8 @@ description:Shuffleshot (v1.39)
 manufacturer:Incredible Technologies
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:shufshot
 cloneof:shufshot

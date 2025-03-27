@@ -2,6 +2,8 @@ description:Jurassic Park (USA 3.05, display A4.00)
 manufacturer:Data East
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

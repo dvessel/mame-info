@@ -2,6 +2,8 @@ description:Shark Party (English, Alpha license)
 manufacturer:American Alpha
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sharkpy
 cloneof:sharkpy

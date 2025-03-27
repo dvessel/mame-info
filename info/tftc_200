@@ -2,6 +2,8 @@ description:Tales From the Crypt (USA 2.00, display A2.00)
 manufacturer:Data East
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

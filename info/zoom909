@@ -2,6 +2,8 @@ description:Zoom 909
 manufacturer:Sega
 year:1982
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:buckrog
 cloneof:buckrog

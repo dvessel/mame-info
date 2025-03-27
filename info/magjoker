@@ -2,4 +2,6 @@ description:Magic Joker (v1.25.10.2000)
 manufacturer:B.R.L.
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Super Shanghai 2005 (Japan) (GDL-0031)
 manufacturer:Starfish
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:ss2005
 romof:naomigd
 cloneof:ss2005
 disk:gdl-0031
-disk:gdl-0031a

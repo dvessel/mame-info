@@ -2,6 +2,8 @@ description:machinaZOIS Virtual Training Center
 manufacturer:Aksioma
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:shaqattq

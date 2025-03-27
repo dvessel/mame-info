@@ -2,4 +2,6 @@ description:Real Mahjong Haihai Seichouhen (Japan)
 manufacturer:Visco
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

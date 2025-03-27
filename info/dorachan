@@ -2,4 +2,6 @@ description:Dora-chan (Japan)
 manufacturer:Alpha Denshi Co. / Craul Denshi
 year:1980
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

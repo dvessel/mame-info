@@ -2,5 +2,7 @@ description:Panic Road (Japan)
 manufacturer:Seibu Kaihatsu (Taito license)
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:t5182

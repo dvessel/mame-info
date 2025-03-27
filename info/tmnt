@@ -2,4 +2,6 @@ description:Teenage Mutant Ninja Turtles (World 4 Players, version X)
 manufacturer:Konami
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop

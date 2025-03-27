@@ -2,6 +2,8 @@ description:Mobile Suit Gundam 0083 Card Builder (CDV-10030)
 manufacturer:Banpresto
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

@@ -2,5 +2,7 @@ description:Didaktik Gama 87
 manufacturer:Didaktik Skalica
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 romof:spectrum
 cloneof:spectrum

@@ -2,6 +2,8 @@ description:Pollux (set 3)
 manufacturer:Dooyong
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pollux
 cloneof:pollux

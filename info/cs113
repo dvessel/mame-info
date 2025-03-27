@@ -2,3 +2,5 @@ description:Robot Training Arm CS-113
 manufacturer:Sciento b.v.
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

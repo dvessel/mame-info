@@ -2,6 +2,8 @@ description:The Nanpa (Japan)
 manufacturer:Nichibutsu/Love Factory/eic
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8011

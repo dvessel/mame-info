@@ -2,9 +2,10 @@ description:Guitar Freaks 2nd Mix (GQ883 VER. EAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gtrfrk2m
 romof:sys573
 cloneof:gtrfrk2m
 disk:883__a01
-disk:929jbb02

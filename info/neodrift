@@ -2,5 +2,7 @@ description:Neo Drift Out - New Technology
 manufacturer:Visco
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

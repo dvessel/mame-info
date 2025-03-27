@@ -2,6 +2,8 @@ description:Hot Dogs Club (Crystal) (IMPACT) (set 8)
 manufacturer:Crystal
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6hdc

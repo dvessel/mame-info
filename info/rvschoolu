@@ -2,6 +2,8 @@ description:Rival Schools: United By Fate (USA 971117)
 manufacturer:Capcom
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:rvschool

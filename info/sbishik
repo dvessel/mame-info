@@ -2,6 +2,8 @@ description:Super Bishi Bashi Champ (ver KAB, 3 Players)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:sbishi
 cloneof:sbishi

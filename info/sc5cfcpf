@@ -2,6 +2,8 @@ description:Crazy Fruits Community Party (Bellfruit) (Scorpion 5) (set 7)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5cfcp
 cloneof:sc5cfcp

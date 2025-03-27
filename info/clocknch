@@ -2,5 +2,7 @@ description:Lock'n'Chase (DECO Cassette) (US)
 manufacturer:Data East Corporation
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:decocass

@@ -2,6 +2,8 @@ description:Sir Winalot (Maygay) (EPOCH) (2.6, set 4)
 manufacturer:Maygay
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_srwin
 cloneof:ep_srwin

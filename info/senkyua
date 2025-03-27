@@ -2,6 +2,8 @@ description:Senkyu (Japan, earlier)
 manufacturer:Seibu Kaihatsu
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:senkyu
 cloneof:senkyu

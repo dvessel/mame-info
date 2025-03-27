@@ -2,5 +2,7 @@ description:Double Dribble (PlayChoice-10)
 manufacturer:Konami (Nintendo of America license)
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

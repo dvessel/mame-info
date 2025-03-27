@@ -2,5 +2,7 @@ description:Mini Golf (set 1)
 manufacturer:Bally/Sente
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb

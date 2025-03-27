@@ -2,5 +2,7 @@ description:Eight Man (NGM-025 ~ NGH-025)
 manufacturer:SNK / Pallas
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

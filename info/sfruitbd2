@@ -2,6 +2,8 @@ description:Super Fruit Bonus (Version 2.0LT, set 2)
 manufacturer:Amcoe
 year:2002
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sfruitb
 cloneof:sfruitb

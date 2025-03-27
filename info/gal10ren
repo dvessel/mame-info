@@ -2,4 +2,6 @@ description:Mahjong Gal 10-renpatsu (Japan)
 manufacturer:Fujic
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

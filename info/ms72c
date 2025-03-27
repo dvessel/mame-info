@@ -2,4 +2,6 @@ description:Multistar 7 2c
 manufacturer:IGT
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ym2413

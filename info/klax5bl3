@@ -2,6 +2,8 @@ description:Klax (version 5, bootleg set 3)
 manufacturer:bootleg (Playmark)
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:klax
 cloneof:klax

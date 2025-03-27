@@ -2,6 +2,8 @@ description:Kuhga - Operation Code 'Vapor Trail' (Japan revision 3)
 manufacturer:Data East Corporation
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:vaportra
 cloneof:vaportra

@@ -2,3 +2,5 @@ description:Play TV Opus (NTSC)
 manufacturer:Radica / SSD Company LTD
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported

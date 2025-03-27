@@ -2,5 +2,7 @@ description:Random Monopoly Wonders Of The World (PR2291) (Mazooma) (Adder 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5mww
 cloneof:ad5mww

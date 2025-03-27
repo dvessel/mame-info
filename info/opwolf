@@ -2,5 +2,7 @@ description:Operation Wolf (World, rev 2, set 1)
 manufacturer:Taito Corporation Japan
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:cchip

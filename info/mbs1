@@ -2,4 +2,6 @@ description:MB-S1
 manufacturer:Hitachi
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:bml3kanji

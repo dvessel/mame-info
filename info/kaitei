@@ -2,4 +2,6 @@ description:Kaitei Takara Sagashi
 manufacturer:K.K. Tokki
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop

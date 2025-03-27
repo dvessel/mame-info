@@ -2,6 +2,8 @@ description:Jurassic 99 (Cadillacs and Dinosaurs bootleg with EM78P447AP)
 manufacturer:bootleg
 year:1993
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:dino
 cloneof:dino

@@ -2,6 +2,8 @@ description:Wild Panda (20225011, ASP)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wldpanda
 romof:aristmk6
 cloneof:wldpanda

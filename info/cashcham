@@ -2,5 +2,7 @@ description:Cash Chameleon (0100438V, NSW/ACT)
 manufacturer:Aristocrat
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aristmk5

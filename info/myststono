@@ -2,6 +2,8 @@ description:Mysterious Stones - Dr. Kick in Adventure
 manufacturer:Technos Japan
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mystston
 cloneof:mystston

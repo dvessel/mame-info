@@ -2,6 +2,8 @@ description:Big X (JPM) (set 2)
 manufacturer:JPM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:hb_bigx
 cloneof:hb_bigx

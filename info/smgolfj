@@ -2,6 +2,8 @@ description:Vs. Stroke &amp; Match Golf (Men Version) (Japan, set GF3 B)
 manufacturer:Nintendo Co., Ltd.
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:smgolf
 cloneof:smgolf

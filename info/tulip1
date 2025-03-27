@@ -2,3 +2,5 @@ description:Tulip System I
 manufacturer:CompuData
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

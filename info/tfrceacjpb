@@ -2,6 +2,8 @@ description:Thunder Force AC (Japan, prototype, bootleg)
 manufacturer:Technosoft / Sega
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tfrceac
 cloneof:tfrceac

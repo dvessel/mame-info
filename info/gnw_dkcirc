@@ -2,5 +2,7 @@ description:Game &amp; Watch: Donkey Kong Circus
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:supported
 romof:gnw_mmousep
 cloneof:gnw_mmousep

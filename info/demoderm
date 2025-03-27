@@ -2,6 +2,8 @@ description:Demolition Derby (MCR-3 Mono Board Version)
 manufacturer:Bally Midway
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:demoderb
 cloneof:demoderb

@@ -2,6 +2,8 @@ description:Sevilla (8 jackpot points, 77%)
 manufacturer:Interflip
 year:1982
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:sevilla

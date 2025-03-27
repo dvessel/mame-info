@@ -2,6 +2,8 @@ description:Mocap Golf (ver EAA:B)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:b33a02

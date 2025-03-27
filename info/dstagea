@@ -2,9 +2,10 @@ description:Dancing Stage (GN845 VER. EAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:dstage
 romof:sys573
 cloneof:dstage
 disk:845uaa02
-disk:gc845eba

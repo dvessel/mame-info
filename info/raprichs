@@ -2,4 +2,6 @@ description:Rapid Riches (10194211, NSW/ACT)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

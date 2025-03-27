@@ -2,4 +2,6 @@ description:Player's Choice (PC644VZ) Standard Draw Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

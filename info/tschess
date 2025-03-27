@@ -2,3 +2,5 @@ description:Travel Sensor Chess
 manufacturer:SciSys / Intelligent Software
 year:1982
 status:good
+emulation:good
+savestate:supported

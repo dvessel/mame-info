@@ -2,6 +2,8 @@ description:Zero Team 2000
 manufacturer:Seibu Kaihatsu
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:zeroteam
 cloneof:zeroteam

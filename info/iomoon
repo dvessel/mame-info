@@ -2,5 +2,7 @@ description:Io Moon
 manufacturer:Sleic
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 sampleof:genpin

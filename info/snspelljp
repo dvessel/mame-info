@@ -2,5 +2,7 @@ description:Speak &amp; Spell (Japan)
 manufacturer:Texas Instruments
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 romof:snspell
 cloneof:snspell

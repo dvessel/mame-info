@@ -2,6 +2,8 @@ description:Vs. Stroke &amp; Match Golf (Ladies Version, set LG4 ?)
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:smgolf
 cloneof:smgolf

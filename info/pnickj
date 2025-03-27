@@ -2,4 +2,6 @@ description:Pnickies (Japan 940608)
 manufacturer:Capcom
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

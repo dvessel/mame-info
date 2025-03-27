@@ -2,6 +2,8 @@ description:New Rally X (bootleg?)
 manufacturer:Namco
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:nrallyx
 cloneof:nrallyx

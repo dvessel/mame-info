@@ -2,6 +2,8 @@ description:Club Grand Casino (Bellfruit) (set 1, Protocol) (Scorpion 2/3)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

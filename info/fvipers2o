@@ -2,6 +2,8 @@ description:Fighting Vipers 2 (Japan)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:fvipers2

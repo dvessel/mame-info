@@ -2,6 +2,8 @@ description:Commodore PC-10 III
 manufacturer:Commodore Business Machines
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:isa_ibm_mda
 device:kb_pcxt83
 romof:ibm5150

@@ -2,6 +2,8 @@ description:Rock 'n' Roll (Qps) (set 4)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:hb_rckrl
 cloneof:hb_rckrl

@@ -2,6 +2,8 @@ description:Titanic (coin dropper, CPU 1.01, display A1.01)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

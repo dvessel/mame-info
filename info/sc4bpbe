@@ -2,6 +2,8 @@ description:Bully's Prize Board (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4bpb
 cloneof:sc4bpb

@@ -2,3 +2,5 @@ description:Reel Magic Turbo Play
 manufacturer:Accept Ltd.
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported

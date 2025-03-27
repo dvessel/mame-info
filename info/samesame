@@ -2,6 +2,8 @@ description:Same! Same! Same! (Japan, 1P set)
 manufacturer:Toaplan
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fireshrk
 cloneof:fireshrk

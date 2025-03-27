@@ -2,6 +2,8 @@ description:Torch CF240
 manufacturer:Torch Computers
 year:1982
 status:imperfect
+emulation:good
+savestate:unsupported
 device:saa5050
 device:bbc_acorn8271
 device:bbc_tube_zep100

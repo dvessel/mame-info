@@ -2,3 +2,5 @@ description:Que Huang Zheng Ba (V100CN)
 manufacturer:IGS
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported

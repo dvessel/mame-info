@@ -2,5 +2,7 @@ description:Pac Man 2 (Entex, red Pacman)
 manufacturer:Entex
 year:1981
 status:good
+emulation:good
+savestate:supported
 romof:epacman2
 cloneof:epacman2

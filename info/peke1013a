@@ -2,6 +2,8 @@ description:Player's Edge Plus (KE1013) Keno (set 2)
 manufacturer:IGT - International Game Technology
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:peke1001
 cloneof:peke1001

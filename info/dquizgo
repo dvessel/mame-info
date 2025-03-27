@@ -2,4 +2,6 @@ description:Date Quiz Go Go (Korea)
 manufacturer:SemiCom / AceVer
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

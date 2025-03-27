@@ -2,3 +2,5 @@ description:Nokia 3330
 manufacturer:Nokia
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported

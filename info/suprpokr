@@ -2,4 +2,6 @@ description:Super Poker (Version 10.19S)
 manufacturer:Grayhound Electronics
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

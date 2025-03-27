@@ -2,4 +2,6 @@ description:Demoneye-X
 manufacturer:Irem
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:HyperBall (L-3)
 manufacturer:Williams
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:hypbl_l4

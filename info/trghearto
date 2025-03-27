@@ -2,6 +2,8 @@ description:Trigger Heart Exelica (Japan) (GDL-0036)
 manufacturer:Warashi
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:trgheart
 romof:naomigd
 cloneof:trgheart
 disk:gdl-0036
-disk:gdl-0036a

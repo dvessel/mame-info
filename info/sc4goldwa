@@ -2,6 +2,8 @@ description:Golden Winner (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4goldw
 cloneof:sc4goldw

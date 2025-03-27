@@ -2,6 +2,8 @@ description:Genius 6 (V133F)
 manufacturer:IGS
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:genius6

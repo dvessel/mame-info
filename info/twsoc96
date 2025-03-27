@@ -2,5 +2,7 @@ description:Tecmo World Soccer '96
 manufacturer:Tecmo
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

@@ -1,3 +1,5 @@
 description:Block Game &amp; Echo Key GA888
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported

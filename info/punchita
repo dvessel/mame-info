@@ -2,6 +2,8 @@ description:Punch-Out!! (Italian bootleg)
 manufacturer:bootleg
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:punchout
 cloneof:punchout

@@ -2,4 +2,6 @@ description:Quiz Gekiretsu Scramble (Japan)
 manufacturer:Face
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop

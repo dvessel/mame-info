@@ -2,4 +2,6 @@ description:Type 'N Talk
 manufacturer:Votrax
 year:1980
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a

@@ -2,6 +2,8 @@ description:Sinistar (revision 2, upright)
 manufacturer:Williams
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sinistar
 cloneof:sinistar

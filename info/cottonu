@@ -2,6 +2,8 @@ description:Cotton (set 3, US) (FD1094 317-0180)
 manufacturer:Success / Sega
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cotton
 cloneof:cotton

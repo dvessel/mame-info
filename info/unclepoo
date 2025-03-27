@@ -2,4 +2,6 @@ description:Uncle Poo
 manufacturer:Diatec
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

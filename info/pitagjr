@@ -2,5 +2,7 @@ description:Pitagorín Junior
 manufacturer:VTech
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gjmovie
 cloneof:gjmovie

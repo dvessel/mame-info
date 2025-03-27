@@ -2,6 +2,8 @@ description:Mahjong CLUB 90's (set 2) (Japan 900919)
 manufacturer:Nichibutsu
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:club90s
 cloneof:club90s

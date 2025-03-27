@@ -2,4 +2,6 @@ description:X37 (prototype)
 manufacturer:Luxor
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:abc1600mover

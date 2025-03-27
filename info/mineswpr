@@ -2,5 +2,7 @@ description:Minesweeper
 manufacturer:Amutech
 year:1977
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:blockade

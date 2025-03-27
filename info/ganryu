@@ -2,5 +2,7 @@ description:Ganryu / Musashi Ganryuki
 manufacturer:Visco
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

@@ -2,3 +2,5 @@ description:Super Mario Bros. 3 (Nelsonic)
 manufacturer:Nelsonic
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:supported

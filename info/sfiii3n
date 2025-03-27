@@ -2,7 +2,8 @@ description:Street Fighter III 3rd Strike: Fight for the Future (Japan 990608, N
 manufacturer:Capcom
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sfiii3
 cloneof:sfiii3
-disk:cap-33s-2

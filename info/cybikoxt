@@ -2,5 +2,7 @@ description:Cybiko Xtreme
 manufacturer:Cybiko Inc
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:cybikov1
 cloneof:cybikov1

@@ -2,6 +2,8 @@ description:Crazy Pays (Bellfruit) (Scorpion 5) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5cpays
 cloneof:sc5cpays

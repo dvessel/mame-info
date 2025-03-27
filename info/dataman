@@ -2,3 +2,5 @@ description:DataMan
 manufacturer:Texas Instruments
 year:1977
 status:good
+emulation:good
+savestate:supported

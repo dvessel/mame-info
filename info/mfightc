@@ -2,6 +2,8 @@ description:Mahjong Fight Club (ver JAD)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:c09d04

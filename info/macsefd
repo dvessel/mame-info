@@ -2,4 +2,6 @@ description:Macintosh SE (FDHD)
 manufacturer:Apple Computer
 year:1987
 status:good
+emulation:good
+savestate:supported
 device:adbmodem

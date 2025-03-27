@@ -2,6 +2,8 @@ description:Super Megatouch IV (9255-41-07 R0G, New Jersey version)
 manufacturer:Merit
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:megat4

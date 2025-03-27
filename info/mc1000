@@ -2,3 +2,5 @@ description:MC-1000
 manufacturer:CCE
 year:1985
 status:imperfect
+emulation:good
+savestate:supported

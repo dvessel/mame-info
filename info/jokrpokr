@@ -2,6 +2,8 @@ description:Joker Poker
 manufacturer:Gottlieb
 year:1978
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:gts1

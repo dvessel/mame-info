@@ -2,5 +2,7 @@ description:Pocket Computer 1402
 manufacturer:Sharp
 year:1984
 status:preliminary
+emulation:good
+savestate:unsupported
 romof:pc1401
 cloneof:pc1401

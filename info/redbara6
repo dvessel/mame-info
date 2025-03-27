@@ -2,4 +2,6 @@ description:Red Baron (10119911, NSW/ACT)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

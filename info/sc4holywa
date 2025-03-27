@@ -2,6 +2,8 @@ description:Hollywood (Bellfruit / Whitbread) (Scorpion 4) (set 1)
 manufacturer:BFM / Whitbread
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4holyw
 cloneof:sc4holyw

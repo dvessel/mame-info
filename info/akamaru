@@ -2,5 +2,7 @@ description:Panel &amp; Variety Akamaru Q Joushou Dont-R
 manufacturer:Dynax (Nakanihon license)
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

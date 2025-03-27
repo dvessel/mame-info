@@ -2,6 +2,8 @@ description:Power Sled (Relay, Revision A)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:powsled

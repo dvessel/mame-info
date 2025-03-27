@@ -2,6 +2,8 @@ description:Big Top Club (JPM) (IMPACT) (BT4 BT8) (set 2)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6bigtop

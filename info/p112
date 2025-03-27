@@ -2,3 +2,5 @@ description:P112
 manufacturer:Dave Brooks
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported

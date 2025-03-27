@@ -2,3 +2,5 @@ description:FS-TM1 (MSX2, Italy)
 manufacturer:Toshiba
 year:1986
 status:good
+emulation:good
+savestate:unsupported

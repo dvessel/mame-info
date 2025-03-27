@@ -2,6 +2,8 @@ description:Deal or No Deal The Crazy Chair (Bellfruit) (Scorpion 5) (set 9)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndcc
 cloneof:sc5dndcc

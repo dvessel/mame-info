@@ -2,6 +2,8 @@ description:Cyber Sled (CY1, World?)
 manufacturer:Namco
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:namcoc68
 device:namcoc67

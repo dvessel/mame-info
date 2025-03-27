@@ -2,5 +2,7 @@ description:V-Liner (v0.7a)
 manufacturer:Dyna / BrezzaSoft
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

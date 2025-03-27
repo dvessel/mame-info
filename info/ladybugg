@@ -2,6 +2,8 @@ description:Lady Bug (bootleg on Galaxian hardware)
 manufacturer:bootleg
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ladybug
 cloneof:ladybug

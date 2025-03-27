@@ -2,6 +2,8 @@ description:Triple Streak (PR2167) (Mazooma) (Scorpion 4) (set 7)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4trist
 cloneof:sc4trist

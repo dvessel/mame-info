@@ -2,6 +2,8 @@ description:Go For Green (10122111, ASP)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gogreen
 romof:aristmk6
 cloneof:gogreen

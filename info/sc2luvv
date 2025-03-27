@@ -2,6 +2,8 @@ description:Luvvly Jubbly (set 3, UK, Multisite 10GBP/25p) (Scorpion 2/3)
 manufacturer:BFM
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

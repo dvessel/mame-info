@@ -2,5 +2,7 @@ description:IQ-1000 DPC-180 (MSX1, Korea)
 manufacturer:Daewoo
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 romof:dpc200
 cloneof:dpc200

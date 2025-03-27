@@ -2,6 +2,8 @@ description:Acorn A500 Domesday Development System
 manufacturer:Acorn Computers
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:archimedes_keyboard
 romof:aa500
 cloneof:aa500

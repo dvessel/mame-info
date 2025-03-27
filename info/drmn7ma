@@ -2,6 +2,8 @@ description:DrumMania 7th Mix (G*C07 VER. JAA)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573msu
@@ -10,4 +12,3 @@ romof:sys573
 cloneof:pcnfrk7m
 disk:c07jaa02
 disk:c07jba02
-disk:c07aaa02

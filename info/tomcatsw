@@ -2,6 +2,8 @@ description:TomCat (Star Wars hardware, prototype)
 manufacturer:Atari
 year:1983
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tomcat
 cloneof:tomcat

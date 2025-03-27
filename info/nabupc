@@ -2,4 +2,6 @@ description:NABU PC
 manufacturer:NABU
 year:1982
 status:good
+emulation:good
+savestate:unsupported
 device:nabupc_keyboard

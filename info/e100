@@ -2,3 +2,5 @@ description:Esselte 100
 manufacturer:Didact AB
 year:1982
 status:good
+emulation:good
+savestate:supported

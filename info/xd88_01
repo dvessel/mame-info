@@ -2,3 +2,5 @@ description:XD88/01
 manufacturer:Tektronix
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported

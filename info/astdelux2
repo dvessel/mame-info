@@ -2,6 +2,8 @@ description:Asteroids Deluxe (rev 2)
 manufacturer:Atari
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:astdelux
 cloneof:astdelux

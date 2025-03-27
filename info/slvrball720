@@ -2,8 +2,9 @@ description:Silverball (7.20)
 manufacturer:TAB Austria
 year:1997?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:virge_pci
 romof:slvrball806
 cloneof:slvrball806
 disk:silverball_7.20
-disk:silverball_8.06

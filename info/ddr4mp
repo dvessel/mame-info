@@ -2,6 +2,8 @@ description:Dance Dance Revolution 4th Mix Plus (G*A34 VER. JAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573mcr

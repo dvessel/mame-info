@@ -2,6 +2,8 @@ description:Bubble Bobble II (Ver 2.5O 1994/10/05)
 manufacturer:Taito Corporation Japan
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bublbob2
 cloneof:bublbob2

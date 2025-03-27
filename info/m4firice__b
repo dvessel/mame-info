@@ -2,6 +2,8 @@ description:Fire &amp; Ice (BWB) (MPU4) (20p stake / £8 token jackpot) (set 3)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4firice

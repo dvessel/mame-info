@@ -2,4 +2,6 @@ description:Under Fire (World)
 manufacturer:Taito Corporation Japan
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

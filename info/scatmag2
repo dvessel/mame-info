@@ -2,4 +2,6 @@ description:Scatter Magic II (10001311, NSW/ACT)
 manufacturer:Aristocrat
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

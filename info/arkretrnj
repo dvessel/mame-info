@@ -2,6 +2,8 @@ description:Arkanoid Returns (Ver 2.02J 1997/02/10)
 manufacturer:Taito Corporation
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:arkretrn
 cloneof:arkretrn

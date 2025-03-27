@@ -2,6 +2,8 @@ description:Crazy Bingo (Maygay) (EPOCH) (1.1 Gala, set 4)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_crzbn
 cloneof:ep_crzbn

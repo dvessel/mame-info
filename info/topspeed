@@ -2,4 +2,6 @@ description:Top Speed (World, rev 1)
 manufacturer:Taito Corporation Japan
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

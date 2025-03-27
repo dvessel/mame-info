@@ -2,6 +2,8 @@ description:Super Football Champ (Ver 2.4J)
 manufacturer:Taito
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:sfchamp
 romof:coh1000t

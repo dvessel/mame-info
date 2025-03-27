@@ -2,4 +2,6 @@ description:MG-1
 manufacturer:Whitechapel Computer Works
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:mg1_kbd_device

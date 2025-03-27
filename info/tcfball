@@ -2,3 +2,5 @@ description:Championship Football (model 60-2150)
 manufacturer:Tandy Corporation
 year:1980
 status:good
+emulation:good
+savestate:supported

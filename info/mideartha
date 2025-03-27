@@ -2,6 +2,8 @@ description:Middle Earth (alternate)
 manufacturer:Atari
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:midearth

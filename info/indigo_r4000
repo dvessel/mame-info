@@ -2,4 +2,6 @@ description:IRIS Indigo R4000
 manufacturer:Silicon Graphics
 year:1992
 status:preliminary
+emulation:good
+savestate:unsupported
 device:sgi_kbd

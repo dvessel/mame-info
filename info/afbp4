@@ -2,3 +2,5 @@ description:Atari Flashback Portable (version 4)
 manufacturer:AtGames
 year:2019
 status:preliminary
+emulation:preliminary
+savestate:unsupported

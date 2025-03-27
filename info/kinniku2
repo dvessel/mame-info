@@ -2,5 +2,7 @@ description:Kinnikuman Muscle Grand Prix 2 (KN2 Ver. A)
 manufacturer:Namco
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys256
 disk:kn2

@@ -2,5 +2,7 @@ description:Time Attacker
 manufacturer:Shonan
 year:1983?
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:tattack

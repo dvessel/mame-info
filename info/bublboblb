@@ -2,6 +2,8 @@ description:Bubble Bobble (for Bobble Bobble PCB)
 manufacturer:bootleg (Aladar)
 year:2013
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bublbobl
 cloneof:bublbobl

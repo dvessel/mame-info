@@ -2,6 +2,8 @@ description:MVP (set 2, US) (bootleg of FD1094 317-0143 set)
 manufacturer:bootleg
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:mvp
 cloneof:mvp

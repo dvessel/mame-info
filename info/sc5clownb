@@ -2,6 +2,8 @@ description:Clown Around (Bellfruit) (Scorpion 5) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5clown
 cloneof:sc5clown

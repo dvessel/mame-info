@@ -2,3 +2,5 @@ description:Cal Omega - Game 18.7 (Amusement Poker)
 manufacturer:Cal Omega Inc.
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported

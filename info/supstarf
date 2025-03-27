@@ -2,4 +2,6 @@ description:Super Star (Recreativos Franco, set 1)
 manufacturer:Recreativos Franco
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical

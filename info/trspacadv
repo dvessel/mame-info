@@ -2,3 +2,5 @@ description:Space Adventure
 manufacturer:Tronica
 year:1982
 status:good
+emulation:good
+savestate:supported

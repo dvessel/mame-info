@@ -2,3 +2,5 @@ description:Dialogue 80
 manufacturer:Ampex
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Scud Hammer (older version?)
 manufacturer:Jaleco
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:scudhamm
 cloneof:scudhamm

@@ -2,6 +2,8 @@ description:Super Bar X (Brunel Research) (set 6)
 manufacturer:Brunel Research
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_sbxbr
 cloneof:ec_sbxbr

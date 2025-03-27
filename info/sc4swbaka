@@ -2,6 +2,8 @@ description:Switch Back (Mazooma) (Scorpion 4) (set 2)
 manufacturer:QPS
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4swbak
 cloneof:sc4swbak

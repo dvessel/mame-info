@@ -2,6 +2,8 @@ description:Golden Spinner Bingo (011) (PR2546) (Mazooma) (Scorpion 5) (set 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5gldsp
 cloneof:sc5gldsp

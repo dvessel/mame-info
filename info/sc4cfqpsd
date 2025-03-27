@@ -2,6 +2,8 @@ description:Crazy Fruits (PR6813, CRFR) (Qps) (Scorpion 4) (set 3)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cfqps
 cloneof:sc4cfqps

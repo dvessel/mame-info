@@ -2,6 +2,8 @@ description:Guitar Freaks V (E03:J:A:A:2005050200)
 manufacturer:Konami
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kpython2
 disk:e03_jaa_2005050201

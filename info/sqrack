@@ -2,5 +2,7 @@ description:SQ-Rack
 manufacturer:Ensoniq
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sq1
 cloneof:sq1

@@ -2,6 +2,8 @@ description:Black Knight (L-4, French speech)
 manufacturer:Williams
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bk_l4

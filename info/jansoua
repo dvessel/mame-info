@@ -2,6 +2,8 @@ description:Jansou (V 1.1)
 manufacturer:Dyna Computer
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:jansou
 cloneof:jansou

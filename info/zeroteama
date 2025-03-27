@@ -2,6 +2,8 @@ description:Zero Team (Japan?, earlier?, set 1)
 manufacturer:Seibu Kaihatsu
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:zeroteam
 cloneof:zeroteam

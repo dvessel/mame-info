@@ -2,4 +2,6 @@ description:OutRunners (World)
 manufacturer:Sega
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

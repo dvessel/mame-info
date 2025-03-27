@@ -2,3 +2,5 @@ description:TV Virtual Tennis
 manufacturer:Conny
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported

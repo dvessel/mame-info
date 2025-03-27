@@ -2,6 +2,8 @@ description:Konami '88
 manufacturer:Konami
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:88games
 cloneof:88games

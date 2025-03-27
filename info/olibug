@@ -2,6 +2,8 @@ description:Oli Bug (bootleg of Jump Bug)
 manufacturer:bootleg
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:jumpbug
 cloneof:jumpbug

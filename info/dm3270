@@ -2,3 +2,5 @@ description:DM3270 Control Unit Display Station
 manufacturer:Beehive International
 year:1982
 status:imperfect
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:Monopoly 60th Anniversary Edition (JPM) (IMPACT) (set 12)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6mono60

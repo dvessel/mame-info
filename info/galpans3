@@ -2,5 +2,7 @@ description:Gals Panic S3 (Japan)
 manufacturer:Kaneko
 year:2002
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:skns

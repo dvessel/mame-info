@@ -2,4 +2,6 @@ description:Noah's Ark
 manufacturer:Enter-Tech, Ltd.
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

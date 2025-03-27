@@ -2,3 +2,5 @@ description:PDC100 - Pocket Dream Console (Anncia, US)
 manufacturer:Conny / Anncia
 year:2008
 status:imperfect
+emulation:good
+savestate:unsupported

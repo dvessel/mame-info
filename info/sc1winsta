@@ -2,6 +2,8 @@ description:Winning Streak (Bellfruit) (set 2) (Scorpion 1)
 manufacturer:BFM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:sc1winst

@@ -2,6 +2,8 @@ description:Vandyke (bootleg with PIC16c57)
 manufacturer:bootleg
 year:1990
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:vandyke
 cloneof:vandyke

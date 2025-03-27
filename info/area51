@@ -2,5 +2,7 @@ description:Area 51 (R3000)
 manufacturer:Atari Games
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:area51

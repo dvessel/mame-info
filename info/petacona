@@ -2,6 +2,8 @@ description:Petaco (new hardware, set 2)
 manufacturer:Juegos Populares
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

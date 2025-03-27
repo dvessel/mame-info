@@ -2,6 +2,8 @@ description:After Burner II (German)
 manufacturer:Sega
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aburner2
 cloneof:aburner2

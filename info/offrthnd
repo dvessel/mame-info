@@ -2,5 +2,7 @@ description:Offroad Thunder
 manufacturer:Midway Games
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:virge_pci
 disk:offrthnd

@@ -2,6 +2,8 @@ description:Miami Dice (BWB) (Release 8, S/Site Showcase, 20p-£8 Token - Fixed)
 manufacturer:BWB
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4mdice
 cloneof:v4mdice

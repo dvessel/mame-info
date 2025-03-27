@@ -2,5 +2,7 @@ description:Mutation Nation (NGM-014 ~ NGH-014)
 manufacturer:SNK
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

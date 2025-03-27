@@ -2,4 +2,6 @@ description:Rave-O-Lution 309
 manufacturer:Quasimidi Musikelektronik GmbH
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

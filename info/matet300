@@ -2,3 +2,5 @@ description:My Arcade Tetris (DGUNL-7029, Go Gamer, with 300 bonus games)
 manufacturer:dreamGEAR
 year:2021
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:VS Computer Mahjong
 manufacturer:Nichibutsu
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:jongpute
 cloneof:jongpute

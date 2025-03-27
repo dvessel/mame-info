@@ -2,6 +2,8 @@ description:Fruit Bonus Deluxe (Version 1.0.7)
 manufacturer:Amcoe
 year:200?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fbdeluxe
 cloneof:fbdeluxe

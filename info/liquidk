@@ -2,4 +2,6 @@ description:Liquid Kids (World)
 manufacturer:Taito Corporation Japan
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

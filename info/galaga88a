@@ -2,6 +2,8 @@ description:Galaga '88 (02-03-88)
 manufacturer:Namco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galaga88
 cloneof:galaga88

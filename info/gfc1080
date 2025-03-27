@@ -2,3 +2,5 @@ description:GFC-1080 (MSX1, Korea)
 manufacturer:Goldstar
 year:1985
 status:good
+emulation:good
+savestate:unsupported

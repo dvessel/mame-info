@@ -2,5 +2,7 @@ description:Atari 65XE
 manufacturer:Atari
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:a800xl
 cloneof:a800xl

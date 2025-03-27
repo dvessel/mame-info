@@ -2,6 +2,8 @@ description:Mephisto Genius 68030 (London upgrade)
 manufacturer:Richard Lang
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 device:hd44780
 romof:gen32
 cloneof:gen32

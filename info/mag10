@@ -2,6 +2,8 @@ description:Magic 10 Nevada (bootleg of Pool 10)
 manufacturer:bootleg (Magic)
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pool10
 cloneof:pool10

@@ -2,6 +2,8 @@ description:Rescue 911 (rev.1)
 manufacturer:Gottlieb
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

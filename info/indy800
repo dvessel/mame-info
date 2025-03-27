@@ -2,3 +2,5 @@ description:Indy 800
 manufacturer:Atari/Kee
 year:1975
 status:preliminary
+emulation:preliminary
+savestate:unsupported

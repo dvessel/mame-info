@@ -2,6 +2,8 @@ description:The Shadow (LH-6)
 manufacturer:Bally
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:ts_lx5

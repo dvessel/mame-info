@@ -2,6 +2,8 @@ description:Rich &amp; Famous (Barcrest) (MPU4) (RAF 0.3 D)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4richfm

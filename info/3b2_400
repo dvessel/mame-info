@@ -2,5 +2,7 @@ description:3B2/400
 manufacturer:AT&amp;T
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:3b2_300
 cloneof:3b2_300

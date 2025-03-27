@@ -2,6 +2,8 @@ description:Casino Crazy Classic Club (JPM) (IMPACT) (set 14)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6cascla

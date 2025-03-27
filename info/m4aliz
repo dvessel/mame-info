@@ -2,5 +2,7 @@ description:AlizBaz (Qps) (German) (MPU4)
 manufacturer:Qps
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

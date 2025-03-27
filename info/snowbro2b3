@@ -2,6 +2,8 @@ description:Snow Bros. 2 - With New Elves / Otenki Paradise (bootleg, set 3)
 manufacturer:bootleg
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:snowbro2
 cloneof:snowbro2

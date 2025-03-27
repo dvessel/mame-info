@@ -2,6 +2,8 @@ description:Mine, Mine, Mine (NHG0416-02, US)
 manufacturer:Aristocrat
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:minemine
 romof:aristmk5

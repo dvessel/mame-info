@@ -2,6 +2,8 @@ description:Crazy World (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4crzwl
 cloneof:sc4crzwl

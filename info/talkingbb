@@ -2,3 +2,5 @@ description:Starting Lineup Talking Baseball
 manufacturer:Parker Brothers
 year:1988
 status:good
+emulation:good
+savestate:supported

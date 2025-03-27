@@ -2,6 +2,8 @@ description:Megatouch IV (9255-40-01 R0, Standard version)
 manufacturer:Merit
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:megat4

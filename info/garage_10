@@ -2,6 +2,8 @@ description:Garage (100331 Entertainment X)
 manufacturer:Igrosoft
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:garage_5
 cloneof:garage_5

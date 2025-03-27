@@ -2,6 +2,8 @@ description:House of Hearts (10208411, ASP)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:househrt
 romof:aristmk6
 cloneof:househrt

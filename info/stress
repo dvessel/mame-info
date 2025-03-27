@@ -2,6 +2,8 @@ description:Stress Busters (J 981020 V1.000)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

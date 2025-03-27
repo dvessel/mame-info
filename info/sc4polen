@@ -2,4 +2,6 @@ description:Pole Position (German) (PR7012, GPOS) (Nova) (Scorpion 4)
 manufacturer:Nova
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

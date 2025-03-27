@@ -2,6 +2,8 @@ description:Super Nove (Playmark, Lire currency)
 manufacturer:Playmark
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:goldstar
 cloneof:goldstar

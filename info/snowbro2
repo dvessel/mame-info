@@ -2,4 +2,6 @@ description:Snow Bros. 2 - With New Elves / Otenki Paradise (Hanafram)
 manufacturer:Hanafram
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

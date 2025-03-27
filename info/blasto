@@ -2,5 +2,7 @@ description:Blasto
 manufacturer:Gremlin
 year:1978
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:blockade

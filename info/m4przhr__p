@@ -2,6 +2,8 @@ description:Prize High Roller (Barcrest) (MPU4) (PRL 0.3 Y)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4przhr

@@ -2,6 +2,8 @@ description:Make A Mint (Barcrest) (MPU4) (MAM 0.3 K)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4makmnt

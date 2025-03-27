@@ -2,4 +2,6 @@ description:4-D Warriors (315-5162)
 manufacturer:Coreland / Sega
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

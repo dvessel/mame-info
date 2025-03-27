@@ -2,4 +2,6 @@ description:Deroon DeroDero (earlier, set 1)
 manufacturer:Tecmo
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

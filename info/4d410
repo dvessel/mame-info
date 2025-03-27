@@ -2,3 +2,5 @@ description:4D/410
 manufacturer:Silicon Graphics Inc
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,4 +2,6 @@ description:Hidden Catch 2000 (AT89c52 protected)
 manufacturer:Eolith
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Brickyard
 manufacturer:Ramtek
 year:1976
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:barricad
 cloneof:barricad

@@ -2,6 +2,8 @@ description:Dancing Stage featuring Dreams Come True (GC910 VER. JCA)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 romof:sys573

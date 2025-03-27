@@ -2,6 +2,10 @@ description:The House of the Dead 4 (Export) (Rev A)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:hotd4
 romof:lindbios
 cloneof:hotd4
+disk:mda-c0004a_revb_lindyellow_v2.4.20_mvl31a_boot_2.01
+disk:dvp-0003a

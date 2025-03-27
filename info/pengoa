@@ -2,6 +2,8 @@ description:Pengo (World, 315-5010 type, set 1)
 manufacturer:Sega
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pengo
 cloneof:pengo

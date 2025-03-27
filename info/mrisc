@@ -2,5 +2,7 @@ description:Mephisto Risc 1MB (v1.2)
 manufacturer:Hegener + Glaser / Tasc
 year:1992
 status:good
+emulation:good
+savestate:supported
 device:chessmachine
 device:hd44780

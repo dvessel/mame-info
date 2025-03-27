@@ -2,5 +2,7 @@ description:Manpuku Suizokukan
 manufacturer:Sega
 year:2013
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:segasp

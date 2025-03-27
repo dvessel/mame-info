@@ -2,6 +2,8 @@ description:Surprise Attack (Japan ver. M)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:suratk
 cloneof:suratk

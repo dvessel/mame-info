@@ -2,6 +2,8 @@ description:Neo-Geo MV-1FZ
 manufacturer:SNK
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ng_mv1
 romof:neogeo

@@ -2,6 +2,8 @@ description:4-in-1 (version SWS1-110984)
 manufacturer:SMS Manufacturing Corp.
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sms4in1
 cloneof:sms4in1

@@ -2,3 +2,5 @@ description:Powerstack II
 manufacturer:Motorola
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

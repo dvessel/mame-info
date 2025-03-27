@@ -2,6 +2,8 @@ description:Cat and Mouse (type 01 program)
 manufacturer:Zaccaria
 year:1982
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:catnmous
 cloneof:catnmous

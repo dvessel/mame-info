@@ -2,4 +2,6 @@ description:Professor Trivia (set 1)
 manufacturer:Intermatic Manufacturing
 year:1985
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop

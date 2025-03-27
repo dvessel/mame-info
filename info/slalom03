@@ -2,4 +2,6 @@ description:Slalom Code 0.3
 manufacturer:Stargame
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

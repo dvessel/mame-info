@@ -2,5 +2,7 @@ description:Hae Hae Ka Ka Ka
 manufacturer:Sammy
 year:2001
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sammymdl

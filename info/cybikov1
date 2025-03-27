@@ -2,3 +2,5 @@ description:Cybiko Classic (V1)
 manufacturer:Cybiko Inc
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported

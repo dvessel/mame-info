@@ -2,4 +2,6 @@ description:Mr. Kicker (F-E1-16-010 PCB)
 manufacturer:SemiCom
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop

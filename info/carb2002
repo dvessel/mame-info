@@ -2,6 +2,8 @@ description:Carriage Bonus 2002 (bootleg)
 manufacturer:bootleg
 year:2002
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:nfb96
 cloneof:nfb96

@@ -2,6 +2,8 @@ description:Tazz-Mania (set 2, alt hardware)
 manufacturer:Stern Electronics
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tazmania
 cloneof:tazmania

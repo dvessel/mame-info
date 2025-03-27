@@ -2,6 +2,8 @@ description:Player's Edge Plus (IP0115) Joker Poker - French
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:peip0028
 cloneof:peip0028

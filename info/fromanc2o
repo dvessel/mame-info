@@ -2,6 +2,8 @@ description:Taisen Idol-Mahjong Final Romance 2 (Japan, older)
 manufacturer:Video System Co.
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fromanc2
 cloneof:fromanc2

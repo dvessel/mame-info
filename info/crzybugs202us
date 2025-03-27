@@ -2,6 +2,8 @@ description:Crazy Bugs (V202US)
 manufacturer:IGS
 year:2006
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:crzybugs
 cloneof:crzybugs

@@ -2,6 +2,8 @@ description:Jurassic Park III (ver EBC)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:b41c02

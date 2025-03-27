@@ -2,6 +2,8 @@ description:Dennis The Menace (Barcrest) (MPU4) (DEN 1.2 B)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4denmen

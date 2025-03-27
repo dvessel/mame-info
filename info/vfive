@@ -2,6 +2,8 @@ description:V-Five (Japan)
 manufacturer:Toaplan
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:grindstm
 cloneof:grindstm

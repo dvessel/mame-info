@@ -2,3 +2,5 @@ description:Sport Memory
 manufacturer:Nova Desitec
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

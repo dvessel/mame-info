@@ -2,5 +2,7 @@ description:Tekken 5 Dark Resurrection (TED1 Ver. A)
 manufacturer:Namco
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys256
 disk:ted1dvd0b

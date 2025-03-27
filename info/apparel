@@ -2,4 +2,6 @@ description:Apparel Night (Japan 860929)
 manufacturer:Central Denshi
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

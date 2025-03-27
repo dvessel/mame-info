@@ -2,4 +2,6 @@ description:Cash Quiz (Type B, Version 5)
 manufacturer:Zilec-Zenitone
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

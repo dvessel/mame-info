@@ -2,6 +2,8 @@ description:Soul Calibur II (SC21 Ver. A)
 manufacturer:Namco
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:soulclb2
 romof:sys246
 cloneof:soulclb2

@@ -2,4 +2,6 @@ description:Vs. Battle City
 manufacturer:Namco
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

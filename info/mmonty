@@ -2,3 +2,5 @@ description:Master Monty
 manufacturer:Ritam
 year:1987
 status:good
+emulation:good
+savestate:supported

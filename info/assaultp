@@ -2,6 +2,8 @@ description:Assault Plus (Japan)
 manufacturer:Namco
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65
 romof:assault

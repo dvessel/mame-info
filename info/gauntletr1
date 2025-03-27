@@ -2,6 +2,8 @@ description:Gauntlet (rev 1)
 manufacturer:Atari Games
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gauntlet
 cloneof:gauntlet

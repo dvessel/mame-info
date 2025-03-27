@@ -2,5 +2,7 @@ description:Dreamcast (USA, NTSC)
 manufacturer:Sega
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:dcjp
 cloneof:dcjp

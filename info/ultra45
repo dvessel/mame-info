@@ -2,3 +2,5 @@ description:Ultra 45
 manufacturer:Sun Microsystems
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

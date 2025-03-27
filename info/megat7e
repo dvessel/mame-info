@@ -2,5 +2,7 @@ description:Megatouch 7 Encore Edition (9255-90-01 R00, Standard version)
 manufacturer:Merit
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch

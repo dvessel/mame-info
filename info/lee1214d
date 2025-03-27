@@ -2,3 +2,5 @@ description:1214D Display Terminal
 manufacturer:Lee Data
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

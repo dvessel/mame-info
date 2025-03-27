@@ -2,5 +2,7 @@ description:P/ECE (2 MB Flash)
 manufacturer:Aquaplus
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:piece512k
 cloneof:piece512k

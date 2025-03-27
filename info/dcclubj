@@ -2,6 +2,8 @@ description:Dynamic Country Club (Japan, ROM Based)
 manufacturer:Sega
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:dcclub
 cloneof:dcclub

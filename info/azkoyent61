@@ -2,3 +2,5 @@ description:Vending machine model T61 (set 1)
 manufacturer:Azkoyen
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported

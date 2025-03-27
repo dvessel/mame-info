@@ -2,6 +2,8 @@ description:The House of the Dead III (GDX-0001)
 manufacturer:Sega / Wow Entertainment
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

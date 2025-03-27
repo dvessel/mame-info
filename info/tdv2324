@@ -2,3 +2,5 @@ description:TDV 2324
 manufacturer:Tandberg
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

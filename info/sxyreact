@@ -2,4 +2,6 @@ description:Pachinko Sexy Reaction (Japan)
 manufacturer:Sammy
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop

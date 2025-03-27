@@ -2,5 +2,7 @@ description:Fight Fever / Wang Jung Wang (set 1)
 manufacturer:Viccom
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

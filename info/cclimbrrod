@@ -2,6 +2,8 @@ description:Crazy Climber (Spanish, Rodmar bootleg)
 manufacturer:bootleg (Rodmar)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:cclimber
 cloneof:cclimber

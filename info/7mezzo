@@ -1,4 +1,6 @@
 description:7 e Mezzo
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

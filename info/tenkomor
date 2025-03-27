@@ -2,4 +2,6 @@ description:Tenkomori Shooting (World, TKM2/VER.A1)
 manufacturer:Namco
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

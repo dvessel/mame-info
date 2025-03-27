@@ -2,6 +2,8 @@ description:Hyper Street Fighter II: The Anniversary Edition (Asia 040202 Phoeni
 manufacturer:bootleg
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:hsf2

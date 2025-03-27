@@ -2,3 +2,5 @@ description:Electronic Quarterback
 manufacturer:Coleco
 year:1978
 status:good
+emulation:good
+savestate:supported

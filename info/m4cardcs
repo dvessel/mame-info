@@ -2,5 +2,7 @@ description:Card Cash (Barcrest) (MPU4) (CCS 1.9)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

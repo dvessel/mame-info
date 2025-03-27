@@ -2,4 +2,6 @@ description:Carket Ball
 manufacturer:SemiCom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop

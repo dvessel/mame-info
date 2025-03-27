@@ -2,6 +2,8 @@ description:Crazy Fruits Classic (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cfcla
 cloneof:sc4cfcla

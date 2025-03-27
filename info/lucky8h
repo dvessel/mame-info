@@ -1,6 +1,8 @@
 description:New Lucky 8 Lines Super Turbo (Hack)
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:lucky8
 cloneof:lucky8

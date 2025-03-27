@@ -2,6 +2,8 @@ description:Caterpillar (bootleg of Centipede)
 manufacturer:bootleg (Olympia)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:centiped
 cloneof:centiped

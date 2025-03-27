@@ -2,4 +2,6 @@ description:unknown LJF Corporation poker game
 manufacturer:LJF Corporation
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

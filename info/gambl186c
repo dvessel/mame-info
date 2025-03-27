@@ -2,6 +2,8 @@ description:Multi Game (French / English, Version Soft 4.4.8T - 4.0.5, 26-OCT-00
 manufacturer:EGD
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:gambl186
 cloneof:gambl186

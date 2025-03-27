@@ -2,6 +2,8 @@ description:Big Bar 7 (Concept) (set 2)
 manufacturer:Concept
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

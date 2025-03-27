@@ -2,4 +2,6 @@ description:Mahjong Block Jongbou 2 (Japan)
 manufacturer:SNK
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

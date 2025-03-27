@@ -2,6 +2,8 @@ description:Galaga '88 (Japan)
 manufacturer:Namco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galaga88
 cloneof:galaga88

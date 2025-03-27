@@ -2,6 +2,8 @@ description:Fruitopoly (VFS) (MPU2) (Hi Lights conversion, 10p Stake, £3 Jackpo
 manufacturer:VFS
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:fruitsamples

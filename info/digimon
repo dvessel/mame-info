@@ -2,3 +2,5 @@ description:Digital Monster (Japan)
 manufacturer:Bandai
 year:1997
 status:good
+emulation:good
+savestate:supported

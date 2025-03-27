@@ -2,6 +2,8 @@ description:Rainbow 190-B
 manufacturer:Digital Equipment Corporation
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:upd7220
 device:lk201
 romof:rainbow

@@ -2,6 +2,8 @@ description:Captain Commando (bootleg with 2xMSM5205)
 manufacturer:bootleg
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:captcomm
 cloneof:captcomm

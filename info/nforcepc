@@ -2,4 +2,6 @@ description:Nvidia nForce PC (CRUSH11/12)
 manufacturer:Nvidia
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:virgedx_pci

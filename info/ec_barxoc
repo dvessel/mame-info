@@ -2,6 +2,8 @@ description:Bar X (older PCB) (Electrocoin) (set 4)
 manufacturer:Electrocoin
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_barxo
 cloneof:ec_barxo

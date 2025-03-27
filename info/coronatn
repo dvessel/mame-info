@@ -2,4 +2,6 @@ description:Coronation Street Quiz Game
 manufacturer:JPM
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

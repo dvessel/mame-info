@@ -2,6 +2,8 @@ description:250 CC
 manufacturer:Inder
 year:1992
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

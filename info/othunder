@@ -2,4 +2,6 @@ description:Operation Thunderbolt (World, rev 1)
 manufacturer:Taito Corporation Japan
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

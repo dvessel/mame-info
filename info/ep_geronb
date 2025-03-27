@@ -2,6 +2,8 @@ description:Geronimo (Maygay - Impulse) (EPOCH) (set 3)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_geron
 cloneof:ep_geron

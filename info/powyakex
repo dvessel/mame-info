@@ -2,6 +2,8 @@ description:Jikkyou Pawafuru Puro Yakyu EX (GX802 VER. JAB)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sys573
 disk:802jab02

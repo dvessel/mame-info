@@ -2,3 +2,5 @@ description:Copy Cat (model 7-520)
 manufacturer:Tiger Electronics
 year:1979
 status:good
+emulation:good
+savestate:supported

@@ -2,4 +2,6 @@ description:Chaoji Tuolaji Jiaqiang Ban (V206CN)
 manufacturer:IGS
 year:2005
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

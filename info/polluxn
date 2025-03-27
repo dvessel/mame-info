@@ -2,6 +2,8 @@ description:Pollux (Japan, NTC license, distributed by Atlus)
 manufacturer:Dooyong (NTC / Atlus license)
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pollux
 cloneof:pollux

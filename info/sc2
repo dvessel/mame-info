@@ -2,3 +2,5 @@ description:Schachcomputer SC 2 (rev. E)
 manufacturer:VEB Funkwerk Erfurt
 year:1981
 status:good
+emulation:good
+savestate:supported

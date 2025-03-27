@@ -2,6 +2,8 @@ description:Spin On It (Maygay - Impulse) (EPOCH) (set 4)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_spin
 cloneof:ep_spin

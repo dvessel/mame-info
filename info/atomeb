@@ -2,5 +2,7 @@ description:Atom with Eprom Box
 manufacturer:Acorn
 year:1979
 status:good
+emulation:good
+savestate:supported
 romof:atom
 cloneof:atom

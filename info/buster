@@ -2,4 +2,6 @@ description:Buster
 manufacturer:Marian Electronics Ltd.
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

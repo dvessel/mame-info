@@ -2,6 +2,8 @@ description:Crazy Rally (Gecas license)
 manufacturer:Tecfri (Gecas license)
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:crzrally
 cloneof:crzrally

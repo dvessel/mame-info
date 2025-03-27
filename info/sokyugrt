@@ -2,6 +2,8 @@ description:Soukyugurentai / Terra Diver (JUET 960821 V1.000)
 manufacturer:Raizing / Eighting
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

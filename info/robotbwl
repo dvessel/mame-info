@@ -2,5 +2,7 @@ description:Robot Bowl
 manufacturer:Exidy
 year:1977
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:robotbwl

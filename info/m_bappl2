@@ -2,6 +2,8 @@ description:Big Apple (Leisure Games) (MPU1) (5p Stake, £2 Jackpot)
 manufacturer:Leisure Games
 year:1981?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:fruitsamples

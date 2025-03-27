@@ -2,6 +2,8 @@ description:Grand Champion (set 3)
 manufacturer:Taito
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:grchamp
 cloneof:grchamp

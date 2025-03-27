@@ -2,3 +2,5 @@ description:Compact Cyber Arcade - Cars
 manufacturer:Lexibook
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

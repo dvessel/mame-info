@@ -2,6 +2,8 @@ description:Battle Balls (Hong Kong)
 manufacturer:Seibu Kaihatsu (Metrotainment license)
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:senkyu
 cloneof:senkyu

@@ -2,6 +2,8 @@ description:PG 750
 manufacturer:Siemens
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:ega
 device:isa_hdc

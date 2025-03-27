@@ -2,4 +2,6 @@ description:Speed Drop (Ver. 1.06, Sep 3 2003)
 manufacturer:Astro Corp.
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop

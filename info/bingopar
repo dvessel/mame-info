@@ -2,6 +2,8 @@ description:Bingo Parade (main) (MDA-C0008E)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:segasp
 disk:mda-c0008e

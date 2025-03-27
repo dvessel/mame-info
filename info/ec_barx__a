@@ -2,6 +2,8 @@ description:Bar X (Electrocoin) (set 2)
 manufacturer:Electrocoin
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_barx
 cloneof:ec_barx

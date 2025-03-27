@@ -2,4 +2,6 @@ description:Vs. Balloon Fight (set BF4 A-3)
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

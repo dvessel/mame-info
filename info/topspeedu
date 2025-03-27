@@ -2,6 +2,8 @@ description:Top Speed (US)
 manufacturer:Taito America Corporation (Romstar license)
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:topspeed
 cloneof:topspeed

@@ -2,3 +2,5 @@ description:Pro Stepper Tele Cardioline (Salter Fitness Stepper V.1.0, Checksum 
 manufacturer:Salter Fitness / Gaelco
 year:1997
 status:good
+emulation:good
+savestate:unsupported

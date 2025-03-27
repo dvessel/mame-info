@@ -2,5 +2,7 @@ description:Attack From Mars (1.13, Free play)
 manufacturer:Bally
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

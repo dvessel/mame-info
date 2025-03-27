@@ -2,6 +2,8 @@ description:Cash Falls (Maygay) (EPOCH) (3.2, set 6)
 manufacturer:Maygay
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cfall
 cloneof:ep_cfall

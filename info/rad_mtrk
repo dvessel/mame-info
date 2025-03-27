@@ -2,3 +2,5 @@ description:Play TV Monster Truck (NTSC)
 manufacturer:Radica / SSD Company LTD
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported

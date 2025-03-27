@@ -2,6 +2,8 @@ description:Lup Lup Puzzle / Zhuan Zhuan Puzzle (version 1.05 / 981214)
 manufacturer:Omega System (Adko license)
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:suplup
 cloneof:suplup

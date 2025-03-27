@@ -2,3 +2,5 @@ description:WY-185ES (v2.0)
 manufacturer:Wyse Technology
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported

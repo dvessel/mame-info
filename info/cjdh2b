@@ -2,5 +2,7 @@ description:Chao Ji Da Heng 2 (V311CNB)
 manufacturer:IGS
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:cjdh2
 cloneof:cjdh2

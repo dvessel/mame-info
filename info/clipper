@@ -2,6 +2,8 @@ description:Clipper
 manufacturer:Professional Data Computer
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:c1541
 romof:c64
 cloneof:c64

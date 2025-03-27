@@ -2,4 +2,6 @@ description:Gran Trak 10/Trak 10/Formula K
 manufacturer:Atari/Kee
 year:1974
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

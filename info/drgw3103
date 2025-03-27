@@ -2,6 +2,8 @@ description:Chuugokuryuu 3 Special (Japan, ver. 103)
 manufacturer:IGS
 year:1998
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:drgw3
 romof:pgm

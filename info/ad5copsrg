@@ -2,5 +2,7 @@ description:Cops 'n' Robbers (PR1965) (Bellfruit) (Adder 5) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5copsr
 cloneof:ad5copsr

@@ -2,6 +2,8 @@ description:Cashvania Club (V411) (Qps) (Scorpion 4) (set 2)
 manufacturer:QPS
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cvclb
 cloneof:sc4cvclb

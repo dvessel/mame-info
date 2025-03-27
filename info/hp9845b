@@ -2,4 +2,6 @@ description:9845B
 manufacturer:Hewlett-Packard
 year:1979
 status:good
+emulation:good
+savestate:unsupported
 device:hp9845_prt

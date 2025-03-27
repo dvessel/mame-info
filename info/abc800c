@@ -2,6 +2,8 @@ description:ABC 800 C/HR
 manufacturer:Luxor Datorer AB
 year:1981
 status:good
+emulation:good
+savestate:supported
 device:abc830
 device:saa5052
 device:abc800kb

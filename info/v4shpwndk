@@ -2,6 +2,8 @@ description:Shop Window (v2.0) (Release 2, 20p Switchable to 10p, Cash + Special
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4shpwnd
 cloneof:v4shpwnd

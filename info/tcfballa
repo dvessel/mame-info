@@ -2,5 +2,7 @@ description:Championship Football (model 60-2151)
 manufacturer:Tandy Corporation
 year:1980
 status:good
+emulation:good
+savestate:supported
 romof:tcfball
 cloneof:tcfball

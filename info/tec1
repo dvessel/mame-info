@@ -2,3 +2,5 @@ description:TEC-1
 manufacturer:Talking Electronics magazine
 year:1984
 status:good
+emulation:good
+savestate:supported

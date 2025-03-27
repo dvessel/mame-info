@@ -2,5 +2,7 @@ description:Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan 960826)
 manufacturer:Capcom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

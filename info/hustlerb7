@@ -2,6 +2,8 @@ description:Video Hustler (bootleg, set 5)
 manufacturer:bootleg (Marti Colls)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hustler
 cloneof:hustler

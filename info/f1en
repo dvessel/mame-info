@@ -2,4 +2,6 @@ description:F1 Exhaust Note (World, Rev A)
 manufacturer:Sega
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

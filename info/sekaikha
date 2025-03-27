@@ -2,6 +2,8 @@ description:Sekai Kaseki Hakken (Japan, SKH1 Ver.A)
 manufacturer:Namco
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sekaikh
 cloneof:sekaikh

@@ -2,6 +2,8 @@ description:Duty Free (Barcrest) (MPU4) (DFT 0.1 KD)
 manufacturer:Barcrest
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4dtyfre

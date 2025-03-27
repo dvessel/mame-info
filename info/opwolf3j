@@ -2,6 +2,8 @@ description:Operation Wolf 3 (Japan)
 manufacturer:Taito Corporation
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:opwolf3
 cloneof:opwolf3

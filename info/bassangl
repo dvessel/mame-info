@@ -2,9 +2,10 @@ description:Bass Angler (GE765 VER. JAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fbaitbc
 romof:sys573
 cloneof:fbaitbc
 disk:765jaa02
-disk:765uab02

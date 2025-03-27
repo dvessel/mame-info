@@ -2,6 +2,8 @@ description:Multi Game '96 (Italy)
 manufacturer:Barko Corp.
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:twinadv
 cloneof:twinadv

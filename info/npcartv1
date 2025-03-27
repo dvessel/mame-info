@@ -2,4 +2,6 @@ description:Neo Print V1 (World) (E1a)
 manufacturer:SNK
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

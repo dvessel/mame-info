@@ -2,5 +2,7 @@ description:Gundam vs. Gundam (GVS1 Ver. A)
 manufacturer:Capcom / Bandai
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys256
 disk:gvs1dvd0b

@@ -2,6 +2,8 @@ description:Super Pinball Action (Japan)
 manufacturer:Tecmo
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spbactn
 cloneof:spbactn

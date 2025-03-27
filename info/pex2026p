@@ -2,4 +2,6 @@ description:Player's Edge Plus (X002026P+XP000019) Deuces Wild Bonus Poker
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

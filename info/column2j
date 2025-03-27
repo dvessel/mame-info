@@ -2,6 +2,8 @@ description:Columns II: The Voyage Through Time (Japan)
 manufacturer:Sega
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:columns2
 cloneof:columns2

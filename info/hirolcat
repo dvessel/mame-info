@@ -2,6 +2,8 @@ description:High Roller Casino (CPU 2.90, display A2.99)
 manufacturer:Stern
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,6 +2,8 @@ description:Butterfly Video Game (version U350C)
 manufacturer:bootleg
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:butrfly
 cloneof:butrfly

@@ -2,5 +2,7 @@ description:Chloe 280SE
 manufacturer:Chloe Corporation
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 romof:spec128
 cloneof:spec128

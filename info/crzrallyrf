@@ -2,6 +2,8 @@ description:Crazy Rally (Recreativos Franco license)
 manufacturer:Tecfri (Recreativos Franco license)
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:crzrally
 cloneof:crzrally

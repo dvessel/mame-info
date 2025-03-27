@@ -2,6 +2,8 @@ description:Magic Card Export 94 (V2.11a, set 3)
 manufacturer:Impera
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:magicrde
 cloneof:magicrde

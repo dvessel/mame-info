@@ -2,4 +2,6 @@ description:Ibara (2005/03/22 MASTER VER.., '06. 3. 7 ver.)
 manufacturer:Cave (AMI license)
 year:2005
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

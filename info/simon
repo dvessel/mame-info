@@ -2,3 +2,5 @@ description:Simon (rev. A)
 manufacturer:Milton Bradley
 year:1978
 status:good
+emulation:good
+savestate:supported

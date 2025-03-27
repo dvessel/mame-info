@@ -2,6 +2,8 @@ description:Super Streak Classic (Barcrest) (MPU4) (CSS 6.0 B)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4ssclas

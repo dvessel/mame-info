@@ -2,6 +2,8 @@ description:Tekken 4 (TEF1 Ver. A)
 manufacturer:Namco
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:tekken4
 romof:sys246
 cloneof:tekken4

@@ -2,3 +2,5 @@ description:K4 16-bit Digital Synthesizer
 manufacturer:Kawai Musical Instrument Manufacturing
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported

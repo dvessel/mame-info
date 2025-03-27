@@ -2,3 +2,5 @@ description:FP-6000
 manufacturer:Casio
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

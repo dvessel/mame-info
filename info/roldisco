@@ -2,6 +2,8 @@ description:Roller Disco
 manufacturer:Gottlieb
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:gts1

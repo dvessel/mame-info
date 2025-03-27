@@ -2,5 +2,7 @@ description:Reel Deal (Qps) (MPU4) (set 1)
 manufacturer:Qps
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

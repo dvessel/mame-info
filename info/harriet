@@ -2,3 +2,5 @@ description:Harriet
 manufacturer:Quantel
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,3 +2,5 @@ description:Sphinx Commander (v2.00)
 manufacturer:CXG Systems / Newcrest Technology
 year:1989
 status:good
+emulation:good
+savestate:supported

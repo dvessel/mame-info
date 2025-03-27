@@ -2,6 +2,8 @@ description:Winsprint (JPM) (V3, 50p, 5 credits) (SYSTEM80)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:j80wsprt
 cloneof:j80wsprt

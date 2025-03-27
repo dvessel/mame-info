@@ -2,10 +2,11 @@ description:Photo Play 2000 (Spain)
 manufacturer:Funworld
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:clgd5446_pci
 romof:photoply2k
 cloneof:photoply2k
 disk:photoplay2ksp
-disk:pp201

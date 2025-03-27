@@ -2,6 +2,8 @@ description:Winning Spike (ver AAA)
 manufacturer:Konami
 year:1997
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:winspike
 romof:konamigx

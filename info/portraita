@@ -2,6 +2,8 @@ description:Portraits (set 2)
 manufacturer:Olympia
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:portrait
 cloneof:portrait

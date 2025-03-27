@@ -2,6 +2,8 @@ description:Bonus Card (German, ATG Electronic hack)
 manufacturer:Fun World
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bonuscrd
 cloneof:bonuscrd

@@ -2,6 +2,8 @@ description:Tournament Pro Golf (DECO Cassette) (Japan)
 manufacturer:Data East Corporation
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cprogolf
 romof:decocass

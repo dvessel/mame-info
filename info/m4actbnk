@@ -2,5 +2,7 @@ description:Action Bank (Barcrest) (MPU4) (ACT 0.7)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

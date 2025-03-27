@@ -2,6 +2,8 @@ description:Excelsior (set 2)
 manufacturer:Playmark
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:excelsr
 cloneof:excelsr

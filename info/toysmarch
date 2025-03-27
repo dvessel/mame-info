@@ -2,6 +2,8 @@ description:Toy's March (E00:J:A:A:2005011602)
 manufacturer:Konami
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kpython2
 disk:e00_jaa_2005011602

@@ -2,3 +2,5 @@ description:Game Boy Advance
 manufacturer:Nintendo
 year:2001
 status:imperfect
+emulation:good
+savestate:supported

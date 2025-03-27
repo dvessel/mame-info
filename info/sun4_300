@@ -2,3 +2,5 @@ description:Sun 4/3x0
 manufacturer:Sun Microsystems
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported

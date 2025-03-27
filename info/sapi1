@@ -2,3 +2,5 @@ description:SAPI-1 ZPS 1
 manufacturer:Tesla
 year:1985
 status:good
+emulation:good
+savestate:supported

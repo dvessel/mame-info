@@ -2,6 +2,8 @@ description:Tales From the Crypt (Dutch 3.02, display A3.01)
 manufacturer:Data East
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

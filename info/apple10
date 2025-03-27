@@ -2,4 +2,6 @@ description:Apple 10 (Ver 1.21)
 manufacturer:Sandii'
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

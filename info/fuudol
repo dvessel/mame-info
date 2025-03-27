@@ -2,6 +2,8 @@ description:Fuudol (Japan)
 manufacturer:Nichibutsu/eic
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8015

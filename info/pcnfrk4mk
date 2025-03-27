@@ -2,6 +2,8 @@ description:Percussion Freaks 4th Mix (G*A25 VER. KAA)
 manufacturer:Konami
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573msu
@@ -9,5 +11,3 @@ romof:pcnfrk4m
 romof:sys573
 cloneof:pcnfrk4m
 disk:a25kaa02
-disk:a25aaa02
-disk:a25aba02

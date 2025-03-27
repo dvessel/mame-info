@@ -2,6 +2,8 @@ description:1943: The Battle of Midway (US, Rev C)
 manufacturer:Capcom
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:1943
 cloneof:1943

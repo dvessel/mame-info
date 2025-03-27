@@ -2,6 +2,8 @@ description:Player's Edge Plus (X002121P+XP000037) Standard Draw Poker
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pex2121p
 cloneof:pex2121p

@@ -2,3 +2,5 @@ description:Super Mario Bros. 3 (NES bootleg)
 manufacturer:Sang Ho Soft
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,4 +2,6 @@ description:600 Cellular Activation Tester
 manufacturer:Wavetek
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

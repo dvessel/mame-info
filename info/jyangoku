@@ -2,5 +2,7 @@ description:Jyangokushi: Haoh no Saihai (Japan 990527)
 manufacturer:Capcom
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

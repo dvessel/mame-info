@@ -2,6 +2,8 @@ description:Pinball 2000: Revenge From Mars (rev. 2)
 manufacturer:Midway
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ibm_vga

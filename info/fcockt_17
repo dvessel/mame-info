@@ -2,6 +2,8 @@ description:Fruit Cocktail (101208 Entertainment N)
 manufacturer:Igrosoft
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fcockt_8
 cloneof:fcockt_8

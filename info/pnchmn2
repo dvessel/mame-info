@@ -2,6 +2,8 @@ description:Punch Mania 2: Hokuto no Ken (GQA09 JAA)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sys573
 disk:a09jaa02

@@ -2,6 +2,8 @@ description:Shao-lin's Road (set 1)
 manufacturer:Konami
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kicker
 cloneof:kicker

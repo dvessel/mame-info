@@ -2,4 +2,6 @@ description:Excelsior (set 1)
 manufacturer:Playmark
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop

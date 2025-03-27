@@ -2,6 +2,8 @@ description:Batman (Germany 1.03, display G1.04)
 manufacturer:Data East
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

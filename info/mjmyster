@@ -2,5 +2,7 @@ description:Mahjong The Mysterious World (Japan, set 1)
 manufacturer:Dynax
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

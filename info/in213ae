@@ -2,3 +2,5 @@ description:Informer 213 AE
 manufacturer:Informer
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:supported

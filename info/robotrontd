@@ -2,6 +2,8 @@ description:Robotron: 2084 (2015 'tie-die V2' hack)
 manufacturer:hack
 year:2015
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:robotron
 cloneof:robotron

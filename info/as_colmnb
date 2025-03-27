@@ -2,6 +2,8 @@ description:Colour Of Money (Astra, V108)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_colmn
 cloneof:as_colmn

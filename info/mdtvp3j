@@ -2,5 +2,7 @@ description:Mega Drive Play TV 3 (Japan)
 manufacturer:Sega Toys
 year:2004
 status:good
+emulation:good
+savestate:unsupported
 romof:rad_sf2
 cloneof:rad_sf2

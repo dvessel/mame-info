@@ -2,6 +2,8 @@ description:Indiana Jones v1.16 (French)
 manufacturer:Stern
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:indy_210
 cloneof:indy_210

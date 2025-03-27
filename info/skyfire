@@ -2,6 +2,8 @@ description:Sky Fire
 manufacturer:bootleg (Microhard)
 year:1979
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tailg
 cloneof:tailg

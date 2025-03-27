@@ -2,3 +2,5 @@ description:Noddy's TV Console
 manufacturer:Lexibook
 year:2005
 status:preliminary
+emulation:good
+savestate:unsupported

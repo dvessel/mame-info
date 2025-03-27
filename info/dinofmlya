@@ -2,6 +2,8 @@ description:Dino Family (Portuguese, Tangasoft license)
 manufacturer:Tangasoft
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:dinofmly
 cloneof:dinofmly

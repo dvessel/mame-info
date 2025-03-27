@@ -2,3 +2,5 @@ description:Interactive TV Games 49-in-1 (PAL)
 manufacturer:TaiKee / Waixing
 year:2009
 status:imperfect
+emulation:good
+savestate:unsupported

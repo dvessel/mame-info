@@ -2,6 +2,8 @@ description:Take The Piece (Bellfruit) (PR1714) (Scorpion 5) (set 9)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5ttpie
 cloneof:sc5ttpie

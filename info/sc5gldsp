@@ -2,4 +2,6 @@ description:Golden Spinner (PR2203) (Mazooma) (Scorpion 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

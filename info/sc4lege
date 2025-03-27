@@ -2,6 +2,8 @@ description:Who Wants To Be A Legionnaire (Bellfruit) (Scorpion 4) (set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4leg
 cloneof:sc4leg

@@ -2,6 +2,8 @@ description:TA 1700-PC
 manufacturer:Triumph-Adler
 year:1984
 status:imperfect
+emulation:good
+savestate:unsupported
 device:cga
 device:kb_pcxt83
 romof:ibm5150

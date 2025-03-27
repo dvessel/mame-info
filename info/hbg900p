@@ -2,3 +2,5 @@ description:HB-G900P (MSX2, Europe)
 manufacturer:Sony
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported

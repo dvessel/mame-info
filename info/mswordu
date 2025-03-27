@@ -2,6 +2,8 @@ description:Magic Sword: Heroic Fantasy (USA 900725)
 manufacturer:Capcom
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:msword
 cloneof:msword

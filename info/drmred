@@ -2,4 +2,6 @@ description:Dream of the Red Chamber (10273811, NSW/ACT)
 manufacturer:Aristocrat
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,4 +2,6 @@ description:Player's Edge (PK1069-PC088) Double Bonus Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

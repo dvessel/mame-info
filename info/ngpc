@@ -2,5 +2,7 @@ description:NeoGeo Pocket Color
 manufacturer:SNK
 year:1999
 status:good
+emulation:good
+savestate:supported
 romof:ngp
 cloneof:ngp

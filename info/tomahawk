@@ -2,4 +2,6 @@ description:Tomahawk 777 (rev 5)
 manufacturer:Data East
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

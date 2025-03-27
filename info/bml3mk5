@@ -2,6 +2,8 @@ description:Basic Master Level 3 Mark 5 (MB-6892)
 manufacturer:Hitachi
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:bml3kanji
 romof:bml3
 cloneof:bml3

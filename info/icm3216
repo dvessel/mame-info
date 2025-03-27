@@ -2,3 +2,5 @@ description:ICM-3216
 manufacturer:National Semiconductor
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

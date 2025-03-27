@@ -2,5 +2,7 @@ description:Step Champ (GQ930 VER. JA)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sys573

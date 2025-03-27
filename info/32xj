@@ -2,5 +2,7 @@ description:Mega Drive with 32X (Japan, NTSC)
 manufacturer:Sega
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:32x
 cloneof:32x

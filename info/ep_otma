@@ -2,6 +2,8 @@ description:Over The Moon (Maygay) (EPOCH) (1.2, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_otm
 cloneof:ep_otm

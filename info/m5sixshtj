@@ -2,6 +2,8 @@ description:Six Shooter (Vivid) (MPU5) (v2.1, set 2)
 manufacturer:Vivid
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5sixsht
 cloneof:m5sixsht

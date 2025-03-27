@@ -2,5 +2,7 @@ description:MZ-700 (Japan)
 manufacturer:Sharp
 year:1982
 status:good
+emulation:good
+savestate:unsupported
 romof:mz700
 cloneof:mz700

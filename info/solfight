@@ -2,6 +2,8 @@ description:Solar Fight (bootleg of Ozma Wars)
 manufacturer:bootleg
 year:1979
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ozmawars
 cloneof:ozmawars

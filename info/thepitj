@@ -2,6 +2,8 @@ description:The Pit (Japan)
 manufacturer:Zilec Electronics (Taito license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:thepit
 cloneof:thepit

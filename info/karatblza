@@ -2,6 +2,8 @@ description:Karate Blazers (World, set 2)
 manufacturer:Video System Co.
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:karatblz
 cloneof:karatblz

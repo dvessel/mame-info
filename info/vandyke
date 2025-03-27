@@ -2,5 +2,7 @@ description:Vandyke (Japan)
 manufacturer:UPL
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:nmk004

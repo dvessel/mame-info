@@ -2,3 +2,5 @@ description:microKORG Synthesizer/Vocoder
 manufacturer:Korg
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported

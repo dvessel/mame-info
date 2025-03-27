@@ -2,8 +2,9 @@ description:NFL Blitz '99 (ver 1.2, Aug 28 1998)
 manufacturer:Midway Games
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:blitz99
 cloneof:blitz99
 disk:blitz99a
-disk:blitz99

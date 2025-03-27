@@ -2,6 +2,8 @@ description:Tarzan (V202FA)
 manufacturer:IGS
 year:1999?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:tarzanc

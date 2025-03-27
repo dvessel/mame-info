@@ -2,6 +2,8 @@ description:Invasion (Sidam)
 manufacturer:bootleg (Sidam)
 year:19??
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

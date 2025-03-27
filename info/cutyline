@@ -2,4 +2,6 @@ description:Cuty Line (ver.1.01)
 manufacturer:Dyna
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

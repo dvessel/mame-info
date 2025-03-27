@@ -2,6 +2,8 @@ description:Open Mahjong (Japan)
 manufacturer:Sapporo Mechanic
 year:1981?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:royalmj
 cloneof:royalmj

@@ -2,4 +2,6 @@ description:Revolution (Castle) (MACH2000 V1rvE)
 manufacturer:Castle
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

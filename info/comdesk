@@ -2,6 +2,8 @@ description:Deskpro
 manufacturer:Compaq
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ega
 device:kb_pcxt83
 romof:ibm5150

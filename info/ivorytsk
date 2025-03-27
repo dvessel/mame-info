@@ -2,3 +2,5 @@ description:Ivory Tusk
 manufacturer:Konami
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

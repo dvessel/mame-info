@@ -2,10 +2,11 @@ description:Dance Dance Revolution 2nd Mix - Link Ver (GE885 VER. JAA)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:k573mcr
 romof:ddr2m
 romof:sys573
 cloneof:ddr2m
 disk:885jaa02
-disk:895jaa02

@@ -2,6 +2,8 @@ description:Tetris (Japan, Taito B-System, Nastar Conversion Kit)
 manufacturer:Sega
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tetris
 cloneof:tetris

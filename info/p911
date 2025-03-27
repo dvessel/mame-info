@@ -2,6 +2,8 @@ description:The Keisatsukan: Shinjuku 24-ji (ver AAE)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:a00uad02

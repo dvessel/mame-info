@@ -2,6 +2,8 @@ description:Mortal Kombat (prototype, rev 9.0 07/28/92)
 manufacturer:Midway
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mk
 cloneof:mk

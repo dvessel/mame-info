@@ -2,6 +2,8 @@ description:Sonic The Hedgehog (JPM) (IMPACT) (SO10P C13, Protocol)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6sonic

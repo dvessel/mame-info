@@ -2,6 +2,8 @@ description:Champion Base Ball (Japan set 1)
 manufacturer:Alpha Denshi Co.
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:champbas
 cloneof:champbas

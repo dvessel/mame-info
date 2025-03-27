@@ -2,6 +2,8 @@ description:Cosmo Gang the Puzzle (Japan)
 manufacturer:Namco
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc69
 romof:cgangpzl

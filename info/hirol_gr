@@ -2,6 +2,8 @@ description:High Roller Casino (CPU 3.00, display G3.00, Germany)
 manufacturer:Stern
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

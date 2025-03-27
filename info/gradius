@@ -2,6 +2,8 @@ description:Gradius (Japan, ROM version)
 manufacturer:Konami
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:nemesis
 cloneof:nemesis

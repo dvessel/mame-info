@@ -2,3 +2,5 @@ description:Nokia 3310
 manufacturer:Nokia
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported

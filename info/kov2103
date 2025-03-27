@@ -2,6 +2,8 @@ description:Knights of Valour 2 / Sanguo Zhan Ji 2 / Sangoku Senki 2 (ver. 103, 
 manufacturer:IGS
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:kov2
 romof:pgm

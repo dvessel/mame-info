@@ -2,6 +2,8 @@ description:ATM-Turbo 2+
 manufacturer:MicroART
 year:1993
 status:good
+emulation:good
+savestate:supported
 device:betadisk
 romof:spec128
 cloneof:spec128

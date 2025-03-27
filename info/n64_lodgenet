@@ -2,5 +2,7 @@ description:Nintendo Gateway 64
 manufacturer:Nintendo / LodgeNet
 year:1997?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:n64
 cloneof:n64

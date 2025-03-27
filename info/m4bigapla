@@ -2,6 +2,8 @@ description:The Big Apple (Mdm) (MPU4, set 2)
 manufacturer:Mdm
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4bigapl

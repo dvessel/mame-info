@@ -2,4 +2,6 @@ description:Catch (prototype)
 manufacturer:Atari
 year:1977
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

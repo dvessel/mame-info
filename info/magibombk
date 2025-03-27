@@ -2,6 +2,8 @@ description:Magic Bomb (Ver. A3.0)
 manufacturer:Astro Corp.
 year:2001?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:magibomb
 cloneof:magibomb

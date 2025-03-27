@@ -2,4 +2,6 @@ description:In Your Face (North America, prototype)
 manufacturer:Jaleco
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:Legion - Spinner-87 (World ver 2.03)
 manufacturer:Nichibutsu
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

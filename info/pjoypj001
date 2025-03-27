@@ -2,3 +2,5 @@ description:PowerJoy (PJ001, NES based plug &amp; play)
 manufacturer:Trump Grand
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

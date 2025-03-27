@@ -2,6 +2,8 @@ description:Race Drivin' (compact, rev 2)
 manufacturer:Atari Games
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:racedriv
 cloneof:racedriv

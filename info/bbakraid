@@ -2,4 +2,6 @@ description:Battle Bakraid - Unlimited Version (USA) (Tue Jun 8 1999)
 manufacturer:Eighting
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

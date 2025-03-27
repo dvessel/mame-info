@@ -2,6 +2,8 @@ description:Beat The Clock (Mdm) (set 3) (Scorpion 2/3?)
 manufacturer:Mdm
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc1btclk
 cloneof:sc1btclk

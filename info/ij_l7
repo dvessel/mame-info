@@ -2,5 +2,7 @@ description:Indiana Jones (L-7)
 manufacturer:Williams
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

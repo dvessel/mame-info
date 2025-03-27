@@ -2,6 +2,8 @@ description:Where's The Gold (10177111, ASP)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wheregld
 romof:aristmk6
 cloneof:wheregld

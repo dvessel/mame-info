@@ -2,4 +2,6 @@ description:Acorn Communicator
 manufacturer:Acorn Computers
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:saa5240a

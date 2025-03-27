@@ -2,4 +2,6 @@ description:Player's Edge Plus (PP0596) Spades Sequential Royal Double Bonus Pok
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

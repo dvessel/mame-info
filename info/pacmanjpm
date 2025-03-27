@@ -2,6 +2,8 @@ description:Pac-Man (JPM bootleg)
 manufacturer:bootleg (JPM)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

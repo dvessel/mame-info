@@ -2,6 +2,8 @@ description:Wild Waratah (10215911, NSW/ACT, Show Program)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wwaratah
 romof:aristmk6
 cloneof:wwaratah

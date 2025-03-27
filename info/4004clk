@@ -2,3 +2,5 @@ description:4004 Nixie Clock
 manufacturer:John L. Weinrich
 year:2008
 status:good
+emulation:good
+savestate:supported

@@ -2,4 +2,6 @@ description:Action 2000 (Version 3.5E Dual)
 manufacturer:Amcoe
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

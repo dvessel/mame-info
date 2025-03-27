@@ -2,3 +2,5 @@ description:Acorn System 1
 manufacturer:Acorn Computers
 year:1979
 status:good
+emulation:good
+savestate:supported

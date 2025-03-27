@@ -2,4 +2,6 @@ description:Double Challenge (Version 1.5R, set 1)
 manufacturer:Amcoe
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:Cashanova (German) (Mazooma / Nova) (Scorpion 4)
 manufacturer:Mazooma / Nova
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

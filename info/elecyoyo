@@ -2,5 +2,7 @@ description:The Electric Yo-Yo (rev 1)
 manufacturer:Taito America Corporation
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p3

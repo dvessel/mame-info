@@ -2,4 +2,6 @@ description:Reel Good Time (Rebuild) (Global) (Version 1.0) (EPOCH)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

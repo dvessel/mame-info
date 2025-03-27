@@ -2,6 +2,8 @@ description:Red Hot Poker (Release 3, 10p Fixed, Cash+Token, % Key) (set 1) (MPU
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4redhtp
 cloneof:v4redhtp

@@ -2,4 +2,6 @@ description:Cheese Chase
 manufacturer:Art &amp; Magic
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

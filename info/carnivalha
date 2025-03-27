@@ -2,6 +2,8 @@ description:Carnival (Head On hardware, set 2)
 manufacturer:Sega
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:carnival
 cloneof:carnival

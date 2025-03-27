@@ -2,6 +2,8 @@ description:RyuKyu (Japan) (bootleg of FD1094 317-5023 set)
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ryukyu
 cloneof:ryukyu

@@ -2,3 +2,5 @@ description:Constellation Junior
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1985
 status:good
+emulation:good
+savestate:supported

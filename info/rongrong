@@ -2,5 +2,7 @@ description:Puzzle Game Rong Rong (Europe)
 manufacturer:Nakanihon (Activision license)
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

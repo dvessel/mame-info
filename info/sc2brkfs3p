@@ -2,6 +2,8 @@ description:The Big Breakfast (set 4 UK, Arcade, 8GBP Jackpot, Protocol) (Scorpi
 manufacturer:BFM
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

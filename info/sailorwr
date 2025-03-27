@@ -2,6 +2,8 @@ description:Mahjong Sailor Wars-R (Japan)
 manufacturer:Nichibutsu
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sailorws
 cloneof:sailorws

@@ -2,6 +2,8 @@ description:Indianapolis (bootleg of Turbo)
 manufacturer:bootleg
 year:1981
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:turbo
 cloneof:turbo

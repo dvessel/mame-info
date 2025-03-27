@@ -2,6 +2,8 @@ description:Super Video Arcade
 manufacturer:Sears
 year:1981
 status:good
+emulation:good
+savestate:supported
 device:stic
 romof:intv
 cloneof:intv

@@ -2,4 +2,6 @@ description:SD Gundam Psycho Salamander no Kyoui
 manufacturer:Banpresto / Bandai
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Playboy (CPU 2.03, display I2.01, Italy)
 manufacturer:Stern
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

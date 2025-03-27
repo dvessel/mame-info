@@ -2,6 +2,8 @@ description:Games V21.1C
 manufacturer:U.S. Games, Inc.
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:usgames
 cloneof:usgames

@@ -2,6 +2,8 @@ description:Family Guy Griffin Plumbing (Bellfruit) (Scorpion 5) (set 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5fggp
 cloneof:sc5fggp

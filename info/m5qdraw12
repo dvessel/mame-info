@@ -2,6 +2,8 @@ description:Quick On The Draw (Vivid) (MPU5) (set 2)
 manufacturer:Vivid
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5qdraw
 cloneof:m5qdraw

@@ -2,5 +2,7 @@ description:Bloody Roar 2 (World)
 manufacturer:Eighting / Raizing
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh1002e

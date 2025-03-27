@@ -2,5 +2,7 @@ description:Master System Store Display Unit
 manufacturer:Sega
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:sms
 cloneof:sms

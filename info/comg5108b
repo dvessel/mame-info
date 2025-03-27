@@ -2,6 +2,8 @@ description:CEI 51.08 (CEI 906-III Poker, Schedule 21F)
 manufacturer:Casino Electronics Inc.
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:comg5108
 cloneof:comg5108

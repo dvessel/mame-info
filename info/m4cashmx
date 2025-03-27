@@ -2,5 +2,7 @@ description:Cash Matrix (Barcrest) (MPU4) (CM 1.7, set 1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

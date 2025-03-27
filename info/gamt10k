@@ -2,5 +2,7 @@ description:Gaminator 10 (set 12)
 manufacturer:Novotech
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gamt10
 cloneof:gamt10

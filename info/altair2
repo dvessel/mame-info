@@ -2,4 +2,6 @@ description:Altair II
 manufacturer:Cidelsa
 year:198?
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

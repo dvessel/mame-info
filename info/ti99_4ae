@@ -2,5 +2,7 @@ description:TI-99/4A Home Computer (Europe)
 manufacturer:Texas Instruments
 year:1981
 status:good
+emulation:good
+savestate:supported
 romof:ti99_4a
 cloneof:ti99_4a

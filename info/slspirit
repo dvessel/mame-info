@@ -2,4 +2,6 @@ description:Solite Spirits
 manufacturer:Promat
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

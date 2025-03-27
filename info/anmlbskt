@@ -2,5 +2,7 @@ description:Animal Basket / Hustle Tamaire Kyousou (24 Jan 2005)
 manufacturer:MOSS / Sammy
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:awbios

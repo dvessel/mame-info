@@ -2,5 +2,7 @@ description:Konkyuu no Hoshi
 manufacturer:BMC
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

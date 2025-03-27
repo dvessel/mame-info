@@ -2,5 +2,7 @@ description:FS-5500F1 (MSX2, Japan)
 manufacturer:National
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:fs5500f2
 cloneof:fs5500f2

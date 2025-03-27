@@ -2,6 +2,8 @@ description:Power Play (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4pwrpl
 cloneof:sc4pwrpl

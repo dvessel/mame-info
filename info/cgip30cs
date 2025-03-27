@@ -2,4 +2,6 @@ description:Credit Poker (ver.30c, standard)
 manufacturer:CGI
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

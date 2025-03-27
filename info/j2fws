@@ -2,4 +2,6 @@ description:Five Way Shuffle (set 1) (JPM) (MPS)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

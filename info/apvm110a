@@ -2,5 +2,7 @@ description:Automatic Products Vending Machine model 110 (set 2)
 manufacturer:Mars Electronics
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:apvm110
 cloneof:apvm110

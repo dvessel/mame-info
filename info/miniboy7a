@@ -2,6 +2,8 @@ description:Mini-Boy 7 (set 2)
 manufacturer:Bonanza Enterprises, Ltd
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:miniboy7
 cloneof:miniboy7

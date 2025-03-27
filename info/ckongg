@@ -2,6 +2,8 @@ description:Crazy Kong (bootleg on Galaxian hardware)
 manufacturer:bootleg
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ckong
 cloneof:ckong

@@ -2,3 +2,5 @@ description:PN-8800FXB
 manufacturer:Brother
 year:1996
 status:imperfect
+emulation:good
+savestate:supported

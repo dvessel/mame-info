@@ -2,6 +2,8 @@ description:Same! Same! Same! (Japan, 1P set, NEW VER! hack)
 manufacturer:hack (trap15)
 year:2015
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fireshrk
 cloneof:fireshrk

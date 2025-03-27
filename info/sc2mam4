@@ -2,6 +2,8 @@ description:Make A Million (Bellfruit) (set 1, UK) (Scorpion 2/3)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

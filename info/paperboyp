@@ -2,6 +2,8 @@ description:Paperboy (prototype)
 manufacturer:Atari Games
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:paperboy
 cloneof:paperboy

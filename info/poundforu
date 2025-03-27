@@ -2,6 +2,8 @@ description:Pound for Pound (US)
 manufacturer:Irem America
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:poundfor
 cloneof:poundfor

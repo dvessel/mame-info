@@ -2,4 +2,6 @@ description:Super Othello
 manufacturer:Success / Fujiwara
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Mushiking The King Of Beetles - Mushiking IV / V / VI (World)
 manufacturer:Sega
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

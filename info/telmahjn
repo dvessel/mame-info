@@ -2,4 +2,6 @@ description:Telephone Mahjong (Japan 890111)
 manufacturer:Nichibutsu
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

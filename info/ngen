@@ -2,3 +2,5 @@ description:NGEN CP-001
 manufacturer:Convergent Technologies
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

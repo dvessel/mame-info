@@ -2,3 +2,5 @@ description:Integral Personal Computer 9807A
 manufacturer:Hewlett-Packard
 year:1985
 status:good
+emulation:good
+savestate:unsupported

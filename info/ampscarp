@@ -2,3 +2,5 @@ description:AMPS Car Phone
 manufacturer:Motorola
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,3 +2,5 @@ description:MiniWorks 4-Pole
 manufacturer:Waldorf Electronics
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported

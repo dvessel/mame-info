@@ -2,6 +2,8 @@ description:Hexa President (YMZ280B set)
 manufacturer:Yuvo / Yubis
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:hexaprs
 cloneof:hexaprs

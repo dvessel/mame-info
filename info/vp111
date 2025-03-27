@@ -2,5 +2,7 @@ description:Cosmac VIP (VP-111)
 manufacturer:RCA
 year:1977
 status:imperfect
+emulation:good
+savestate:supported
 romof:vip
 cloneof:vip

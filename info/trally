@@ -2,5 +2,7 @@ description:Thrash Rally (ALM-003 ~ ALH-003)
 manufacturer:Alpha Denshi Co.
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

@@ -2,3 +2,5 @@ description:Book Theatre (Ver 1.2)
 manufacturer:Nazionale Elettronica
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

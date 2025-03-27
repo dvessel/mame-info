@@ -2,6 +2,8 @@ description:Lucky Strike Club (Barcrest) (MPU4) (LS3 0.1 F)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4lucksc

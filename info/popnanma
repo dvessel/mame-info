@@ -2,6 +2,8 @@ description:Pop'n Music Animelo (license expired)
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:popnanm
 cloneof:popnanm

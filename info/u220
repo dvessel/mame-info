@@ -2,3 +2,5 @@ description:U-220 RS-PCM Sound Module
 manufacturer:Roland
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported

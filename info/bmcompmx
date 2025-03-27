@@ -2,5 +2,7 @@ description:beatmania complete MIX (ver JA-C)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:858jaa11

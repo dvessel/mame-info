@@ -2,4 +2,6 @@ description:Positron 9000
 manufacturer:Positron Computers Ltd
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:saa5050

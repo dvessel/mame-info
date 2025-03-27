@@ -2,5 +2,7 @@ description:Fast Draw Showdown (v1.31)
 manufacturer:American Laser Games
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:alg_bios

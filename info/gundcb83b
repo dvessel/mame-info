@@ -2,6 +2,8 @@ description:Mobile Suit Gundam 0083 Card Builder Ver.2.10 (CDV-10037B)
 manufacturer:Banpresto
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm
@@ -10,4 +12,3 @@ romof:gundcb83
 romof:chihiro
 cloneof:gundcb83
 disk:cdv-10037b
-disk:cdv-10030

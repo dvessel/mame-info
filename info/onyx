@@ -2,5 +2,7 @@ description:Onyx (Brazil/Prototype)
 manufacturer:Microdigital
 year:1982
 status:good
+emulation:good
+savestate:unsupported
 romof:coleco
 cloneof:coleco

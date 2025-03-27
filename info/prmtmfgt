@@ -2,6 +2,8 @@ description:Prime Time Fighter (Ver 2.1A 1993/05/21) (New Version)
 manufacturer:Taito America Corporation
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:trstar
 cloneof:trstar

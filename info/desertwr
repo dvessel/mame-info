@@ -2,4 +2,6 @@ description:Desert War / Wangan Sensou (ver 1.0)
 manufacturer:Jaleco
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

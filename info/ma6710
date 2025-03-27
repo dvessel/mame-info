@@ -2,4 +2,6 @@ description:Multi-Action 6710-13
 manufacturer:Merit
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

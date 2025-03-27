@@ -2,6 +2,8 @@ description:Missile Combat (Videotron bootleg, set 2)
 manufacturer:bootleg (Videotron)
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:missile
 cloneof:missile

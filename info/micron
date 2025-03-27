@@ -2,6 +2,8 @@ description:Micron
 manufacturer:Tangerine
 year:1980
 status:good
+emulation:good
+savestate:unsupported
 device:microtan_kbd_mt009
 device:tanbus_tanex
 romof:mt65

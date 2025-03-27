@@ -2,6 +2,8 @@ description:BINBUG 3.6
 manufacturer:MicroByte
 year:1980
 status:good
+emulation:good
+savestate:supported
 device:dg640
 romof:pipbug
 cloneof:pipbug

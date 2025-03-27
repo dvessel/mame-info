@@ -2,6 +2,8 @@ description:Dragon World (World, V030O)
 manufacturer:IGS
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:drgnwrld
 cloneof:drgnwrld

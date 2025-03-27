@@ -2,3 +2,5 @@ description:HB-20P (MSX1, Spain)
 manufacturer:Sony
 year:1986
 status:good
+emulation:good
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Konami RF2 - Red Fighter
 manufacturer:Konami
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:konamigt
 cloneof:konamigt

@@ -2,6 +2,8 @@ description:Monopoly Casino (PR2056) (Mazooma) (Scorpion 4) (GMTB, Top Box, set 
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4mcas
 cloneof:sc4mcas

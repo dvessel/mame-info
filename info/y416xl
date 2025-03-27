@@ -2,3 +2,5 @@ description:416 XL (Yeno)
 manufacturer:Yeno
 year:1989
 status:good
+emulation:good
+savestate:supported

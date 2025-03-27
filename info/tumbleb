@@ -2,6 +2,8 @@ description:Tumble Pop (bootleg)
 manufacturer:bootleg
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:tumblep
 cloneof:tumblep

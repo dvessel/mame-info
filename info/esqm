@@ -2,5 +2,7 @@ description:ESQ-M Digital Wave Synthesizer Module
 manufacturer:Ensoniq
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:esq1
 cloneof:esq1

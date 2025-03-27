@@ -2,5 +2,7 @@ description:Enchanted Forest (4VXFC818, NSW)
 manufacturer:Aristocrat
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 sampleof:3bagfull

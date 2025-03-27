@@ -2,6 +2,8 @@ description:Cavaleiro Negro (set 1)
 manufacturer:Taito do Brasil
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:votrsc01a

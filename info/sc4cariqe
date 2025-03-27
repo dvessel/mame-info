@@ -2,6 +2,8 @@ description:Caribbean Cash (Qps) (Scorpion 4) (set 6)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cariq
 cloneof:sc4cariq

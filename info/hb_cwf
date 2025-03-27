@@ -2,4 +2,6 @@ description:Cherry Win Falls (Fairgames) (set 1)
 manufacturer:Fairgames
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

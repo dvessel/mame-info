@@ -2,6 +2,8 @@ description:Money Talks (JPM) (IMPACT) (MT3 A L12) (set 5)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6montlk

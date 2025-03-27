@@ -2,3 +2,5 @@ description:The Game Machine
 manufacturer:VTech / Waddingtons
 year:1978
 status:imperfect
+emulation:good
+savestate:supported

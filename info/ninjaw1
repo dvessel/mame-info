@@ -2,6 +2,8 @@ description:The Ninja Warriors (World, earlier version)
 manufacturer:Taito Corporation Japan
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ninjaw
 cloneof:ninjaw

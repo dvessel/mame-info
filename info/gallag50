@@ -2,4 +2,6 @@ description:Gallag Video Game / Petalouda (Butterfly, x50)
 manufacturer:bootleg
 year:199?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

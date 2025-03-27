@@ -2,6 +2,8 @@ description:Tigress (20243811, ASP)
 manufacturer:Aristocrat
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:tigress
 romof:aristmk6
 cloneof:tigress

@@ -2,4 +2,6 @@ description:Salamander (version D)
 manufacturer:Konami
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

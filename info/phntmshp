@@ -2,6 +2,8 @@ description:Phantom Ship
 manufacturer:Playmatic
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

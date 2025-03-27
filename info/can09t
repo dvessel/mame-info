@@ -2,3 +2,5 @@ description:Candela CAN09
 manufacturer:Candela Data AB
 year:1984
 status:good
+emulation:good
+savestate:unsupported

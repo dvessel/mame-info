@@ -2,6 +2,8 @@ description:Zoku Otenamihaiken (V2.05J 2003/05/12 18:00)
 manufacturer:Success
 year:2003
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh3002t
 disk:zokuoten

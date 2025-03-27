@@ -2,6 +2,8 @@ description:Cosmic Gunfight (L-1)
 manufacturer:Williams
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

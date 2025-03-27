@@ -2,6 +2,8 @@ description:Space 84
 manufacturer:ComputerTechnik/IBS
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

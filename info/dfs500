@@ -2,3 +2,5 @@ description:DFS-500 DME Video Switcher
 manufacturer:Sony
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported

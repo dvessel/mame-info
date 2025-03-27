@@ -2,6 +2,8 @@ description:Final Blow (Japan)
 manufacturer:Taito Corporation
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:finalb
 cloneof:finalb

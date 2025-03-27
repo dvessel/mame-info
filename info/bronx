@@ -2,6 +2,8 @@ description:Bronx
 manufacturer:bootleg
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:cyclshtg
 cloneof:cyclshtg

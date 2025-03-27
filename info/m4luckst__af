@@ -2,6 +2,8 @@ description:Lucky Strike (Barcrest) (MPU4) (LST 0.9)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4luckst

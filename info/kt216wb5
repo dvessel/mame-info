@@ -2,6 +2,8 @@ description:KT216WB5-HI Rev.2
 manufacturer:KT Technology
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:cga
 device:kb_pcat84

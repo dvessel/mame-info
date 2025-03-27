@@ -2,3 +2,5 @@ description:Les Fiches (ver 1.3)
 manufacturer:Minivideo
 year:1995?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

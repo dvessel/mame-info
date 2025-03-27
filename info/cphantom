@@ -2,4 +2,6 @@ description:Chesster Phantom (model 6126)
 manufacturer:Fidelity Electronics International
 year:1991
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical

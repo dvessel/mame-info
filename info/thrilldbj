@@ -2,6 +2,8 @@ description:Thrill Drive (JCB)
 manufacturer:Konami
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:thrilld
 cloneof:thrilld

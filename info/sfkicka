@@ -2,6 +2,8 @@ description:Super Free Kick (set 2)
 manufacturer:Haesung
 year:198?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sfkick
 cloneof:sfkick

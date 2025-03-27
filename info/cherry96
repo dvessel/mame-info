@@ -2,6 +2,8 @@ description:New Cherry '96 (bootleg of New Fruit Bonus?)
 manufacturer:bootleg
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:scmaster
 cloneof:scmaster

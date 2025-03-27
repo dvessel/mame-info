@@ -2,6 +2,8 @@ description:Cop The Lot Club (Video) (Bellfruit) (Adder 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:ad4ctl
 cloneof:ad4ctl

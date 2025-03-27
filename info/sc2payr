@@ -2,6 +2,8 @@ description:Pay Roll Casino (Bellfruit/Mazooma) (Scorpion 2/3)
 manufacturer:BFM/Mazooma
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

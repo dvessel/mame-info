@@ -2,4 +2,6 @@ description:Chameleon RX-1
 manufacturer:Digital Sunnil (Covielsa license)
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:chamrx1

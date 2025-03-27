@@ -2,5 +2,7 @@ description:Tokio / Scramble Formation (newer)
 manufacturer:Taito Corporation
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5

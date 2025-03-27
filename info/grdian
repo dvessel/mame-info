@@ -2,5 +2,7 @@ description:Guardian (US)
 manufacturer:Toaplan / Taito America Corporation (Kitkorp license)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5

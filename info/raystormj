@@ -2,6 +2,8 @@ description:Ray Storm (Ver 2.05J)
 manufacturer:Taito
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:raystorm
 romof:coh1000t

@@ -2,6 +2,8 @@ description:Minefield (The Logicshop, bootleg)
 manufacturer:bootleg (The Logicshop)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:minefld
 cloneof:minefld

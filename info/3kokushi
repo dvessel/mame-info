@@ -2,5 +2,7 @@ description:Sankokushi (Japan)
 manufacturer:Mitchell
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

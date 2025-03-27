@@ -2,6 +2,8 @@ description:Deal or No Deal Feeling Lucky (PR3309) (Bellfruit) (Scorpion 5) (set
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndfl
 cloneof:sc5dndfl

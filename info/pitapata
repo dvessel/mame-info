@@ -2,6 +2,8 @@ description:Pitapat Puzzle (set 2)
 manufacturer:F2 System
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pitapat
 cloneof:pitapat

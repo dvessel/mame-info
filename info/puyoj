@@ -2,6 +2,8 @@ description:Puyo Puyo (Japan, Rev B)
 manufacturer:Compile / Sega
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:puyo
 cloneof:puyo

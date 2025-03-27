@@ -2,6 +2,8 @@ description:VJ Dash (Ver 1.2)
 manufacturer:Jaleco
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jaleco_vj_pc
 device:virgedx_pci

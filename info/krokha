@@ -2,3 +2,5 @@ description:Krokha
 manufacturer:SKB Kontur
 year:1990
 status:imperfect
+emulation:good
+savestate:supported

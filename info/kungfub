@@ -2,6 +2,8 @@ description:Kung-Fu Master (bootleg set 1)
 manufacturer:bootleg
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:kungfum
 cloneof:kungfum

@@ -2,6 +2,8 @@ description:Wonder Boy (system 2, set 1, 315-5177)
 manufacturer:Escape (Sega license)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wboy
 cloneof:wboy

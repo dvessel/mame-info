@@ -2,5 +2,7 @@ description:Rockin' Bowl-O-Rama (v2.1.1)
 manufacturer:Namco / Cosmodog
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:namco_bowling
 disk:bor2_2_1

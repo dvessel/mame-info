@@ -2,6 +2,8 @@ description:The Rumble Fish 2 (prototype)
 manufacturer:Sammy / Dimps
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:rumblef2
 romof:awbios

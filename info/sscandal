@@ -2,6 +2,8 @@ description:Seishun Scandal (315-5132, Japan)
 manufacturer:Coreland / Sega
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:myhero
 cloneof:myhero

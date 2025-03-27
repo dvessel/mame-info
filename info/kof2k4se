@@ -2,6 +2,8 @@ description:The King of Fighters Special Edition 2004 (bootleg of The King of Fi
 manufacturer:bootleg
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kof2002
 romof:neogeo

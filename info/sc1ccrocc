@@ -2,6 +2,8 @@ description:Crazy Crocs (Mdm) (set 4) (Scorpion 2/3?)
 manufacturer:Mdm
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc1ccroc
 cloneof:sc1ccroc

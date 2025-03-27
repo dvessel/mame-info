@@ -2,4 +2,6 @@ description:Club Card (ver. 1.1 English)
 manufacturer:Impera / Mega Tech
 year:199?
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

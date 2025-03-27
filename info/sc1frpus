@@ -2,5 +2,7 @@ description:Fruit Pursuit (Bellfruit) (set 1) (Scorpion 1?)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

@@ -2,4 +2,6 @@ description:MuHanSeungBu (SemiCom Baseball) (Korea)
 manufacturer:SemiCom / DMD
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

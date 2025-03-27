@@ -2,5 +2,7 @@ description:Casino Super Multi Nudger (Concept / Electrocoin Oxo) (?)
 manufacturer:Concept Games Ltd
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

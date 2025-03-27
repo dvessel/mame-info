@@ -2,4 +2,6 @@ description:I Took a Lickin' From a Chicken
 manufacturer:LJN Toys
 year:1980
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical

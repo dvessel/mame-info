@@ -2,6 +2,8 @@ description:Red Hot Mazooma Belle (BWB) (Version 1.4 DY, Cash+Token, 1993 Awards
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4rhmaz
 cloneof:v4rhmaz

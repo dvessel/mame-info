@@ -2,3 +2,5 @@ description:3 in 1: Football, Basketball, Soccer
 manufacturer:Fonas
 year:1979
 status:good
+emulation:good
+savestate:supported

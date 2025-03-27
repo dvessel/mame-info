@@ -2,4 +2,6 @@ description:Genix Family
 manufacturer:NIX
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

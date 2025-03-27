@@ -2,5 +2,7 @@ description:Super TV-PC - Doraemon (Japan)
 manufacturer:Epoch / SSD Company LTD
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:suprtvpc
 cloneof:suprtvpc

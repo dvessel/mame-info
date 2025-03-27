@@ -2,5 +2,7 @@ description:Champion Poker (v220I)
 manufacturer:IGS
 year:1993?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

@@ -2,5 +2,7 @@ description:PT68K4
 manufacturer:Peripheral Technology
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 device:kb_pcxt83
 device:cga

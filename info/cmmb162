@@ -2,4 +2,6 @@ description:Centipede / Millipede / Missile Command / Let's Go Bowling (rev 1.62
 manufacturer:Cosmodog / Team Play (licensed from Infogrames via Midway Games West)
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

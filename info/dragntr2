@@ -2,6 +2,8 @@ description:Dragon Treasure 2 (Rev A) (GDS-0037A)
 manufacturer:Sega
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

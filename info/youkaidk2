@@ -2,6 +2,8 @@ description:Youkai Douchuuki (Japan, new version (YD2, Rev B))
 manufacturer:Namco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:shadowld
 cloneof:shadowld

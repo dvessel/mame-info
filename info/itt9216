@@ -2,3 +2,5 @@ description:ITT 9216-X
 manufacturer:ITT Courier
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,3 +2,5 @@ description:Chess Challenger (model UCC10, 10 levels)
 manufacturer:Fidelity Electronics
 year:1979
 status:good
+emulation:good
+savestate:supported

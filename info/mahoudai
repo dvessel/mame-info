@@ -2,6 +2,8 @@ description:Mahou Daisakusen (Japan)
 manufacturer:Raizing (Able license)
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sstriker
 cloneof:sstriker

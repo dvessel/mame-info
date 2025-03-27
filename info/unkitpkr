@@ -1,4 +1,6 @@
 description:unknown Italian poker game
 year:198?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

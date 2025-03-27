@@ -2,6 +2,8 @@ description:PC with V20 CPU
 manufacturer:&lt;generic>
 year:1987
 status:imperfect
+emulation:good
+savestate:unsupported
 device:cga
 device:isa_hdc
 device:kb_pcxt83

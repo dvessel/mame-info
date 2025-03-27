@@ -2,6 +2,8 @@ description:Strike it Lucky (v0.5, Datapak) (MPU4 Video)
 manufacturer:Barcrest
 year:199?
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:v4strike
 romof:v4bios

@@ -2,6 +2,8 @@ description:Bullion Bars (Astra, V105)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_bbr
 cloneof:as_bbr

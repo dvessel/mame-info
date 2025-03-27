@@ -2,3 +2,5 @@ description:TS803H
 manufacturer:Televideo
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,4 +2,7 @@ description:Soreike! Anpanman Popcorn Koujou (Rev B)
 manufacturer:Sega
 year:1992
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
+kind:coinop

@@ -2,6 +2,8 @@ description:Chinese Hero (older, set 2)
 manufacturer:Taiyo System
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:chinhero
 cloneof:chinhero

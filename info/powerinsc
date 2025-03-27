@@ -2,6 +2,8 @@ description:Power Instinct (USA, bootleg set 3)
 manufacturer:bootleg
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:powerins
 cloneof:powerins

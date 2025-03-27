@@ -2,4 +2,6 @@ description:Croquis (Korea)
 manufacturer:Deniam
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop

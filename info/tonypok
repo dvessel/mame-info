@@ -2,4 +2,6 @@ description:Poker Master (Tony-Poker V3.A, hack?)
 manufacturer:Corsica
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

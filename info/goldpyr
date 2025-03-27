@@ -2,6 +2,8 @@ description:Golden Pyramids (0100878V, ASP)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:qnile
 romof:aristmk5

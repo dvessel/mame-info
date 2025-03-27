@@ -2,6 +2,8 @@ description:Pile On The Pounds (Qps) (Scorpion 5) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5pilep
 cloneof:sc5pilep

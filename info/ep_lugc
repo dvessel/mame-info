@@ -2,6 +2,8 @@ description:London Underground (Maygay) (EPOCH) (3.1, set 4)
 manufacturer:Maygay
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_lug
 cloneof:ep_lug

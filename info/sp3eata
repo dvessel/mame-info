@@ -2,3 +2,5 @@ description:ZX Spectrum +3e 8bit ZXATASP
 manufacturer:Amstrad plc
 year:2002
 status:good
+emulation:good
+savestate:unsupported

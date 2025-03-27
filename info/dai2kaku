@@ -2,5 +2,7 @@ description:Dai-Dai-Kakumei (Japan)
 manufacturer:SystemBit
 year:2004
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

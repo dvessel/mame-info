@@ -2,4 +2,6 @@ description:Denjin Makai (set 1)
 manufacturer:Winkysoft (Banpresto license)
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

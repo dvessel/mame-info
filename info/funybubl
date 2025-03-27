@@ -2,4 +2,6 @@ description:Funny Bubble
 manufacturer:In Chang Electronic Co
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

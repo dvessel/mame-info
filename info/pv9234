@@ -2,3 +2,5 @@ description:PowerVu D9234
 manufacturer:Scientific Atlanta
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported

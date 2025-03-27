@@ -2,6 +2,8 @@ description:Fatal Fury Special / Garou Densetsu Special (NGM-058 ~ NGH-058, set 
 manufacturer:SNK
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fatfursp
 romof:neogeo

@@ -2,6 +2,8 @@ description:World Combat (ver AAD:B)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:c22d02

@@ -2,6 +2,8 @@ description:777 Heaven (Project) (set 13) (PROCONN)
 manufacturer:Project
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pr_7hvn
 cloneof:pr_7hvn

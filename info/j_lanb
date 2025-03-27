@@ -2,6 +2,8 @@ description:Lite A Nudge (JPM) (SRU) (earlier, 5p Stake, £1 Jackpot)
 manufacturer:JPM
 year:1980?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:j_lan

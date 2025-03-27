@@ -2,4 +2,6 @@ description:Power Card (Ver 0263, encrypted)
 manufacturer:Fun World
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

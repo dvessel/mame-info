@@ -2,4 +2,6 @@ description:Commodore 128 (PAL)
 manufacturer:Commodore Business Machines
 year:1985
 status:good
+emulation:good
+savestate:supported
 device:c1571

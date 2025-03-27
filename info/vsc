@@ -2,3 +2,5 @@ description:Voice Sensory Chess Challenger
 manufacturer:Fidelity Electronics
 year:1980
 status:good
+emulation:good
+savestate:supported

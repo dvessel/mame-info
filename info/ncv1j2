@@ -2,6 +2,8 @@ description:Namco Classic Collection Vol.1 (Japan, v1.03)
 manufacturer:Namco
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ncv1
 cloneof:ncv1

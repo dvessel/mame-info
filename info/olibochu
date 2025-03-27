@@ -2,4 +2,6 @@ description:Oli-Boo-Chu (USA)
 manufacturer:Irem (GDI license)
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

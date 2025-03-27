@@ -2,6 +2,8 @@ description:Reel Bingo Club (set 2) (JPM) (MPS)
 manufacturer:JPM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:j2reelbn
 cloneof:j2reelbn

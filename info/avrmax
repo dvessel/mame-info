@@ -2,3 +2,5 @@ description:AVR-Max Chess Computer (English)
 manufacturer:Elektor
 year:2009
 status:good
+emulation:good
+savestate:supported

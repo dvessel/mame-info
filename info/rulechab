@@ -2,4 +2,6 @@ description:Super Ball (Version EC-3.50 N165)
 manufacturer:ElectroChance
 year:1991
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical

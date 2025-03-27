@@ -2,5 +2,7 @@ description:DreamWriter 450
 manufacturer:NTS
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wales210
 cloneof:wales210

@@ -2,6 +2,8 @@ description:beatmania IIDX 4th style (GCA03 JAA)
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gq863
 disk:a03jaa01

@@ -2,4 +2,6 @@ description:World Series: The Season (rev 1)
 manufacturer:Cinematronics
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,4 +2,6 @@ description:Mephisto Berlin 68000 (v0.03)
 manufacturer:Hegener + Glaser
 year:1992
 status:good
+emulation:good
+savestate:supported
 device:hd44780

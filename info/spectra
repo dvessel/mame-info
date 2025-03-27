@@ -2,6 +2,8 @@ description:Spectra IV
 manufacturer:Valley
 year:1979
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

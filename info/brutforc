@@ -2,4 +2,6 @@ description:Brute Force
 manufacturer:Leland Corporation
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

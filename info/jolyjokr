@@ -2,4 +2,6 @@ description:Jolly Joker (98bet, set 1)
 manufacturer:Impera
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Smash 'n' Grab (Mdm) (MPU4, set 3)
 manufacturer:Mdm
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4smshgb

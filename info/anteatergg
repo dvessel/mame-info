@@ -2,6 +2,8 @@ description:Ameisenbaer (German bootleg on Galaxian hardware)
 manufacturer:bootleg
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:anteater
 cloneof:anteater

@@ -1,4 +1,6 @@
 description:Champion Super 3 (V0.35)
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

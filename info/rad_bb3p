@@ -2,5 +2,7 @@ description:Connectv Baseball 3
 manufacturer:Radica / FarSight Studios
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:rad_bb3
 cloneof:rad_bb3

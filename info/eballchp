@@ -2,6 +2,8 @@ description:Eight Ball Champ
 manufacturer:Bally
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

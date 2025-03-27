@@ -2,4 +2,6 @@ description:SunA Quiz 6000 Academy (940620-6)
 manufacturer:SunA
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

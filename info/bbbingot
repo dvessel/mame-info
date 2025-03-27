@@ -2,5 +2,7 @@ description:Bin Bin Bingo (Japan, terminal)
 manufacturer:Namco
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:namcoc70

@@ -2,6 +2,8 @@ description:MAC Jungle (New version)
 manufacturer:MAC S.A.
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

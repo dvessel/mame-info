@@ -2,9 +2,10 @@ description:Tsurugi (ver JAC)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:tsurugi
 romof:kviper
 cloneof:tsurugi
 disk:a30c02
-disk:a30b02

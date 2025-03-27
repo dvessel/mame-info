@@ -2,6 +2,8 @@ description:Dr.Who The Timelord (set 1, UK, Single Site) (Scorpion 2/3) (not enc
 manufacturer:BFM
 year:1994
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

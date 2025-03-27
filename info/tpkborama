@@ -2,5 +2,7 @@ description:PK Turbo (Ver 2.3B2, encrypted)
 manufacturer:Boram
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:tpkboram
 cloneof:tpkboram

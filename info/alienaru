@@ -2,6 +2,8 @@ description:Alien Arena (Stargate upgrade)
 manufacturer:Duncan Brown
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:alienar
 cloneof:alienar

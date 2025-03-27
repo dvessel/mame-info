@@ -2,4 +2,6 @@ description:Macintosh Plus
 manufacturer:Apple Computer
 year:1986
 status:good
+emulation:good
+savestate:supported
 device:mackbd_m0110a

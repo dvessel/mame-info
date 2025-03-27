@@ -2,3 +2,5 @@ description:Boss GX-700 Guitar Effects Processor
 manufacturer:Roland
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,4 +2,6 @@ description:Grand Striker (Europe, Oceania)
 manufacturer:Human
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

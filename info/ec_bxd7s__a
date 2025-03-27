@@ -2,6 +2,8 @@ description:Bar X Diamond 7s (2006 COOL7) (Electrocoin) (set 2)
 manufacturer:Electrocoin
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_bxd7s
 cloneof:ec_bxd7s

@@ -2,3 +2,5 @@ description:Virtual Ping Pong (Conny / SDW Games)
 manufacturer:Conny / SDW Games
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported

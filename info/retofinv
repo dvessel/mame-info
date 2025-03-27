@@ -2,5 +2,7 @@ description:Return of the Invaders
 manufacturer:Taito Corporation
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5

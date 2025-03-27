@@ -2,3 +2,5 @@ description:SEL Z80 Trainer
 manufacturer:SEL
 year:1985
 status:good
+emulation:good
+savestate:supported

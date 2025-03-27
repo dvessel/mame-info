@@ -2,5 +2,7 @@ description:Random Winner Club (PR1757, BFGNRWCL) (Bellfruit) (Adder 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5rwclb
 cloneof:ad5rwclb

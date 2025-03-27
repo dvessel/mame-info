@@ -2,4 +2,6 @@ description:Vision printer
 manufacturer:IGT
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ym2413

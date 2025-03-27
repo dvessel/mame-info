@@ -2,6 +2,8 @@ description:Ghost Muncher
 manufacturer:bootleg (Leisure and Allied)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

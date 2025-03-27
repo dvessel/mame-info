@@ -2,6 +2,8 @@ description:Senko no Ronde Special (Export, Japan) (GDL-0038)
 manufacturer:G.Rev
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

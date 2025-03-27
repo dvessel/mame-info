@@ -2,4 +2,6 @@ description:Kanatsuen no Onna (Japan 880905)
 manufacturer:Panac
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:Genesis (USA, NTSC, with TMSS chip)
 manufacturer:Sega
 year:1990
 status:good
+emulation:good
+savestate:supported
 cloneof:genesis

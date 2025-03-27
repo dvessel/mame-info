@@ -2,4 +2,6 @@ description:K2000
 manufacturer:Kurzweil Music Systems
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:lm24014h

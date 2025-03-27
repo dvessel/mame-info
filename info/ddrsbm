@@ -2,6 +2,8 @@ description:Dance Dance Revolution Solo Bass Mix (GQ894 VER. JAA)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 romof:sys573

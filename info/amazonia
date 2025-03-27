@@ -2,3 +2,5 @@ description:Amazonia King (V104BR)
 manufacturer:IGS
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported

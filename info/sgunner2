@@ -2,5 +2,7 @@ description:Steel Gunner 2 (US)
 manufacturer:Namco
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc68

@@ -2,4 +2,6 @@ description:unknown Paradise Automatique / TourVisión bowling themed poker game
 manufacturer:Paradise Automatique / TourVisión
 year:1992?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

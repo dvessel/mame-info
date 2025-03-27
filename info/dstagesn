@@ -2,6 +2,8 @@ description:Dancing Stage SuperNOVA (FDH:E:A:A:2006072500)
 manufacturer:Konami
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kpython2
 disk:fdh_eaa_2006072500

@@ -2,3 +2,5 @@ description:Game Boy Color
 manufacturer:Nintendo
 year:1998
 status:imperfect
+emulation:good
+savestate:supported

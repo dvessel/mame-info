@@ -2,3 +2,5 @@ description:Micom Mahjong
 manufacturer:Nippon Mail Service
 year:1982
 status:good
+emulation:good
+savestate:supported

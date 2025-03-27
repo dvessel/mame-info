@@ -2,6 +2,8 @@ description:Gonbee no I'm Sorry (315-5110, Japan)
 manufacturer:Coreland / Sega
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:imsorry
 cloneof:imsorry

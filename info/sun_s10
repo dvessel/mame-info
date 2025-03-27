@@ -2,5 +2,7 @@ description:SPARCstation 10 (Sun S10)
 manufacturer:Sun Microsystems
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sun4_300
 cloneof:sun4_300

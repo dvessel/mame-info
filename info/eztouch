@@ -2,4 +2,6 @@ description:EZ Touch (v116 China)
 manufacturer:IGS
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:szz_cf

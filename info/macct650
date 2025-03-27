@@ -2,6 +2,8 @@ description:Macintosh Centris 650
 manufacturer:Apple Computer
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 device:adbmodem
 romof:macqd800
 cloneof:macqd800

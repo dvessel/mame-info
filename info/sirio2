@@ -2,6 +2,8 @@ description:Sirio II (Calfesa S.L. Spanish bootleg of Moon Cresta)
 manufacturer:bootleg (Calfesa S.L.)
 year:1980?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mooncrst
 cloneof:mooncrst

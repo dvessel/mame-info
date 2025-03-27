@@ -2,4 +2,6 @@ description:Super High Impact (rev LA1 09/30/91)
 manufacturer:Midway
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

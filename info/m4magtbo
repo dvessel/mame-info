@@ -2,5 +2,7 @@ description:Star Play / Magic Turbo (Barcrest) (MPU4) (XST 0.4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Super Real Mahjong PIV (Japan, older set)
 manufacturer:Seta
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:srmp4
 cloneof:srmp4

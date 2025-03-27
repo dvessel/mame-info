@@ -2,6 +2,8 @@ description:Lucky Haunter (101209 Entertainment N)
 manufacturer:Igrosoft
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lhaunt_6
 cloneof:lhaunt_6

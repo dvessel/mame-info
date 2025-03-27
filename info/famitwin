@@ -2,5 +2,7 @@ description:Twin Famicom
 manufacturer:Sharp
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 device:fc_disksys
 cloneof:famicom

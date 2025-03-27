@@ -2,4 +2,6 @@ description:Player's Edge Plus (XMP00014) 5-in-1 Wingboard (CG2352) - Internatio
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

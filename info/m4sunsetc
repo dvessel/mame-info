@@ -2,6 +2,8 @@ description:Sunset Boulevard (Barcrest) (bootleg) (MPU4) (OSB 0.2)
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4sunset

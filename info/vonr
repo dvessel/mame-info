@@ -2,6 +2,8 @@ description:Cyber Troopers Virtual-On - Relay (Japan)
 manufacturer:Sega
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:von

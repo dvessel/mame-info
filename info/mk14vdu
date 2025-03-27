@@ -2,5 +2,7 @@ description:MK-14 VDU
 manufacturer:Science of Cambridge
 year:1978
 status:good
+emulation:good
+savestate:supported
 romof:mk14
 cloneof:mk14

@@ -2,4 +2,6 @@ description:Diver Boy
 manufacturer:Gamart (Electronic Devices Italy license)
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop

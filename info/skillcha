@@ -2,5 +2,7 @@ description:Skill Chance (W-7, set 2)
 manufacturer:Wing Co., Ltd.
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:skillch
 cloneof:skillch

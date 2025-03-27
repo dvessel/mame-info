@@ -2,6 +2,8 @@ description:Mahjong Gal-pri - World Gal-con Grandprix (Japan)
 manufacturer:Nichibutsu/Just&amp;Just
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8001

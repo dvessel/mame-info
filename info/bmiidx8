@@ -2,6 +2,8 @@ description:beatmania IIDX 8th style (GCC44 JAA)
 manufacturer:Konami
 year:2002
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gq863
 disk:c44jaa01

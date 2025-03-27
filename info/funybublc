@@ -2,6 +2,8 @@ description:Funny Bubble (Comad version)
 manufacturer:Comad
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:funybubl
 cloneof:funybubl

@@ -2,5 +2,7 @@ description:The Battle of Yu Yu Hakusho: Shitou! Ankoku Bujutsukai!
 manufacturer:Banpresto
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys256
 disk:yh1

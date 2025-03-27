@@ -2,6 +2,8 @@ description:Screwin' Around (Global) (MPU4, v0.7)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4screw

@@ -2,6 +2,8 @@ description:Gun Shot
 manufacturer:Spinball
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

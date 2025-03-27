@@ -2,5 +2,7 @@ description:Club Double (Barcrest) (MPU4) (CD 1.6)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

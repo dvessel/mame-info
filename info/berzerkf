@@ -2,6 +2,8 @@ description:Berzerk (French Speech, revision RC31)
 manufacturer:Stern Electronics
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:berzerk
 cloneof:berzerk

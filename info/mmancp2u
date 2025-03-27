@@ -2,6 +2,8 @@ description:Mega Man: The Power Battle (CPS2, USA 951006, SAMPLE Version)
 manufacturer:Capcom
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:megaman

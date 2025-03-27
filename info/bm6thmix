@@ -2,5 +2,7 @@ description:beatmania 6th MIX (ver JA-A)
 manufacturer:Konami
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:a21jaa11

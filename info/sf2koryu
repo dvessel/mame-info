@@ -2,6 +2,8 @@ description:Street Fighter II': Champion Edition (Xiang Long, Chinese bootleg)
 manufacturer:bootleg
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sf2ce
 cloneof:sf2ce

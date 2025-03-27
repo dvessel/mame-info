@@ -2,6 +2,8 @@ description:Ribbit! (Japan)
 manufacturer:Sega
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ribbit
 cloneof:ribbit

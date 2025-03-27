@@ -2,7 +2,8 @@ description:Dragon's Lair (European)
 manufacturer:Cinematronics (Atari license)
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:dlair
 cloneof:dlair
-disk:dlair

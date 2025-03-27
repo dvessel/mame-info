@@ -2,6 +2,8 @@ description:Magical Zunou Power (J 961031 V1.000)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

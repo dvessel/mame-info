@@ -2,5 +2,7 @@ description:InterPro/InterServe 20x0
 manufacturer:Intergraph
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:kbd_lle_en_us
 device:mpcb963

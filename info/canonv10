@@ -2,5 +2,7 @@ description:V-10 (MSX1, Japan)
 manufacturer:Canon
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 romof:canonv20
 cloneof:canonv20

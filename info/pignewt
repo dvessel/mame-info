@@ -2,4 +2,6 @@ description:Pig Newton (version C)
 manufacturer:Sega
 year:1983
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

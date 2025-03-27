@@ -2,5 +2,7 @@ description:Top Strike (Maygay - Bwb) (M1A/B)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413

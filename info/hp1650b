@@ -2,3 +2,5 @@ description:HP 1650b
 manufacturer:Hewlett Packard
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported

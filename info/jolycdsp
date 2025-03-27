@@ -2,6 +2,8 @@ description:Jolly Card (Spanish, blue TAB board, encrypted)
 manufacturer:TAB Austria
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:jollycrd
 cloneof:jollycrd

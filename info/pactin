@@ -2,3 +2,5 @@ description:Pac-Man Arcade in a Tin
 manufacturer:Fizz Creations
 year:2021
 status:preliminary
+emulation:preliminary
+savestate:unsupported

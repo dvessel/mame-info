@@ -2,5 +2,7 @@ description:GunNail (28th May. 1992)
 manufacturer:NMK / Tecmo
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:nmk004

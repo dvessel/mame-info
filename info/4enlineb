@@ -2,5 +2,7 @@ description:Cuatro en Linea (rev. A-06)
 manufacturer:Compumatic / CIC Play
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:4enlinea
 cloneof:4enlinea

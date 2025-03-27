@@ -2,4 +2,6 @@ description:Outback Jack (20195211, NSW/ACT)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

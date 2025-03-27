@@ -2,8 +2,9 @@ description:Street Fighter III 2nd Impact: Giant Attack (USA 970930, bootleg for
 manufacturer:bootleg
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:cps3boot
 cloneof:cps3boot
 disk:sfiii_2nd_impact_converted_for_standard_sh2_v3
-disk:unicd-cps3_for_standard_sh2_v4

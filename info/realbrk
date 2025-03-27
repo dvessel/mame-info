@@ -2,5 +2,7 @@ description:Billiard Academy Real Break (Europe)
 manufacturer:Nakanihon
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

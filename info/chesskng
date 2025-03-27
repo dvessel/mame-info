@@ -2,3 +2,5 @@ description:Chess King (model ET-6)
 manufacturer:I-Star Co., Ltd.
 year:1994
 status:good
+emulation:good
+savestate:supported

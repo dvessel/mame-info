@@ -2,6 +2,8 @@ description:Miss Puzzle (Clone of Gumbo)
 manufacturer:Min Corp.
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gumbo
 cloneof:gumbo

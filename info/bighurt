@@ -2,6 +2,8 @@ description:Frank Thomas' Big Hurt (rev.3)
 manufacturer:Gottlieb
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

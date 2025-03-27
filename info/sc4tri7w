@@ -2,6 +2,8 @@ description:Triple 7's (Bellfruit) (Scorpion 4) (Top Box, set 6)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4tri7
 cloneof:sc4tri7

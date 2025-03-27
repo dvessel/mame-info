@@ -2,6 +2,8 @@ description:DrumMania (GQ881 VER. JAD)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:pcnfrk
 romof:sys573

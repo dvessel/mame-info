@@ -2,6 +2,8 @@ description:Kuri Kinton (World, prototype?)
 manufacturer:Taito Corporation Japan
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:kurikint
 cloneof:kurikint

@@ -2,4 +2,6 @@ description:The Ninja Warriors (World, later version)
 manufacturer:Taito Corporation Japan
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

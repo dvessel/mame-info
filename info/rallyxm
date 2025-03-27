@@ -2,6 +2,8 @@ description:Rally X (Midway)
 manufacturer:Namco (Midway license)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:rallyx
 cloneof:rallyx

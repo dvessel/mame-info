@@ -2,4 +2,6 @@ description:Viva Cash Vegas (Astra, V005)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

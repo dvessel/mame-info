@@ -2,6 +2,8 @@ description:Densha de GO! (Ver 2.2 J)
 manufacturer:Taito
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:dendego
 cloneof:dendego

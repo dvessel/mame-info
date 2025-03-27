@@ -2,3 +2,5 @@ description:Millennium M505 Arcade Neo Portable Spielkonsole (Family Sport 100-i
 manufacturer:Millennium 2000 GmbH / Senca
 year:2012
 status:imperfect
+emulation:good
+savestate:unsupported

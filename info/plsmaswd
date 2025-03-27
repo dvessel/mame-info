@@ -2,6 +2,8 @@ description:Plasma Sword: Nightmare of Bilstein (USA 980316)
 manufacturer:Capcom
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:coh3002c

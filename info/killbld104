@@ -2,6 +2,8 @@ description:The Killing Blade / Ao Jian Kuang Dao (ver. 104)
 manufacturer:IGS
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:killbld
 romof:pgm

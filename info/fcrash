@@ -2,6 +2,8 @@ description:Final Crash (bootleg of Final Fight)
 manufacturer:bootleg (Playmark)
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ffight
 cloneof:ffight

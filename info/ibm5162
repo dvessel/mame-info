@@ -2,6 +2,8 @@ description:PC/XT-286 5162
 manufacturer:International Business Machines
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:cga
 device:kb_pcat84

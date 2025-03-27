@@ -2,6 +2,8 @@ description:Triple Fever (V105US)
 manufacturer:IGS
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:tripfev
 cloneof:tripfev

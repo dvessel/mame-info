@@ -2,5 +2,7 @@ description:Macintosh PowerBook 165c
 manufacturer:Apple Computer
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 romof:macpb180c
 cloneof:macpb180c

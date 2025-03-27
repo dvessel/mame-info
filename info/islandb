@@ -2,6 +2,8 @@ description:Island (bootleg, 050713, VIDEO GAME-1 OS01)
 manufacturer:bootleg
 year:2005
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:island
 cloneof:island

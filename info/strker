@@ -1,4 +1,6 @@
 description:Striker
 year:1992?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

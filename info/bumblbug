@@ -2,5 +2,7 @@ description:Bumble Bugs (0200510V, NSW/ACT)
 manufacturer:Aristocrat
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

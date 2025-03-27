@@ -2,5 +2,7 @@ description:MX-10 (MSX1, Japan)
 manufacturer:Casio
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:mx15
 cloneof:mx15

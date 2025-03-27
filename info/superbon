@@ -2,4 +2,6 @@ description:Agent Super Bond (Super Cobra conversion, encrypted)
 manufacturer:Signatron USA
 year:1985
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

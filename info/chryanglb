@@ -2,6 +2,8 @@ description:Cherry Angel (set 2)
 manufacturer:bootleg
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:ncb3
 cloneof:ncb3

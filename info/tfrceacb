@@ -2,6 +2,8 @@ description:Thunder Force AC (bootleg)
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tfrceac
 cloneof:tfrceac

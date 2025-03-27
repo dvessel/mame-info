@@ -2,6 +2,8 @@ description:Super Shanghai Dragon's Eye (Japan)
 manufacturer:Hot-B Co., Ltd.
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sshangha
 cloneof:sshangha

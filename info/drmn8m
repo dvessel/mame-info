@@ -2,6 +2,8 @@ description:DrumMania 8th Mix (G*C38 VER. JAA)
 manufacturer:Konami
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573msu
@@ -10,4 +12,3 @@ romof:sys573
 cloneof:pcnfrk8m
 disk:c38jaa02
 disk:c38jba02
-disk:c38aaa02

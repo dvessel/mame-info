@@ -2,6 +2,8 @@ description:Spider-Man v1.92
 manufacturer:Stern
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sman_240
 cloneof:sman_240

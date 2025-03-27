@@ -2,6 +2,8 @@ description:Disco Boy (Promat license)
 manufacturer:Soft Art Co. / Promat
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:discoboy
 cloneof:discoboy

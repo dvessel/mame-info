@@ -2,6 +2,8 @@ description:Steel Talons (prototype)
 manufacturer:Atari Games
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:steeltal
 cloneof:steeltal

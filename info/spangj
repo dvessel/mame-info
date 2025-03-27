@@ -2,6 +2,8 @@ description:Super Pang (Japan 901023)
 manufacturer:Mitchell
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:spang

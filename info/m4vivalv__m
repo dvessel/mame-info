@@ -2,6 +2,8 @@ description:Viva Las Vegas (BWB) (MPU4) (VL_ 2.0, set 5)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

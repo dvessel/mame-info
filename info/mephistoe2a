@@ -2,5 +2,7 @@ description:Mephisto ESB II (ESB II board)
 manufacturer:Hegener + Glaser
 year:1981
 status:good
+emulation:good
+savestate:supported
 romof:mephistoe2
 cloneof:mephistoe2

@@ -2,6 +2,8 @@ description:Shippu Mahou Daisakusen (Japan)
 manufacturer:Raizing / Eighting
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kingdmgp
 cloneof:kingdmgp

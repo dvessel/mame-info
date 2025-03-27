@@ -2,5 +2,7 @@ description:Mike Tyson's Punch-Out!! (PlayChoice-10)
 manufacturer:Nintendo
 year:1987
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

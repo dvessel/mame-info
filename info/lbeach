@@ -2,4 +2,6 @@ description:Long Beach
 manufacturer:Seletron / Olympia
 year:1979
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

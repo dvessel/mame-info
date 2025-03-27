@@ -2,5 +2,7 @@ description:Extreme Hunting
 manufacturer:Sammy
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:awbios

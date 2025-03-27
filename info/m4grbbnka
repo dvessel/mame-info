@@ -2,6 +2,8 @@ description:Grab The Bank (Barcrest) (MPU4) (G4B 2.1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4grbbnk

@@ -2,6 +2,8 @@ description:Soccer Superstars (ver JAC)
 manufacturer:Konami
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:soccerss
 romof:konamigx

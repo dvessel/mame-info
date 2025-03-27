@@ -2,5 +2,7 @@ description:Boulder Dash (DECO Cassette) (US)
 manufacturer:Data East Corporation
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:decocass

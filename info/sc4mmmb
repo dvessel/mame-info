@@ -2,6 +2,8 @@ description:Mental Money Monsters (Mazooma) (Scorpion 4) (set 3)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4mmm
 cloneof:sc4mmm

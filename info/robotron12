@@ -2,6 +2,8 @@ description:Robotron: 2084 (2012 'wave 201 start' hack)
 manufacturer:hack
 year:2012
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:robotron
 cloneof:robotron

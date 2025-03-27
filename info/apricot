@@ -2,3 +2,5 @@ description:Apricot PC
 manufacturer:ACT
 year:1983
 status:good
+emulation:good
+savestate:unsupported

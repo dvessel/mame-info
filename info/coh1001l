@@ -2,5 +2,7 @@ description:Atlus ZN-1
 manufacturer:Atlus
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:bios
 kind:coinop

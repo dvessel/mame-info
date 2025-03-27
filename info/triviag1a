@@ -2,6 +2,8 @@ description:Trivial Pursuit (Think Tank - Genus Edition) (12/14/84)
 manufacturer:Bally/Sente
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb
 romof:triviag1

@@ -2,3 +2,5 @@ description:The Classic (model 6079)
 manufacturer:Fidelity International
 year:1986
 status:good
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:Continental Circus (US set 2)
 manufacturer:Taito America Corporation
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:contcirc
 cloneof:contcirc

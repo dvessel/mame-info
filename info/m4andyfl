@@ -2,5 +2,7 @@ description:Andy Loves Flo (BWB / Barcrest) (MPU4) (AL4 2.1 KS)
 manufacturer:BWB
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

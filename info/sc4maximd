@@ -2,6 +2,8 @@ description:Maximus Cash (Mazooma) (Scorpion 4) (set 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4maxim
 cloneof:sc4maxim

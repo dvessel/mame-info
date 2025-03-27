@@ -2,6 +2,8 @@ description:Cyclone Club (Maygay) (EPOCH) (3.1, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cycl
 cloneof:ep_cycl

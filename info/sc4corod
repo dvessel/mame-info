@@ -2,6 +2,8 @@ description:Coronation Street Triple (PR2249) (Mazooma) (Scorpion 4) (set 1)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4coroc
 cloneof:sc4coroc

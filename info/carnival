@@ -2,5 +2,7 @@ description:Carnival (upright, AY8912 music)
 manufacturer:Sega
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:carnival

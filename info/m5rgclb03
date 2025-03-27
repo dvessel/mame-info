@@ -2,6 +2,8 @@ description:Rio Grande Club (Barcrest) (MPU5) (set 6)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5rgclb
 cloneof:m5rgclb

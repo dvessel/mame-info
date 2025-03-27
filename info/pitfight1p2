@@ -2,6 +2,8 @@ description:Pit Fighter (rev 1, 2 players)
 manufacturer:Atari Games
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pitfight
 cloneof:pitfight

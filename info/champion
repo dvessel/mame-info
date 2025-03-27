@@ -2,5 +2,7 @@ description:Champion 85
 manufacturer:Barni
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 sampleof:genpin

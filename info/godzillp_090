@@ -2,6 +2,8 @@ description:Godzilla (pinball, CPU 0.90, display A0.991)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

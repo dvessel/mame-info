@@ -2,5 +2,7 @@ description:The New Crystal Maze Featuring Ocean Zone (v2.2) (MPU4 Video)
 manufacturer:Barcrest
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:v4bios

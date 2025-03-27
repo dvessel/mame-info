@@ -2,4 +2,6 @@ description:SGCPU (aka TI-99/4P)
 manufacturer:System-99 User Group
 year:1996
 status:good
+emulation:good
+savestate:supported
 device:ti99_evpc

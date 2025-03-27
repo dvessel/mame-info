@@ -2,6 +2,8 @@ description:Megatouch III (9255-20-06 R0N, California version)
 manufacturer:Merit
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:megat3

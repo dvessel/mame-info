@@ -2,3 +2,5 @@ description:iSBC 80/30
 manufacturer:Intel
 year:1978
 status:good
+emulation:good
+savestate:unsupported

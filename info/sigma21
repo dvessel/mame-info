@@ -2,3 +2,5 @@ description:21 (Sigma)
 manufacturer:Sigma Enterprises
 year:197?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

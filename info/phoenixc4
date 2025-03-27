@@ -2,6 +2,8 @@ description:Phoenix (G.G.I. Corporation, set 3)
 manufacturer:bootleg (G.G.I. Corporation)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:phoenix
 cloneof:phoenix

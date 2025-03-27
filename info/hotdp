@@ -2,6 +2,8 @@ description:The House of the Dead (prototype)
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:hotd
 cloneof:hotd

@@ -2,5 +2,7 @@ description:Game &amp; Watch: Judge (green version)
 manufacturer:Nintendo
 year:1980
 status:good
+emulation:good
+savestate:supported
 romof:gnw_judge
 cloneof:gnw_judge

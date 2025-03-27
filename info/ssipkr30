@@ -2,6 +2,8 @@ description:SSI Poker (v3.0)
 manufacturer:SSI
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ssipkr24
 cloneof:ssipkr24

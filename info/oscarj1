@@ -2,6 +2,8 @@ description:Psycho-Nics Oscar (Japan revision 1)
 manufacturer:Data East Corporation
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:oscar
 cloneof:oscar

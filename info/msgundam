@@ -2,4 +2,6 @@ description:Mobile Suit Gundam
 manufacturer:Banpresto / Allumer
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

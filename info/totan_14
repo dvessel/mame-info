@@ -2,5 +2,7 @@ description:Tales Of The Arabian Nights (1.4)
 manufacturer:Williams
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

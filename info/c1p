@@ -2,5 +2,7 @@ description:Challenger 1P Series 2
 manufacturer:Ohio Scientific
 year:1980
 status:good
+emulation:good
+savestate:supported
 romof:sb2m600b
 cloneof:sb2m600b

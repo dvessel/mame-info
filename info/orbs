@@ -2,4 +2,6 @@ description:Orbs (10/7/94 prototype?)
 manufacturer:American Sammy
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,4 +2,6 @@ description:Rock Climber
 manufacturer:Taito
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

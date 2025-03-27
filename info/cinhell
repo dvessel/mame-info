@@ -2,4 +2,6 @@ description:Chance in Hell - Lil' Lucy (0251125, US)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,4 +2,6 @@ description:Mahjong Satsujin Jiken (Japan 881017)
 manufacturer:Nichibutsu
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

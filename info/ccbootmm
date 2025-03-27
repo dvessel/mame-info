@@ -2,6 +2,8 @@ description:Crazy Climber (ManilaMatic bootleg)
 manufacturer:bootleg (ManilaMatic)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:cclimber
 cloneof:cclimber

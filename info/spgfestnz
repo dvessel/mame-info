@@ -2,6 +2,8 @@ description:Spring Festival (20267211, New Zealand)
 manufacturer:Aristocrat
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:spgfest
 romof:aristmk6
 cloneof:spgfest

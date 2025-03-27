@@ -2,6 +2,8 @@ description:G.E.A.
 manufacturer:Subsino
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:victor5

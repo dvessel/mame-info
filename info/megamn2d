@@ -2,6 +2,8 @@ description:Mega Man 2: The Power Fighters (USA 960708 Phoenix Edition) (bootleg
 manufacturer:bootleg
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:megaman2

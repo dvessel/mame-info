@@ -2,5 +2,7 @@ description:Designer Mach IV 68020 Master 2325
 manufacturer:Fidelity Electronics International
 year:1991
 status:good
+emulation:good
+savestate:supported
 romof:fdes2265
 cloneof:fdes2265

@@ -2,4 +2,6 @@ description:Panther (bootleg?)
 manufacturer:Irem
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

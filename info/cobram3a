@@ -2,6 +2,8 @@ description:Cobra Command (M.A.C.H. 3 hardware, set 2)
 manufacturer:Data East
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:pr8210
 romof:cobra

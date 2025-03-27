@@ -2,3 +2,5 @@ description:Series 5E Computer Workstation
 manufacturer:Solbourne Computer Inc
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

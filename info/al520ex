@@ -2,5 +2,7 @@ description:Aleste 520EX
 manufacturer:Patisonic
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:cpc464
 cloneof:cpc464

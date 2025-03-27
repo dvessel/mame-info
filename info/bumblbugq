@@ -2,6 +2,8 @@ description:Bumble Bugs (0200456V, Queensland)
 manufacturer:Aristocrat
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:bumblbug
 romof:aristmk5

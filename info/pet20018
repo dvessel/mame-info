@@ -2,6 +2,8 @@ description:PET 2001-8
 manufacturer:Commodore Business Machines
 year:1977
 status:good
+emulation:good
+savestate:supported
 device:c4040
 device:c2040_fdc
 romof:pet2001

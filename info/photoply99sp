@@ -2,6 +2,8 @@ description:Photo Play 1999 (Spain)
 manufacturer:Funworld
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:clgd5446_pci

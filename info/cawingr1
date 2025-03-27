@@ -2,6 +2,8 @@ description:Carrier Air Wing (World 901009)
 manufacturer:Capcom
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:cawing
 cloneof:cawing

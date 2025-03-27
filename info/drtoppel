@@ -2,4 +2,6 @@ description:Dr. Toppel's Adventure (World)
 manufacturer:Kaneko / Taito Corporation Japan
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

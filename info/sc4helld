@@ -2,4 +2,6 @@ description:Hells Bells (PR1201) (Dutch) (Bellfruit) (Scorpion 4)
 manufacturer:BFM / Eurocoin
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

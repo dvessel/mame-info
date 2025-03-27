@@ -2,5 +2,7 @@ description:Mikrocomputer fuer Ausbildung MAT85
 manufacturer:Berufsfoerdungszentrum Essen
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:mfabfz
 cloneof:mfabfz

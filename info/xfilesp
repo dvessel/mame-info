@@ -2,6 +2,8 @@ description:X-Files (CPU 3.03, display A3.00)
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,6 +2,8 @@ description:Tumble Pop (Playmark bootleg)
 manufacturer:bootleg (Playmark)
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:tumblep
 cloneof:tumblep

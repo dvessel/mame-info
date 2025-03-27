@@ -2,5 +2,7 @@ description:Red Baron (Pinball)
 manufacturer:Barni
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 sampleof:genpin

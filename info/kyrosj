@@ -2,6 +2,8 @@ description:Kyros no Yakata (Japan)
 manufacturer:Alpha Denshi Co.
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kyros
 cloneof:kyros

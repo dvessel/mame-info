@@ -2,6 +2,8 @@ description:Blackwater 100 (Single Ball Play)
 manufacturer:Bally
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:black100

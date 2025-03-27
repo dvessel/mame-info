@@ -2,4 +2,6 @@ description:Tugboat
 manufacturer:Enter-Tech, Ltd.
 year:1982
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

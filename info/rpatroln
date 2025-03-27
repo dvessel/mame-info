@@ -2,6 +2,8 @@ description:River Patrol (Japan, unprotected)
 manufacturer:Orca
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rpatrol
 cloneof:rpatrol

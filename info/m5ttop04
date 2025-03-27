@@ -2,6 +2,8 @@ description:Treble Top (Empire) (MPU5) (set 2)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5ttop
 cloneof:m5ttop

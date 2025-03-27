@@ -2,4 +2,6 @@ description:R-Type Leo (World)
 manufacturer:Irem
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop

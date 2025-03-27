@@ -2,6 +2,8 @@ description:Dark Horse Legend (GX706 VER. JAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sys573
 disk:706jaa02

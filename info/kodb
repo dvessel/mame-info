@@ -2,6 +2,8 @@ description:The King of Dragons (bootleg)
 manufacturer:bootleg (Playmark)
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:kod
 cloneof:kod

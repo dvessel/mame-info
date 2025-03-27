@@ -2,5 +2,7 @@ description:FM-Towns Marty 2
 manufacturer:Fujitsu
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:fmtmarty
 cloneof:fmtmarty

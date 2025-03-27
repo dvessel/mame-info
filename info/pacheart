@@ -2,6 +2,8 @@ description:Pac-Man (Hearts)
 manufacturer:hack
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

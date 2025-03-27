@@ -2,6 +2,8 @@ description:Club Sandwich (Bwb) (MPU5) (set 4)
 manufacturer:Bwb
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5clubsn
 cloneof:m5clubsn

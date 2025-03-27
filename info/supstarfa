@@ -2,6 +2,8 @@ description:Super Star (Recreativos Franco, set 2)
 manufacturer:Recreativos Franco
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 romof:supstarf
 cloneof:supstarf

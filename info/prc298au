@@ -2,6 +2,8 @@ description:Print Club 2 '98 Autumn Ver (J 980827 V1.000)
 manufacturer:Atlus
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

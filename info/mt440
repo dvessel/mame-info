@@ -2,3 +2,5 @@ description:Micro-Term 440
 manufacturer:Micro-Term
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported

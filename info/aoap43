@@ -2,6 +2,8 @@ description:AP43 (SiS 85C496/85C497)
 manufacturer:AOpen
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:wd90c31_lr

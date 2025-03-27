@@ -2,5 +2,7 @@ description:Daytona USA 2: Power Edition (Japan)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill

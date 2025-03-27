@@ -2,5 +2,7 @@ description:Super Mario Fushigi no Korokoro Party 2
 manufacturer:Nintendo / Capcom
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 disk:massmario2

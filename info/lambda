@@ -2,5 +2,7 @@ description:Lambda 8300
 manufacturer:Lambda Electronics Ltd
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:zx81
 cloneof:zx81

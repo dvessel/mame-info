@@ -2,4 +2,6 @@ description:Draw Poker - Joker's Wild (Standard)
 manufacturer:Meyco Games, Inc.
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

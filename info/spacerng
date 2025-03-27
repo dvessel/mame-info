@@ -2,6 +2,8 @@ description:Space Ranger
 manufacturer:bootleg (Leisure Time Electronics)
 year:1978
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

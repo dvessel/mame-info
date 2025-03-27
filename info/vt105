@@ -2,5 +2,7 @@ description:VT105
 manufacturer:Digital Equipment Corporation
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:vt100
 cloneof:vt100

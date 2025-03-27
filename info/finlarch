@@ -2,6 +2,8 @@ description:Final Arch (J 950714 V1.001)
 manufacturer:Sega
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:smleague

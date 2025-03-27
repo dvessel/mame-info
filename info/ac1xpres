@@ -2,5 +2,7 @@ description:Xpress (Pcp) (ACESYS1)
 manufacturer:Pcp
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Skill Flight
 manufacturer:Nuova Bell Games
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

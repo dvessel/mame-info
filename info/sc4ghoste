@@ -2,6 +2,8 @@ description:Golden Ghost (Mazooma) (Scorpion 4) (set 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4ghost
 cloneof:sc4ghost

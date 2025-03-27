@@ -2,9 +2,10 @@ description:Gekitou Pro Yakyuu Mizushima Shinji All Stars vs. Pro Yakyuu (Rev B)
 manufacturer:Sega / Wow Entertainment
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:gekpurya
 romof:triforce
 cloneof:gekpurya
 disk:gdt-0008b
-disk:gdt-0008c

@@ -2,4 +2,6 @@ description:Puzz Ball (Japan, PZB1 Ver.C)
 manufacturer:Namco
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

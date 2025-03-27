@@ -2,6 +2,8 @@ description:Midnight Landing (Japan, rev 3)
 manufacturer:Taito Corporation
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mlanding
 cloneof:mlanding

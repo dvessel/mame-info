@@ -2,5 +2,7 @@ description:War Mission (WM 04/06/87)
 manufacturer:EFO SA / Cedar
 year:1987
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cedmag

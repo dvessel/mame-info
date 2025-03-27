@@ -2,4 +2,6 @@ description:Shuuz (version 8.0)
 manufacturer:Atari Games
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Guardian Storm (Germany)
 manufacturer:Afega
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:grdnstrm
 cloneof:grdnstrm

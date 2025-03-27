@@ -2,4 +2,6 @@ description:Knights of the Round (World 911127)
 manufacturer:Capcom
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

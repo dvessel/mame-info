@@ -2,3 +2,5 @@ description:TI-83 Plus (Boot Code 1.00)
 manufacturer:Texas Instruments
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported

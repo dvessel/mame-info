@@ -2,6 +2,8 @@ description:Whirlwind (LG-1)
 manufacturer:Williams
 year:1990
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:whirl_l3

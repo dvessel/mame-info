@@ -2,6 +2,8 @@ description:Wonder Boy III - Monster Lair (set 1, Japan, System 16A) (bootleg of
 manufacturer:bootleg
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wb3
 cloneof:wb3

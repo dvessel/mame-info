@@ -2,3 +2,5 @@ description:Sensory Chess Challenger "12 B" (model 6086)
 manufacturer:Fidelity International
 year:1986
 status:good
+emulation:good
+savestate:supported

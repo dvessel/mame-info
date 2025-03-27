@@ -2,6 +2,8 @@ description:Swimmer (set 3)
 manufacturer:Tehkan
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:swimmer
 cloneof:swimmer

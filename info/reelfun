@@ -2,4 +2,6 @@ description:Reel Fun (Version 7.03)
 manufacturer:Grayhound Electronics
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

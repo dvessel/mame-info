@@ -2,6 +2,8 @@ description:Percussion Freaks 5th Mix (G*B05 VER. KAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573msu
@@ -9,4 +11,3 @@ romof:pcnfrk5m
 romof:sys573
 cloneof:pcnfrk5m
 disk:b05kaa02
-disk:b05aaa02

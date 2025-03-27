@@ -2,3 +2,5 @@ description:TC7: Air Traffic Control
 manufacturer:Bandai
 year:1981
 status:good
+emulation:good
+savestate:supported

@@ -2,5 +2,7 @@ description:Coney Island (Qps) (MPU4)
 manufacturer:Qps
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

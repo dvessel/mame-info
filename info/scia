@@ -2,6 +2,8 @@ description:Special Criminal Investigation (World set 2)
 manufacturer:Taito Corporation Japan
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:sci
 cloneof:sci

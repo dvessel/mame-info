@@ -2,6 +2,8 @@ description:Monopoly (CPU 3.20, display A3.01, ARM7 sound board)
 manufacturer:Stern
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:monopolp

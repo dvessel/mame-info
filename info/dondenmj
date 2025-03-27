@@ -2,4 +2,6 @@ description:Don Den Mahjong (Japan)
 manufacturer:Dyna Electronics
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

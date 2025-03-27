@@ -2,6 +2,8 @@ description:Red Baron - Jackpot Carnival (10160911, Queensland)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:redbara6
 romof:aristmk6
 cloneof:redbara6

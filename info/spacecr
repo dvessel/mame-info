@@ -2,4 +2,6 @@ description:Space Cruiser
 manufacturer:Taito Corporation
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

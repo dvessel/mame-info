@@ -2,6 +2,8 @@ description:9-Ball Shootout (set 3)
 manufacturer:E-Scape EnterMedia (Bundra license)
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:9ballsht
 cloneof:9ballsht

@@ -2,3 +2,5 @@ description:Happy Happy Hippy (Atronic)
 manufacturer:Atronic
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported

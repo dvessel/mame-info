@@ -2,4 +2,6 @@ description:Quiz H.Q. (Japan)
 manufacturer:Taito Corporation
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

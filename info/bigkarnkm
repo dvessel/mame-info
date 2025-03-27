@@ -2,6 +2,8 @@ description:Big Karnak (Modular System)
 manufacturer:Gaelco
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:bigkarnk
 cloneof:bigkarnk

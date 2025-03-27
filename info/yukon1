@@ -2,6 +2,8 @@ description:Yukon (version 1.0)
 manufacturer:Exidy
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:yukon
 cloneof:yukon

@@ -2,5 +2,7 @@ description:FS-A1 / 1st released version (MSX2, Japan)
 manufacturer:Panasonic
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 romof:fsa1a
 cloneof:fsa1a

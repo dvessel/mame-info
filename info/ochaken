@@ -2,5 +2,7 @@ description:Ocha-Ken Hot Medal
 manufacturer:Sega
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:segasp

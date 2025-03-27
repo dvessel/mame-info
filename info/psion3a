@@ -2,3 +2,5 @@ description:Series 3a
 manufacturer:Psion
 year:1993
 status:good
+emulation:good
+savestate:supported

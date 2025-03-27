@@ -2,5 +2,7 @@ description:S-550 Digital Sampler
 manufacturer:Roland
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:s50
 cloneof:s50

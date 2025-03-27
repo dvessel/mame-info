@@ -2,5 +2,7 @@ description:Street Games II (Revision 7C)
 manufacturer:New Image Technologies
 year:1993
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch

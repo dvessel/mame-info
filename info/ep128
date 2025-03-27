@@ -2,5 +2,7 @@ description:Enterprise One Two Eight
 manufacturer:Intelligent Software / Enterprise Computers
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:ep64
 cloneof:ep64

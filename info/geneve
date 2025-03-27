@@ -2,3 +2,5 @@ description:Geneve 9640
 manufacturer:Myarc
 year:1987
 status:good
+emulation:good
+savestate:supported

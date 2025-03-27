@@ -2,5 +2,7 @@ description:Air Combat 22 (Japan, ACS1 Ver.B)
 manufacturer:Namco
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc71

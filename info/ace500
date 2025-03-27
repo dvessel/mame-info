@@ -2,5 +2,7 @@ description:Franklin ACE 500
 manufacturer:Franklin Computer
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:apple2c
 cloneof:apple2c

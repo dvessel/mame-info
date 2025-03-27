@@ -2,5 +2,7 @@ description:Hyper Street Fighter II: The Anniversary Edition (USA 040202)
 manufacturer:Capcom
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

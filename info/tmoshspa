@@ -2,9 +2,10 @@ description:Tokimeki Memorial Oshiete Your Heart Seal Version Plus (GE756 JAA)
 manufacturer:Konami
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:tmoshsp
 romof:konamigv
 cloneof:tmoshsp
 disk:756jaa01
-disk:756jab01

@@ -2,4 +2,6 @@ description:Tokyo Cop (US, dedicated version)
 manufacturer:Gaelco
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:tokyocop

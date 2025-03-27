@@ -2,6 +2,8 @@ description:Vamp x1/2 (Korea, version 1.1.0908)
 manufacturer:Danbi / F2 System
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:vamphalf
 cloneof:vamphalf

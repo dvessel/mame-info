@@ -2,6 +2,8 @@ description:DoDonPachi Dai-Fukkatsu Ver 1.0 (2008/05/16 MASTER VER)
 manufacturer:Cave (AMI license)
 year:2008
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ddpdfk
 cloneof:ddpdfk

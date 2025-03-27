@@ -2,5 +2,7 @@ description:Jolly Card (Croatian, set 2)
 manufacturer:Soft Design
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 romof:jollycrd
 cloneof:jollycrd

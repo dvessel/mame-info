@@ -2,3 +2,5 @@ description:QVT-103
 manufacturer:Qume
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

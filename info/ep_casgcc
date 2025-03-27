@@ -2,6 +2,8 @@ description:Casino Grand Club (Maygay) (EPOCH) (1.4, set 4)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_casgc
 cloneof:ep_casgc

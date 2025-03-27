@@ -2,6 +2,8 @@ description:Starstruck (Pcp) (ACESYS1) (set 3)
 manufacturer:Pcp
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:ac1sstrk

@@ -2,5 +2,7 @@ description:X1 Twin (CZ-830C)
 manufacturer:Sharp
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:x1
 cloneof:x1

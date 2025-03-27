@@ -2,5 +2,7 @@ description:Final Lap (Rev E)
 manufacturer:Namco
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65

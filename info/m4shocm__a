@@ -2,6 +2,8 @@ description:Showcase Crystal Maze (Barcrest) (MPU4) (SCM 0.1 AD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4shocm

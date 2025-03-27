@@ -2,3 +2,5 @@ description:Head to Head: Electronic Basketball (TMS1000 version)
 manufacturer:Coleco
 year:1979
 status:good
+emulation:good
+savestate:supported

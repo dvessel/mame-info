@@ -2,4 +2,6 @@ description:Rebus
 manufacturer:Microhard
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

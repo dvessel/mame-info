@@ -2,6 +2,8 @@ description:Jolly Gems (Barcrest) (MPU4) (GMS 0.5 DY)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4jolgem

@@ -2,5 +2,7 @@ description:Mahjong Gakuensai (Japan, set 1)
 manufacturer:MakeSoft
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

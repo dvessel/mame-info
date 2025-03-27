@@ -2,4 +2,6 @@ description:Scorpion 4 Test Rig (Bellfruit) (Scorpion ?)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

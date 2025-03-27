@@ -2,5 +2,7 @@ description:Future Spy (315-5061)
 manufacturer:Sega
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:zaxxon

@@ -2,6 +2,8 @@ description:Pirates of the Caribbean v1.15 (English,Spanish)
 manufacturer:Stern
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:potc_600
 cloneof:potc_600

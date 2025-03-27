@@ -2,4 +2,6 @@ description:Panda Pays - Mr. Cashman (0151109, US)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,6 +2,8 @@ description:The Crystal Maze (BWB / Barcrest) (MPU4) (CR5 2.0, hack?, set 2)
 manufacturer:Bwb / hack?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4crmaze

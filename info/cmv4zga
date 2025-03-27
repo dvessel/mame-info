@@ -2,6 +2,8 @@ description:Cherry Bonus III (Ziogas V4.1 hack, set 2)
 manufacturer:hack
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:cmv4
 cloneof:cmv4

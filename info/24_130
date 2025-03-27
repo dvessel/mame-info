@@ -2,6 +2,8 @@ description:24 v1.30
 manufacturer:Stern
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:24_150
 cloneof:24_150

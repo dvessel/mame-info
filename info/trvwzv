@@ -2,6 +2,8 @@ description:Trivia ? Whiz (6221-02, Vertical)
 manufacturer:Merit
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:trvwz
 cloneof:trvwz

@@ -2,6 +2,8 @@ description:Hunchback (set 2)
 manufacturer:Century Electronics
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:hunchbak
 cloneof:hunchbak

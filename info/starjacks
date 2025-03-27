@@ -2,6 +2,8 @@ description:Star Jacker (Stern Electronics)
 manufacturer:Sega (Stern Electronics license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:starjack
 cloneof:starjack

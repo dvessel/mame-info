@@ -2,5 +2,7 @@ description:Grudge Match (v00.90, prototype)
 manufacturer:Bally Midway
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb

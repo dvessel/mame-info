@@ -2,5 +2,7 @@ description:Mahjong The Mysterious Orient Returns (Japan, v1.00)
 manufacturer:Dynax
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

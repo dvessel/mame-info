@@ -2,6 +2,8 @@ description:Zero (bootleg of Defender, set 2)
 manufacturer:bootleg (Amtec)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:defender
 cloneof:defender

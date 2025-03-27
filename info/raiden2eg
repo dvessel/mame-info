@@ -2,6 +2,8 @@ description:Raiden II (easier, Germany)
 manufacturer:Seibu Kaihatsu (Tuning license)
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:raiden2
 cloneof:raiden2

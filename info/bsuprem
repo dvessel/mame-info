@@ -2,4 +2,6 @@ description:Baby Suprem
 manufacturer:Andra / Vifico
 year:198?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

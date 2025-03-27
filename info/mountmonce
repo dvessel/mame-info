@@ -2,6 +2,8 @@ description:Mountain Money - Cash Express (AHG1629, US)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:mountmon
 romof:aristmk5

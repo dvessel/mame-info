@@ -2,6 +2,8 @@ description:Player's Edge Plus (PS0271) Spin Til You Win Slots
 manufacturer:IGT - International Game Technology
 year:1996
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:peps0267
 cloneof:peps0267

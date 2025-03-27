@@ -2,4 +2,6 @@ description:Imperial (1P1952IZ) Blue Moon
 manufacturer:IGT - International Game Technology
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

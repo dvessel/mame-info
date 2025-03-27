@@ -2,6 +2,8 @@ description:Attila The Hun
 manufacturer:Game Plan
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

@@ -2,6 +2,8 @@ description:Never Mind The Jackpots (Mazooma) (Scorpion 4) (014, set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4nmtj
 cloneof:sc4nmtj

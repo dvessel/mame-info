@@ -2,6 +2,8 @@ description:Club Class (Bellfruit) (Scorpion 4) (set 11)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cclas
 cloneof:sc4cclas

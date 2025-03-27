@@ -1,3 +1,5 @@
 description:Virtual Football (with 3 bonus games)
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

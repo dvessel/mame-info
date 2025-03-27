@@ -2,6 +2,8 @@ description:Genius Leader 2000 Plus
 manufacturer:Video Technology
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780
 romof:gl2000
 cloneof:gl2000

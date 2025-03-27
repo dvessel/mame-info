@@ -2,6 +2,8 @@ description:Crown Jewels (Z055) (QPS) (Scorpion 5) (set 3)
 manufacturer:QPS
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5crnjw
 cloneof:sc5crnjw

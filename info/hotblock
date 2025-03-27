@@ -2,4 +2,6 @@ description:Hot Blocks - Tetrix II (set 1)
 manufacturer:NIX?
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

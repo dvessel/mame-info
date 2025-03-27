@@ -2,5 +2,7 @@ description:Hektor
 manufacturer:The Open University
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 romof:hektor2
 cloneof:hektor2

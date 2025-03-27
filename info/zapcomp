@@ -2,3 +2,5 @@ description:ZAP - Z80 Applications Processor
 manufacturer:Steve Ciarcia / BYTE / McGRAW-HILL
 year:1981
 status:good
+emulation:good
+savestate:unsupported

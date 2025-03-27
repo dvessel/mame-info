@@ -2,6 +2,8 @@ description:Tic Tac Trivia (6221-22, U5-0, Vertical)
 manufacturer:Merit
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tictac
 cloneof:tictac

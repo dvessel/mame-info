@@ -2,6 +2,8 @@ description:GTI Club: Corso Italiano (ver JAB)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:941b02

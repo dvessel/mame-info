@@ -2,3 +2,5 @@ description:Manager (Finland)
 manufacturer:Salora
 year:1983
 status:good
+emulation:good
+savestate:supported

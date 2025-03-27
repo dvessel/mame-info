@@ -2,5 +2,7 @@ description:Mad Dog McCree (v2.03 board rev.B)
 manufacturer:American Laser Games
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:alg_bios

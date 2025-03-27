@@ -2,5 +2,7 @@ description:SAPI-1 ZPS 3 (terminal)
 manufacturer:Tesla
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:sapi1
 cloneof:sapi1

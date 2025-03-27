@@ -2,4 +2,6 @@ description:Amstar Draw Poker
 manufacturer:Amstar?
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Player's Edge Plus (PP0014) Standard Draw Poker (International)
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pepp0001
 cloneof:pepp0001

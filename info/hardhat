@@ -2,4 +2,6 @@ description:Hard Hat
 manufacturer:Exidy
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop

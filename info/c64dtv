@@ -2,3 +2,5 @@ description:Commodore 64 Direct-to-TV (Version 2 050711) (PAL)
 manufacturer:The Toy:Lobster Company
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,4 +2,6 @@ description:Long Hu Zhengba III (V400CN)
 manufacturer:IGS
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

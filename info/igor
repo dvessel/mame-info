@@ -2,3 +2,5 @@ description:Igor (Excalibur)
 manufacturer:Excalibur Electronics
 year:1997
 status:good
+emulation:good
+savestate:supported

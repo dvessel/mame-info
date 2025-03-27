@@ -2,6 +2,8 @@ description:Space King
 manufacturer:Taito / Leijac Corporation
 year:1978
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

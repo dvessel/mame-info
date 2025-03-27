@@ -2,5 +2,7 @@ description:Macintosh II
 manufacturer:Apple Computer
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 device:nb_mdc824
 device:adbmodem

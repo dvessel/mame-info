@@ -2,3 +2,5 @@ description:Z80 TV Game System
 manufacturer:Mr. Isizu
 year:2011
 status:good
+emulation:good
+savestate:supported

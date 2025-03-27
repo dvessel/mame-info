@@ -2,4 +2,6 @@ description:Hot Shocker
 manufacturer:E.G. Felaco (Domino license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop

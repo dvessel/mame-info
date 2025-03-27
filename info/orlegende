@@ -2,6 +2,8 @@ description:Oriental Legend / Xiyou Shi E Zhuan (ver. 112)
 manufacturer:IGS
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:orlegend
 romof:pgm

@@ -2,6 +2,8 @@ description:Tecnodarts (Recreativos G.R. license)
 manufacturer:Automatics Pasqual / Recreativos G.R.
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:tecnodar

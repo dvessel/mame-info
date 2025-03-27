@@ -2,3 +2,5 @@ description:Dragon 128 (Beta)
 manufacturer:Dragon Data Ltd
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported

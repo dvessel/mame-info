@@ -2,4 +2,6 @@ description:Atari Football (revision 2)
 manufacturer:Atari
 year:1978
 status:good
+emulation:good
+savestate:supported
 kind:coinop

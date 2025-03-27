@@ -2,10 +2,11 @@ description:Guitar Freaks 8th Mix (G*C08 VER. JAA)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 romof:gtrfrk8m
 romof:sys573
 cloneof:gtrfrk8m
 disk:c08jaa02
-disk:c08jba02

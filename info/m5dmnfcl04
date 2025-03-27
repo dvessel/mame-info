@@ -2,6 +2,8 @@ description:Diamonds Are Forever Club (Empire) (MPU5) (set 2)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5dmnfcl
 cloneof:m5dmnfcl

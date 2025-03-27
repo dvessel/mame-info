@@ -2,6 +2,8 @@ description:Fruit Of The Gods (Maygay) (EPOCH) (1.2, set 2)
 manufacturer:Maygay
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_fgods
 cloneof:ep_fgods

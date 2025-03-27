@@ -2,5 +2,7 @@ description:Golden Axe II (Mega Play) (Rev B)
 manufacturer:Sega
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:megaplay

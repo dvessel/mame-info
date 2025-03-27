@@ -2,3 +2,5 @@ description:Sudoku: Do You Sudoku?
 manufacturer:SDW Games
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported

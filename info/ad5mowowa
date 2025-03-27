@@ -2,5 +2,7 @@ description:Monopoly Wheel Of Wealth (PR2365, MAZNWOWT) (Mazooma) (Adder 5) (set
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5mowow
 cloneof:ad5mowow

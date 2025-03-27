@@ -2,5 +2,7 @@ description:Double Dragon (Neo-Geo)
 manufacturer:Technos Japan
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

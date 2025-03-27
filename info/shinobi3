@@ -2,6 +2,8 @@ description:Shinobi (set 3, System 16B) (MC-8123B 317-0054)
 manufacturer:Sega
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:shinobi
 cloneof:shinobi

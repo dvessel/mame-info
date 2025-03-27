@@ -2,5 +2,7 @@ description:Kyuukai Douchuuki (Japan, new version (Rev B))
 manufacturer:Namco
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65

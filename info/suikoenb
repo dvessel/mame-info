@@ -2,6 +2,8 @@ description:Suiko Enbu / Outlaws of the Lost Dynasty (JUETL 950314 V2.001)
 manufacturer:Data East Corporation
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

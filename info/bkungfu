@@ -2,4 +2,6 @@ description:Beyond Kung-Fu (location test)
 manufacturer:Irem
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

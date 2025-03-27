@@ -2,6 +2,8 @@ description:Virtua Bowling (Japan, V100JCM)
 manufacturer:IGS / Alta
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:vbowl
 cloneof:vbowl

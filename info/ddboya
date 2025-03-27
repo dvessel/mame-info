@@ -2,6 +2,8 @@ description:Dam Dam Boy (on Tsukande Toru Chicchi PCB)
 manufacturer:Konami
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ddboy
 cloneof:ddboy

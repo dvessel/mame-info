@@ -2,5 +2,7 @@ description:Sunset Boulevard (Barcrest) (MPU4) (BSB 0.4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

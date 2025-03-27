@@ -2,6 +2,8 @@ description:Kram (encrypted)
 manufacturer:Taito America Corporation
 year:1982
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:kram
 cloneof:kram

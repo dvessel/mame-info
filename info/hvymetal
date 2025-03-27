@@ -2,4 +2,6 @@ description:Heavy Metal (315-5135)
 manufacturer:Sega
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

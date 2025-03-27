@@ -2,6 +2,8 @@ description:A Few Dollars More (Empire) (MPU5) (v0.3, set 1)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5fewmor
 cloneof:m5fewmor

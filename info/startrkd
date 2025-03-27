@@ -2,6 +2,8 @@ description:Star Trek (bootleg of Defender)
 manufacturer:bootleg
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:defender
 cloneof:defender

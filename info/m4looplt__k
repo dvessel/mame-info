@@ -2,6 +2,8 @@ description:Loop The Loot (Qps) (MPU4) (set 12)
 manufacturer:Qps
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4looplt

@@ -2,4 +2,6 @@ description:Extreme Downhill (v1.5)
 manufacturer:Sammy Industries Japan
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,5 +2,7 @@ description:Stelle e Cubi (Italy)
 manufacturer:Sure
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413

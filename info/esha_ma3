@@ -2,6 +2,8 @@ description:Earthshaker (Metallica) (LA-3)
 manufacturer:Williams
 year:1989
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:esha_la3

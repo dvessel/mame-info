@@ -2,5 +2,7 @@ description:Power 3000
 manufacturer:Creon Enterprises
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:zx81
 cloneof:zx81

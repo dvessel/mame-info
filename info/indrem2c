@@ -2,4 +2,6 @@ description:Indian Dreaming 2nd Chance (10150611, NSW/ACT)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,6 +2,8 @@ description:Flyin' Shark (bootleg of Hishou Zame)
 manufacturer:bootleg
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fshark
 cloneof:fshark

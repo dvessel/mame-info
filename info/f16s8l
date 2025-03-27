@@ -2,6 +2,8 @@ description:F-16 Super 8 Lines
 manufacturer:Leisure Ent
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:lucky8
 cloneof:lucky8

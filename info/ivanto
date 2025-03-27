@@ -2,5 +2,7 @@ description:Ivan The Terrible (H8/3256 version)
 manufacturer:Excalibur Electronics
 year:1996
 status:good
+emulation:good
+savestate:supported
 romof:ivant
 cloneof:ivant

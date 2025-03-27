@@ -2,4 +2,6 @@ description:Ganbare Chinsan Ooshoubu (MC-8123A, 317-5012)
 manufacturer:Sanritsu
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Econet X25 Gateway
 manufacturer:Acorn Computers
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:saa5050
 device:bbc_tube_x25
 romof:bbcbp

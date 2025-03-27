@@ -2,6 +2,8 @@ description:Raiden Fighters (Taiwan, single board)
 manufacturer:Seibu Kaihatsu (Explorer System Corp. license)
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:rdft
 cloneof:rdft

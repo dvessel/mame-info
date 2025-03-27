@@ -2,5 +2,7 @@ description:Mahjong Dai-Reach (Japan, TSM012-C01)
 manufacturer:Techno-Top
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413

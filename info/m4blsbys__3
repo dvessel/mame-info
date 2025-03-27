@@ -2,6 +2,8 @@ description:Blues Boys (BWB) (MPU4) (set 20)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4blsbys

@@ -2,6 +2,8 @@ description:Warriors of Fate ('sgyxz' bootleg)
 manufacturer:bootleg (All-In Electronic)
 year:1999
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:wof
 cloneof:wof

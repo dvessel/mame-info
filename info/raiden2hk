@@ -2,6 +2,8 @@ description:Raiden II (Hong Kong)
 manufacturer:Seibu Kaihatsu (Metrotainment license)
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:raiden2
 cloneof:raiden2

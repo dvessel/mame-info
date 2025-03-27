@@ -2,3 +2,5 @@ description:Reactor MD (PAL)
 manufacturer:AtGames / Sega / Waixing
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported

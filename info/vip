@@ -2,3 +2,5 @@ description:Cosmac VIP (VP-711)
 manufacturer:RCA
 year:1977
 status:imperfect
+emulation:good
+savestate:supported

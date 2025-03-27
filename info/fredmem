@@ -2,5 +2,7 @@ description:Fred Flintstone's Memory Match (World?, Ticket version, 3/17/95)
 manufacturer:Coastal Amusements
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:bsmt2000

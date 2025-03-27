@@ -2,5 +2,7 @@ description:HT-1080Z/64
 manufacturer:Hiradastechnika Szovetkezet
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:eg3003
 cloneof:eg3003

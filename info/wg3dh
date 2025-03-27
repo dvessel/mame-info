@@ -2,5 +2,7 @@ description:Wayne Gretzky's 3D Hockey (ver 1.3)
 manufacturer:Atari Games
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 disk:wg3dh

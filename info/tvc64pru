@@ -2,5 +2,7 @@ description:TVC 64+ (Russian)
 manufacturer:Videoton
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:tvc64
 cloneof:tvc64

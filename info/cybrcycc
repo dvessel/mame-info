@@ -2,5 +2,7 @@ description:Cyber Cycles (World, CB2 Ver.C)
 manufacturer:Namco
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc71

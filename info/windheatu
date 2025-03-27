@@ -2,6 +2,8 @@ description:Winding Heat (UBC, USA v2.22)
 manufacturer:Konami
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:windheat
 cloneof:windheat

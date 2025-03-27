@@ -2,6 +2,8 @@ description:Q*bert (early test version)
 manufacturer:Gottlieb
 year:1982
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:votrsc01
 romof:qbert

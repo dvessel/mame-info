@@ -2,6 +2,8 @@ description:Apple //c (rev 4, Germany)
 manufacturer:Apple Computer
 year:1986
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 romof:apple2c
 cloneof:apple2c

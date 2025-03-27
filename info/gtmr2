@@ -2,4 +2,6 @@ description:Mille Miglia 2: Great 1000 Miles Rally (95/05/24)
 manufacturer:Kaneko
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

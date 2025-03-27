@@ -2,4 +2,6 @@ description:The Golden Fleece (10158311, NSW/ACT)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

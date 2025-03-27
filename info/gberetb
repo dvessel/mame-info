@@ -2,6 +2,8 @@ description:Green Beret (bootleg)
 manufacturer:bootleg
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:gberet
 cloneof:gberet

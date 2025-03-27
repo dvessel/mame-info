@@ -2,5 +2,7 @@ description:D-550 Linear Synthesizer
 manufacturer:Roland
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:d50
 cloneof:d50

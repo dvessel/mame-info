@@ -2,6 +2,8 @@ description:Chiki Chiki Boys (Japan 900619)
 manufacturer:Capcom
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mtwins
 cloneof:mtwins

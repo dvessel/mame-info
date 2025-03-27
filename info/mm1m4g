@@ -2,7 +2,10 @@ description:MikroMikko 1 M4G
 manufacturer:Nokia Data
 year:1981
 status:good
+emulation:good
+savestate:supported
 device:mm1kb
 device:upd7220
 romof:mm1m4
 cloneof:mm1m4
+sampleof:MM1_keyboard

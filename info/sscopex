@@ -2,6 +2,8 @@ description:Silent Scope EX (ver UAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:a13c02

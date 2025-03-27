@@ -2,6 +2,8 @@ description:Gladiator (Mazooma) (Scorpion 4) (set 5)
 manufacturer:QPS / Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4glad
 cloneof:sc4glad

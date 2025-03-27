@@ -2,6 +2,8 @@ description:Gun Frontier (Japan)
 manufacturer:Taito Corporation
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gunfront
 cloneof:gunfront

@@ -2,6 +2,8 @@ description:Gratis Poker (V.204, set 2)
 manufacturer:Mega Soft
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gratispk
 cloneof:gratispk

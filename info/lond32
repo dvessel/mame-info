@@ -2,4 +2,6 @@ description:Mephisto London 32 Bit
 manufacturer:Richard Lang
 year:1996
 status:good
+emulation:good
+savestate:supported
 device:hd44780

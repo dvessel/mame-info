@@ -2,6 +2,8 @@ description:Super Shanghai Dragon's Eye (Korea)
 manufacturer:Hot-B Co., Ltd. (Taito license)
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sshangha
 cloneof:sshangha

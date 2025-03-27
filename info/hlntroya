@@ -2,6 +2,8 @@ description:Helen of Troy (10129121, ASP)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:hlntroy
 romof:aristmk6
 cloneof:hlntroy

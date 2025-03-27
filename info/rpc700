@@ -2,6 +2,8 @@ description:Risc PC 700
 manufacturer:Acorn
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:kb_pcat101
 device:ps2_keybc
 romof:rpc600

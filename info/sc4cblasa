@@ -2,6 +2,8 @@ description:Cash Blast (Voodoo Games) (Scorpion 4) (set 2)
 manufacturer:Voodoo Games
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cblas
 cloneof:sc4cblas

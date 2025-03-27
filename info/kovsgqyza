@@ -2,6 +2,8 @@ description:Sanguo Qunying Zhuan Zhengzong Plus (bootleg of Knights of Valour Pl
 manufacturer:bootleg
 year:1999
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:kovplus
 romof:pgm

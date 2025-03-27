@@ -2,5 +2,7 @@ description:Europa 2002 (Ver 2.0, set 2)
 manufacturer:Nazionale Elettronica
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:euro2k2
 cloneof:euro2k2

@@ -2,6 +2,8 @@ description:Scud Race / Sega Super GT - Deluxe (Export, Revision A)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:scud

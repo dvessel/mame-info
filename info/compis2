@@ -2,6 +2,8 @@ description:Compis II
 manufacturer:Telenova
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 device:compiskb
 device:upd7220
 romof:compis

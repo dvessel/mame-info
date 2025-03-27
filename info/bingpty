@@ -2,4 +2,6 @@ description:Bingo Party Multicart (Rev B) (M1 Satellite board)
 manufacturer:Sega
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

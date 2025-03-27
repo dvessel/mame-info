@@ -2,6 +2,8 @@ description:Mega Bucks (Barcrest) (MPU4) (BUC 3.1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4megbks

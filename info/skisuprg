@@ -2,4 +2,6 @@ description:Sega Ski Super G
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

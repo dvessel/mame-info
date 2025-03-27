@@ -2,4 +2,6 @@ description:TI-95 Procalc
 manufacturer:Texas Instruments
 year:1986
 status:good
+emulation:good
+savestate:supported
 device:hd44780

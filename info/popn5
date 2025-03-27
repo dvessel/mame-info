@@ -2,6 +2,8 @@ description:Pop'n Music 5
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:a04jaa01
 disk:a04jaa02

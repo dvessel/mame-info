@@ -2,5 +2,7 @@ description:Atari System 1 BIOS
 manufacturer:Atari Games
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

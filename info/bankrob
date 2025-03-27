@@ -2,3 +2,5 @@ description:Bank Robbery (Ver. 3.32)
 manufacturer:Entertainment Technology Corp.
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported

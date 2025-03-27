@@ -2,5 +2,7 @@ description:Chesster Challenger
 manufacturer:Fidelity Electronics International
 year:1990
 status:good
+emulation:good
+savestate:supported
 romof:chesster
 cloneof:chesster

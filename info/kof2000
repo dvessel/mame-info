@@ -2,5 +2,7 @@ description:The King of Fighters 2000 (NGM-2570 ~ NGH-2570)
 manufacturer:SNK
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

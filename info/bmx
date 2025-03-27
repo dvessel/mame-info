@@ -2,6 +2,8 @@ description:BMX
 manufacturer:Bally
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

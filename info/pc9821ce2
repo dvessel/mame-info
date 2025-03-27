@@ -2,5 +2,7 @@ description:PC-9821Ce2 (98MULTi CanBe)
 manufacturer:NEC
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ym2608
 device:upd7220

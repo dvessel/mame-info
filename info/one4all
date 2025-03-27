@@ -2,5 +2,7 @@ description:One For All (0101503V, New Zealand)
 manufacturer:Aristocrat
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aristmk5

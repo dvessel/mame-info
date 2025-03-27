@@ -2,6 +2,8 @@ description:ST-V BIOS
 manufacturer:Sega
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop
 device:segabill

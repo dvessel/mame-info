@@ -2,4 +2,6 @@ description:Love Stuck (0152583, US)
 manufacturer:Aristocrat
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

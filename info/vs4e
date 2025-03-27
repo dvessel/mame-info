@@ -2,9 +2,10 @@ description:Virtua Striker 4 (Asia, Rev B) (GDT-0014B)
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:vs4
 romof:triforce
 cloneof:vs4
 disk:gdt-0014b
-disk:gdt-0015a

@@ -2,6 +2,8 @@ description:Diana Bifuca (unknown version, ProSPDP based)
 manufacturer:Compumatic / Bifuca
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:dibifuca
 cloneof:dibifuca

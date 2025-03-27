@@ -2,5 +2,7 @@ description:Crater Raider
 manufacturer:Bally Midway
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:midssio

@@ -2,3 +2,5 @@ description:unknown game on FR009 hardware
 manufacturer:Nova Desitec
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

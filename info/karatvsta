@@ -2,5 +2,7 @@ description:KaraokeTV Star (US, with 25 songs, 'FREE 35 Hit Songs / $35 value' p
 manufacturer:IVL Technologies
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:karatvst
 cloneof:karatvst

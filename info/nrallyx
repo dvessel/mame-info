@@ -2,5 +2,7 @@ description:New Rally X
 manufacturer:Namco
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:rallyx

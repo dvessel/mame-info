@@ -2,3 +2,5 @@ description:HB-F5 (MSX2, Japan)
 manufacturer:Sony
 year:1985
 status:good
+emulation:good
+savestate:unsupported

@@ -2,4 +2,6 @@ description:Fruit Bonus 2002 (Ming-Yang Electronic / TSK, vFB02-07A)
 manufacturer:Ming-Yang Electronic / TSK
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

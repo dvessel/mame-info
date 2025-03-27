@@ -2,6 +2,8 @@ description:Parrot Poker III (Version 2.6R, set 1)
 manufacturer:Amcoe
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:parrot3
 cloneof:parrot3

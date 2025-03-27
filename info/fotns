@@ -2,5 +2,7 @@ description:Fist Of The North Star / Hokuto no Ken
 manufacturer:Arc System Works / Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:awbios

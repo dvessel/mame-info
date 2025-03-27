@@ -2,6 +2,8 @@ description:Duty Free (BWB / Barcrest) (MPU4) (DF4 4.1, hack?)
 manufacturer:hack?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4dtyfre

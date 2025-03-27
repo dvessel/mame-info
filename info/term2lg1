@@ -2,6 +2,8 @@ description:Terminator 2 - Judgment Day (German, rev LG1 11/04/91)
 manufacturer:Midway
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:term2
 cloneof:term2

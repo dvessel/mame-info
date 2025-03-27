@@ -2,5 +2,7 @@ description:Chess Challenger "10" (model CCX)
 manufacturer:Fidelity Electronics
 year:1978
 status:good
+emulation:good
+savestate:supported
 romof:cc10
 cloneof:cc10

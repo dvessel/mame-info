@@ -2,5 +2,7 @@ description:Odyssey
 manufacturer:Silicon Gaming
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:vision968
 device:ncr53c825_pci

@@ -2,6 +2,8 @@ description:Apollo DN5500
 manufacturer:Apollo
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:3c505
 romof:dn3500
 cloneof:dn3500

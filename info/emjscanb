@@ -2,5 +2,7 @@ description:E-Touch Mahjong Series #6: Scandal Blue - Midara na Daishou (Japan)
 manufacturer:Seibu Kaihatsu / CATS
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 disk:scandal blue sktp-10008

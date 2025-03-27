@@ -2,4 +2,6 @@ description:Cuty Line Limited (ver.1.30)
 manufacturer:Dyna / TAB Austria
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

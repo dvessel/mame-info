@@ -2,6 +2,8 @@ description:Snakes &amp; Ladders Slides Again (Crystal) (IMPACT) (set 4)
 manufacturer:Crystal
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6slagn

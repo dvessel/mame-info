@@ -2,6 +2,8 @@ description:Beastorizer (USA, Jun 21 1997)
 manufacturer:Eighting / Raizing
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:beastrzr
 romof:coh1002e

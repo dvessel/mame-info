@@ -2,5 +2,7 @@ description:Chuugokuryuu 2001 [Dragon World 2001] (V100 02/21/01 16:05:16, Japan
 manufacturer:IGS
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pgm

@@ -2,6 +2,8 @@ description:Ultra X Weapons / Ultra Keibitai (Gamest review build)
 manufacturer:Banpresto / Tsuburaya Productions / Seta
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ultrax
 cloneof:ultrax

@@ -2,4 +2,6 @@ description:Multi Champ (World, ver. 2.5)
 manufacturer:ESD
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

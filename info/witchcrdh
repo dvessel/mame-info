@@ -2,6 +2,8 @@ description:Witch Card (German, WC3050, set 2 )
 manufacturer:Proma
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:witchcrd
 cloneof:witchcrd

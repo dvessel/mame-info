@@ -2,6 +2,8 @@ description:Bell Trail (Bellfruit) (Black Box) (5p Stake, £1 Jackpot)
 manufacturer:BFM
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:fruitsamples

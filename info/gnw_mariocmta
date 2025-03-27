@@ -2,5 +2,7 @@ description:Game &amp; Watch: Mario's Cement Factory (Table Top, version CM-72A)
 manufacturer:Nintendo
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:gnw_mariocmt
 cloneof:gnw_mariocmt

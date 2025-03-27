@@ -2,5 +2,7 @@ description:J-League Soccer V-Shoot (Japan)
 manufacturer:Namco
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc75

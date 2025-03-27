@@ -2,5 +2,7 @@ description:Bio-hazard Battle (Mega Play)
 manufacturer:Sega
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:megaplay

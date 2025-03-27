@@ -2,6 +2,8 @@ description:The Hulk (Bellfruit) (Scorpion 5) (set 8)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5hulk
 cloneof:sc5hulk

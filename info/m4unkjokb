@@ -2,6 +2,8 @@ description:Jolly Taverner (Barcrest) (bootleg) (MPU4) (TAV 1.1, set 1)
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4joltav

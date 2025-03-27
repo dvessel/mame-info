@@ -2,6 +2,8 @@ description:Regulus (not encrypted)
 manufacturer:Sega
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:regulus
 cloneof:regulus

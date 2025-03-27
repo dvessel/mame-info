@@ -2,5 +2,7 @@ description:Bases Loaded (Prototype, PlayChoice-10)
 manufacturer:Jaleco (Nintendo of America license)
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

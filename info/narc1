@@ -2,6 +2,8 @@ description:Narc (rev 1.80)
 manufacturer:Williams
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:narc
 cloneof:narc

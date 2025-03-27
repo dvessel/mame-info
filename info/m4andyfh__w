@@ -2,6 +2,8 @@ description:Andy's Full House (Barcrest) (MPU4) (AFT 0.3 KD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4andyfh

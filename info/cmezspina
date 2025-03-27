@@ -2,6 +2,8 @@ description:Cherry Master I (E-Z Spin Hands Count bootleg / hack, set 1)
 manufacturer:bootleg
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cmaster
 cloneof:cmaster

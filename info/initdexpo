@@ -2,6 +2,8 @@ description:Initial D Arcade Stage (Export) (GDS-0025)
 manufacturer:Sega
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:initdexp
 romof:naomi2
 cloneof:initdexp
 disk:gds-0025
-disk:gds-0025a

@@ -2,4 +2,6 @@ description:Super Speed Race Junior (Japan)
 manufacturer:Taito Corporation
 year:1985
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

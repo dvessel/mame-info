@@ -2,6 +2,8 @@ description:Wild Witch (Export, 6B/12B ver 1.75A-E English)
 manufacturer:Video Klein
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:wldwitch
 cloneof:wldwitch

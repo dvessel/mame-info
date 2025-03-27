@@ -2,4 +2,6 @@ description:Micro-Professor I/88
 manufacturer:Multitech
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 device:hd44780

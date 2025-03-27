@@ -2,6 +2,8 @@ description:The Addams Family Special Collectors Edition (LA-2)
 manufacturer:Bally
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:tafg_lx3

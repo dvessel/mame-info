@@ -2,4 +2,6 @@ description:Diablo 68000 (set 1)
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1991
 status:good
+emulation:good
+savestate:supported
 device:hd44780

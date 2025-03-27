@@ -2,6 +2,8 @@ description:Flip &amp; Flop (Max-A-Flex)
 manufacturer:Exidy / First Star Software
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:m68705p3
 romof:maxaflex

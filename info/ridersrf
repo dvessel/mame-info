@@ -2,6 +2,8 @@ description:Rider's Surf
 manufacturer:JocMatic
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

@@ -2,5 +2,7 @@ description:Money Puzzle Exchanger / Money Idol Exchanger
 manufacturer:Face
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

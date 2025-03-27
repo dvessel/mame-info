@@ -2,6 +2,8 @@ description:Playboy (CPU 4.01, display A4.00)
 manufacturer:Stern
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

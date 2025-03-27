@@ -2,5 +2,7 @@ description:Victorious Nine
 manufacturer:Taito
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5

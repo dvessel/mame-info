@@ -2,4 +2,6 @@ description:Blades of Steel (version T, Joystick)
 manufacturer:Konami
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop

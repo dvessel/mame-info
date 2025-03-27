@@ -2,6 +2,8 @@ description:Aftershock (Barcrest - Red Gaming) (MPU5, v1.3)
 manufacturer:Barcrest / Red Gaming
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5ashock
 cloneof:m5ashock

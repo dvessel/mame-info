@@ -2,6 +2,8 @@ description:Utter Nutter (Global) (EPOCH) (set 2)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_utnut
 cloneof:ep_utnut

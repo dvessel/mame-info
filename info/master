@@ -2,3 +2,5 @@ description:Master (Chess King)
 manufacturer:Chess King / Intelligent Software
 year:1983
 status:good
+emulation:good
+savestate:supported

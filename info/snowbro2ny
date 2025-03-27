@@ -2,6 +2,8 @@ description:Snow Bros. 2 - With New Elves / Otenki Paradise (Nyanko)
 manufacturer:Nyanko
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:snowbro2
 cloneof:snowbro2

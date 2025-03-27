@@ -2,4 +2,6 @@ description:Tora Tora (prototype?)
 manufacturer:Game Plan
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

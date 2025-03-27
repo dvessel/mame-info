@@ -2,6 +2,8 @@ description:Luvvly Jubbly (set 2, UK, Multisite, Protocol) (Scorpion 2/3)
 manufacturer:BFM
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

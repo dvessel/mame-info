@@ -2,6 +2,8 @@ description:Lucky Haunter (030707 World)
 manufacturer:Igrosoft
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lhaunt_6
 cloneof:lhaunt_6

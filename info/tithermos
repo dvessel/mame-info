@@ -2,3 +2,5 @@ description:Electronic Digital Thermostat
 manufacturer:Texas Instruments
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:supported

@@ -2,6 +2,8 @@ description:Credit Poker (ver.30b, 7 &amp; 9 bonus)
 manufacturer:CGI
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cgip30cs
 cloneof:cgip30cs

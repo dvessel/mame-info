@@ -2,6 +2,8 @@ description:Wonder Boy III - Monster Lair (encrypted bootleg)
 manufacturer:bootleg
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:wb3
 cloneof:wb3

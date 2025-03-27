@@ -2,3 +2,5 @@ description:TI-83 Plus Silver Edition (Boot Code 1.00)
 manufacturer:Texas Instruments
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported

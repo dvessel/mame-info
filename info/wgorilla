@@ -2,4 +2,6 @@ description:Wild Gorilla - Power Pay (20279811, NSW/ACT)
 manufacturer:Aristocrat
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

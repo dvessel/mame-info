@@ -2,6 +2,8 @@ description:A Nightmare On Elm Street (Bellfruit) (Scorpion 5) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5nmare
 cloneof:sc5nmare

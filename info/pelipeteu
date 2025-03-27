@@ -2,6 +2,8 @@ description:Pelican Pete (0252555, US)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pelipete
 romof:aristmk6
 cloneof:pelipete

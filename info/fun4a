@@ -2,5 +2,7 @@ description:Fun Four (set 2)
 manufacturer:Bailey International
 year:1976
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:fun4
 cloneof:fun4

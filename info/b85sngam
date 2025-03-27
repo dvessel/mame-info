@@ -2,4 +2,6 @@ description:Super Nudge Gambler (System 85)
 manufacturer:BFM
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

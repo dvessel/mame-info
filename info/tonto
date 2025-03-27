@@ -2,3 +2,5 @@ description:Merlin M1800 Tonto
 manufacturer:British Telecom Business Systems
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported

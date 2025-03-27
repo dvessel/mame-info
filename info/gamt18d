@@ -2,5 +2,7 @@ description:Gaminator 18 (set 5)
 manufacturer:Novotech
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gamt18
 cloneof:gamt18

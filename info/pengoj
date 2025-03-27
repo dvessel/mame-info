@@ -2,6 +2,8 @@ description:Pengo (Japan, not encrypted)
 manufacturer:Sega
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pengo
 cloneof:pengo

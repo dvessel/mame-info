@@ -2,6 +2,8 @@ description:Peacock Magic (0151352, US)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pcockmag
 romof:aristmk6
 cloneof:pcockmag

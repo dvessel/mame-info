@@ -2,4 +2,6 @@ description:Miss World 2002
 manufacturer:Comad
 year:2002
 status:good
+emulation:good
+savestate:supported
 kind:coinop

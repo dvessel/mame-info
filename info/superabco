@@ -2,6 +2,8 @@ description:Super ABC (Pac-Man multigame kit, Mar. 08 1999)
 manufacturer:hack (Two-Bit Score)
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:superabc
 cloneof:superabc

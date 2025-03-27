@@ -2,6 +2,8 @@ description:Super Hang-On (mini ride-on) (FD1089B 317-0034)
 manufacturer:Sega
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:shangon
 cloneof:shangon

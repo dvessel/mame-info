@@ -2,6 +2,8 @@ description:Crazy Kong (bootleg on Galaxian hardware, encrypted, set 3)
 manufacturer:bootleg
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:ckong
 cloneof:ckong

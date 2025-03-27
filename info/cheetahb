@@ -2,6 +2,8 @@ description:Cheetah (Blue Cabinet)
 manufacturer:Stern
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:cheetah

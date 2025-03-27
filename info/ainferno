@@ -2,4 +2,6 @@ description:Air Inferno (World)
 manufacturer:Taito Corporation Japan
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

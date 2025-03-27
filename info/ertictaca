@@ -2,6 +2,8 @@ description:Erotictac/Tactic (ver 01)
 manufacturer:Sisteme
 year:1990
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ertictac
 cloneof:ertictac

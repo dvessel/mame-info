@@ -2,6 +2,8 @@ description:Midas Touch Club (Maygay) (EPOCH) (1.1, set 2)
 manufacturer:Maygay
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_midas
 cloneof:ep_midas

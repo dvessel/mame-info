@@ -2,3 +2,5 @@ description:Kasparov Turbo 16K
 manufacturer:SciSys / Heuristic Software
 year:1986
 status:good
+emulation:good
+savestate:supported

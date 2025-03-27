@@ -2,5 +2,7 @@ description:WPC 95 Test Fixture (1.2)
 manufacturer:Bally
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

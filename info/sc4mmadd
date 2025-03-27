@@ -2,6 +2,8 @@ description:Money Madness (PR0000) (Mazooma) (Scorpion 4) (set 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4mmad
 cloneof:sc4mmad

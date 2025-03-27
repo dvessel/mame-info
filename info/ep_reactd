@@ -2,6 +2,8 @@ description:Reactor (Maygay - Impulse) (EPOCH) (set 5)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_react
 cloneof:ep_react

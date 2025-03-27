@@ -2,6 +2,8 @@ description:PC-250/16
 manufacturer:Wang Laboratories, Inc.
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

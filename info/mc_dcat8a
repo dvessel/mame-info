@@ -1,5 +1,7 @@
 description:100 in 1 (D-CAT8 8bit Console, set 2)
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:mc_dcat8
 cloneof:mc_dcat8

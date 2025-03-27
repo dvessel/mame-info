@@ -2,6 +2,8 @@ description:Kaypro 1
 manufacturer:Kaypro Corporation
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:kaypro10kbd
 romof:kaypro484
 cloneof:kaypro484

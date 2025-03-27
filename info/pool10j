@@ -2,6 +2,8 @@ description:Pool 10 (Italian, set 9)
 manufacturer:bootleg (R.B.)
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pool10
 cloneof:pool10

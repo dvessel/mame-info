@@ -2,6 +2,8 @@ description:Beaver Uncovered (Global) (EPOCH) (1.4, set 2)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_bvruc
 cloneof:ep_bvruc

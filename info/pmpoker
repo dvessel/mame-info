@@ -2,4 +2,6 @@ description:PlayMan Poker (German)
 manufacturer:PM / Beck Elektronik
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

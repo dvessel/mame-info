@@ -2,6 +2,8 @@ description:The King of Fighters 2001 (NGH-2621)
 manufacturer:Eolith / SNK
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kof2001
 romof:neogeo

@@ -2,5 +2,7 @@ description:Microkit09 (Alt version)
 manufacturer:Multitech
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:mkit09
 cloneof:mkit09

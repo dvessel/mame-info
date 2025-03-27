@@ -2,5 +2,7 @@ description:Dragon Saber (World, DO2)
 manufacturer:Namco
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65

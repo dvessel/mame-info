@@ -2,3 +2,5 @@ description:Visual 100
 manufacturer:Visual Technology
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:unsupported

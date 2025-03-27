@@ -2,4 +2,6 @@ description:Daitoride
 manufacturer:Metro
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

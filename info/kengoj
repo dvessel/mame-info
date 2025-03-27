@@ -2,6 +2,8 @@ description:Ken-Go (Japan)
 manufacturer:Irem
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ltswords
 cloneof:ltswords

@@ -2,6 +2,8 @@ description:Arena (French)
 manufacturer:Gottlieb
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:arena

@@ -2,5 +2,7 @@ description:BBC Master Compact
 manufacturer:Acorn Computers
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported
 device:saa5050
 sampleof:bbc

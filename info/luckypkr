@@ -2,6 +2,8 @@ description:Lucky Poker (bootleg/hack of Major Poker)
 manufacturer:bootleg
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:majorpkr
 cloneof:majorpkr

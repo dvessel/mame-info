@@ -2,6 +2,8 @@ description:Zzyzzyxx (set 2)
 manufacturer:Cinematronics / Advanced Microcomputer Systems
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:zzyzzyxx
 cloneof:zzyzzyxx

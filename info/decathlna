@@ -2,5 +2,7 @@ description:Decathlon (set 2, SM570, ABL TV Game)
 manufacturer:Advance Bright Ltd / V-Tac Technology Co Ltd.
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:decathln
 cloneof:decathln

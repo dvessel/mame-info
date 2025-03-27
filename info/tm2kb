@@ -2,6 +2,8 @@ description:Touchmaster 2000 (v4.00 Standard)
 manufacturer:Midway Games Inc.
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:tm2k

@@ -2,4 +2,6 @@ description:Heuk Sun Baek Sa (Korea)
 manufacturer:Oksan / F2 System
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop

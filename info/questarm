@@ -2,5 +2,7 @@ description:Questar/M
 manufacturer:Honeywell Bull
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:micral
 cloneof:micral

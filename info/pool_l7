@@ -2,6 +2,8 @@ description:Pool Sharks (LA-7)
 manufacturer:Bally
 year:1990
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

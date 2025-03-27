@@ -2,6 +2,8 @@ description:Golden Tee Fore! (v1.00.25)
 manufacturer:Incredible Technologies
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:iteagle
 disk:golf_fore_v1.00.25

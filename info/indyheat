@@ -2,4 +2,6 @@ description:Danny Sullivan's Indy Heat (rev 1)
 manufacturer:Leland Corporation
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

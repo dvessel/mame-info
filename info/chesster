@@ -2,3 +2,5 @@ description:Chesster Challenger (v1.3)
 manufacturer:Fidelity Electronics International
 year:1990
 status:good
+emulation:good
+savestate:supported

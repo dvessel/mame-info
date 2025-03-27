@@ -2,6 +2,8 @@ description:Karate Champ (US, 2 players)
 manufacturer:Data East USA
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kchamp
 cloneof:kchamp

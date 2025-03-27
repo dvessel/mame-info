@@ -2,6 +2,8 @@ description:Delta Belle (0252532, US)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:deltaqn
 romof:aristmk6
 cloneof:deltaqn

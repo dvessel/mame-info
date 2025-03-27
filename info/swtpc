@@ -2,3 +2,5 @@ description:SWTPC 6800 Computer System (with SWTBUG)
 manufacturer:Southwest Technical Products Corporation
 year:1977
 status:good
+emulation:good
+savestate:unsupported

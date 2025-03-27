@@ -2,6 +2,8 @@ description:Carnival (cocktail, earlier)
 manufacturer:Sega
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:carnival
 cloneof:carnival

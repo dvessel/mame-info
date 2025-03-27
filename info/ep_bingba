@@ -2,6 +2,8 @@ description:Bingo Belle (Maygay) (EPOCH) (1.3, set 2)
 manufacturer:Maygay
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_bingb
 cloneof:ep_bingb

@@ -2,4 +2,6 @@ description:Cherry Bonus III (ver.1.40, set 1)
 manufacturer:Dyna
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

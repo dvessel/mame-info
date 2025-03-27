@@ -2,6 +2,8 @@ description:Golden Dragon Club (Barcrest) (MPU5) (set 2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5gdrgcl
 cloneof:m5gdrgcl

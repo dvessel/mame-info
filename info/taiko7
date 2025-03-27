@@ -2,6 +2,8 @@ description:Taiko no Tatsujin 7 (TK71-NA-A)
 manufacturer:Namco
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys246
 disk:tk71dvd0
 disk:tk71_cd01

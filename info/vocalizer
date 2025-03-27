@@ -2,4 +2,6 @@ description:Vocalizer 1000
 manufacturer:Breakaway Music Systems
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:hd44780

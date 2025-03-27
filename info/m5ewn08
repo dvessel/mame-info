@@ -2,6 +2,8 @@ description:Each Way Nudge (Barcrest) (MPU5) (set 2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5ewn
 cloneof:m5ewn

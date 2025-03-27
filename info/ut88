@@ -1,5 +1,7 @@
 description:UT-88
 year:1989
 status:good
+emulation:good
+savestate:supported
 romof:ut88mini
 cloneof:ut88mini

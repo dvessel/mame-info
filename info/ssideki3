@@ -2,5 +2,7 @@ description:Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - Eikou e no Chous
 manufacturer:SNK
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

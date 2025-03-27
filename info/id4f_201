@@ -2,6 +2,8 @@ description:Independence Day (CPU 2.01, display F2.00, France)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

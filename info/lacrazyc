@@ -2,6 +2,8 @@ description:Let's Attack Crazy Cross (GV027 Asia 1.10)
 manufacturer:Konami
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:konamigv
 disk:gv027-a1

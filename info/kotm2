@@ -2,5 +2,7 @@ description:King of the Monsters 2 - The Next Thing (NGM-039 ~ NGH-039)
 manufacturer:SNK
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

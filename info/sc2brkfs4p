@@ -2,6 +2,8 @@ description:The Big Breakfast (set 5 UK, Arcade, 10GBP Jackpot, Protocol) (Scorp
 manufacturer:BFM
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

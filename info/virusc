@@ -2,3 +2,5 @@ description:Virus C
 manufacturer:Access
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,3 +2,5 @@ description:Heiankyo Alien (Gakken)
 manufacturer:Gakken
 year:1980
 status:good
+emulation:good
+savestate:supported

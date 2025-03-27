@@ -2,5 +2,7 @@ description:Inter Stellar (Laser Fantasy)
 manufacturer:Funai/Gakken
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ldv1000

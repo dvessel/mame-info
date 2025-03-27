@@ -2,5 +2,7 @@ description:VTech IT Unlimited (UK)
 manufacturer:Video Technology
 year:1998
 status:preliminary
+emulation:good
+savestate:unsupported
 romof:pcunlim
 cloneof:pcunlim

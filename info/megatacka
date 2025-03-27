@@ -2,6 +2,8 @@ description:Megatack (set 2)
 manufacturer:Centuri (Game Plan license)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:megatack
 cloneof:megatack

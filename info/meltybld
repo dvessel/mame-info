@@ -2,6 +2,8 @@ description:Melty Blood Act Cadenza Ver. A (Japan) (GDL-0028C)
 manufacturer:Ecole Software
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

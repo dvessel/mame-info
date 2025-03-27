@@ -2,3 +2,5 @@ description:VT330
 manufacturer:Digital Equipment Corporation
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Lucky Haunter (bootleg, 040825, LOTOS PB01)
 manufacturer:bootleg
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lhaunt_6
 cloneof:lhaunt_6

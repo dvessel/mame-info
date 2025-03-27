@@ -2,6 +2,8 @@ description:Dolphin Treasure (20265311, New Zealand)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:doltra6
 romof:aristmk6
 cloneof:doltra6

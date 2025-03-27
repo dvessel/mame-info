@@ -2,6 +2,8 @@ description:Tee'd Off (pinball)
 manufacturer:Gottlieb
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:teedoffp

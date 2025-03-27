@@ -2,6 +2,8 @@ description:Casino Crazy (JPM) (IMPACT) (CC12C L17) (set 12)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6cascz

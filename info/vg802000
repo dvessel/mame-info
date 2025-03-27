@@ -2,5 +2,7 @@ description:VG-8020/00 (MSX1, Europe)
 manufacturer:Philips
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:vg802020
 cloneof:vg802020

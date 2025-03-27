@@ -2,4 +2,6 @@ description:Lot Lot
 manufacturer:Irem (licensed from Tokuma Shoten)
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

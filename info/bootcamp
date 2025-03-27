@@ -2,6 +2,8 @@ description:Boot Camp (set 1)
 manufacturer:Konami
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:combatsc
 cloneof:combatsc

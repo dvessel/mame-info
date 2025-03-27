@@ -2,6 +2,8 @@ description:Double Point (Dong Bang Electron, bootleg?)
 manufacturer:bootleg? (Dong Bang Electron)
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dblpoint
 cloneof:dblpoint

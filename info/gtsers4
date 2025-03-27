@@ -2,6 +2,8 @@ description:Trivia (Questions Series 4)
 manufacturer:Greyhound Electronics
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:gtsers1
 cloneof:gtsers1

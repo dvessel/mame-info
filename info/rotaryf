@@ -2,5 +2,7 @@ description:Rotary Fighter
 manufacturer:Kasco
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:invaders

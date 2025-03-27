@@ -2,5 +2,7 @@ description:Didaktik M 92
 manufacturer:Didaktik Skalica
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 romof:spectrum
 cloneof:spectrum

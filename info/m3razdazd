@@ -2,6 +2,8 @@ description:Razzle Dazzle (Barcrest) (Dutch) (MPU3)
 manufacturer:Barcrest
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m3razdaz

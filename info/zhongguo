@@ -2,4 +2,6 @@ description:Zhongguo Chu Da D (V102C)
 manufacturer:IGS
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

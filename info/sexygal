@@ -2,4 +2,6 @@ description:Sexy Gal (Japan 850501 SXG 1-00)
 manufacturer:Nichibutsu
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

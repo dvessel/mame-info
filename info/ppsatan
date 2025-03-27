@@ -2,4 +2,6 @@ description:Poka Poka Satan (Japan)
 manufacturer:Kato Seisakujo Co., Ltd.
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

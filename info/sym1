@@ -2,3 +2,5 @@ description:SYM-1/SY-VIM-1
 manufacturer:Synertek Systems Corp.
 year:1978
 status:good
+emulation:good
+savestate:unsupported

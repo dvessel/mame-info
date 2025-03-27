@@ -2,3 +2,5 @@ description:MCX
 manufacturer:Network Computing Devices
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported

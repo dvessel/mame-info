@@ -2,6 +2,8 @@ description:Deal or No Deal Break The Bank (Bellfruit) (Scorpion 4) (CRBE471, se
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4dndbb
 cloneof:sc4dndbb

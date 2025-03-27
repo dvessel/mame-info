@@ -2,5 +2,7 @@ description:Jolly Card Professional 2.0 (Spale Soft)
 manufacturer:Spale Soft
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 romof:jollycrd
 cloneof:jollycrd

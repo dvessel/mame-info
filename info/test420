@@ -2,4 +2,6 @@ description:T420 test suite
 manufacturer:T400 uController project
 year:2008
 status:good
+emulation:good
+savestate:unsupported
 cloneof:test410

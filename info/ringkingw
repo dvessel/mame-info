@@ -2,6 +2,8 @@ description:Ring King (US, Woodplace Inc.)
 manufacturer:Woodplace Inc.
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kingofb
 cloneof:kingofb

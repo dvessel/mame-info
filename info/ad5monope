@@ -2,5 +2,7 @@ description:Random Monopoly (PR2221, MAZNRNDN) (Mazooma) (Adder 5) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5monop
 cloneof:ad5monop

@@ -2,6 +2,8 @@ description:Crazy Kong (SegaSA / Sonic bootleg)
 manufacturer:bootleg (SegaSA / Sonic)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ckongpt2
 cloneof:ckongpt2

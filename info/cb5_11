@@ -2,5 +2,7 @@ description:Cherry Bonus V Five (V1.1)
 manufacturer:Dyna
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:cb5
 cloneof:cb5

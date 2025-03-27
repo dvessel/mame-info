@@ -2,6 +2,8 @@ description:Super Cobra (Stern Electronics)
 manufacturer:Konami (Stern Electronics license)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:scobra
 cloneof:scobra

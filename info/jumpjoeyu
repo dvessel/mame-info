@@ -2,6 +2,8 @@ description:Jumpin' Joeys (DHG4735-02, US)
 manufacturer:Aristocrat
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:jumpjoey
 romof:aristmk5

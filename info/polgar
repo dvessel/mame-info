@@ -2,4 +2,6 @@ description:Mephisto Polgar (v1.50)
 manufacturer:Hegener + Glaser
 year:1990
 status:good
+emulation:good
+savestate:supported
 device:hd44780

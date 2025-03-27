@@ -2,6 +2,8 @@ description:Tic Tac Toe Classic (Barcrest) (MPU4) (CTT 3.0 BR / CT4 3.0)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4ticcla

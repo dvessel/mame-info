@@ -2,6 +2,8 @@ description:'L' Of A Day (Project) (Token set) (PROCONN)
 manufacturer:Project
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pr_lday
 cloneof:pr_lday

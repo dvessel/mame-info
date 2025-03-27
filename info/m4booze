@@ -2,5 +2,7 @@ description:Booze Cruise (Extreme) (MPU4)
 manufacturer:Extreme
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

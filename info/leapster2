@@ -2,5 +2,7 @@ description:Leapster 2
 manufacturer:LeapFrog
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:leapster
 cloneof:leapster

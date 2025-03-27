@@ -2,3 +2,5 @@ description:TB-303 Bass Line
 manufacturer:Roland
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported

@@ -2,4 +2,6 @@ description:Super Sprint (rev 4)
 manufacturer:Atari Games
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

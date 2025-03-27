@@ -2,5 +2,7 @@ description:Rush (1.0)
 manufacturer:Dave Astill
 year:20??
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Diamond Derby (Win bet, original)
 manufacturer:Electrocoin
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:dmndrby
 cloneof:dmndrby

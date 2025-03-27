@@ -2,4 +2,6 @@ description:Wizard Fire (Over Sea v2.1)
 manufacturer:Data East Corporation
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

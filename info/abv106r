@@ -2,6 +2,8 @@ description:Airborne (Redemption)
 manufacturer:Capcom
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:abv106
 cloneof:abv106

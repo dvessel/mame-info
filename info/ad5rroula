@@ -2,5 +2,7 @@ description:Reel Roulette (QPSPRLRO) (Mazooma) (Adder 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5rroul
 cloneof:ad5rroul

@@ -2,6 +2,8 @@ description:TIKI 100
 manufacturer:Tiki Data A/S
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:tiki100_8088
 romof:kontiki
 cloneof:kontiki

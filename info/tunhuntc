@@ -2,6 +2,8 @@ description:Tunnel Hunt (Centuri)
 manufacturer:Atari (Centuri license)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tunhunt
 cloneof:tunhunt

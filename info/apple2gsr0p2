@@ -2,5 +2,7 @@ description:Apple IIgs (ROM00 prototype 3/10/1986)
 manufacturer:Apple Computer
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:apple2gs
 cloneof:apple2gs

@@ -2,5 +2,7 @@ description:Cashcade (JPM) (SYSTEM5 VIDEO)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413

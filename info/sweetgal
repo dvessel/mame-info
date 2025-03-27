@@ -2,6 +2,8 @@ description:Sweet Gal (Japan 850510 SWG 1-02)
 manufacturer:Nichibutsu
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:sexygal
 cloneof:sexygal

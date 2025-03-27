@@ -2,6 +2,8 @@ description:Double Dealer (System 85, set 2)
 manufacturer:BFM
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:b85dbldl
 cloneof:b85dbldl

@@ -2,4 +2,6 @@ description:The Golden Gong (20196011, ASP)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

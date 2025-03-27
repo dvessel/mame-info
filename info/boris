@@ -2,3 +2,5 @@ description:Boris (rev. 01)
 manufacturer:Applied Concepts
 year:1978
 status:good
+emulation:good
+savestate:supported

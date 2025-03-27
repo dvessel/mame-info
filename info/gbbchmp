@@ -2,5 +2,7 @@ description:Great Bishi Bashi Champ (GBA48 VER. JAB)
 manufacturer:Konami
 year:2002
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sys573

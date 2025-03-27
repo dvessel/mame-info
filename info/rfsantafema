@@ -2,6 +2,8 @@ description:Santa Fe Mine (set 2)
 manufacturer:Recreativos Franco
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:rfsantafem
 cloneof:rfsantafem

@@ -2,5 +2,7 @@ description:FM-77AV
 manufacturer:Fujitsu
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:fm7
 cloneof:fm7

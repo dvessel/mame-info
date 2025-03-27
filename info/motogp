@@ -2,5 +2,7 @@ description:MotoGP (MGP1004-NA-B)
 manufacturer:Namco
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys256
 disk:mgp1004-na-hdd0-a

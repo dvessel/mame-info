@@ -2,6 +2,8 @@ description:Burning Fight (prototype, near final, ver 23.3, 910326)
 manufacturer:SNK
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:burningf
 romof:neogeo

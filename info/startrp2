@@ -2,6 +2,8 @@ description:Starship Troopers (CPU 2.00, display A2.00)
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

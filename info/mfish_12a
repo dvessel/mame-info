@@ -2,6 +2,8 @@ description:Multi Fish (bootleg, 040308, banking address hack)
 manufacturer:bootleg
 year:2002
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mfish_13
 cloneof:mfish_13

@@ -2,4 +2,6 @@ description:Slap Shot (Ver 3.0 O)
 manufacturer:Taito Corporation Japan
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

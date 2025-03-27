@@ -2,4 +2,6 @@ description:Panda Train (Novamatic 1.7)
 manufacturer:Subsino
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

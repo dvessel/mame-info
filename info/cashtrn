@@ -2,3 +2,5 @@ description:Cash Train (v1.10)
 manufacturer:Kupidon
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported

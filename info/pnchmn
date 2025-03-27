@@ -2,6 +2,8 @@ description:Punch Mania: Hokuto no Ken (GQ918 VER. JAB)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:fghtmn
 romof:sys573

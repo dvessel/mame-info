@@ -2,5 +2,7 @@ description:Sasuke vs. Commander
 manufacturer:SNK
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:sasuke

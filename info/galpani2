@@ -2,4 +2,6 @@ description:Gals Panic II (Asia)
 manufacturer:Kaneko
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

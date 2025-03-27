@@ -2,5 +2,7 @@ description:Neo-Geo MV-1
 manufacturer:SNK
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

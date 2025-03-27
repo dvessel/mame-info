@@ -2,6 +2,8 @@ description:Fred Flintstone's Memory Match (Japan, High Score version, 3/20/95)
 manufacturer:Coastal Amusements
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:bsmt2000
 romof:fredmem

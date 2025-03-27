@@ -2,5 +2,7 @@ description:Baseball Stars 2
 manufacturer:SNK
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

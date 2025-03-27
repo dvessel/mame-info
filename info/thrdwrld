@@ -2,6 +2,8 @@ description:Third World
 manufacturer:Sonic
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bigtown

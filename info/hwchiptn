@@ -2,3 +2,5 @@ description:The Hardware Chiptune Project
 manufacturer:Linus Åkesson / kryo
 year:2007
 status:good
+emulation:good
+savestate:unsupported

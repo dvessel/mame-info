@@ -2,6 +2,8 @@ description:Kings &amp; Queens (Barcrest) (MPU4) (EE2 1.0 / EE2 1.0)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4kingq

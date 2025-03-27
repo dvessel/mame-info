@@ -2,6 +2,8 @@ description:Polaris (Brazil)
 manufacturer:Taito do Brasil
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:polaris
 cloneof:polaris

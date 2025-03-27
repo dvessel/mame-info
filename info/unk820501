@@ -2,4 +2,6 @@ description:unknown Cirsa slot machine on 820501 A PCB
 manufacturer:Cirsa
 year:1982?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,3 +2,5 @@ description:HX-21 (MSX1, Japan)
 manufacturer:Toshiba
 year:1984
 status:good
+emulation:good
+savestate:unsupported

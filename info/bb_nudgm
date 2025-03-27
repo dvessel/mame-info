@@ -2,6 +2,8 @@ description:The Nudge Machine (ADMC) (Black Box) (5p Stake, £1/£2 Jackpot)
 manufacturer:ADM
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:fruitsamples

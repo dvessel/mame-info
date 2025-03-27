@@ -2,6 +2,8 @@ description:Party Gras (BHG1284, US)
 manufacturer:Aristocrat
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:partygrs

@@ -2,4 +2,6 @@ description:Pirate Ship (ver UAA)
 manufacturer:Konami
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

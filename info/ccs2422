@@ -2,5 +2,7 @@ description:CCS Model 2422B FDC card
 manufacturer:California Computer Systems
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:ccs2810
 cloneof:ccs2810

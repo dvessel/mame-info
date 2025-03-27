@@ -2,6 +2,8 @@ description:Kung-Fu Senjyo (bootleg, Spanish)
 manufacturer:bootleg
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:kungfum
 cloneof:kungfum

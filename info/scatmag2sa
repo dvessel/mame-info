@@ -2,6 +2,8 @@ description:Scatter Magic II (10102711, South Australia)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:scatmag2
 romof:aristmk6
 cloneof:scatmag2

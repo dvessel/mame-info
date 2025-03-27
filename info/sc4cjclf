@@ -2,6 +2,8 @@ description:Cool Jewels Club (Bellfruit) (Scorpion 4) (set 7)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cjcl
 cloneof:sc4cjcl

@@ -2,6 +2,8 @@ description:Match Of The Day (Bellfruit) (set 3, UK, Arcade, Protocol) (Scorpion
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

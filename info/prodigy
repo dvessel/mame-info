@@ -2,3 +2,5 @@ description:Destiny Prodigy
 manufacturer:Applied Concepts
 year:1982
 status:good
+emulation:good
+savestate:supported

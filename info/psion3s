@@ -2,5 +2,7 @@ description:Series 3s
 manufacturer:Psion
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 romof:psion3
 cloneof:psion3

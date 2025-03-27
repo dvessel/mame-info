@@ -2,6 +2,8 @@ description:Ghost Squad (GDX-0012)
 manufacturer:Sega
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm
@@ -10,4 +12,3 @@ romof:ghostsqu
 romof:chihiro
 cloneof:ghostsqu
 disk:gdx-0012
-disk:gdx-0012a

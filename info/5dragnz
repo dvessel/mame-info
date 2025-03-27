@@ -2,6 +2,8 @@ description:5 Dragons (10178611, New Zealand)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:5drag
 romof:aristmk6
 cloneof:5drag

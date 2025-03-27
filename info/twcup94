@@ -2,4 +2,6 @@ description:Tecmo World Cup '94 (set 1)
 manufacturer:Tecmo
 year:1994
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

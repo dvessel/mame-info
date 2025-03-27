@@ -2,4 +2,6 @@ description:Midnight Resistance (World, set 1)
 manufacturer:Data East Corporation
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

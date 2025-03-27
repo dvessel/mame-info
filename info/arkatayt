@@ -2,6 +2,8 @@ description:Arkanoid (Tayto bootleg)
 manufacturer:bootleg (Tayto)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:arkanoid
 cloneof:arkanoid

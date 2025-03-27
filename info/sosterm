@@ -2,4 +2,6 @@ description:S.O.S.
 manufacturer:Terminal
 year:198?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

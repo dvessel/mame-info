@@ -2,6 +2,8 @@ description:Dance Dance Revolution Karaoke Mix (GQ921 VER. JBB)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573kara
 romof:sys573

@@ -2,3 +2,5 @@ description:AX-350 II (MSX2, Arabic)
 manufacturer:Sakhr
 year:1987
 status:good
+emulation:good
+savestate:unsupported

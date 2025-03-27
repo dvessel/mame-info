@@ -2,6 +2,8 @@ description:Fantastic Car (Micro-87 hardware, newer)
 manufacturer:Falgas
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:fantcar
 cloneof:fantcar

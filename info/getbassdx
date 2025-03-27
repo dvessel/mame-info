@@ -2,6 +2,8 @@ description:Get Bass: Sega Bass Fishing Deluxe (Japan)
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:bassdx

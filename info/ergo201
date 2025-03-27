@@ -2,3 +2,5 @@ description:ERGO 201 (Special #9233)
 manufacturer:Micro-Term / Kurzweil Computer Products
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

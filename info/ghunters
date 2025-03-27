@@ -2,6 +2,8 @@ description:Gang Hunter / Dead Angle (Spain)
 manufacturer:Seibu Kaihatsu (SegaSA / Sonic license)
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:deadang
 cloneof:deadang

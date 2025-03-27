@@ -2,4 +2,6 @@ description:Defend the Terra Attack on the Red UFO
 manufacturer:Artic
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

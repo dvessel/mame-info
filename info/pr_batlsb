@@ -2,6 +2,8 @@ description:Battleships (Project) (set 3) (PROCONN)
 manufacturer:Project
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pr_batls
 cloneof:pr_batls

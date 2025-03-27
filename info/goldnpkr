@@ -2,4 +2,6 @@ description:Golden Poker Double Up (Big Boy)
 manufacturer:Bonanza Enterprises, Ltd
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

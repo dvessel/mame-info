@@ -2,6 +2,8 @@ description:BK 0011M
 manufacturer:Elektronika
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:bk_kmd
 romof:bk0010
 cloneof:bk0010

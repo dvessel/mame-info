@@ -2,5 +2,7 @@ description:Colour Genie EG2000 (New Zealand)
 manufacturer:EACA
 year:1982
 status:good
+emulation:good
+savestate:unsupported
 romof:cgenie
 cloneof:cgenie

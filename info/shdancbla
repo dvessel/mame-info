@@ -2,6 +2,8 @@ description:Shadow Dancer (bootleg, set 2)
 manufacturer:bootleg
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:shdancer
 cloneof:shdancer

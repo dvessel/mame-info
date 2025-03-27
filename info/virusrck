@@ -2,3 +2,5 @@ description:Virus Rack (Ver. T)
 manufacturer:Access
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported

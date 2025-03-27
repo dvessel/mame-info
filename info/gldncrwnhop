@@ -2,6 +2,8 @@ description:Golden Crown Hopper (Dutch, Game Card)
 manufacturer:BFM/ELAM
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:ym2413
 romof:gldncrwn

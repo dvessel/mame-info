@@ -2,6 +2,8 @@ description:Punk Shot (Asia 2 Players, hacked?)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:punkshot
 cloneof:punkshot

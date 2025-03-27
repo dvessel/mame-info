@@ -2,6 +2,8 @@ description:Tatacot (JA 951128 V1.000)
 manufacturer:Sega
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:critcrsh

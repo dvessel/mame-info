@@ -2,3 +2,5 @@ description:TI-99/4 Home Computer (US)
 manufacturer:Texas Instruments
 year:1979
 status:good
+emulation:good
+savestate:supported

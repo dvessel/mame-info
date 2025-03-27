@@ -2,5 +2,7 @@ description:Electronic Battleship (COP420 version, rev. G)
 manufacturer:Milton Bradley
 year:1982
 status:good
+emulation:good
+savestate:supported
 romof:bship
 cloneof:bship

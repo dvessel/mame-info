@@ -2,3 +2,5 @@ description:Designer Mach III Master 2265 (set 1)
 manufacturer:Fidelity Electronics International
 year:1989
 status:good
+emulation:good
+savestate:supported

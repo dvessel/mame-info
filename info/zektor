@@ -2,4 +2,6 @@ description:Zektor (revision B)
 manufacturer:Sega
 year:1982
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

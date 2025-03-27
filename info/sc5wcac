@@ -2,6 +2,8 @@ description:Win Can Alley (5 pound 10p Arcade version) (Qps) (Scorpion 5) (set 1
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5wca
 cloneof:sc5wca

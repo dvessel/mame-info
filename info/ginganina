@@ -2,6 +2,8 @@ description:Ginga Ninkyouden (set 2)
 manufacturer:Jaleco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ginganin
 cloneof:ginganin

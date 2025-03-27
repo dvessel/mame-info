@@ -2,4 +2,6 @@ description:Bonus Talker
 manufacturer:Cleartone Leisure Ltd.
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

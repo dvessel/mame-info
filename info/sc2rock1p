@@ -2,6 +2,8 @@ description:How Big's Your Rock? (Global) (v1.4 Protocol) (Scorpion 2/3)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

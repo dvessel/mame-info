@@ -2,6 +2,8 @@ description:Raven (alternate set)
 manufacturer:Gottlieb
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:raven

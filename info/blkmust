@@ -2,6 +2,8 @@ description:Black Mustang (0152584, US)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:blkbrum
 romof:aristmk6
 cloneof:blkbrum

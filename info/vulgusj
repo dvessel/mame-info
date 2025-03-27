@@ -2,6 +2,8 @@ description:Vulgus (Japan?)
 manufacturer:Capcom
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:vulgus
 cloneof:vulgus

@@ -2,6 +2,8 @@ description:The Hustler (Japan, version M)
 manufacturer:Konami
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rackemup
 cloneof:rackemup

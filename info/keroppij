@@ -2,6 +2,8 @@ description:Kero Kero Keroppi no Isshoni Asobou (Japan)
 manufacturer:Sammy Industries
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:keroppi
 cloneof:keroppi

@@ -2,6 +2,8 @@ description:Egg Venture Deluxe
 manufacturer:The Game Room
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:eggventr
 cloneof:eggventr

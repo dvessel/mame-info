@@ -2,5 +2,7 @@ description:Oriental Legend Super / Xiyou Shi E Zhuan Super (ver. 101, Korean Bo
 manufacturer:IGS
 year:1998
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:pgm

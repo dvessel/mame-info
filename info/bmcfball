@@ -2,5 +2,7 @@ description:Football Classic (Bambino)
 manufacturer:Bambino
 year:1982
 status:good
+emulation:good
+savestate:supported
 romof:ssfball
 cloneof:ssfball

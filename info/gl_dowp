@@ -2,6 +2,8 @@ description:Deals On Wheels (Global) (v1.4 Protocol) (Stealth)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:gl_dow
 cloneof:gl_dow

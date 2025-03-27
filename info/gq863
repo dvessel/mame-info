@@ -2,5 +2,7 @@ description:Twinkle System
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

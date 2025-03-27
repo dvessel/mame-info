@@ -2,6 +2,8 @@ description:Royal Casino (D-2608208A1-1, Smaller Board, set 1)
 manufacturer:Dyna Electronics
 year:1984
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:rcasino
 cloneof:rcasino

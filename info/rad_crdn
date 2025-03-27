@@ -2,3 +2,5 @@ description:Play TV Card Night (NTSC)
 manufacturer:Radica / SSD Company LTD
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported

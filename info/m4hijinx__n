@@ -2,6 +2,8 @@ description:Hi Jinx (Barcrest) (MPU4) (JNS 0.2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4hijinx

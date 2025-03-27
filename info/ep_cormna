@@ -2,6 +2,8 @@ description:Coronation Street Monopoly Club (Maygay) (EPOCH) (1.7, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cormn
 cloneof:ep_cormn

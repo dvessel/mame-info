@@ -2,4 +2,6 @@ description:320
 manufacturer:Digilog
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:digilog_kbd

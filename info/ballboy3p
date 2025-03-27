@@ -2,6 +2,8 @@ description:Ball Boy (3 players)
 manufacturer:bootleg
 year:2004
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:snowbro3
 cloneof:snowbro3

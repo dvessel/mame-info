@@ -1,5 +1,7 @@
 description:The Rock
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:thecastle
 cloneof:thecastle

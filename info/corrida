@@ -2,4 +2,6 @@ description:Corrida de Toros (30178311, NSW/ACT)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

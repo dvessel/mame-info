@@ -2,4 +2,6 @@ description:UFO Catcher 7
 manufacturer:Sega
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

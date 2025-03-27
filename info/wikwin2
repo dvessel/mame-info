@@ -2,4 +2,6 @@ description:Wicked Winnings II - Power Pay (10214011, NSW/ACT)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

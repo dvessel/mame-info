@@ -2,6 +2,8 @@ description:Star Trekking (Mdm) (M1A/B) (set 7)
 manufacturer:Mdm
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413
 romof:m1startr

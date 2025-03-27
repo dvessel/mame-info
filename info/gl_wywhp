@@ -2,6 +2,8 @@ description:Wish You Were Here Club (Global) (v2.9 Protocol) (Stealth)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:gl_wywh
 cloneof:gl_wywh

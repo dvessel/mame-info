@@ -2,6 +2,8 @@ description:Kid Niki - Radical Ninja (US)
 manufacturer:Irem (Data East USA license)
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:kidniki
 cloneof:kidniki

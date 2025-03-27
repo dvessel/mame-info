@@ -2,6 +2,8 @@ description:HandiVoice HC-120
 manufacturer:Votrax/Phonic Mirror
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:votrsc01a
 romof:hc110
 cloneof:hc110

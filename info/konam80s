@@ -2,6 +2,8 @@ description:Konami 80's AC Special (GC826 VER. EAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sys573
 disk:826eaa01

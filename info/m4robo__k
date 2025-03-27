@@ -2,6 +2,8 @@ description:Robotica / Dream Machine (Avantime?) (MPU4) (Russia, set 8)
 manufacturer:Avantime?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4robo

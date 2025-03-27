@@ -2,4 +2,6 @@ description:Crossbow (version 2.0)
 manufacturer:Exidy
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

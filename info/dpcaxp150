@@ -2,4 +2,6 @@ description:DECpc AXP 150
 manufacturer:DEC
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:kb_ms_natural

@@ -1,6 +1,8 @@
 description:New Lucky 8 Lines / New Super 8 Lines (F-5, Witch Bonus)
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ns8lines
 cloneof:ns8lines

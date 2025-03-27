@@ -2,6 +2,8 @@ description:Bonanza (JPM) (IMPACT) (BO06 11)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6bnza

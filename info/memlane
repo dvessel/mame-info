@@ -2,6 +2,8 @@ description:Memory Lane
 manufacturer:Stern
 year:1978
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

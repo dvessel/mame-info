@@ -2,6 +2,8 @@ description:Zero Hour (bootleg)
 manufacturer:bootleg (Inder SA)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:zerohour
 cloneof:zerohour

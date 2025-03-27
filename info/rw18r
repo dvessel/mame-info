@@ -2,3 +2,5 @@ description:18R: Memory
 manufacturer:Rockwell
 year:1975
 status:good
+emulation:good
+savestate:supported

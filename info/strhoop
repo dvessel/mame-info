@@ -2,5 +2,7 @@ description:Street Hoop / Street Slam / Dunk Dream (DEM-004 ~ DEH-004)
 manufacturer:Data East Corporation
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

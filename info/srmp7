@@ -2,4 +2,6 @@ description:Super Real Mahjong P7 (Japan)
 manufacturer:Seta
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -1,3 +1,5 @@
 description:Portable Game Station 268-in-1
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Beach Spikers (GDS-0014)
 manufacturer:CRI / Sega
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

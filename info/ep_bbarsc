@@ -2,6 +2,8 @@ description:Balloon Bars (Maygay) (EPOCH) (2.0, set 4)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_bbars
 cloneof:ep_bbars

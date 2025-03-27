@@ -2,6 +2,8 @@ description:Noraut Deluxe Poker (bootleg)
 manufacturer:bootleg
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:norautp
 cloneof:norautp

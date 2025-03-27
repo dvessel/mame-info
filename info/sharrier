@@ -2,4 +2,6 @@ description:Space Harrier (Rev A, 8751 315-5163A)
 manufacturer:Sega
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

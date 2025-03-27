@@ -2,5 +2,7 @@ description:Jackpot Jump (Barcrest) (MPU4) (VJC 2.0)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

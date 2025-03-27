@@ -2,4 +2,6 @@ description:Casino Strip XI (Shooting Game version, for Pioneer LD)
 manufacturer:Status Games
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

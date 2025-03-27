@@ -2,5 +2,7 @@ description:Taito G NET (COH-1002T)
 manufacturer:Taito
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

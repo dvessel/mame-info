@@ -2,5 +2,7 @@ description:World Heroes 2 (ALM-006 ~ ALH-006)
 manufacturer:ADK
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

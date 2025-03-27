@@ -2,6 +2,8 @@ description:Meteor (Alca bootleg of Moon Cresta)
 manufacturer:bootleg (Alca)
 year:1980?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mooncrst
 cloneof:mooncrst

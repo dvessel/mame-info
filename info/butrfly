@@ -2,4 +2,6 @@ description:Butterfly Video Game (version A00)
 manufacturer:Bordun International
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

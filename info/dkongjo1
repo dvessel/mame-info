@@ -2,6 +2,8 @@ description:Donkey Kong (Japan set 3)
 manufacturer:Nintendo
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dkong
 cloneof:dkong

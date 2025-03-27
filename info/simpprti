@@ -2,6 +2,8 @@ description:The Simpsons Pinball Party (CPU 5.00, display I5.00, Italy)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

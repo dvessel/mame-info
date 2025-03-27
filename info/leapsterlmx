@@ -2,5 +2,7 @@ description:Leapster L-MAX
 manufacturer:LeapFrog
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:leapster
 cloneof:leapster

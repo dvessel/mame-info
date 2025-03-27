@@ -2,6 +2,8 @@ description:Zig Zag (bootleg Dig Dug conversion on Galaxian hardware, set 2)
 manufacturer:bootleg (LAX)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:zigzagb
 cloneof:zigzagb

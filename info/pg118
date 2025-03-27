@@ -2,3 +2,5 @@ description:Pocket Game 118-in-1 / Game Computer 118-in-1
 manufacturer:Pocket Game / Game Computer
 year:2019
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,3 +2,5 @@ description:Series 3
 manufacturer:Psion
 year:1991
 status:imperfect
+emulation:good
+savestate:supported

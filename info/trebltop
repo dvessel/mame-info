@@ -2,4 +2,6 @@ description:Treble Top (39-360-070)
 manufacturer:BFM
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

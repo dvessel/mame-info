@@ -2,5 +2,7 @@ description:Arcadia (JPM) (IMPACT) (AR9 C10, V9, set 1)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop

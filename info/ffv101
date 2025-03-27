@@ -2,6 +2,8 @@ description:Flipper Football (v1.01)
 manufacturer:Capcom
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ffv104
 cloneof:ffv104

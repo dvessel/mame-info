@@ -2,6 +2,8 @@ description:Ataque Sideral (Spanish bootleg of UniWar S)
 manufacturer:bootleg (Electrogame S.A.)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:uniwars
 cloneof:uniwars

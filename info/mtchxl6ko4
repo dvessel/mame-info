@@ -2,10 +2,11 @@ description:MegaTouch XL 6000 (Version r04)
 manufacturer:Merit Industries
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:dm_clgd5430
 device:microtouch
 romof:mtchxl6k
 cloneof:mtchxl6k
 disk:r04
-disk:r07

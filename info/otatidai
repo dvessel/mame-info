@@ -2,4 +2,6 @@ description:Disco Mahjong Otachidai no Okite (Japan)
 manufacturer:Sphinx
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

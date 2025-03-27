@@ -2,3 +2,5 @@ description:SCP-300F
 manufacturer:Seattle Computer
 year:1986
 status:good
+emulation:good
+savestate:supported

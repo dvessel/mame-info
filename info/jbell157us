@@ -2,6 +2,8 @@ description:Jingle Bell (US, V157US)
 manufacturer:IGS
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:jbell

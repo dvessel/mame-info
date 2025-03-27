@@ -2,6 +2,8 @@ description:Xexex (ver AAA)
 manufacturer:Konami
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:xexex
 cloneof:xexex

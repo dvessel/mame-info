@@ -2,6 +2,8 @@ description:Arkanoid (bootleg on Block hardware, set 1)
 manufacturer:bootleg
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:arkanoid
 cloneof:arkanoid

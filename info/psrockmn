@@ -2,4 +2,6 @@ description:Panic Shot Rockman
 manufacturer:Capcom
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,6 +2,8 @@ description:Gals Panic II (Germany, 2 PCB ver.)
 manufacturer:Kaneko
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:galpani2
 cloneof:galpani2

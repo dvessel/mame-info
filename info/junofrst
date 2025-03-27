@@ -2,4 +2,6 @@ description:Juno First
 manufacturer:Konami
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

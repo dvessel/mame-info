@@ -2,6 +2,8 @@ description:Star Castle (older)
 manufacturer:Cinematronics
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:starcas
 cloneof:starcas

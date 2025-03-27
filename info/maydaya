@@ -2,6 +2,8 @@ description:Mayday (set 2)
 manufacturer:Hoei
 year:1980
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:mayday
 cloneof:mayday

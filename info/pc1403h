@@ -2,5 +2,7 @@ description:Pocket Computer 1403H
 manufacturer:Sharp
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pc1403
 cloneof:pc1403

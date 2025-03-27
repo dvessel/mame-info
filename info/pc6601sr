@@ -2,6 +2,8 @@ description:PC-6601SR "Mr. PC" (Japan)
 manufacturer:NEC
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:pc80s31
 romof:pc6001
 cloneof:pc6001

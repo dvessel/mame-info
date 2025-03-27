@@ -2,6 +2,8 @@ description:Archimedes A7000+
 manufacturer:Acorn
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:kb_pcat101
 device:ps2_keybc
 romof:rpc600

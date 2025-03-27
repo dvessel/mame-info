@@ -2,6 +2,8 @@ description:Xevious (Atari, Namco PCB)
 manufacturer:Namco (Atari license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namco50
 device:namco51

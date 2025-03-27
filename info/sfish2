@@ -2,6 +2,8 @@ description:Sport Fishing 2 (UET 951106 V1.10e)
 manufacturer:Sega
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 disk:cdp-00428

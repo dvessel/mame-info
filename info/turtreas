@@ -2,4 +2,6 @@ description:Turtle Treasure (10234711, NSW/ACT)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

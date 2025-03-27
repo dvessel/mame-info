@@ -2,6 +2,8 @@ description:Blood Storm (v1.10)
 manufacturer:Strata / Incredible Technologies
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bloodstm
 cloneof:bloodstm

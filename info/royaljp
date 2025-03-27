@@ -2,6 +2,8 @@ description:Royal Card / Royal Jackpot (with a third draw)(encrypted)
 manufacturer:TAB / Video Klein
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:royalcrd
 cloneof:royalcrd

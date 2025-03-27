@@ -2,5 +2,7 @@ description:MX-101 (MSX1, Japan)
 manufacturer:Casio
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 romof:mx15
 cloneof:mx15

@@ -2,6 +2,8 @@ description:Snakes &amp; Ladders (JPM) (IMPACT) (SL16 C20) (set 5)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6snakes

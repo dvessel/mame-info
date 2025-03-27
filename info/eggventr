@@ -2,4 +2,6 @@ description:Egg Venture (Release 10)
 manufacturer:ICE / The Game Room
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

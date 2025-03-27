@@ -2,6 +2,8 @@ description:Bear X (Version 31) (Coinworld)
 manufacturer:Coinworld
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pr_bearx
 cloneof:pr_bearx

@@ -2,6 +2,8 @@ description:Lights...Camera...Action! (rev.2)
 manufacturer:Gottlieb
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:lca

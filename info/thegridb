@@ -2,6 +2,8 @@ description:The Grid (version 1.01)
 manufacturer:Midway
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:tms32032
 romof:thegrid

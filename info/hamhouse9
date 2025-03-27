@@ -2,6 +2,8 @@ description:Hamburger House 9
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:cmaster
 cloneof:cmaster

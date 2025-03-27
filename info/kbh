@@ -2,11 +2,11 @@ description:Keyboardheaven (Korea)
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:xt446
 romof:kbm
 cloneof:kbm
 disk:gu974-ka a01
 disk:gu974-ka a02
-disk:gq974-ja c01
-disk:gq974-ja a02

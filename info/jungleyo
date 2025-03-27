@@ -2,4 +2,6 @@ description:Jungle (Italy VI3.02)
 manufacturer:Yonshi
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

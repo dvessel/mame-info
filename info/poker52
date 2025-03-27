@@ -2,3 +2,5 @@ description:Poker 52 (Ver. 1.2)
 manufacturer:Blitz Systems Inc.
 year:1993?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

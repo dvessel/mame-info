@@ -2,7 +2,8 @@ description:Dragon's Lair (Italian)
 manufacturer:Cinematronics (Sidam license?)
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:dlair
 cloneof:dlair
-disk:dlair

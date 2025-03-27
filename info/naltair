@@ -2,5 +2,7 @@ description:Altair (Nauchpribor)
 manufacturer:bootleg (Nauchpribor)
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 romof:gnw_mmouse
 cloneof:gnw_mmouse

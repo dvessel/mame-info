@@ -2,6 +2,8 @@ description:Vapor Trail - Hyper Offence Formation (US)
 manufacturer:Data East USA
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:vaportra
 cloneof:vaportra

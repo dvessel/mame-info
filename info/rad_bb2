@@ -2,3 +2,5 @@ description:Play TV Baseball 2 (NTSC)
 manufacturer:Radica / SSD Company LTD
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported

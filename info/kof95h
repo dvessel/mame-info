@@ -2,6 +2,8 @@ description:The King of Fighters '95 (NGH-084)
 manufacturer:SNK
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kof95
 romof:neogeo

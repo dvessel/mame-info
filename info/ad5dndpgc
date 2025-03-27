@@ -2,5 +2,7 @@ description:Deal or No Deal The Perfect Game (Bellfruit) (Adder 5) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5dndpg
 cloneof:ad5dndpg

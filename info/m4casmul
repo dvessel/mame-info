@@ -2,5 +2,7 @@ description:Casino Multiplay (MPU4)
 manufacturer:DJE
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

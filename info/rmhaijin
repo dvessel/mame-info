@@ -2,4 +2,6 @@ description:Real Mahjong Haihai Jinji Idou Hen (Japan)
 manufacturer:Alba
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

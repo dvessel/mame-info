@@ -2,3 +2,5 @@ description:Galaxian (Bandai)
 manufacturer:Bandai
 year:1981
 status:good
+emulation:good
+savestate:supported

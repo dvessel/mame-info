@@ -2,6 +2,8 @@ description:Ms. Pac-Man (Elmac bootleg, later)
 manufacturer:bootleg (Elmac)
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mspacman
 cloneof:mspacman

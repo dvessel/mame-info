@@ -2,6 +2,8 @@ description:Pie Factory 2 (Vivid) (MPU5) (set 3)
 manufacturer:Vivid
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5piefc2
 cloneof:m5piefc2

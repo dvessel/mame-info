@@ -2,4 +2,6 @@ description:Noraut Joker Poker (Prologic HW)
 manufacturer:Video Fun Games Ltd.
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

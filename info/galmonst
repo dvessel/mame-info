@@ -2,6 +2,8 @@ description:Galaxy Monsters (Laguna S.A. Spanish bootleg of Space Invaders)
 manufacturer:bootleg (Laguna S.A.)
 year:1978
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

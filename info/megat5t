@@ -2,6 +2,8 @@ description:Megatouch 5 Tournament Edition (9255-70-01 R0C, Standard version)
 manufacturer:Merit
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:megat5

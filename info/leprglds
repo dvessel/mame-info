@@ -2,5 +2,7 @@ description:Leprechaun's Gold (Spanish)
 manufacturer:WMS
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:leprgld
 cloneof:leprgld

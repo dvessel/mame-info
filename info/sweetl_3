@@ -2,6 +2,8 @@ description:Sweet Life (090720 Entertainment)
 manufacturer:Igrosoft
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sweetl
 cloneof:sweetl

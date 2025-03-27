@@ -2,6 +2,8 @@ description:The King of Fighters '97 (Korean release)
 manufacturer:SNK
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kof97
 romof:neogeo

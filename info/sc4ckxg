@@ -2,6 +2,8 @@ description:Casino King X (Mazooma) (Scorpion 4) (Base, set 6)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4ckx
 cloneof:sc4ckx

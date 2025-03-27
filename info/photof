@@ -2,6 +2,8 @@ description:Photo Finish (bootleg?)
 manufacturer:Jaleco / Casio
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wwjgtin
 cloneof:wwjgtin

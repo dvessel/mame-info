@@ -2,6 +2,8 @@ description:Cash Explosion (PR2120) (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cexpl
 cloneof:sc4cexpl

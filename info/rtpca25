@@ -2,5 +2,7 @@ description:IBM RT PC Model A25
 manufacturer:International Business Machines
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:rtpc_kbd
 device:isa_ibm_mda

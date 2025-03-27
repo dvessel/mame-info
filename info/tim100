@@ -2,3 +2,5 @@ description:TIM-100
 manufacturer:Mihajlo Pupin Institute
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported

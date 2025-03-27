@@ -2,3 +2,5 @@ description:Bally Professional Arcade
 manufacturer:Bally Manufacturing
 year:1978
 status:good
+emulation:good
+savestate:supported

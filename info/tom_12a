@@ -2,6 +2,8 @@ description:Theatre Of Magic (1.2A)
 manufacturer:Bally
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:tom_13

@@ -2,5 +2,7 @@ description:Quiz Meitantei Neo &amp; Geo - Quiz Daisousa Sen part 2 (NGM-042 ~ N
 manufacturer:SNK
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

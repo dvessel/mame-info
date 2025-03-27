@@ -2,6 +2,8 @@ description:The King of Dragons (World 910711)
 manufacturer:Capcom
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kod
 cloneof:kod

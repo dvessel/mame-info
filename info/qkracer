@@ -2,3 +2,5 @@ description:QuizKid Racer (MM5799 version)
 manufacturer:National Semiconductor
 year:1977
 status:good
+emulation:good
+savestate:supported

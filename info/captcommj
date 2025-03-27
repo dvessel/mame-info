@@ -2,6 +2,8 @@ description:Captain Commando (Japan 911202)
 manufacturer:Capcom
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:captcomm
 cloneof:captcomm

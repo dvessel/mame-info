@@ -2,6 +2,8 @@ description:Ericsson WS286
 manufacturer:Ericsson
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:ega
 device:kb_pcat84

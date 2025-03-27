@@ -2,6 +2,8 @@ description:Millionaire's Club (Barcrest) (MPU4) (MIL 5.0, set 1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4milclb

@@ -2,4 +2,6 @@ description:Table Tennis Champions
 manufacturer:Gamart
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

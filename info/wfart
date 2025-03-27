@@ -2,3 +2,5 @@ description:TV Art Design Center
 manufacturer:WinFun
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

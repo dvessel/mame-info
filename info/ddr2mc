@@ -2,8 +2,11 @@ description:Dance Dance Revolution 2nd Mix with beatmaniaIIDX CLUB VERSiON (GE89
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ddr2m
 romof:sys573
 cloneof:ddr2m
+disk:896jaa01
 disk:895jaa02

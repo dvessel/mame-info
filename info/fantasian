@@ -2,6 +2,8 @@ description:Fantasia (940803 PCB)
 manufacturer:Comad &amp; New Japan System
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fantasia
 cloneof:fantasia

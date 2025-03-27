@@ -2,6 +2,8 @@ description:In The Hunt (US)
 manufacturer:Irem America
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:inthunt
 cloneof:inthunt

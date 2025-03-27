@@ -2,9 +2,10 @@ description:Sport Fishing 2 (J 951201 V1.100)
 manufacturer:Sega
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:sfish2
 cloneof:sfish2
 disk:cdp-00386b
-disk:cdp-00428

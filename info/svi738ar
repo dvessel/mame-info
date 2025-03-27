@@ -2,5 +2,7 @@ description:SVI-738 (MSX1, Arabic)
 manufacturer:Spectravideo
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 romof:svi738
 cloneof:svi738

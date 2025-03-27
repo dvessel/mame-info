@@ -2,6 +2,8 @@ description:Amiga 2000 (NTSC)
 manufacturer:Commodore
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:a2000kbd_us
 romof:a2000
 cloneof:a2000

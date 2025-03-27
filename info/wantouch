@@ -2,5 +2,7 @@ description:Wantouchable
 manufacturer:Sammy
 year:2003
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sammymdl

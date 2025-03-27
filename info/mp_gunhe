@@ -2,5 +2,7 @@ description:Gunstar Heroes (Mega Play)
 manufacturer:Sega
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:megaplay

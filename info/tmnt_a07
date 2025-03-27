@@ -2,6 +2,8 @@ description:Teenage Mutant Ninja Turtles (A 0.7 VUK prototype)
 manufacturer:Data East
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:tmnt_104

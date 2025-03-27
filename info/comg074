@@ -2,4 +2,6 @@ description:Cal Omega - Game 7.4 (Gaming Poker, W.Export)
 manufacturer:Cal Omega Inc.
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

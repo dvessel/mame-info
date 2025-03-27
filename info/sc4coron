@@ -2,6 +2,8 @@ description:Coronation Street Triple (Bingo Version ?1) (PR2?4?) (Mazooma) (Scor
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4coroc
 cloneof:sc4coroc

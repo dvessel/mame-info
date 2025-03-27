@@ -2,5 +2,7 @@ description:Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)
 manufacturer:Saurus
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

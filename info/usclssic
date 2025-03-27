@@ -2,4 +2,6 @@ description:U.S. Classic
 manufacturer:Seta
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

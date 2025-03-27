@@ -2,5 +2,7 @@ description:CMI IIx
 manufacturer:Fairlight
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:cmi_mkbd
 device:cmi_ankbd

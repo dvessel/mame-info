@@ -2,6 +2,8 @@ description:Buffalo (20232611, ASP)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:buffalo
 romof:aristmk6
 cloneof:buffalo

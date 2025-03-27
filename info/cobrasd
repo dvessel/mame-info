@@ -2,4 +2,6 @@ description:Cobra Sport Dart / Tour Sport Dart (Oki MSM6376 sound)
 manufacturer:TourVisión
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

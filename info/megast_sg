@@ -2,6 +2,8 @@ description:MEGA ST (Switzerland)
 manufacturer:Atari
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:st_kbd
 romof:st
 cloneof:st

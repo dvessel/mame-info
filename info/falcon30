@@ -2,4 +2,6 @@ description:Falcon030
 manufacturer:Atari
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:st_kbd

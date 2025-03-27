@@ -2,6 +2,8 @@ description:Crackerjack (Bellfruit) (Black Box) (5p Stake, £2 Jackpot)
 manufacturer:BFM
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bb_firec

@@ -2,6 +2,8 @@ description:Percussion Freaks (GQ881 VER. KAB)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:pcnfrk
 romof:sys573

@@ -2,4 +2,6 @@ description:Mini Golf (Atari, prototype)
 manufacturer:Atari
 year:1978
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

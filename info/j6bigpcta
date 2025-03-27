@@ -2,6 +2,8 @@ description:Big Picture (Ace) (IMPACT) (set 2, Protocol)
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6bigpct

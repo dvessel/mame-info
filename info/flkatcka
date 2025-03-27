@@ -2,6 +2,8 @@ description:Flak Attack (Japan, PWB 450593 sub-board)
 manufacturer:Konami
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mx5000
 cloneof:mx5000

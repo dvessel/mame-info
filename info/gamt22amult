@@ -2,5 +2,7 @@ description:Gaminator 22 (bootleg, Multiloto)
 manufacturer:bootleg
 year:2002?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gamt22
 cloneof:gamt22

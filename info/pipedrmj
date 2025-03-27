@@ -2,6 +2,8 @@ description:Pipe Dream (Japan)
 manufacturer:Video System Co.
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pipedrm
 cloneof:pipedrm

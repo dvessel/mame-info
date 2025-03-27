@@ -2,6 +2,8 @@ description:LLC-2
 manufacturer:SCCH
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:k7659_keyboard
 romof:llc1
 cloneof:llc1

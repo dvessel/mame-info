@@ -2,6 +2,8 @@ description:VIC-20 (NTSC)
 manufacturer:Commodore Business Machines
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 device:c1541
 romof:vic1001
 cloneof:vic1001

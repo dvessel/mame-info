@@ -2,6 +2,8 @@ description:Xerox 16/8
 manufacturer:Xerox
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:x820kb
 romof:x820ii
 cloneof:x820ii

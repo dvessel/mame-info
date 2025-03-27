@@ -2,6 +2,8 @@ description:Nibbler (rev 9, set 2)
 manufacturer:Rock-Ola
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:nibbler
 cloneof:nibbler

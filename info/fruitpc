@@ -1,5 +1,7 @@
 description:Fruit Land
 year:2006
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:fruit

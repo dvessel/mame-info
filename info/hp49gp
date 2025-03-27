@@ -2,3 +2,5 @@ description:HP49G+
 manufacturer:Hewlett Packard
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Give Us A Clue (Barcrest) (MPU4) (C25 0.4 C)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4gclue

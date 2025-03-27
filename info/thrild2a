@@ -2,9 +2,10 @@ description:Thrill Drive 2 (ver AAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:thrild2
 romof:kviper
 cloneof:thrild2
 disk:a41a02
-disk:a41b02

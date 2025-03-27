@@ -2,4 +2,6 @@ description:WWF Superstars (Europe)
 manufacturer:Technos Japan
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop

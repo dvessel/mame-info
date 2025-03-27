@@ -2,6 +2,8 @@ description:News (set 2)
 manufacturer:Poby
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:news
 cloneof:news

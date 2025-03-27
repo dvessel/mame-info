@@ -2,5 +2,7 @@ description:Quids In (BWB) (MPU4) (set 1)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

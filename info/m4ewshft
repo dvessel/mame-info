@@ -2,5 +2,7 @@ description:Each Way Shifter (Mdm) (MPU4)
 manufacturer:Mdm
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

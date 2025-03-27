@@ -2,6 +2,8 @@ description:Mahjong Cafe Doll Great (Japan, Ver. 1.00)
 manufacturer:Dynax
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:cafedoll
 cloneof:cafedoll

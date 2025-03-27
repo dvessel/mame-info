@@ -2,6 +2,8 @@ description:Sega Bass Fishing Challenge
 manufacturer:Sega
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:basschal
 romof:awbios

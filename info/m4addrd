@@ -2,6 +2,8 @@ description:Adders &amp; Ladders (Barcrest) (Dutch) (MPU4) (DAL 1.2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

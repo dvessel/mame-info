@@ -2,5 +2,7 @@ description:Alphatronic PC (NTSC)
 manufacturer:Triumph-Adler
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:alphatro
 cloneof:alphatro

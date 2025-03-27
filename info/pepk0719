@@ -2,4 +2,6 @@ description:Player's Edge (PK0719-PC092) Standard Draw Poker (El Cortez)
 manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

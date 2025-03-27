@@ -2,3 +2,5 @@ description:My Arcade Pac-Man Pocket Player (DGUNL-3227)
 manufacturer:dreamGEAR
 year:2018
 status:good
+emulation:good
+savestate:unsupported

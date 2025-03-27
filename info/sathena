@@ -2,6 +2,8 @@ description:Super Athena (bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:athena
 cloneof:athena

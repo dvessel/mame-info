@@ -2,6 +2,8 @@ description:Cosmo Gang the Video (Japan)
 manufacturer:Namco
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65
 romof:cosmogng

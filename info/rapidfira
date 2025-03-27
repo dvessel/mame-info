@@ -2,6 +2,8 @@ description:Rapid Fire (v1.1, Build 238)
 manufacturer:Hanaho Games
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rapidfir
 cloneof:rapidfir

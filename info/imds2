@@ -2,4 +2,6 @@ description:Intellec MDS-II
 manufacturer:Intel
 year:1979
 status:good
+emulation:good
+savestate:unsupported
 device:imds2ioc

@@ -2,5 +2,7 @@ description:beatmania 7th MIX (ver JA-B)
 manufacturer:Konami
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:b07jaa11

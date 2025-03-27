@@ -2,4 +2,6 @@ description:Redline Racer (2 players)
 manufacturer:Cinematronics (Tradewest license)
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Special Criminal Investigation (Japan)
 manufacturer:Taito Corporation
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:sci
 cloneof:sci

@@ -2,6 +2,8 @@ description:San Francisco Rush: The Rock (boot rom L 1.0, GUTS Oct 6 1997 / MAIN
 manufacturer:Atari Games
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:tms32031
 disk:sfrushrk

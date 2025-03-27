@@ -2,5 +2,7 @@ description:Hana Kanzashi (Japan)
 manufacturer:Dynax
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

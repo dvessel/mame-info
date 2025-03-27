@@ -2,6 +2,8 @@ description:Smart Toss 'em / Smartball (Ver 2.0)
 manufacturer:Smart Industries / Creative Electronics and Software
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

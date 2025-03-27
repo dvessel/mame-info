@@ -2,6 +2,8 @@ description:Grand Cherry Master (bootleg of Super Cherry Master)
 manufacturer:bootleg
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:scmaster
 cloneof:scmaster

@@ -2,6 +2,8 @@ description:Casino Royale (Bellfruit) (set 1, UK, 8GBP Jackpot, Protocol) (Scorp
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

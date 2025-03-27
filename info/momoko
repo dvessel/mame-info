@@ -2,4 +2,6 @@ description:Momoko 120% (Japanese text)
 manufacturer:Jaleco
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop

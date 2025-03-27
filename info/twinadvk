@@ -2,6 +2,8 @@ description:Twin Adventure (Korea)
 manufacturer:Barko Corp.
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:twinadv
 cloneof:twinadv

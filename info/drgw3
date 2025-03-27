@@ -2,5 +2,7 @@ description:Dragon World 3 / Zhongguo Long 3 / Dungfong Zi Zyu 3 / Chuugokuryuu 
 manufacturer:IGS
 year:1998
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:pgm

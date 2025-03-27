@@ -2,6 +2,8 @@ description:Twilight Zone - Further Encounters (Ace) (sp.ACE) (set 9)
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ace_sp_reelctrl
 device:m68705p3

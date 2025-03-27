@@ -2,3 +2,5 @@ description:Chess-Master (set 1)
 manufacturer:VEB Mikroelektronik "Karl Marx" Erfurt
 year:1984
 status:good
+emulation:good
+savestate:supported

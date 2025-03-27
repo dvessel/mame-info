@@ -2,6 +2,8 @@ description:Tank Force (US, 4 Players)
 manufacturer:Namco
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tankfrce
 cloneof:tankfrce

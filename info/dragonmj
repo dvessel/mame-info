@@ -2,5 +2,7 @@ description:Dragon Mahjong (Ver 1.20)
 manufacturer:OCT
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413

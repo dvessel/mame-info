@@ -2,6 +2,8 @@ description:The Mah-jong (Japan, set 2)
 manufacturer:Visco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:themj
 cloneof:themj

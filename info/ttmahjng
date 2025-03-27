@@ -2,6 +2,8 @@ description:T.T Mahjong
 manufacturer:Alpha Denshi Co. (Taito license)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:jongpute
 cloneof:jongpute

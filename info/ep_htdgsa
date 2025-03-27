@@ -2,6 +2,8 @@ description:Hot Dogs (Maygay) (EPOCH) (set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_htdgs
 cloneof:ep_htdgs

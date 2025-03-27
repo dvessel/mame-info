@@ -2,5 +2,7 @@ description:Road Runner (rev 2)
 manufacturer:Atari Games
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:atarisy1

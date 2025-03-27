@@ -2,5 +2,7 @@ description:Pinball Wizard (Maygay M2, SW8-099 SW8149)
 manufacturer:Maygay
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mg_pbw
 cloneof:mg_pbw

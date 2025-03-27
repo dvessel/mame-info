@@ -2,4 +2,6 @@ description:Live Wire (Bwb) (MPU5) (set 1)
 manufacturer:Bwb
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

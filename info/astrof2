@@ -2,6 +2,8 @@ description:Astro Fighter (set 2)
 manufacturer:Data East
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:astrof
 cloneof:astrof

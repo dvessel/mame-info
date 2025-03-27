@@ -2,3 +2,5 @@ description:NC200
 manufacturer:Amstrad plc
 year:1993
 status:good
+emulation:good
+savestate:supported

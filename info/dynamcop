@@ -2,5 +2,7 @@ description:Dynamite Cop (Export, Model 2A)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill

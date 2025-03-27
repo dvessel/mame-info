@@ -2,4 +2,6 @@ description:Beaver Bucks (20255111, NSW/ACT)
 manufacturer:Aristocrat
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,6 +2,8 @@ description:City Connection (set 2)
 manufacturer:Jaleco
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:citycon
 cloneof:citycon

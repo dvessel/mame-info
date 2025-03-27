@@ -2,3 +2,5 @@ description:Babbage-2nd
 manufacturer:Mr Takafumi Aihara
 year:1986
 status:good
+emulation:good
+savestate:supported

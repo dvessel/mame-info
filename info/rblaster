@@ -2,5 +2,7 @@ description:Road Blaster (Data East LD)
 manufacturer:Data East
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 disk:rblaster

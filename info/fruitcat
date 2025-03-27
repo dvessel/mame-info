@@ -2,3 +2,5 @@ description:Fruit Cat (v2.00)
 manufacturer:LGT
 year:2003?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

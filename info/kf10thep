@@ -2,6 +2,8 @@ description:The King of Fighters 10th Anniversary Extra Plus (bootleg of The Kin
 manufacturer:bootleg
 year:2005
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kof2002
 romof:neogeo

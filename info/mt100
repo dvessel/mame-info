@@ -2,4 +2,6 @@ description:MT-100
 manufacturer:Roland
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:sed1200da

@@ -2,6 +2,8 @@ description:Dig Dug II (Old Ver.)
 manufacturer:Namco
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:digdug2
 cloneof:digdug2

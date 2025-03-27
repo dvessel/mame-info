@@ -2,3 +2,5 @@ description:IQ-2000 CPC-300 (MSX2, Korea)
 manufacturer:Daewoo
 year:1986
 status:good
+emulation:good
+savestate:unsupported

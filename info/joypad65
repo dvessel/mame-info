@@ -2,3 +2,5 @@ description:Joypad 65
 manufacturer:WinFun / JungleTac
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Cash Raker Club (V1.3) (Qps) (Scorpion 4)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4crcl
 cloneof:sc4crcl

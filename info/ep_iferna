@@ -2,6 +2,8 @@ description:Inferno (Impulse) (EPOCH) (set 2)
 manufacturer:Impulse
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_ifern
 cloneof:ep_ifern

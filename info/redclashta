@@ -2,6 +2,8 @@ description:Red Clash (Tehkan, set 2)
 manufacturer:Kaneko (Tehkan license)
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:redclash
 cloneof:redclash

@@ -2,6 +2,8 @@ description:Fruit Star Bonus (Ver 8.17BGL-3, Burgenland, set 2)
 manufacturer:Webak Elektronik
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fruitstb
 cloneof:fruitstb

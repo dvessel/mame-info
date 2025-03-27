@@ -2,4 +2,6 @@ description:ROLLing eX.tre.me (US)
 manufacturer:Gaelco (Namco America license)
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

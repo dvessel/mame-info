@@ -2,6 +2,8 @@ description:Adventures of Rocky and Bullwinkle and Friends (USA 3.20, display A3
 manufacturer:Data East
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

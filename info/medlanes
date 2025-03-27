@@ -2,4 +2,6 @@ description:Meadows Lanes
 manufacturer:Meadows Games, Inc.
 year:1977
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

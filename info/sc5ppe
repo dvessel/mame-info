@@ -2,6 +2,8 @@ description:Pink Panther (Mazooma) (Scorpion 5) (set 6)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5pp
 cloneof:sc5pp

@@ -2,6 +2,8 @@ description:Crisis Zone (World, CSZO4 Ver. A)
 manufacturer:Namco
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:namco_csz1
 romof:crszone

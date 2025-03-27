@@ -2,6 +2,8 @@ description:Shikigami no Shiro (V2.03J 2001/08/07 18:11)
 manufacturer:Alfa System / Taito
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh3002t
 disk:shikigam

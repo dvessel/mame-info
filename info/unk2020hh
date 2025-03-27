@@ -1,5 +1,7 @@
 description:unknown VTxx based GameBoy style handheld (2020 PCB)
 year:2020
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:unk2019hh
 cloneof:unk2019hh

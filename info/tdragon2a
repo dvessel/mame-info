@@ -2,6 +2,8 @@ description:Thunder Dragon 2 (1st Oct. 1993)
 manufacturer:NMK
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tdragon2
 cloneof:tdragon2

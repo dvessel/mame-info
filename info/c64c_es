@@ -2,6 +2,8 @@ description:Commodore 64C (Spain)
 manufacturer:Commodore Business Machines
 year:1988
 status:good
+emulation:good
+savestate:supported
 device:c1541
 romof:c64
 cloneof:c64

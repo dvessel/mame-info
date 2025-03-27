@@ -2,6 +2,8 @@ description:Olystar 20F
 manufacturer:AEG Olympia
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:cga
 device:isa_hdc
 device:kb_pcxt83

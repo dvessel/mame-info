@@ -2,4 +2,6 @@ description:VIC-1001 (Japan)
 manufacturer:Commodore Business Machines
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 device:c1541

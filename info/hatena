@@ -2,5 +2,7 @@ description:Adventure Quiz 2 - Hatena? no Daibouken (Japan 900228)
 manufacturer:Capcom
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

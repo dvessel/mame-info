@@ -2,3 +2,5 @@ description:Pocket Computer 1450
 manufacturer:Sharp
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

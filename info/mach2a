@@ -2,6 +2,8 @@ description:Mach 2 (set 2)
 manufacturer:Spinball
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:mach2

@@ -2,3 +2,5 @@ description:Husky
 manufacturer:DVW Microelectronics
 year:1981
 status:good
+emulation:good
+savestate:unsupported

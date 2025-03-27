@@ -2,9 +2,10 @@ description:Sogeki (ver JAA)
 manufacturer:Konami
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sscopex
 romof:kviper
 cloneof:sscopex
 disk:a13b02
-disk:a13c02

@@ -2,6 +2,8 @@ description:Cosmic Casinos (Barcrest) (MPU4) (CC__7.0)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4coscas

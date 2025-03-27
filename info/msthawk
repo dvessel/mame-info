@@ -2,3 +2,5 @@ description:Star Hawk (Mattel)
 manufacturer:Mattel Electronics
 year:1982
 status:good
+emulation:good
+savestate:supported

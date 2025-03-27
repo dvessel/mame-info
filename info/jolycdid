@@ -2,5 +2,7 @@ description:Jolly Card (Italian, different colors, set 1)
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 romof:jollycrd
 cloneof:jollycrd

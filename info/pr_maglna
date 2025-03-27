@@ -2,6 +2,8 @@ description:Magic Lines (Version 1.1) (Coinworld)
 manufacturer:Coinworld
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pr_magln
 cloneof:pr_magln

@@ -2,5 +2,7 @@ description:Shadow Warriors (Modular System)
 manufacturer:bootleg (Gaelco / Ervisa)
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:shadoww
 cloneof:shadoww

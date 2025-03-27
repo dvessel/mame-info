@@ -2,5 +2,7 @@ description:Heaven's Gate
 manufacturer:Racdym / Atlus
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh1001l

@@ -2,6 +2,8 @@ description:Quester Special Edition (Japan)
 manufacturer:Namco
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:quester
 cloneof:quester

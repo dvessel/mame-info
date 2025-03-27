@@ -2,3 +2,5 @@ description:Hazeltine 1552
 manufacturer:Hazeltine Corporation
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,5 +2,7 @@ description:Gunmen Wars (Japan, GM1 Ver. B)
 manufacturer:Namco
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:namco_asca5

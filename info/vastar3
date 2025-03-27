@@ -2,6 +2,8 @@ description:Vastar (set 3)
 manufacturer:Orca (Sesame Japan license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:vastar
 cloneof:vastar

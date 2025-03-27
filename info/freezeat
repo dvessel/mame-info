@@ -2,4 +2,6 @@ description:Freeze (Atari) (prototype, English voice, 96/10/25)
 manufacturer:Atari Games
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

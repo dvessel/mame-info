@@ -2,6 +2,8 @@ description:Prize Tetris (BWB) (Showcase) (MPU4 Video)
 manufacturer:BWB
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:v4pztet
 cloneof:v4pztet

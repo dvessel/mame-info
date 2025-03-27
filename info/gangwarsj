@@ -2,6 +2,8 @@ description:Gang Wars (Japan)
 manufacturer:Alpha Denshi Co.
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:gangwars

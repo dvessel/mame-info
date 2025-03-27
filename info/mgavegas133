@@ -2,6 +2,8 @@ description:Vegas 1 (Ver 1.33 single coin pulse)
 manufacturer:MGA
 year:1985
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:mgavegas

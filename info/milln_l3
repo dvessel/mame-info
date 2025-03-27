@@ -2,6 +2,8 @@ description:Millionaire (L-3)
 manufacturer:Williams
 year:1987
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

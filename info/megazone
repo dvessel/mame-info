@@ -2,4 +2,6 @@ description:Mega Zone (version L)
 manufacturer:Konami
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

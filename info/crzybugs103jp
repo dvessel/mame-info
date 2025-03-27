@@ -2,6 +2,8 @@ description:Crazy Bugs (V103JP)
 manufacturer:IGS
 year:2007
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:crzybugs
 cloneof:crzybugs

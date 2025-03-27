@@ -2,6 +2,8 @@ description:Amiga 4000/040 (NTSC)
 manufacturer:Commodore
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:a2000kbd_us
 romof:a4000
 cloneof:a4000

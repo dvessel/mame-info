@@ -2,5 +2,7 @@ description:Ninja Mission (Arcadia, set 1, V 2.5)
 manufacturer:Arcadia Systems
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ar_bios

@@ -2,6 +2,8 @@ description:Got-Ya (12/24/1981)
 manufacturer:T.I.C. (Game-A-Tron license)
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:thehand
 cloneof:thehand

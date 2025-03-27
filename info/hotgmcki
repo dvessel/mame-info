@@ -2,4 +2,6 @@ description:Mahjong Hot Gimmick Integral (Japan)
 manufacturer:Psikyo
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop

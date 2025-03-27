@@ -2,4 +2,6 @@ description:Magic Touch (v. 28.05)
 manufacturer:Playmark
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

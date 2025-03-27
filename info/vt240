@@ -2,5 +2,7 @@ description:VT240
 manufacturer:Digital Equipment Corporation
 year:1983
 status:imperfect
+emulation:good
+savestate:unsupported
 device:upd7220
 device:lk201

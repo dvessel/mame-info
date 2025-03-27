@@ -2,6 +2,8 @@ description:Counter Run (bootleg set 3)
 manufacturer:bootleg
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:countrun
 cloneof:countrun

@@ -2,5 +2,7 @@ description:The King of Fighters '97 (NGM-2320)
 manufacturer:SNK
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

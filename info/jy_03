@@ -2,6 +2,8 @@ description:Junk Yard (0.3)
 manufacturer:Williams
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:jy_12

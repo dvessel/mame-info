@@ -2,6 +2,8 @@ description:Cyber Police ESWAT (bootleg, set 1)
 manufacturer:bootleg
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:eswat
 cloneof:eswat

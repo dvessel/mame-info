@@ -2,6 +2,8 @@ description:Gekirindan (Ver 2.3J 1995/09/21)
 manufacturer:Taito Corporation
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gekiridn
 cloneof:gekiridn

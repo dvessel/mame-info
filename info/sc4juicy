@@ -2,4 +2,6 @@ description:Juicy Jackpots Club (PR1136) (65% Ferry) (Bellfruit) (Scorpion 4) (s
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

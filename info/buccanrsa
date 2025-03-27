@@ -2,6 +2,8 @@ description:Buccaneers (set 2)
 manufacturer:Duintronic
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:buccanrs
 cloneof:buccanrs

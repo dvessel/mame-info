@@ -2,6 +2,8 @@ description:Gun Hard (Japan)
 manufacturer:Data East Corporation
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:lockload
 cloneof:lockload

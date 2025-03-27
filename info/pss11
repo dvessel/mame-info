@@ -2,5 +2,7 @@ description:PSS-11
 manufacturer:Yamaha
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 romof:psr150
 cloneof:psr150

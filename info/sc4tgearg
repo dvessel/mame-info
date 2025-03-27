@@ -2,6 +2,8 @@ description:Top Gears (Mazooma) (Scorpion 4) (set 8)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4tgear
 cloneof:sc4tgear

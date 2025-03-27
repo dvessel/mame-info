@@ -2,6 +2,8 @@ description:Heartbreak Hotel Club (Global) (v1.9 Protocol) (Stealth)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:gl_hbhcl
 cloneof:gl_hbhcl

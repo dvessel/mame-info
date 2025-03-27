@@ -2,6 +2,8 @@ description:1000 Miglia: Great 1000 Miles Rally (94/05/10)
 manufacturer:Kaneko
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gtmr
 cloneof:gtmr

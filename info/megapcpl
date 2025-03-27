@@ -2,6 +2,8 @@ description:MegaPC Plus
 manufacturer:Amstrad plc
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ibm_vga
 device:at_keybc
 device:kb_ms_natural

@@ -2,6 +2,8 @@ description:Exciting Soccer (US)
 manufacturer:Alpha Denshi Co.
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:exctsccr
 cloneof:exctsccr

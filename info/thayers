@@ -2,6 +2,8 @@ description:Thayer's Quest (set 1)
 manufacturer:RDI Video Systems
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:votrsc01
 disk:thayers

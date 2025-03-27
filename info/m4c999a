@@ -2,6 +2,8 @@ description:Cloud 999 (Barcrest) (bootleg) (MPU4) (CLN 3.6)
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4c999

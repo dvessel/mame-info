@@ -2,6 +2,8 @@ description:Golden Tee 3D Golf Tournament (v2.31)
 manufacturer:Incredible Technologies
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gt3d
 cloneof:gt3d

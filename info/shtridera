@@ -2,6 +2,8 @@ description:Shot Rider (Sigma license)
 manufacturer:Seibu Kaihatsu (Sigma license)
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:shtrider
 cloneof:shtrider

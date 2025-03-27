@@ -2,6 +2,8 @@ description:Road Hog (BWB / Barcrest) (MPU4) (RO_ 2.0, hack?, set 3)
 manufacturer:hack?
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4rhog

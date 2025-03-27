@@ -2,6 +2,8 @@ description:Wally wo Sagase! (rev A, Japan, 2 players) (FD1094 317-0197A)
 manufacturer:Sega
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:wwallyj
 cloneof:wwallyj

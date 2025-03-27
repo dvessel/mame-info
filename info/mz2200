@@ -2,5 +2,7 @@ description:MZ-2200
 manufacturer:Sharp
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mz2000
 cloneof:mz2000

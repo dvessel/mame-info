@@ -2,6 +2,8 @@ description:Cuckoo (CHG1195, US)
 manufacturer:Aristocrat
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cuckoo
 romof:aristmk5

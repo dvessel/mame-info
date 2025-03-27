@@ -2,5 +2,7 @@ description:unknown game on FR004 hardware (set 2)
 manufacturer:Nova Desitec
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:unkfr004
 cloneof:unkfr004

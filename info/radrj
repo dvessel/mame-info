@@ -2,6 +2,8 @@ description:Rad Rally (Japan)
 manufacturer:Sega
 year:1991
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:radr
 cloneof:radr

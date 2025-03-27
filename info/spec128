@@ -2,3 +2,5 @@ description:ZX Spectrum 128
 manufacturer:Sinclair Research Ltd
 year:1986
 status:good
+emulation:good
+savestate:unsupported

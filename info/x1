@@ -2,3 +2,5 @@ description:X1 (CZ-800C)
 manufacturer:Sharp
 year:1982
 status:good
+emulation:good
+savestate:unsupported

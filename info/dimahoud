@@ -2,6 +2,8 @@ description:Dimahoo (USA 000121 Phoenix Edition) (bootleg)
 manufacturer:bootleg
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:dimahoo

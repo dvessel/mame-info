@@ -2,5 +2,7 @@ description:DreamWriter T400
 manufacturer:NTS
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wales210
 cloneof:wales210

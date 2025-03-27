@@ -2,6 +2,8 @@ description:Monopoly Red Hot (Mazooma) (Scorpion 4) (set 6)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4mrh
 cloneof:sc4mrh

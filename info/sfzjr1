@@ -2,6 +2,8 @@ description:Street Fighter Zero (Japan 950627)
 manufacturer:Capcom
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:sfa

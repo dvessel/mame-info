@@ -2,5 +2,7 @@ description:Triple Treat (0201692V, NSW/ACT)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

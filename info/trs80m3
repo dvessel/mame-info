@@ -2,3 +2,5 @@ description:TRS-80 Model III
 manufacturer:Tandy Radio Shack
 year:1980
 status:preliminary
+emulation:preliminary
+savestate:supported

@@ -2,4 +2,6 @@ description:Cash Inferno (BWB) (Release 4, 20p Fixed, Cash+Token) (set 1) (MPU4 
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

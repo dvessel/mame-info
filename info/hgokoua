@@ -2,6 +2,8 @@ description:Hanafuda Hana Gokou (Japan, ver. A)
 manufacturer:Dynax (Alba license)
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:hgokou

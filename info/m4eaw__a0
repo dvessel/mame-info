@@ -2,6 +2,8 @@ description:Everyone's A Winner (Barcrest) (MPU4) (ER4 0.2 YD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4eaw

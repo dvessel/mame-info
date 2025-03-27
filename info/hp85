@@ -2,3 +2,5 @@ description:HP 85
 manufacturer:HP
 year:1980
 status:good
+emulation:good
+savestate:unsupported

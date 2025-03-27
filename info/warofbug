@@ -2,4 +2,6 @@ description:War of the Bugs or Monsterous Manouvers in a Mushroom Maze
 manufacturer:Armenia / Food and Fun Corp
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

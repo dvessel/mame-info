@@ -2,6 +2,8 @@ description:Gee Bee (UK)
 manufacturer:Namco (Alca license)
 year:1978
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:geebee
 cloneof:geebee

@@ -2,5 +2,7 @@ description:Shooting Zone System BIOS
 manufacturer:Sega
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios
 kind:coinop

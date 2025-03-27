@@ -2,6 +2,8 @@ description:House of Cards (HSC1)
 manufacturer:Merit
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pitboss
 cloneof:pitboss

@@ -2,3 +2,5 @@ description:HB-55P (MSX1, Europe)
 manufacturer:Sony
 year:1984
 status:good
+emulation:good
+savestate:unsupported

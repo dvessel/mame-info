@@ -2,6 +2,8 @@ description:Vs. Atari R.B.I. Baseball (set 2)
 manufacturer:Namco
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:rbibb
 cloneof:rbibb

@@ -2,6 +2,8 @@ description:Gokujou Parodius: Kako no Eikou o Motomete (ver JAD)
 manufacturer:Konami
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fantjour
 romof:konamigx

@@ -2,4 +2,6 @@ description:Super Stars
 manufacturer:Amatic Trading GmbH
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

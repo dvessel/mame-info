@@ -2,6 +2,8 @@ description:Casino Crazy Fruits Gold (Bellfruit) (Scorpion 4) (set 15)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4cckey
 cloneof:sc4cckey

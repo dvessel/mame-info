@@ -2,3 +2,5 @@ description:Extra Draw (V100VE)
 manufacturer:IGS
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported

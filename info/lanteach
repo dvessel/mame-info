@@ -2,3 +2,5 @@ description:Language Teacher
 manufacturer:Texas Instruments
 year:1980
 status:good
+emulation:good
+savestate:supported

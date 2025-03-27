@@ -2,6 +2,8 @@ description:Party Gras (AHG1568, US)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:partygrs

@@ -2,6 +2,8 @@ description:Rags To Riches Club (Maygay) (EPOCH) (1.10, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_rags
 cloneof:ep_rags

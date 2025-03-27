@@ -2,6 +2,8 @@ description:Whales of Cash (0451311, US)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:whalecsh
 romof:aristmk6
 cloneof:whalecsh

@@ -2,6 +2,8 @@ description:Spice It Up (Bellfruit) (Scorpion 4) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4spice
 cloneof:sc4spice

@@ -2,5 +2,7 @@ description:Space Ace (DL2 Conversion) (US v1.3)
 manufacturer:Cinematronics (Leland Corporation license)
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:spaceace
 cloneof:spaceace

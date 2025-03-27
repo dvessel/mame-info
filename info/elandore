@@ -2,6 +2,8 @@ description:Touryuu Densetsu Elan-Doree / Elan Doree - Legend of Dragoon (JUET 9
 manufacturer:Sai-Mate
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

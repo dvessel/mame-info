@@ -2,6 +2,8 @@ description:Jungle King (Japan, earlier, alt)
 manufacturer:Taito Corporation
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:junglek
 cloneof:junglek

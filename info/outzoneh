@@ -2,6 +2,8 @@ description:Out Zone (harder)
 manufacturer:Toaplan
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:outzone
 cloneof:outzone

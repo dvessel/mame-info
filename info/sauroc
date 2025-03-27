@@ -2,6 +2,8 @@ description:Sauro (set 4, easier)
 manufacturer:Tecfri
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sauro
 cloneof:sauro

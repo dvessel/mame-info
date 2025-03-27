@@ -2,6 +2,8 @@ description:Slap Shot (Ver 2.2 J)
 manufacturer:Taito Corporation
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:slapshot
 cloneof:slapshot

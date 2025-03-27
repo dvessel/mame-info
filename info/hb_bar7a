@@ -2,6 +2,8 @@ description:Bar Seven (Fairgames) (set 2)
 manufacturer:Fairgames
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:hb_bar7
 cloneof:hb_bar7

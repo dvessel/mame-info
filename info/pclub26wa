@@ -2,6 +2,8 @@ description:Print Club 2 Vol. 6 Winter (J 970121 V1.200)
 manufacturer:Atlus
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:pclub26w

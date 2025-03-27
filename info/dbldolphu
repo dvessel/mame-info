@@ -2,6 +2,8 @@ description:Double Dolphins (0351006, US)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:dbldolph
 romof:aristmk6
 cloneof:dbldolph

@@ -2,6 +2,8 @@ description:Spring Carnival - Jackpot Carnival (10032721, Queensland)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:spgcarn
 romof:aristmk6
 cloneof:spgcarn

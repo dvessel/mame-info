@@ -2,6 +2,8 @@ description:Beatmania III Append 7th Mix
 manufacturer:Konami
 year:2002
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:gcb07jca01
 disk:gcb07jca02

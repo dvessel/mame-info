@@ -2,6 +2,8 @@ description:Mephisto Polgar 10 MHz (v10.1)
 manufacturer:Hegener + Glaser
 year:1990
 status:good
+emulation:good
+savestate:supported
 device:hd44780
 romof:polgar
 cloneof:polgar

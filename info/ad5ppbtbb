@@ -2,5 +2,7 @@ description:Pink Panther Break The Bank (PR2304, QPSPPPBB) (Qps) (Adder 5) (set 
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5ppbtb
 cloneof:ad5ppbtb

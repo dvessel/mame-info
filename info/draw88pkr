@@ -2,4 +2,6 @@ description:Draw 88 Poker (V2.0)
 manufacturer:BTE, Inc.
 year:1988
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

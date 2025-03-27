@@ -2,6 +2,8 @@ description:Coors Light Bowling
 manufacturer:Incredible Technologies / Capcom
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:capbowl
 cloneof:capbowl

@@ -2,6 +2,8 @@ description:Deal or No Deal The Deal Wheel (Bellfruit) (Scorpion 4) (DOFN473, se
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4dnddw
 cloneof:sc4dnddw

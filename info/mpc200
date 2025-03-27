@@ -2,3 +2,5 @@ description:MPC-200 (MSX1, UK)
 manufacturer:Sanyo
 year:1985
 status:good
+emulation:good
+savestate:unsupported

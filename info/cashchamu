@@ -2,6 +2,8 @@ description:Cash Chameleon (DHG4078-99, US)
 manufacturer:Aristocrat
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cashcham
 romof:aristmk5

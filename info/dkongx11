@@ -2,6 +2,8 @@ description:Donkey Kong II: Jumpman Returns (hack, V1.1)
 manufacturer:hack (Braze Technologies)
 year:2006
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dkong
 cloneof:dkong

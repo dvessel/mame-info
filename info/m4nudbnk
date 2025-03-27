@@ -2,6 +2,8 @@ description:Nudge Banker (Barcrest) (MPU4) (SBN 2.0X)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

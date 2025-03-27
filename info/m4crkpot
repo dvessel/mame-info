@@ -2,5 +2,7 @@ description:Crackpot 100 Club (Barcrest) (MPU4) (C1P 1.2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

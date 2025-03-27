@@ -2,6 +2,8 @@ description:Upstairs 'N' Downstairs (Bellfruit) (Black Box) (5p Stake, £1 Jackp
 manufacturer:BFM
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bb_upndn

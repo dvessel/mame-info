@@ -2,6 +2,8 @@ description:Bar 5 (older PCB) (Electrocoin)
 manufacturer:Electrocoin
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ec_barxo
 cloneof:ec_barxo

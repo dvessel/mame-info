@@ -2,3 +2,5 @@ description:Siena
 manufacturer:Psion
 year:1996
 status:good
+emulation:good
+savestate:supported

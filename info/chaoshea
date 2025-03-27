@@ -2,6 +2,8 @@ description:Chaos Heat (V2.09O 1998/10/02 17:00)
 manufacturer:Taito
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh3002t
 disk:chaosheat

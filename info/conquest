@@ -2,3 +2,5 @@ description:Conquest (prototype)
 manufacturer:Williams / Vid Kidz
 year:1982
 status:good
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:The Guiness (Japan)
 manufacturer:Sun Electronics
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:strnskil
 cloneof:strnskil

@@ -2,3 +2,5 @@ description:Star Fox (Nelsonic)
 manufacturer:Nelsonic
 year:1993
 status:imperfect
+emulation:good
+savestate:supported

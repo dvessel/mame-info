@@ -2,4 +2,6 @@ description:Player's Edge Plus (X002287P+XP000057) No Faces Pay the Aces Poker
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

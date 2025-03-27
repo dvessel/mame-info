@@ -2,6 +2,8 @@ description:Big Twin (No Girls Conversion)
 manufacturer:Playmark
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:bigtwin
 cloneof:bigtwin

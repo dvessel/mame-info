@@ -2,3 +2,5 @@ description:B16 EX-II
 manufacturer:Hitachi
 year:1983?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

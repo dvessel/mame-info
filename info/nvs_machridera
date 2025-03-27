@@ -2,6 +2,8 @@ description:Vs. Mach Rider (Fighting Course Version, set MR4-1 A)
 manufacturer:Nintendo
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:nvs_machrider
 cloneof:nvs_machrider

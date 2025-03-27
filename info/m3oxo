@@ -2,5 +2,7 @@ description:Noughts 'n' Crosses (VFS) (MPU3)
 manufacturer:VFS
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

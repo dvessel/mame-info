@@ -2,6 +2,8 @@ description:Queen of the Nile (0300785V, New Zealand)
 manufacturer:Aristocrat
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:qnile
 romof:aristmk5

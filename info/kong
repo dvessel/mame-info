@@ -2,4 +2,6 @@ description:Kong (Donkey Kong conversion on Galaxian hardware)
 manufacturer:Taito do Brasil
 year:198?
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

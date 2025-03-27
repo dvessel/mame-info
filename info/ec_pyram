@@ -2,5 +2,7 @@ description:Pyramid (v1) (Electrocoin)
 manufacturer:Electrocoin
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

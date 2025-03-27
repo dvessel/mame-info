@@ -2,5 +2,7 @@ description:TO8D
 manufacturer:Thomson
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 romof:to8
 cloneof:to8

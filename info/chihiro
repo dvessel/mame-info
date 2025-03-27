@@ -2,6 +2,8 @@ description:Chihiro BIOS
 manufacturer:Sega
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios
 kind:coinop
 device:jvs13551

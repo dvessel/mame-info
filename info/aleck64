@@ -2,5 +2,7 @@ description:Aleck64 PIF BIOS
 manufacturer:Nintendo / Seta
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

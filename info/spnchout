@@ -2,4 +2,6 @@ description:Super Punch-Out!! (Rev B)
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

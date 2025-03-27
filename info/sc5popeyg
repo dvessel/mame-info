@@ -2,6 +2,8 @@ description:Popeye (Mazooma) (Scorpion 5) (set 8)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5popey
 cloneof:sc5popey

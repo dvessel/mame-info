@@ -2,6 +2,8 @@ description:Quiz Salibtamjeong - The Last Count Down (Korean localized Quiz Dais
 manufacturer:SNK / Viccom
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:quizdais
 romof:neogeo

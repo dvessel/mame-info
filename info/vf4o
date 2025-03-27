@@ -2,6 +2,8 @@ description:Virtua Fighter 4 (GDS-0012)
 manufacturer:Sega
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:vf4
 romof:naomi2
 cloneof:vf4
 disk:gds-0012
-disk:gds-0012c

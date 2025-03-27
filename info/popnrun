@@ -2,4 +2,6 @@ description:Pop'n Run - The Videogame (set 1)
 manufacturer:Seibu Kaihatsu / Yukai Tsukai
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

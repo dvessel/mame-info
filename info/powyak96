@@ -2,6 +2,8 @@ description:Jikkyou Powerful Pro Yakyuu '96 (GV017 Japan 1.03)
 manufacturer:Konami
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:konamigv
 disk:powyak96

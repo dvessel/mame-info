@@ -2,6 +2,8 @@ description:Samurai Shodown V / Samurai Spirits Zero (bootleg)
 manufacturer:bootleg
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:samsho5
 romof:neogeo

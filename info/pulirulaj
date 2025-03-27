@@ -2,6 +2,8 @@ description:PuLiRuLa (Japan)
 manufacturer:Taito Corporation
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pulirula
 cloneof:pulirula

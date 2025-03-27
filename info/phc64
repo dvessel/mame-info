@@ -2,5 +2,7 @@ description:Mephisto PHC 64 (Germany)
 manufacturer:Intelligent Software / Hegener + Glaser
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:ep64
 cloneof:ep64

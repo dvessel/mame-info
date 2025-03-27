@@ -2,6 +2,8 @@ description:Centaur (Inder) (set 2)
 manufacturer:Inder
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:centauri

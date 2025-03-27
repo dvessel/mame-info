@@ -2,6 +2,8 @@ description:Dump Matsumoto (Japan, 8751 317-0011a)
 manufacturer:Sega
 year:1986
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:bodyslam
 cloneof:bodyslam

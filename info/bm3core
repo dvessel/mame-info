@@ -2,6 +2,8 @@ description:Beatmania III Append Core Remix
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:a05jca01
 disk:a05jca02

@@ -2,6 +2,8 @@ description:Choutetsu Brikin'ger / Iron Clad (prototype, bootleg)
 manufacturer:bootleg
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ironclad
 romof:neogeo

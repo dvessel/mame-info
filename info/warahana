@@ -2,5 +2,7 @@ description:Warai no Hana Tenshi (Japan)
 manufacturer:Dynax
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

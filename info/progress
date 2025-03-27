@@ -2,4 +2,6 @@ description:Progress
 manufacturer:Chuo Co. Ltd
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop

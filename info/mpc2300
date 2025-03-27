@@ -2,3 +2,5 @@ description:MPC-2300 (MSX2, USSR)
 manufacturer:Sanyo
 year:1987
 status:good
+emulation:good
+savestate:unsupported

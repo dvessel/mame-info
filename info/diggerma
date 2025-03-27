@@ -2,5 +2,7 @@ description:Digger Man (prototype)
 manufacturer:Kyle Hodgetts
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

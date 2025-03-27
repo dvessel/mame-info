@@ -2,6 +2,8 @@ description:Maya (set 3)
 manufacturer:Promat
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:maya
 cloneof:maya

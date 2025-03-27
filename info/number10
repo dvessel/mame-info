@@ -2,5 +2,7 @@ description:Number Dieci (Poker)
 manufacturer:PlayMark SRL
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

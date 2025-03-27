@@ -2,5 +2,7 @@ description:EPS-16 Plus
 manufacturer:Ensoniq
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:eps
 cloneof:eps

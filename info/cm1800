@@ -1,3 +1,5 @@
 description:CM-1800
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported

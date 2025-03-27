@@ -2,6 +2,8 @@ description:ITT XTRA
 manufacturer:ITT Information Systems
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:cga
 device:kb_pcxt83
 romof:ibm5150

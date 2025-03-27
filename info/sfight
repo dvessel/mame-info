@@ -2,6 +2,8 @@ description:Sonic the Fighters (Japan)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:schamp

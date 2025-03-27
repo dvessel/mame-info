@@ -2,4 +2,6 @@ description:Valhalla (Dutch) (Qps) (Scorpion 4)
 manufacturer:Qps / Eurocoin
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

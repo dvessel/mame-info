@@ -2,4 +2,6 @@ description:Mystic Arrow (0151009, US)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

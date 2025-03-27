@@ -2,4 +2,6 @@ description:Jong Shin (Japan)
 manufacturer:Dyna Electronics
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

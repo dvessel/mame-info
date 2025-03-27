@@ -2,6 +2,8 @@ description:A.B. Cop (Japan) (FD1094 317-0169b)
 manufacturer:Sega
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:abcop
 cloneof:abcop

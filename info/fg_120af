@@ -2,4 +2,6 @@ description:Family Guy v12.0 (English,French)
 manufacturer:Stern
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

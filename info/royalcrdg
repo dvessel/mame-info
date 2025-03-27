@@ -2,6 +2,8 @@ description:Royal Card (German, set 7, CMC C1030 HW)
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:royalcrd
 cloneof:royalcrd

@@ -2,6 +2,8 @@ description:Line Dancer Arcade (Mazooma) (Scorpion 4) (set 1)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4lined
 cloneof:sc4lined

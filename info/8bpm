@@ -2,6 +2,8 @@ description:Eight Ball Action (Pac-Man conversion)
 manufacturer:Seatongrove UK, Ltd. (Magic Electronics USA license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:8ballact
 cloneof:8ballact

@@ -2,6 +2,8 @@ description:Iron Man 2 v1.00
 manufacturer:Stern
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:im2_140
 cloneof:im2_140

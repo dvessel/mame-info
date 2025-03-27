@@ -2,3 +2,5 @@ description:X-II CPC-400 (MSX2, Korea)
 manufacturer:Daewoo
 year:1987
 status:good
+emulation:good
+savestate:unsupported

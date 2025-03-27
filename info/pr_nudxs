@@ -2,4 +2,6 @@ description:Nudge XS (Project) (PROCONN)
 manufacturer:Project
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

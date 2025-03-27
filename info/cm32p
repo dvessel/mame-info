@@ -2,4 +2,6 @@ description:CM-32P
 manufacturer:Roland
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:msm6222b01

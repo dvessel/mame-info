@@ -2,6 +2,8 @@ description:Triple Fever (V107US)
 manufacturer:IGS
 year:2006
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tripfev
 cloneof:tripfev

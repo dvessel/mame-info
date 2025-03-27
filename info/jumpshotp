@@ -2,6 +2,8 @@ description:Jump Shot Engineering Sample
 manufacturer:Bally Midway
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:jumpshot
 cloneof:jumpshot

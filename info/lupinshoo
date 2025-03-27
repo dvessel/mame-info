@@ -2,6 +2,8 @@ description:Lupin The Third - The Shooting (GDS-0018)
 manufacturer:Sega / Eighting
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:lupinsho
 romof:naomigd
 cloneof:lupinsho
 disk:gds-0018
-disk:gds-0018a

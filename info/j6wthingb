@@ -2,6 +2,8 @@ description:Wild Thing (Empire) (IMPACT) (set 3)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6wthing

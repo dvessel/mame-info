@@ -2,5 +2,7 @@ description:V.Smile Baby (Spain, with 'Aventuras en el Bosque de los Cien Acres'
 manufacturer:VTech
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:vsmileb
 cloneof:vsmileb

@@ -2,3 +2,5 @@ description:VT62 DECscope
 manufacturer:Digital Equipment Corporation
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:unsupported

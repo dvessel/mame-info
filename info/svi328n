@@ -2,5 +2,7 @@ description:SVI-328 (NTSC)
 manufacturer:Spectravideo
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:svi328
 cloneof:svi328

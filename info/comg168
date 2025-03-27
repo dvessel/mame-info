@@ -2,4 +2,6 @@ description:Cal Omega - Game 16.8 (Keno)
 manufacturer:Cal Omega Inc.
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

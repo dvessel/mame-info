@@ -2,4 +2,6 @@ description:Medal Mahjong Gottsu ee-kanji (Japan)
 manufacturer:Nichibutsu
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

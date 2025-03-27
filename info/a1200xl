@@ -2,5 +2,7 @@ description:Atari 1200XL
 manufacturer:Atari
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:a800
 cloneof:a800

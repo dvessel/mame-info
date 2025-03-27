@@ -2,5 +2,7 @@ description:Trivial Pursuit (Young Players Edition) (3/29/85)
 manufacturer:Bally/Sente
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb

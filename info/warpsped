@@ -2,4 +2,6 @@ description:Warp Speed (prototype)
 manufacturer:Meadows Games, Inc.
 year:1979?
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

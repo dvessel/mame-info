@@ -2,6 +2,8 @@ description:Mazer Blazer (set 2)
 manufacturer:Stern Electronics
 year:1983
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:mazerbla
 cloneof:mazerbla

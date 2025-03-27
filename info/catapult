@@ -2,4 +2,6 @@ description:Catapult
 manufacturer:Epos Corporation
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

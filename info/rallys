@@ -2,6 +2,8 @@ description:Rallys (bootleg of Spectar, set 1)
 manufacturer:bootleg (Novar)
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spectar
 cloneof:spectar

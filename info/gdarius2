@@ -2,5 +2,7 @@ description:G-Darius Ver.2 (Ver 2.03J)
 manufacturer:Taito
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:coh1000t

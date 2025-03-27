@@ -2,6 +2,8 @@ description:Indiana Jones (L-6)
 manufacturer:Williams
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:ij_l7

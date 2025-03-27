@@ -2,6 +2,8 @@ description:Hissing Quid (Qps) (Scorpion 4) (set 8)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4hiss
 cloneof:sc4hiss

@@ -2,3 +2,5 @@ description:BBL380 - 180 in 1
 manufacturer:BaoBaoLong
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

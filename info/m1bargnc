@@ -2,5 +2,7 @@ description:Casino Bar-gain (Maygay) v5.1 (M1A/B)
 manufacturer:Maygay
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413

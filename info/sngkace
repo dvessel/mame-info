@@ -2,6 +2,8 @@ description:Sengoku Ace (Japan, set 1)
 manufacturer:Psikyo (Banpresto license)
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:samuraia
 cloneof:samuraia

@@ -2,4 +2,6 @@ description:Target Panic
 manufacturer:Konami
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop

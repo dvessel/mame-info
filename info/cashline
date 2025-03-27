@@ -2,4 +2,6 @@ description:Cashline
 manufacturer:Bally/Sente
 year:1995?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

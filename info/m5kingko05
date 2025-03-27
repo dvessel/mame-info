@@ -2,6 +2,8 @@ description:King KO (Barcrest) (MPU5) (set 3)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5kingko
 cloneof:m5kingko

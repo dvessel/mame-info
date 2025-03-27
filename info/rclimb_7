@@ -2,6 +2,8 @@ description:Rock Climber (090716 Entertainment)
 manufacturer:Igrosoft
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rclimb_3
 cloneof:rclimb_3

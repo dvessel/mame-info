@@ -2,4 +2,6 @@ description:Open 5 Cards
 manufacturer:MNG
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

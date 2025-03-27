@@ -1,6 +1,8 @@
 description:Videotron Poker (normal controls)
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:videtron
 cloneof:videtron

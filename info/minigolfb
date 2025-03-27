@@ -2,6 +2,8 @@ description:Mini Golf (10/8/85)
 manufacturer:Bally/Sente
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb
 romof:minigolf

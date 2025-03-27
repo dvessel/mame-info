@@ -2,6 +2,8 @@ description:Shaman's Magic (0152647, US)
 manufacturer:Aristocrat
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:shamnmg
 romof:aristmk6
 cloneof:shamnmg

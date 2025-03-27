@@ -2,4 +2,6 @@ description:18 Holes Pro Golf (set 1)
 manufacturer:Data East Corporation
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

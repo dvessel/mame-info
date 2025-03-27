@@ -2,6 +2,8 @@ description:Indy Cars (BWB) (MPU4) (20/25/30p stake / £5/£15 jackpot) (set 4)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4indycr

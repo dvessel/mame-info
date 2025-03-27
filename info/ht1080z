@@ -2,5 +2,7 @@ description:HT-1080Z Series I
 manufacturer:Hiradastechnika Szovetkezet
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:eg3003
 cloneof:eg3003

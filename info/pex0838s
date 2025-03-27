@@ -2,4 +2,6 @@ description:Player's Edge Plus (X000838S+XS000002) Five Times Pay Slots
 manufacturer:IGT - International Game Technology
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop

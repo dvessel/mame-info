@@ -2,4 +2,6 @@ description:Quiz Chikyu Bouei Gun (Japan)
 manufacturer:Taito Corporation
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

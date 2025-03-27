@@ -2,3 +2,5 @@ description:AViiON 4600
 manufacturer:Data General
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported

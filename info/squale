@@ -2,4 +2,6 @@ description:Squale
 manufacturer:Apollo 7
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 device:ef9365

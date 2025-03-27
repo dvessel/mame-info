@@ -2,6 +2,8 @@ description:Adonis (BHG1508, US)
 manufacturer:Aristocrat
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:adonis
 romof:aristmk5

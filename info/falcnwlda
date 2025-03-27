@@ -2,6 +2,8 @@ description:Falcons Wild - World Wide Poker (Video Klein, set 1)
 manufacturer:Video Klein
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:falcnwld
 cloneof:falcnwld

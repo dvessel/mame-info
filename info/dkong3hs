@@ -2,6 +2,8 @@ description:Donkey Kong High Score Kit (hack,V1.0a)
 manufacturer:hack (Braze Technologies)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dkong3
 cloneof:dkong3

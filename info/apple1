@@ -2,4 +2,6 @@ description:Apple I
 manufacturer:Apple Computer
 year:1976
 status:good
+emulation:good
+savestate:supported
 device:a1cass

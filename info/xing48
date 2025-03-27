@@ -2,3 +2,5 @@ description:Xing Wireless Interactive TV Game 'Wi TV Zone' 48-in-1 (Europe, PAL)
 manufacturer:Xing
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Pang (bootleg, set 3)
 manufacturer:bootleg
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pang
 cloneof:pang

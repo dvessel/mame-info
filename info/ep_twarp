@@ -2,4 +2,6 @@ description:Time Warp (Extreme) (EPOCH) (TWRP 0.1, set 1)
 manufacturer:Extreme
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

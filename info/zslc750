@@ -2,3 +2,5 @@ description:Zaurus SL-C750 "Shepherd" (Japan)
 manufacturer:Sharp
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported

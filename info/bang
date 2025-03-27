@@ -2,4 +2,6 @@ description:Bang!
 manufacturer:Gaelco / Bit Managers
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

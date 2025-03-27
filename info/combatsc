@@ -2,4 +2,6 @@ description:Combat School (joystick)
 manufacturer:Konami
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

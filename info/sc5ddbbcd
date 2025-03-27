@@ -2,6 +2,8 @@ description:Deal or No Deal Beat The Banker Casino (Bellfruit) (Scorpion 5) (set
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5ddbbc
 cloneof:sc5ddbbc

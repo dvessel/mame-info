@@ -2,4 +2,6 @@ description:CX5M-128 (MSX1)
 manufacturer:Yamaha
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 device:msx_cart_sfg05

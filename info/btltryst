@@ -2,5 +2,7 @@ description:Battle Tryst (ver JAC)
 manufacturer:Konami
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 disk:636jac02

@@ -2,6 +2,8 @@ description:Captain Zodiac (Japan)
 manufacturer:Taito Corporation
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 romof:cpzodiac
 cloneof:cpzodiac

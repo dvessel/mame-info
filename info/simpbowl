@@ -2,6 +2,8 @@ description:The Simpsons Bowling (GQ829 UAA)
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:konamigv
 disk:829uaa02

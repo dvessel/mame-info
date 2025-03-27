@@ -2,3 +2,5 @@ description:Pac-Man (mini arcade)
 manufacturer:Basic Fun
 year:2018
 status:preliminary
+emulation:preliminary
+savestate:unsupported

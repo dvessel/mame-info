@@ -2,4 +2,6 @@ description:Crazy Monkey (100311 World)
 manufacturer:Igrosoft
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop

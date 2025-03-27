@@ -2,6 +2,8 @@ description:Toushin Blazers (Japan, Tecmo license)
 manufacturer:Video System Co. (Tecmo license)
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:karatblz
 cloneof:karatblz

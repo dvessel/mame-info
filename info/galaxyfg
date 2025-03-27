@@ -2,5 +2,7 @@ description:Galaxy Fight - Universal Warriors
 manufacturer:Sunsoft
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

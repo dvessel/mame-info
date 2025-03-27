@@ -2,5 +2,7 @@ description:Micro-Professor 1B
 manufacturer:Multitech
 year:1982
 status:good
+emulation:good
+savestate:unsupported
 romof:mpf1
 cloneof:mpf1

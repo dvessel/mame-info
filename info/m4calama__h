@@ -2,6 +2,8 @@ description:Calamari Club (Barcrest) (MPU4) (BCA 0.2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4calama

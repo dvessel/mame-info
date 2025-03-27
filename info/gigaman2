@@ -2,6 +2,8 @@ description:Giga Man 2: The Power Fighters (bootleg of Mega Man 2: The Power Fig
 manufacturer:bootleg
 year:1996
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:megaman2
 cloneof:megaman2

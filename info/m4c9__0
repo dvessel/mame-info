@@ -2,6 +2,8 @@ description:Cloud Nine (Barcrest) (MPU4) (CT2 0.2 B)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4c9

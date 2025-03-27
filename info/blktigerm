@@ -2,6 +2,8 @@ description:Black Tiger (Modular System)
 manufacturer:bootleg (Gaelco / Ervisa)
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:blktiger
 cloneof:blktiger

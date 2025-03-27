@@ -2,6 +2,8 @@ description:Pretty Soldier Sailor Moon (Version 95/03/21, USA)
 manufacturer:Gazelle (Banpresto license)
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sailormn
 cloneof:sailormn

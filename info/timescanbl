@@ -2,6 +2,8 @@ description:Time Scanner (bootleg)
 manufacturer:bootleg
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:timescan
 cloneof:timescan

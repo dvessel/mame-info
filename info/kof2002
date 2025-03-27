@@ -2,5 +2,7 @@ description:The King of Fighters 2002 (NGM-2650 ~ NGH-2650)
 manufacturer:Eolith / Playmore
 year:2002
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

@@ -2,6 +2,8 @@ description:Up Up and Away (Barcrest) (MPU4) (UPS 2.2 B)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4uuaw

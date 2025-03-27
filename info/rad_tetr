@@ -2,3 +2,5 @@ description:Tetris (Radica, Arcade Legends TV Game)
 manufacturer:Radica (licensed from Elorg / The Tetris Company)
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported

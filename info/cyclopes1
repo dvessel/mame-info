@@ -2,6 +2,8 @@ description:Cyclopes (11/85)
 manufacturer:Game Plan
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:cyclopes

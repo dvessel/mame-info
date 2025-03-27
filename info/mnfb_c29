@@ -2,6 +2,8 @@ description:Monday Night Football (2.9, 50cts)
 manufacturer:Data East
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

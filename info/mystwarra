@@ -2,6 +2,8 @@ description:Mystic Warriors (ver AAB)
 manufacturer:Konami
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:mystwarr
 cloneof:mystwarr

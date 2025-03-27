@@ -2,3 +2,5 @@ description:MK-90
 manufacturer:Elektronika
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported

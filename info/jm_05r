@@ -2,6 +2,8 @@ description:Johnny Mnemonic (0.5R)
 manufacturer:Williams
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:jm_12r

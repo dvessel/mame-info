@@ -2,4 +2,6 @@ description:WK-1800
 manufacturer:Casio
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 device:hd44780

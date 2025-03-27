@@ -2,3 +2,5 @@ description:Wayne's World (Tiger)
 manufacturer:Tiger Electronics
 year:1992
 status:good
+emulation:good
+savestate:supported

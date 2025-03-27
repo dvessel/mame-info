@@ -2,6 +2,8 @@ description:Hyper Crash (version C)
 manufacturer:Konami
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hcrash
 cloneof:hcrash

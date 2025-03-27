@@ -2,6 +2,8 @@ description:Crime City (Japan)
 manufacturer:Taito Corporation
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:crimec
 cloneof:crimec

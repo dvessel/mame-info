@@ -2,5 +2,7 @@ description:Sushi Bar / Toretore! Sushi
 manufacturer:Sammy
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:awbios

@@ -2,4 +2,6 @@ description:MS 0515
 manufacturer:Elektronika
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 device:ms7004

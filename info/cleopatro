@@ -2,6 +2,8 @@ description:Cleopatra Fortune (Ver 2.1O 1996/09/05, bootleg)
 manufacturer:bootleg
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cleopatr
 cloneof:cleopatr

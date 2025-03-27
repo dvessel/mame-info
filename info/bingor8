@@ -2,3 +2,5 @@ description:Bingo Roll 2001 (v22.1)
 manufacturer:Rosenauer Electronic Austria
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported

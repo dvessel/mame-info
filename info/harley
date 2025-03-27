@@ -2,5 +2,7 @@ description:Harley-Davidson and L.A. Riders (Export, Revision B)
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill

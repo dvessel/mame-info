@@ -2,5 +2,7 @@ description:PV-7 (MSX1, Japan)
 manufacturer:Casio
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 romof:pv16
 cloneof:pv16

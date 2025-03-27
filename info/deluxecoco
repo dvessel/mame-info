@@ -2,6 +2,8 @@ description:Deluxe Color Computer
 manufacturer:Tandy Radio Shack
 year:1983
 status:good
+emulation:good
+savestate:supported
 device:coco_fdc
 romof:coco
 cloneof:coco

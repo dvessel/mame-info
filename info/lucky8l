@@ -2,6 +2,8 @@ description:New Lucky 8 Lines (set 11, W-4)
 manufacturer:Wing Co., Ltd.
 year:1989
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:lucky8
 cloneof:lucky8

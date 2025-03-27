@@ -2,5 +2,7 @@ description:Slots (Dutch, Game Card 95-750-368)
 manufacturer:BFM/ELAM
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

@@ -2,6 +2,8 @@ description:Each Way Shuffle (JPM) (SRU) (revision 13C, 5p/10p Stake, £2 Jackpo
 manufacturer:JPM
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:j_ews

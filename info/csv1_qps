@@ -2,4 +2,6 @@ description:Casino Strip Vivid 1 (Poker version, for Sony LD)
 manufacturer:Quantum Industries
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Flicker (prototype)
 manufacturer:Dave Nutting Associates / Bally
 year:1974
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

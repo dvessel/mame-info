@@ -2,6 +2,8 @@ description:Cash Counter (Barcrest) (MPU4) (CO 0.5)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4cashco

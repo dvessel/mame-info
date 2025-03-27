@@ -2,4 +2,6 @@ description:Pit Boss Megastar (9244-00-01 R0B)
 manufacturer:Merit
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,4 +2,6 @@ description:Vimana (World, rev A)
 manufacturer:Toaplan
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

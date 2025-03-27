@@ -2,5 +2,7 @@ description:ISG Selection Master Type 2006 BIOS
 manufacturer:bootleg (ISG)
 year:2006
 status:good
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

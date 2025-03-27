@@ -2,5 +2,7 @@ description:Oriental Legend 2 (Korea) / Xiyou Shi E Zhuan Qunmoluanwu (World, Ch
 manufacturer:IGS
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:pgm

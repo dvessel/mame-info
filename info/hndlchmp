@@ -2,6 +2,8 @@ description:Handle Champ (GQ710 97/12/18 VER. SAA)
 manufacturer:Konami
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:strgchmp
 romof:sys573

@@ -2,4 +2,6 @@ description:Pig Out: Dine Like a Swine! (rev 2?)
 manufacturer:Leland Corporation
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

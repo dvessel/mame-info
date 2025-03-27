@@ -2,6 +2,8 @@ description:Perestroika Girls (Fuuki license)
 manufacturer:Promat (Fuuki license)
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:perestro
 cloneof:perestro

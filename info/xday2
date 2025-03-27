@@ -2,5 +2,7 @@ description:X-Day 2 (Japan)
 manufacturer:Namco
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc70

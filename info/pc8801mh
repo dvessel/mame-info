@@ -2,5 +2,7 @@ description:PC-8801MH
 manufacturer:NEC
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported
 device:pc80s31k
 device:ym2608

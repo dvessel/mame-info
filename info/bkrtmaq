@@ -2,5 +2,7 @@ description:Bakuretsu Quiz Ma-Q Dai Bouken (Japan)
 manufacturer:Namco
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc69

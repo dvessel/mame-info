@@ -2,6 +2,8 @@ description:Lucky Casino (JPM) (SRU) (revision 8, lower %)
 manufacturer:JPM
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:j_lc

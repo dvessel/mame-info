@@ -2,6 +2,8 @@ description:Hishou Zame (Japan)
 manufacturer:Toaplan / Taito Corporation
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fshark
 cloneof:fshark

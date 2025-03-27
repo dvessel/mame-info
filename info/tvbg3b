@@ -2,3 +2,5 @@ description:TV Board Games 3-in-1: Simon, Battleship, Checkers
 manufacturer:NSI International / Mammoth Toys (Licensed by Hasbro)
 year:2007
 status:imperfect
+emulation:good
+savestate:unsupported

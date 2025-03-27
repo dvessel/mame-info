@@ -2,6 +2,8 @@ description:Super Hyper Viper (Barcrest) (MPU4) (H6Y 0.3 C)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

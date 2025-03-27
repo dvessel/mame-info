@@ -2,6 +2,8 @@ description:High 5 (Bellfruit / Whitbread) (Scorpion 4) (set 1)
 manufacturer:BFM / Whitbread
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4hi5
 cloneof:sc4hi5

@@ -2,6 +2,8 @@ description:Pleiads (Centuri)
 manufacturer:Tehkan (Centuri license)
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pleiads
 cloneof:pleiads

@@ -2,9 +2,10 @@ description:Ray Crisis (V2.03J 1998/11/15 15:43)
 manufacturer:Taito
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:raycris
 romof:coh3002t
 cloneof:raycris
 disk:raycrisj
-disk:raycris

@@ -2,6 +2,8 @@ description:Party Time (Astra, V110)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_party
 cloneof:as_party

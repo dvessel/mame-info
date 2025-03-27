@@ -2,4 +2,6 @@ description:Organiser II CM
 manufacturer:Psion
 year:1986
 status:imperfect
+emulation:good
+savestate:supported
 device:hd44780

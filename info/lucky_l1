@@ -2,6 +2,8 @@ description:Lucky Seven (L-1)
 manufacturer:Williams
 year:1977
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

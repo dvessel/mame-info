@@ -2,5 +2,7 @@ description:Crystal System BIOS
 manufacturer:BrezzaSoft
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

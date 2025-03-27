@@ -2,6 +2,8 @@ description:Franklin ACE 2200
 manufacturer:Franklin Computer
 year:1985
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 romof:apple2e
 cloneof:apple2e

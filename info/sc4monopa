@@ -2,6 +2,8 @@ description:Monopoly Triple (PR2056, TBOX) (Mazooma) (Scorpion 4) (Top Box, set 
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4monoa
 cloneof:sc4monoa

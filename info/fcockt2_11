@@ -2,6 +2,8 @@ description:Fruit Cocktail 2 (110124 Entertainment A)
 manufacturer:Igrosoft
 year:2008
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fcockt2
 cloneof:fcockt2

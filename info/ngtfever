@@ -2,6 +2,8 @@ description:Night Fever
 manufacturer:Sonic
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bigtown

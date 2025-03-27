@@ -2,3 +2,5 @@ description:Poly-800 Programmable Polyphonic Synthesizer (MIDI Dump Kit)
 manufacturer:Korg
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported

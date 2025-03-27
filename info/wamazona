@@ -2,6 +2,8 @@ description:Wild Amazon (0200285V, NSW/ACT)
 manufacturer:Aristocrat
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:wamazon
 romof:aristmk5

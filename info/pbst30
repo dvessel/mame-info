@@ -2,5 +2,7 @@ description:Pit Boss Supertouch 30 (9234-10-01 R0)
 manufacturer:Merit
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch

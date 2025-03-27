@@ -2,3 +2,5 @@ description:Donkey Kong (Coleco)
 manufacturer:Coleco
 year:1982
 status:good
+emulation:good
+savestate:supported

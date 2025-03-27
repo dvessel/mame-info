@@ -2,6 +2,8 @@ description:Thrill Drive (ver GM713JAB)
 manufacturer:Konami
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:thrilld
 cloneof:thrilld

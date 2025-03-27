@@ -2,6 +2,8 @@ description:World Challenge Soccer (rev.1, set 1)
 manufacturer:Gottlieb
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

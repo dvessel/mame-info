@@ -2,6 +2,8 @@ description:Great 1000 Miles Rally: Evolution Model!!! (94/09/06)
 manufacturer:Kaneko
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gtmr
 cloneof:gtmr

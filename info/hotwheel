@@ -2,6 +2,8 @@ description:Hot Wheels
 manufacturer:Zaccaria
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

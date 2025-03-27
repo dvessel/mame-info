@@ -2,6 +2,8 @@ description:Super Bucks III (0100711V, NSW/ACT)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sbuk3
 romof:aristmk5

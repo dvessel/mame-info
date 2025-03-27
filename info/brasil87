@@ -1,4 +1,6 @@
 description:Brasil 87
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,4 +2,6 @@ description:Akai Katana (2010/ 8/13 MASTER VER.)
 manufacturer:Cave
 year:2010
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,3 +2,5 @@ description:Enterprise Sixty Four
 manufacturer:Intelligent Software / Enterprise Computers
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported

@@ -2,5 +2,7 @@ description:Savant II
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1982
 status:good
+emulation:good
+savestate:supported
 romof:savant
 cloneof:savant

@@ -2,6 +2,8 @@ description:Deal or No Deal The Power 5 (Bellfruit) (Scorpion 4) (TPRV41A, set 1
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4dndtp
 cloneof:sc4dndtp

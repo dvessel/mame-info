@@ -2,3 +2,5 @@ description:Console Colour - Disney's Planes
 manufacturer:Lexibook
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

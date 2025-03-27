@@ -1,6 +1,8 @@
 description:Jack Potten's Poker (NGold, set 3)
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pottnpkr
 cloneof:pottnpkr

@@ -2,5 +2,7 @@ description:World Heroes 2 Jet (ADM-007 ~ ADH-007)
 manufacturer:ADK / SNK
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

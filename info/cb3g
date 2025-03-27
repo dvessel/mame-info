@@ -2,6 +2,8 @@ description:Cherry Bonus III (ver.1.40, set 6)
 manufacturer:Dyna
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ncb3
 cloneof:ncb3

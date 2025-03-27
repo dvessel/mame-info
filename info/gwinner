@@ -2,4 +2,6 @@ description:Golden Winner
 manufacturer:Reben SA
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

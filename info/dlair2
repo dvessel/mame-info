@@ -2,3 +2,5 @@ description:Dragon's Lair 2: Time Warp (US v3.19)
 manufacturer:Leland Corporation
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported

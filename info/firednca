@@ -2,6 +2,8 @@ description:Fire Dancer (10191311, ASP)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:firednc
 romof:aristmk6
 cloneof:firednc

@@ -2,6 +2,8 @@ description:Knockout (PR7061, KOUT) (Mazooma) (Scorpion 4) (set 2)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4knok
 cloneof:sc4knok

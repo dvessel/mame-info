@@ -2,6 +2,8 @@ description:Time Crisis 4 (Japan, TSF1001-NA-A)
 manufacturer:Namco
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:timecrs4
 romof:sys256
 cloneof:timecrs4

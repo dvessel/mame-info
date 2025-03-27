@@ -2,9 +2,10 @@ description:World Combat (ver JAA)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:wcombat
 romof:kviper
 cloneof:wcombat
 disk:c22a02
-disk:c22d02

@@ -2,6 +2,8 @@ description:Cosplay Tengoku 7 - Super Kogal Ranking (Japan)
 manufacturer:Nichibutsu/eic
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8013

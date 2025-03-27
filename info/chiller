@@ -2,4 +2,6 @@ description:Chiller (version 3.0)
 manufacturer:Exidy
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

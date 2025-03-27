@@ -2,6 +2,8 @@ description:Coronation Street 2 (Maygay) (EPOCH) (3.7, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_cor2
 cloneof:ep_cor2

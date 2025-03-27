@@ -2,5 +2,7 @@ description:Victory MPT-02 Home TV Programmer (Austria)
 manufacturer:Soundic
 year:1978
 status:good
+emulation:good
+savestate:supported
 romof:studio2
 cloneof:studio2

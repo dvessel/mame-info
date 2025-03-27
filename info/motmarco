@@ -2,3 +2,5 @@ description:Marco
 manufacturer:Motorola
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported

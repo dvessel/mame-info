@@ -2,5 +2,7 @@ description:Pit &amp; Run - F-1 Race (rev 1)
 manufacturer:Taito Corporation
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5

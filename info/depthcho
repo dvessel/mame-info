@@ -2,6 +2,8 @@ description:Depthcharge (older)
 manufacturer:Gremlin
 year:1977
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:depthch
 cloneof:depthch

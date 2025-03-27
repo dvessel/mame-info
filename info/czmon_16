@@ -2,6 +2,8 @@ description:Crazy Monkey (100312 Russia)
 manufacturer:Igrosoft
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:czmon_13
 cloneof:czmon_13

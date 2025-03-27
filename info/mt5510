@@ -2,3 +2,5 @@ description:Microterm 5510
 manufacturer:Microterm
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Drift Out (Europe, Cameltry conversion)
 manufacturer:Visco
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:driftout
 cloneof:driftout

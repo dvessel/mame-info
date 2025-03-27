@@ -2,6 +2,8 @@ description:SAM IV Test Fixture
 manufacturer:Stern
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:st_sam

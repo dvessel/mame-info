@@ -2,6 +2,8 @@ description:Linx (Bellfruit) (set 3, Protocol) (Scorpion 1)
 manufacturer:BFM
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:sc1linx

@@ -2,6 +2,8 @@ description:Do! Run Run (Do's Castle hardware, set 2)
 manufacturer:Universal
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dorunrun
 cloneof:dorunrun

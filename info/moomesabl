@@ -2,6 +2,8 @@ description:Wild West C.O.W.-Boys of Moo Mesa (bootleg)
 manufacturer:bootleg
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:moomesa
 cloneof:moomesa

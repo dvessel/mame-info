@@ -2,6 +2,8 @@ description:Astrians (clone of Swarm)
 manufacturer:bootleg (BGV Ltd.)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galaxian
 cloneof:galaxian

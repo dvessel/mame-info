@@ -2,5 +2,7 @@ description:Pop'n Music 3 (ver JA-A)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:980hdda01

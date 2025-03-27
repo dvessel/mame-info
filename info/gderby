@@ -2,6 +2,8 @@ description:Gran Derby (Spanish hack of Jockey Club)
 manufacturer:hack (CODERE)
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:jockeyc
 cloneof:jockeyc

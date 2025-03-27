@@ -2,3 +2,5 @@ description:D-box 1 (Kirch-Gruppe)
 manufacturer:Nokia Multimedia
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

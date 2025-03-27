@@ -2,6 +2,8 @@ description:Punching Kid (Japan)
 manufacturer:Irem
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:olibochu
 cloneof:olibochu

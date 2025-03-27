@@ -2,6 +2,8 @@ description:Super Toffy (Unico license)
 manufacturer:Midas (Unico license)
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:stoffy
 cloneof:stoffy

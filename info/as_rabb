@@ -2,6 +2,8 @@ description:Ring A Bell (Astra, V107)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_rab
 cloneof:as_rab

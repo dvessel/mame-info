@@ -2,6 +2,8 @@ description:Savage Bees
 manufacturer:Capcom (Memetron license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:exedexes
 cloneof:exedexes

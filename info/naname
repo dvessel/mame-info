@@ -2,4 +2,6 @@ description:Naname de Magic! (Japan)
 manufacturer:Atlus
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

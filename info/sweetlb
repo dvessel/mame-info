@@ -2,6 +2,8 @@ description:Sweet Life (bootleg, 041220, banking address hack, changed version t
 manufacturer:bootleg
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sweetl
 cloneof:sweetl

@@ -2,5 +2,7 @@ description:Desert Tank
 manufacturer:Sega / Martin Marietta
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:model1io

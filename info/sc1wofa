@@ -2,6 +2,8 @@ description:Wheel Of Fortune (Global) (set 2)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:sc1wof

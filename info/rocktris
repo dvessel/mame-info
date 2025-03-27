@@ -2,4 +2,6 @@ description:Rock Tris
 manufacturer:Yun Sung
 year:1994?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

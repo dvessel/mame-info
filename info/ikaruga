@@ -2,6 +2,8 @@ description:Ikaruga (GDL-0010)
 manufacturer:Treasure
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

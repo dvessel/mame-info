@@ -2,4 +2,6 @@ description:Tairyo-Daiko 337 Byoshi
 manufacturer:Namco
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

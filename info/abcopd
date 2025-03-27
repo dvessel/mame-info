@@ -2,6 +2,8 @@ description:A.B. Cop (World) (bootleg of FD1094 317-0169b set)
 manufacturer:bootleg
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:abcop
 cloneof:abcop

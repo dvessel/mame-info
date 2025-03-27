@@ -2,6 +2,8 @@ description:2 On 2 Open Ice Challenge (rev 1.2A)
 manufacturer:Midway
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:openice
 cloneof:openice

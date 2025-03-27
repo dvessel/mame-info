@@ -2,6 +2,8 @@ description:Return Of Sel Jan II (Japan, NM508)
 manufacturer:Dynax / Face
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:seljan2

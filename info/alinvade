@@ -2,4 +2,6 @@ description:Alien Invaders
 manufacturer:Forbes?
 year:198?
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

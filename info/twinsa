@@ -2,6 +2,8 @@ description:Twins (older)
 manufacturer:Ecogames
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:twins
 cloneof:twins

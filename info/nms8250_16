@@ -2,5 +2,7 @@ description:NMS 8250/16 (MSX2, Spain)
 manufacturer:Philips
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 romof:nms8255
 cloneof:nms8255

@@ -2,6 +2,8 @@ description:Prize Monte Carlo (MT104.0 K) (Barcrest) (MPU4)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

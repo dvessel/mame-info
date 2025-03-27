@@ -2,6 +2,8 @@ description:Big Ben (20201111, Queensland)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:bigben
 romof:aristmk6
 cloneof:bigben

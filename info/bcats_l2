@@ -2,6 +2,8 @@ description:Bad Cats (LA-2)
 manufacturer:Williams
 year:1989
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bcats_l5

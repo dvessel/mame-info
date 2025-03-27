@@ -2,5 +2,7 @@ description:Trivial Pursuit (Genus II Edition) (3/22/85)
 manufacturer:Bally/Sente
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:sente6vb

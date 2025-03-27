@@ -2,6 +2,8 @@ description:Marvel Super Heroes Vs. Street Fighter (USA 970625)
 manufacturer:Capcom
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:mshvsf

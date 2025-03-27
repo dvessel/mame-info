@@ -2,6 +2,8 @@ description:Striker Xtreme (CPU 1.02, display A1.03, ARM7 sound board)
 manufacturer:Stern
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:strikext

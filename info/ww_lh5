@@ -2,6 +2,8 @@ description:White Water (LH-5)
 manufacturer:Williams
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:ww_l5

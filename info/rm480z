@@ -2,4 +2,6 @@ description:LINK 480Z (set 1)
 manufacturer:Research Machines
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 device:rm_mq2

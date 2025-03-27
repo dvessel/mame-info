@@ -2,5 +2,7 @@ description:Quiz King of Fighters (SAM-080 ~ SAH-080)
 manufacturer:Saurus (SNK license)
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

@@ -2,6 +2,8 @@ description:Street Fighter II' Turbo: Hyper Fighting (Japan 921209)
 manufacturer:Capcom
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sf2hf
 cloneof:sf2hf

@@ -2,4 +2,6 @@ description:Vastar (set 1)
 manufacturer:Orca (Sesame Japan license)
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

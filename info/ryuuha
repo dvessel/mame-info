@@ -2,6 +2,8 @@ description:Ryuuha (Japan 871027)
 manufacturer:Central Denshi
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:iemoto
 cloneof:iemoto

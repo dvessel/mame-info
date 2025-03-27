@@ -2,4 +2,6 @@ description:Alligator Hunt (World, protected)
 manufacturer:Gaelco
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

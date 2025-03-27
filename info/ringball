@@ -2,6 +2,8 @@ description:Ring &amp; Ball (Ver. 2.6)
 manufacturer:Microhard
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:funystrp
 cloneof:funystrp

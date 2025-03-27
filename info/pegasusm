@@ -2,5 +2,7 @@ description:Aamber Pegasus with RAM expansion unit
 manufacturer:Technosys
 year:1981
 status:good
+emulation:good
+savestate:supported
 romof:pegasus
 cloneof:pegasus

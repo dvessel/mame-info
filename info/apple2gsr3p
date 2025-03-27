@@ -2,5 +2,7 @@ description:Apple IIgs (ROM03 prototype)
 manufacturer:Apple Computer
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:apple2gs
 cloneof:apple2gs

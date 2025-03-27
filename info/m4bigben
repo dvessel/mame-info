@@ -2,5 +2,7 @@ description:Big Ben (Coinworld) (MPU4, set 1)
 manufacturer:Coinworld
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Red Hot X (Mazooma) (Scorpion 4) (set 22)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4rhx
 cloneof:sc4rhx

@@ -2,5 +2,7 @@ description:Puzz Loop (Europe, v0.94)
 manufacturer:Mitchell
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:skns

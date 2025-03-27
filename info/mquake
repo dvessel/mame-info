@@ -2,4 +2,6 @@ description:Moonquake
 manufacturer:Sente
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:PCI/I-486SP3G
 manufacturer:Asus
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

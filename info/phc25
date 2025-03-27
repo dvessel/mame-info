@@ -2,3 +2,5 @@ description:PHC-25 (Europe)
 manufacturer:Sanyo
 year:1983
 status:imperfect
+emulation:good
+savestate:supported

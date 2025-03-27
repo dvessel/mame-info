@@ -2,6 +2,8 @@ description:PC (EGA)
 manufacturer:&lt;generic>
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 device:ega
 device:isa_hdc
 device:kb_pcxt83

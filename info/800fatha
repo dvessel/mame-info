@@ -2,6 +2,8 @@ description:800 Fathoms (older)
 manufacturer:Amenip (US Billiards Inc. license)
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:mariner
 cloneof:mariner

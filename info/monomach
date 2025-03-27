@@ -2,3 +2,5 @@ description:Monomachine SFX6 MK2
 manufacturer:Elektron
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported

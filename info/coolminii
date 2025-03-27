@@ -2,6 +2,8 @@ description:Cool Minigame Collection (Italy)
 manufacturer:SemiCom
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:coolmini
 cloneof:coolmini

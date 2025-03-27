@@ -2,6 +2,8 @@ description:Gold Mine (Shuffle) (L-2)
 manufacturer:Williams
 year:1987
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

@@ -2,6 +2,8 @@ description:World Challenge Soccer (rev.1, set 2)
 manufacturer:Gottlieb
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:wcsoccer

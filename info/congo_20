@@ -2,6 +2,8 @@ description:Congo (2.0)
 manufacturer:Williams
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:congo_21

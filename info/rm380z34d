@@ -2,6 +2,8 @@ description:RM-380Z, COS 3.4D/F
 manufacturer:Research Machines
 year:1978
 status:good
+emulation:good
+savestate:unsupported
 device:sn74s262
 romof:rm380z
 cloneof:rm380z

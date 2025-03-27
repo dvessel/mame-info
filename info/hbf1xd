@@ -2,3 +2,5 @@ description:HB-F1XD (MSX2, Japan)
 manufacturer:Sony
 year:1987
 status:good
+emulation:good
+savestate:unsupported

@@ -2,10 +2,12 @@ description:beatmania IIDX (863 JAA)
 manufacturer:Konami
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:bmiidx
 romof:gq863
 cloneof:bmiidx
-disk:gq863-jab01
+disk:gq863a01
 disk:gq863a04
 disk:863hdda01

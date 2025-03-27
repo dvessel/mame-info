@@ -2,6 +2,8 @@ description:Quasar (set 2)
 manufacturer:Zaccaria / Zelco
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:quasar
 cloneof:quasar

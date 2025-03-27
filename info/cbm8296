@@ -2,5 +2,7 @@ description:CBM 8296
 manufacturer:Commodore Business Machines
 year:1984
 status:good
+emulation:good
+savestate:supported
 device:c8250
 device:c8050fdc

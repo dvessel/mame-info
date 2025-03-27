@@ -2,6 +2,8 @@ description:Voodoo 1000 (Barcrest) (Dutch) (MPU4) (DDO 3.2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

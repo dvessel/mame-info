@@ -2,4 +2,6 @@ description:Magix / Rock
 manufacturer:Yun Sung
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

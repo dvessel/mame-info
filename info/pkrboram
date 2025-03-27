@@ -2,3 +2,5 @@ description:PK Rainbow (v 1.5)
 manufacturer:Boram
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported

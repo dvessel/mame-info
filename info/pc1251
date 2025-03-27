@@ -2,5 +2,7 @@ description:Pocket Computer 1251
 manufacturer:Sharp
 year:1982
 status:preliminary
+emulation:good
+savestate:unsupported
 romof:pc1250
 cloneof:pc1250

@@ -2,4 +2,6 @@ description:Bloody Roller
 manufacturer:Playbar
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

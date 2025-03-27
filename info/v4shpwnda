@@ -2,6 +2,8 @@ description:Shop Window (v2.0) (Release 2, 10p Fixed, Cash + Special BWB Token) 
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4shpwnd
 cloneof:v4shpwnd

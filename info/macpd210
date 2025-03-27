@@ -2,4 +2,6 @@ description:Macintosh PowerBook Duo 210
 manufacturer:Apple Computer
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 device:m68hc05pge

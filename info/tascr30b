@@ -2,6 +2,8 @@ description:ChessSystem R30 (The King 2.23, TM version)
 manufacturer:Tasc
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 device:lm24014h
 romof:tascr30
 cloneof:tascr30

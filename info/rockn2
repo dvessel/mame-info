@@ -2,4 +2,6 @@ description:Rock'n Tread 2 (Japan)
 manufacturer:Jaleco
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

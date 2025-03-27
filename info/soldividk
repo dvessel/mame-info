@@ -2,6 +2,8 @@ description:Sol Divide - The Sword Of Darkness (Korea)
 manufacturer:Psikyo
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:soldivid
 cloneof:soldivid

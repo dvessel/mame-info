@@ -2,6 +2,8 @@ description:Stardust (JPM) (IMPACT) (SD 2 C 7) (set 4, Whitbread)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6stards

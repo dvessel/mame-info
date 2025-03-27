@@ -2,6 +2,8 @@ description:Top Racer (with MB8841 + MB8842, 1983)
 manufacturer:bootleg
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namco51
 device:namco52

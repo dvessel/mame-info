@@ -2,5 +2,7 @@ description:Le Livre Magique (France)
 manufacturer:Texas Instruments
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 romof:tntell
 cloneof:tntell

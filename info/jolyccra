@@ -2,5 +2,7 @@ description:Jolly Card (Croatian, set 1)
 manufacturer:TAB Austria
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:jollycrd
 cloneof:jollycrd

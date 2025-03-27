@@ -2,3 +2,5 @@ description:Poly-800II Programmable Polyphonic Synthesizer
 manufacturer:Korg
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported

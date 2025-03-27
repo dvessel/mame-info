@@ -2,5 +2,7 @@ description:iPC
 manufacturer:Intel
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:ipb
 cloneof:ipb

@@ -2,5 +2,7 @@ description:Quiz Do Re Mi Fa Grand Prix (Japan)
 manufacturer:Konami
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:gq460a08

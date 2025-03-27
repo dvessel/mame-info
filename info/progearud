@@ -2,6 +2,8 @@ description:Progear (USA 010117 Phoenix Edition) (bootleg)
 manufacturer:bootleg
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:progear

@@ -2,4 +2,6 @@ description:unknown SMK game
 manufacturer:High Video
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

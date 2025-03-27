@@ -2,5 +2,7 @@ description:Major Poker 2 (set 3)
 manufacturer:PAL Systems
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mpoker2
 cloneof:mpoker2

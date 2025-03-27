@@ -2,6 +2,8 @@ description:The Pit (bootleg on Moon Quasar hardware)
 manufacturer:bootleg (KZH)
 year:198?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:thepit
 cloneof:thepit

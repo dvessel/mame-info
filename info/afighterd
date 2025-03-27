@@ -2,6 +2,8 @@ description:Action Fighter (FD1089B 317-unknown, analog controls)
 manufacturer:Sega
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:afighter
 cloneof:afighter

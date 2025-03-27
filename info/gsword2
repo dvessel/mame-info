@@ -2,6 +2,8 @@ description:Great Swordsman (Japan?)
 manufacturer:Allumer / Taito Corporation
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:gsword
 cloneof:gsword

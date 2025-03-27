@@ -2,4 +2,6 @@ description:Quizmaster (German)
 manufacturer:Löwen Spielautomaten
 year:1985
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop

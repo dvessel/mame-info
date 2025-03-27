@@ -2,4 +2,6 @@ description:Zip &amp; Zap (Explicit)
 manufacturer:Barko Corp
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,3 +2,5 @@ description:Teammate Game Computer
 manufacturer:Logix
 year:1978
 status:good
+emulation:good
+savestate:supported

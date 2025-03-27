@@ -2,5 +2,7 @@ description:Scientus (France)
 manufacturer:C.Q.F.D
 year:1999?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gj4000
 cloneof:gj4000

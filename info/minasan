@@ -2,5 +2,7 @@ description:Minasan no Okagesamadesu! Dai Sugoroku Taikai (MOM-001 ~ MOH-001)
 manufacturer:Monolith Corp.
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

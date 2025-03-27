@@ -2,4 +2,6 @@ description:CIT-101e Video Terminal
 manufacturer:C. Itoh Electronics
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 device:cit101e_kbd

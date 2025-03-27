@@ -2,3 +2,5 @@ description:unknown AnyWorks / Sega medal game BIOS
 manufacturer:AnyWorks / Sega
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,8 +2,9 @@ description:Mace: The Dark Age (HDD 1.0a)
 manufacturer:Atari Games
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mace
 cloneof:mace
 disk:macea
-disk:mace

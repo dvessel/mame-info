@@ -2,6 +2,8 @@ description:Croupier II (Playmark Roulette v.03.09)
 manufacturer:Playmark
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:croupier
 cloneof:croupier

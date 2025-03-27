@@ -2,5 +2,7 @@ description:UFO Catcher 21
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop

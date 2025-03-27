@@ -2,5 +2,7 @@ description:Twilight Zone (9.2)
 manufacturer:Bally
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

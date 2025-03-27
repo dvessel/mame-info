@@ -2,6 +2,8 @@ description:Mars Matrix: Hyper Solid Shooting (USA 000412 Phoenix Edition) (boot
 manufacturer:bootleg
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:mmatrix

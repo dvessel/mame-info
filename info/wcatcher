@@ -2,4 +2,6 @@ description:Mahjong Wakuwaku Catcher (Japan)
 manufacturer:Nichibutsu
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

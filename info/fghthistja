@@ -2,6 +2,8 @@ description:Fighter's History (Japan ver 41-05, DE-0380-2 PCB)
 manufacturer:Data East Corporation
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:fghthist
 cloneof:fghthist

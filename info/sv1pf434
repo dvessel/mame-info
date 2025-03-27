@@ -2,4 +2,6 @@ description:Sovereign (1PF434A3) Fantasy
 manufacturer:IGT - International Game Technology
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

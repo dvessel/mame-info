@@ -2,6 +2,8 @@ description:Fighting Hawk (Japan)
 manufacturer:Taito Corporation
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fhawk
 cloneof:fhawk

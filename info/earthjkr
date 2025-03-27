@@ -2,4 +2,6 @@ description:U.N. Defense Force: Earth Joker (US / Japan, set 1)
 manufacturer:Visco
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

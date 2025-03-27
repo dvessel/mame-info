@@ -2,6 +2,8 @@ description:Sengeki Striker (Japan)
 manufacturer:Kaneko / Warashi
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sengekis
 romof:skns

@@ -2,6 +2,8 @@ description:Name Club Ver.2 (J 960315 V1.000)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

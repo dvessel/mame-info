@@ -2,4 +2,6 @@ description:AlphaSmart Pro
 manufacturer:Intelligent Peripheral Devices
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ks0066

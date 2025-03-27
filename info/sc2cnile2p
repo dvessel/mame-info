@@ -2,6 +2,8 @@ description:Cash On The Nile Club (Bellfruit) (set 3 UK, 200GBP Jackpot, Protoco
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

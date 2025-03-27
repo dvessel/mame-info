@@ -2,5 +2,7 @@ description:Acorn A680 UNIX Evaluation System
 manufacturer:Acorn Computers
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:archimedes_keyboard
 device:arc_ether1_aka25

@@ -2,5 +2,7 @@ description:Buriki One: World Grapple Tournament '99 in Tokyo (rev.B)
 manufacturer:SNK
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:hng64

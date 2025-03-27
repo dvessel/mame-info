@@ -2,4 +2,6 @@ description:Dragon Punch (Japan)
 manufacturer:Dynax
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop

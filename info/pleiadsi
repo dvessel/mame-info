@@ -2,6 +2,8 @@ description:Pleiads (Irecsa, set 1)
 manufacturer:bootleg (Irecsa)
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pleiads
 cloneof:pleiads

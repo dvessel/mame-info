@@ -2,6 +2,8 @@ description:Shooting Love 2007 (Japan)
 manufacturer:Triangle Service
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

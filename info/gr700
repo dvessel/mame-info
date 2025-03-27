@@ -2,4 +2,6 @@ description:GR-700 Guitar Synthesizer
 manufacturer:Roland
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:pg200

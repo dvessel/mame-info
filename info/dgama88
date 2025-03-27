@@ -2,5 +2,7 @@ description:Didaktik Gama 88
 manufacturer:Didaktik Skalica
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 romof:spectrum
 cloneof:spectrum

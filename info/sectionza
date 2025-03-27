@@ -2,6 +2,8 @@ description:Section Z (Japan, rev. A)
 manufacturer:Capcom
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sectionz
 cloneof:sectionz

@@ -2,6 +2,8 @@ description:Crazy Kong Part II (bootleg)
 manufacturer:bootleg
 year:1981
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ckongpt2
 cloneof:ckongpt2

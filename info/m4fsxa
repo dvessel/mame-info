@@ -2,6 +2,8 @@ description:Fun Spot X (MPU4?) (set 2)
 manufacturer:AET/Coinworld
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4fsx

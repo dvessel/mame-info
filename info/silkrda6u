@@ -2,6 +2,8 @@ description:Silk Road (0152537, US)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:silkrda6
 romof:aristmk6
 cloneof:silkrda6

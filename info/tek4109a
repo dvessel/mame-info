@@ -2,6 +2,8 @@ description:Tektronix 4109A
 manufacturer:Tektronix
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:tek410x_kbd
 romof:tek4107a
 cloneof:tek4107a

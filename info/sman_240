@@ -2,4 +2,6 @@ description:Spider-Man v2.40
 manufacturer:Stern
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

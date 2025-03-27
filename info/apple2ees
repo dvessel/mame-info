@@ -2,6 +2,8 @@ description:Apple //e (Spain)
 manufacturer:Apple Computer
 year:1983
 status:good
+emulation:good
+savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

@@ -2,5 +2,7 @@ description:Vampire Night (VPN3 Ver. B)
 manufacturer:Sega / Namco
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys246
 disk:vpn1cd0

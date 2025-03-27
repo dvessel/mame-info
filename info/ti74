@@ -2,4 +2,6 @@ description:TI-74 Basicalc (set 1)
 manufacturer:Texas Instruments
 year:1985
 status:good
+emulation:good
+savestate:supported
 device:hd44780

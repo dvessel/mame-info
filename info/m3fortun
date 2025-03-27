@@ -2,5 +2,7 @@ description:Fortune Numbers (Barcrest) (MPU3, set 1)
 manufacturer:Barcrest
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

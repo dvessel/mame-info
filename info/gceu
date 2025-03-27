@@ -2,5 +2,7 @@ description:GameCube (EUR)
 manufacturer:Nintendo
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:gcjp
 cloneof:gcjp

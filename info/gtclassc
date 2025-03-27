@@ -2,4 +2,6 @@ description:Golden Tee Classic (v1.00)
 manufacturer:Incredible Technologies
 year:2001
 status:good
+emulation:good
+savestate:supported
 kind:coinop

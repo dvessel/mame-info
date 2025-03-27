@@ -2,6 +2,8 @@ description:Indiana Jones (JPM) (IMPACT) (IJ8P L18) (set 7, Protocol)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6indy

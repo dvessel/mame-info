@@ -2,5 +2,7 @@ description:Mahjong Ougon no Pai (Japan)
 manufacturer:Dynax
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:ym2413

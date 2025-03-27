@@ -2,5 +2,7 @@ description:Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008 ~ A
 manufacturer:ADK / SNK
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

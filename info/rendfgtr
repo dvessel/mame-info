@@ -2,4 +2,6 @@ description:Renda Fighter (Japan, main ver. 2.02, video ver. 2.03)
 manufacturer:Taito Corporation
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

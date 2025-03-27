@@ -2,5 +2,7 @@ description:Mega Play BIOS
 manufacturer:Sega
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop

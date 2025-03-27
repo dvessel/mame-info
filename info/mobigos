@@ -2,5 +2,7 @@ description:MobiGo (Spain)
 manufacturer:VTech
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:mobigo
 cloneof:mobigo

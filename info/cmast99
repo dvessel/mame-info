@@ -2,3 +2,5 @@ description:Cherry Master '99 (V9B.00)
 manufacturer:Dyna
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported

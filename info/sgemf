@@ -2,5 +2,7 @@ description:Super Gem Fighter: Mini Mix (USA 970904)
 manufacturer:Capcom
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle

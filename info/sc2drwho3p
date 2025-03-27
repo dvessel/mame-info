@@ -2,6 +2,8 @@ description:Dr.Who The Timelord (set 4, UK, Arcade, Protocol) (Scorpion 2/3)
 manufacturer:BFM
 year:1994
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

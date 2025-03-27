@@ -2,6 +2,8 @@ description:Wildfire (Global) (EPOCH) (set 8)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_wf
 cloneof:ep_wf

@@ -2,4 +2,6 @@ description:Bad Dudes vs. Dragonninja (US, revision 1)
 manufacturer:Data East USA
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Don Den Lover Vol. 1 (Hong Kong)
 manufacturer:Dynax
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:ddenlovj

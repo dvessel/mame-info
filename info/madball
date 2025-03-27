@@ -2,4 +2,6 @@ description:Mad Ball (V2.0)
 manufacturer:Yun Sung
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop

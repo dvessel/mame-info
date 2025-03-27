@@ -2,6 +2,8 @@ description:Two Crude (US FT revision 1)
 manufacturer:Data East USA
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:cbuster
 cloneof:cbuster

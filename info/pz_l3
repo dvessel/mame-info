@@ -2,6 +2,8 @@ description:The Party Zone (L-3)
 manufacturer:Bally
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:pz_f4

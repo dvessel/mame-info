@@ -2,9 +2,10 @@ description:Battle Gear 2 (v2.01J)
 manufacturer:Taito
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:batlgr2
 romof:taitotz
 cloneof:batlgr2
 disk:bg2_201j
-disk:bg2_204j

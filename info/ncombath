@@ -2,6 +2,8 @@ description:Ninja Combat (NGH-009)
 manufacturer:Alpha Denshi Co.
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ncombat
 romof:neogeo

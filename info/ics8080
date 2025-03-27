@@ -1,5 +1,7 @@
 description:ICS8080
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:tk80
 cloneof:tk80

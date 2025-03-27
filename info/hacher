@@ -2,6 +2,8 @@ description:Hacher (hack of Win Win Bingo EN.01.6)
 manufacturer:bootleg (Gametron)
 year:2005
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:winbingo
 cloneof:winbingo

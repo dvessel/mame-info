@@ -2,6 +2,8 @@ description:Dick Turnip (Bwb) (MPU5) (set 2)
 manufacturer:Bwb
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5dick
 cloneof:m5dick

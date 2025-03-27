@@ -2,5 +2,7 @@ description:MO5E
 manufacturer:Thomson
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 romof:mo5
 cloneof:mo5

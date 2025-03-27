@@ -2,6 +2,8 @@ description:Who Dunnit (0.3 R)
 manufacturer:Bally
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:wd_12

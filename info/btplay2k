@@ -2,4 +2,6 @@ description:Beat Player 2000
 manufacturer:dgPIX Entertainment Inc.
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

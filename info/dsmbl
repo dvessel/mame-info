@@ -2,4 +2,6 @@ description:Deathsmiles MegaBlack Label (2008/10/06 MEGABLACK LABEL VER)
 manufacturer:Cave (AMI license)
 year:2008
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

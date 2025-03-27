@@ -2,6 +2,8 @@ description:Super Moon Cresta (Gremlin, bootleg)
 manufacturer:bootleg (Gremlin)
 year:1980?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mooncrst
 cloneof:mooncrst

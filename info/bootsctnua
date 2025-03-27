@@ -2,6 +2,8 @@ description:Boot Scootin' (AHG1433, US)
 manufacturer:Aristocrat
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bootsctn
 romof:aristmk5

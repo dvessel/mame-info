@@ -2,3 +2,5 @@ description:NeXT Computer
 manufacturer:Next Software Inc
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported

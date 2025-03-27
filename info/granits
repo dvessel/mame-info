@@ -2,5 +2,7 @@ description:Granit S
 manufacturer:hack (Remote Control Systems)
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:fscc12
 cloneof:fscc12

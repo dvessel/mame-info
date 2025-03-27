@@ -2,6 +2,8 @@ description:Combat School (Japan trackball)
 manufacturer:Konami
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:combatsc
 cloneof:combatsc

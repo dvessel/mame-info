@@ -2,6 +2,8 @@ description:Lord Of The Rings - The Fellowship Of The Ring (Bellfruit) (Scorpion
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4lotrf
 cloneof:sc4lotrf

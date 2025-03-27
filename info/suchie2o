@@ -2,6 +2,8 @@ description:Idol Janshi Suchie-Pai II (ver 1.0)
 manufacturer:Jaleco
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:suchie2
 cloneof:suchie2

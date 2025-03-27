@@ -2,5 +2,7 @@ description:Invinco / Deep Scan
 manufacturer:Sega
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:invinco

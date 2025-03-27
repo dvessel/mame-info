@@ -2,4 +2,6 @@ description:Sidewinder
 manufacturer:ACE
 year:1981?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop

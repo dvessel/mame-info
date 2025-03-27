@@ -2,6 +2,8 @@ description:Photo Y2K 2 / Chaoji Bi Yi Bi 2 / Dajia Lai Zhao Cha 2 / Real and Fa
 manufacturer:IGS
 year:2000
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:py2k2
 romof:pgm

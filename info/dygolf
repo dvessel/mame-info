@@ -2,6 +2,8 @@ description:Virtua Golf / Dynamic Golf (Rev A) (GDS-0009A)
 manufacturer:Sega
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

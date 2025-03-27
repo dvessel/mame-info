@@ -2,5 +2,7 @@ description:HB-101 (MSX1, Japan)
 manufacturer:Sony
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 romof:hb101p
 cloneof:hb101p

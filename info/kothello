@@ -2,4 +2,6 @@ description:Kyuukyoku no Othello
 manufacturer:Success
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

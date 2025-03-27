@@ -2,6 +2,8 @@ description:Pocket Gal Deluxe (Europe v3.00, bootleg)
 manufacturer:bootleg (Data West)
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:pktgaldx
 cloneof:pktgaldx

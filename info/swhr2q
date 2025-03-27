@@ -2,6 +2,8 @@ description:Sweethearts II (0100860V, Queensland)
 manufacturer:Aristocrat
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:swhr2
 romof:aristmk5

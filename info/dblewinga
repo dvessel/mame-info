@@ -2,6 +2,8 @@ description:Double Wings (set 2)
 manufacturer:Mitchell
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dblewing
 cloneof:dblewing

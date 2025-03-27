@@ -2,6 +2,8 @@ description:Tower AT 201, 202, 220, 240 and 260 (286,EGA)
 manufacturer:Schneider Rundfunkwerke AG
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

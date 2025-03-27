@@ -2,3 +2,5 @@ description:Generations (Retro-Bit)
 manufacturer:Retro-Bit
 year:2016
 status:preliminary
+emulation:preliminary
+savestate:unsupported

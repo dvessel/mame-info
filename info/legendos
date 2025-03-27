@@ -2,5 +2,7 @@ description:Legend of Success Joe / Ashita no Joe Densetsu
 manufacturer:SNK / Wave
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

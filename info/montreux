@@ -2,3 +2,5 @@ description:Mephisto Montreux
 manufacturer:Saitek / Tasc
 year:1995
 status:imperfect
+emulation:good
+savestate:supported

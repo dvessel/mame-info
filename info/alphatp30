@@ -2,5 +2,7 @@ description:alphatronic P30
 manufacturer:Triumph-Adler
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:alphatp3
 cloneof:alphatp3

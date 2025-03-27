@@ -2,3 +2,5 @@ description:SPC-1500
 manufacturer:Samsung
 year:1987
 status:good
+emulation:good
+savestate:unsupported

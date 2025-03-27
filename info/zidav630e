@@ -2,6 +2,8 @@ description:V630E Baby AT (SiS630 chipset)
 manufacturer:Zida
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ps2_keybc
 device:kb_ms_natural
 device:sis900_eth

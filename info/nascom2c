@@ -2,5 +2,7 @@ description:Nascom 2 (CP/M)
 manufacturer:Nascom Microcomputers
 year:1980
 status:good
+emulation:good
+savestate:unsupported
 romof:nascom2
 cloneof:nascom2

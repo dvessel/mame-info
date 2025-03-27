@@ -2,5 +2,7 @@ description:Virtua Striker 2 '98 (Step 2.0, Japan)
 manufacturer:Sega
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill

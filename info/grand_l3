@@ -2,6 +2,8 @@ description:Grand Lizard (L-3)
 manufacturer:Williams
 year:1986
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:grand_l4

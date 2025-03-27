@@ -2,6 +2,8 @@ description:Arkanoid (Game Corporation bootleg, set 2)
 manufacturer:bootleg (Game Corporation)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:arkanoid
 cloneof:arkanoid

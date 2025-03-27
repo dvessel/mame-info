@@ -2,5 +2,7 @@ description:Pop 'n Bounce / Gapporin
 manufacturer:Video System Co.
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

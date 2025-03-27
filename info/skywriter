@@ -2,3 +2,5 @@ description:Sky-Writer: The Electronic Message Sender
 manufacturer:Ideal Toy Corporation
 year:1981
 status:imperfect
+emulation:good
+savestate:supported

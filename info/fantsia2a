@@ -2,6 +2,8 @@ description:Fantasia II (Less Explicit)
 manufacturer:Comad
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fantsia2
 cloneof:fantsia2

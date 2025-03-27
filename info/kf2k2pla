@@ -2,6 +2,8 @@ description:The King of Fighters 2002 Plus (bootleg set 2)
 manufacturer:bootleg
 year:2002
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kof2002
 romof:neogeo

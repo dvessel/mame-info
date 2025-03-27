@@ -2,4 +2,6 @@ description:Go For Green (10003411, NSW/ACT)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

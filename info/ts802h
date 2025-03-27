@@ -2,5 +2,7 @@ description:TS802H
 manufacturer:Televideo
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ts802
 cloneof:ts802

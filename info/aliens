@@ -2,4 +2,6 @@ description:Aliens (World set 1)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop

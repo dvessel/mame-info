@@ -2,3 +2,5 @@ description:Studio II
 manufacturer:RCA
 year:1977
 status:imperfect
+emulation:good
+savestate:supported

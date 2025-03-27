@@ -2,4 +2,6 @@ description:Street Fighter: The Movie (v1.12)
 manufacturer:Capcom / Incredible Technologies
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Mega Man: The Power Battle (CPS1, Asia 951006)
 manufacturer:Capcom
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:megaman
 cloneof:megaman

@@ -2,6 +2,8 @@ description:Mad House (Barcrest) (MPU4) (MD8 0.1 Y)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4madhse

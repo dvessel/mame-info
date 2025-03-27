@@ -2,6 +2,8 @@ description:Bolt From The Blue (DJE) (MPU4, set 4)
 manufacturer:DJE
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4boltbl

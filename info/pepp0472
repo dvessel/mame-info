@@ -2,6 +2,8 @@ description:Player's Edge Plus (PP0472) Deuces Wild Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pepp0054
 cloneof:pepp0054

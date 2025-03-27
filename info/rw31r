@@ -2,5 +2,7 @@ description:31R: Slide Rule Memory
 manufacturer:Rockwell
 year:1975
 status:good
+emulation:good
+savestate:supported
 romof:rw30r
 cloneof:rw30r

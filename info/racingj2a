@@ -2,6 +2,8 @@ description:Racing Jam: Chapter II (GQ888AAA)
 manufacturer:Konami
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:racingj2
 cloneof:racingj2

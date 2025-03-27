@@ -2,6 +2,8 @@ description:ZX Evolution: TS-Configuration
 manufacturer:NedoPC, TS-Labs
 year:2011
 status:good
+emulation:good
+savestate:supported
 device:betadisk
 romof:spec128
 cloneof:spec128

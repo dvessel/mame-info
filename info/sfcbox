@@ -2,5 +2,7 @@ description:Super Famicom Box BIOS
 manufacturer:Nintendo
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:bios
 device:s_smp

@@ -2,6 +2,8 @@ description:Fiver Fever (Crystal) (sp.ACE?) (set 2)
 manufacturer:Crystal
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ace_sp_reelctrl
 device:m68705p3

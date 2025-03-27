@@ -2,5 +2,7 @@ description:Mahjong Angels - Comic Theater Vol.2 (Japan)
 manufacturer:Dynax
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

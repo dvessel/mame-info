@@ -2,6 +2,8 @@ description:Yakyuu Kakutou League-Man (Japan, set 1)
 manufacturer:Irem
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:nbbatman
 cloneof:nbbatman

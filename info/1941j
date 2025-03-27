@@ -2,6 +2,8 @@ description:1941: Counter Attack (Japan)
 manufacturer:Capcom
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:1941
 cloneof:1941

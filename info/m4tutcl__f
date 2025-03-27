@@ -2,6 +2,8 @@ description:Tutti Fruity (Barcrest) (MPU4) (F2U 0.1 RD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4tutfrt

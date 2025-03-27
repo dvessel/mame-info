@@ -2,6 +2,8 @@ description:Megatouch III (9255-20-07 R0G, New Jersey version)
 manufacturer:Merit
 year:1995
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:megat3

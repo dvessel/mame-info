@@ -2,4 +2,6 @@ description:Victor 6 (v2.3N)
 manufacturer:American Alpha
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

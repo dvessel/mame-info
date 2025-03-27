@@ -2,4 +2,6 @@ description:Grand Prix Star (ver 4.0)
 manufacturer:Jaleco
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

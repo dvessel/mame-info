@@ -2,6 +2,8 @@ description:The Machine: Bride of Pinbot (L-2)
 manufacturer:Williams
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bop_l7

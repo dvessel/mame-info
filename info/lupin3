@@ -2,5 +2,7 @@ description:Lupin III (set 1)
 manufacturer:Taito
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:lupin3

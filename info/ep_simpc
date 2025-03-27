@@ -2,6 +2,8 @@ description:The Simpsons (Maygay) (EPOCH) (4.5, set 4)
 manufacturer:Maygay
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_simp
 cloneof:ep_simp

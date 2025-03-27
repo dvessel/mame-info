@@ -1,3 +1,5 @@
 description:CKZ-80
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:supported

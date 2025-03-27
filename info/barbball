@@ -2,3 +2,5 @@ description:Barroom Baseball (prototype)
 manufacturer:Atari
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported

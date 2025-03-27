@@ -2,5 +2,7 @@ description:Nod And A Wink (Eurotech) (MPU4)
 manufacturer:Eurotech
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Robin's Adventure (Version 1.5)
 manufacturer:Amcoe
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:robadv
 cloneof:robadv

@@ -2,6 +2,8 @@ description:Shuang Long Qiang Zhu 2 VS (China, set 2)
 manufacturer:IGS
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:slqz2
 cloneof:slqz2

@@ -2,6 +2,8 @@ description:Data East Test Chip
 manufacturer:Data East
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

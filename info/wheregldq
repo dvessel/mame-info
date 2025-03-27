@@ -2,6 +2,8 @@ description:Where's The Gold (20184811, Queensland)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wheregld
 romof:aristmk6
 cloneof:wheregld

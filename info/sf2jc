@@ -2,6 +2,8 @@ description:Street Fighter II: The World Warrior (Japan 910306)
 manufacturer:Capcom
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:sf2
 cloneof:sf2

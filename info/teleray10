@@ -2,3 +2,5 @@ description:Teleray Model 10
 manufacturer:Research Inc.
 year:1978
 status:preliminary
+emulation:preliminary
+savestate:unsupported

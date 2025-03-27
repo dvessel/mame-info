@@ -2,6 +2,8 @@ description:Red Hot Poker (Release 2, 1993 copyright, 5p Fixed, Cash+Token) (set
 manufacturer:BWB
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4redhtp
 cloneof:v4redhtp

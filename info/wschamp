@@ -2,4 +2,6 @@ description:Wing Shooting Championship V2.00
 manufacturer:Sammy USA Corporation
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

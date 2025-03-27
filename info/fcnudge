@@ -2,4 +2,6 @@ description:Fruit Carnival Nudge (Version 2.1 Dual)
 manufacturer:Amcoe
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop

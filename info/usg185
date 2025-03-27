@@ -2,6 +2,8 @@ description:Games V18.5
 manufacturer:U.S. Games, Inc.
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:usgames
 cloneof:usgames

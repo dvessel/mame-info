@@ -2,4 +2,6 @@ description:VideoArt
 manufacturer:LJN Toys
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 device:ef9365

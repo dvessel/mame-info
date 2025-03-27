@@ -2,6 +2,8 @@ description:Taxi (Marilyn) (L-1) Germany
 manufacturer:Williams
 year:1988
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:taxi_l4

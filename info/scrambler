@@ -2,6 +2,8 @@ description:Scramble (Reben S.A. Spanish bootleg)
 manufacturer:bootleg (Reben S.A.)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:scramble
 cloneof:scramble

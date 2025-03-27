@@ -2,6 +2,8 @@ description:Harley Davidson (Stern, CPU 1.08, display A1.05)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,6 +2,8 @@ description:Poly 1 Educational Computer (early)
 manufacturer:Polycorp
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:saa5050
 romof:poly1
 cloneof:poly1

@@ -2,3 +2,5 @@ description:PVE-500
 manufacturer:SONY
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported

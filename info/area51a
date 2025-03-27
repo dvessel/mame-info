@@ -2,6 +2,8 @@ description:Area 51 (Atari Games license, Oct 25, 1995)
 manufacturer:Atari Games
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:area51
 cloneof:area51

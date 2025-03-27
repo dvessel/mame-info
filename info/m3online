@@ -2,5 +2,7 @@ description:On Line (Pcp) (MPU3)
 manufacturer:Pcp
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

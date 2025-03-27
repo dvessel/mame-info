@@ -2,6 +2,8 @@ description:Indiana Jones (JPM) (IMPACT, German set 2)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6indy

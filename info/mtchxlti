@@ -2,6 +2,8 @@ description:MegaTouch XL Titanium (Version r0?, cracked)
 manufacturer:bootleg
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:dm_clgd5430
 device:microtouch

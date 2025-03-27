@@ -2,4 +2,6 @@ description:Alpha Juno-1 (JU-1) Programmable Polyphonic Synthesizer
 manufacturer:Roland
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

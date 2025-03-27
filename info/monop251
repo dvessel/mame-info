@@ -2,6 +2,8 @@ description:Monopoly (CPU 2.51, display A2.06)
 manufacturer:Stern
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

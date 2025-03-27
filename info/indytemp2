@@ -2,6 +2,8 @@ description:Indiana Jones and the Temple of Doom (set 2)
 manufacturer:Atari Games
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:indytemp
 romof:atarisy1

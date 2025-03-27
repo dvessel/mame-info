@@ -2,6 +2,8 @@ description:Epson CM6032
 manufacturer:Epson
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:epson_tf20
 romof:ehx20
 cloneof:ehx20

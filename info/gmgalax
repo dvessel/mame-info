@@ -2,4 +2,6 @@ description:Ghostmuncher Galaxian (bootleg)
 manufacturer:bootleg
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

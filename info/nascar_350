@@ -2,6 +2,8 @@ description:Nascar (CPU 3.50, display A3.03)
 manufacturer:Stern
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:nascar

@@ -2,6 +2,8 @@ description:Sega Network Taisen Mahjong MJ 3 Evolution Firmware Update (GDX-0023
 manufacturer:Sega
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

@@ -2,6 +2,8 @@ description:Head On 2 (Sidam bootleg)
 manufacturer:bootleg (Sidam)
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:headon2
 cloneof:headon2

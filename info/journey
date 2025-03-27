@@ -2,6 +2,8 @@ description:Journey
 manufacturer:Bally Midway
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:midssio
 sampleof:journey

@@ -2,5 +2,7 @@ description:TI Model 990/4 Microcomputer System with Video Display Terminal
 manufacturer:Texas Instruments
 year:1976
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ti990_4
 cloneof:ti990_4

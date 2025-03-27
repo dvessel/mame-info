@@ -2,5 +2,7 @@ description:Sonic The Hedgehog (Mega-Tech, set 1)
 manufacturer:Sega
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:megatech

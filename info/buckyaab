@@ -2,6 +2,8 @@ description:Bucky O'Hare (ver AAB)
 manufacturer:Konami
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:bucky
 cloneof:bucky

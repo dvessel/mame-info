@@ -2,6 +2,8 @@ description:Paystation (V2.0) (Qps) (Scorpion 4) (set 2)
 manufacturer:QPS
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4pstat
 cloneof:sc4pstat

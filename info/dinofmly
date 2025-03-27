@@ -2,4 +2,6 @@ description:Dino Family
 manufacturer:Subsino
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

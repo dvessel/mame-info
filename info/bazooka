@@ -2,3 +2,5 @@ description:Bazooka
 manufacturer:Project Support Engineering
 year:1976
 status:preliminary
+emulation:preliminary
+savestate:unsupported

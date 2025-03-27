@@ -2,6 +2,8 @@ description:Dancing Fever Gold (J 000821 V2.001)
 manufacturer:Sega
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

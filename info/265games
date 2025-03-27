@@ -1,3 +1,5 @@
 description:265-in-1 Handheld Game (SPG2xx based)
 year:201?
 status:imperfect
+emulation:good
+savestate:unsupported

@@ -2,9 +2,10 @@ description:Chaos Heat (V2.08J 1998/09/25 17:00)
 manufacturer:Taito
 year:1998
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:chaoshea
 romof:coh3002t
 cloneof:chaoshea
 disk:chaosheatj
-disk:chaosheat

@@ -2,4 +2,6 @@ description:Quiz Theater - 3tsu no Monogatari (Ver 2.3J 1994/11/10)
 manufacturer:Taito Corporation
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

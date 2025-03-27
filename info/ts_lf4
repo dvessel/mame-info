@@ -2,6 +2,8 @@ description:The Shadow (LF-4) French
 manufacturer:Bally
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:ts_lx5

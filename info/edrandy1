@@ -2,6 +2,8 @@ description:The Cliffhanger - Edward Randy (World ver 1)
 manufacturer:Data East Corporation
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:edrandy
 cloneof:edrandy

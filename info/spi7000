@@ -2,3 +2,5 @@ description:ExpertPad PI-7000
 manufacturer:Sharp
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported

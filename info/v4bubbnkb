@@ -2,6 +2,8 @@ description:Bubbly Bonk (v4.0?) (20p Fixed, Cash+Token, Datapak, % Key) (MPU4 Vi
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4bubbnk
 cloneof:v4bubbnk

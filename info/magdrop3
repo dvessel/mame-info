@@ -2,5 +2,7 @@ description:Magical Drop III
 manufacturer:Data East Corporation
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

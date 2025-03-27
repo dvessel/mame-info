@@ -2,6 +2,8 @@ description:Elvis (CPU 3.03, display F3.02, France)
 manufacturer:Stern
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:elvisp

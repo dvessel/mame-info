@@ -2,9 +2,10 @@ description:Hyper Olympic in Nagano (GX720 JAA)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:nagano98
 romof:konamigv
 cloneof:nagano98
 disk:720jaa01
-disk:nagano98

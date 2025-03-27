@@ -2,6 +2,8 @@ description:Nudge Nudge Wink Wink Classic (Barcrest) (MPU4) (CH3 0.2 KD / NN4 0.
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4nnww

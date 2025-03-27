@@ -2,4 +2,6 @@ description:Super Bagman (version 5)
 manufacturer:Valadon Automation
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop

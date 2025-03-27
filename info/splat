@@ -2,4 +2,6 @@ description:Splat!
 manufacturer:Williams
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Chimera Beast (Japan, prototype, set 2)
 manufacturer:Jaleco
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:chimerab
 cloneof:chimerab

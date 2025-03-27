@@ -2,6 +2,8 @@ description:Last Mission (Japan)
 manufacturer:Data East Corporation
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:lastmisn
 cloneof:lastmisn

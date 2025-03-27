@@ -2,6 +2,8 @@ description:Andy's Great Escape (BWB / Barcrest) (MPU4) (AG5 3.0)
 manufacturer:BWB
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4andyge

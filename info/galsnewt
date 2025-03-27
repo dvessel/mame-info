@@ -2,6 +2,8 @@ description:Gals Panic (Taiwan, EXPRO-02 PCB)
 manufacturer:Kaneko
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galsnew
 cloneof:galsnew

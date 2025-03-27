@@ -2,3 +2,5 @@ description:Video Challenger
 manufacturer:Select Merchandise
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported

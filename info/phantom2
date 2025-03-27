@@ -2,5 +2,7 @@ description:Phantom II
 manufacturer:Midway
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:phantom2

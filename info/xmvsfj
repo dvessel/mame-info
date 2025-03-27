@@ -2,6 +2,8 @@ description:X-Men Vs. Street Fighter (Japan 970113)
 manufacturer:Capcom
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:xmvsf

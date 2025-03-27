@@ -2,6 +2,8 @@ description:Violent Storm (ver JAC)
 manufacturer:Konami
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:viostorm
 cloneof:viostorm

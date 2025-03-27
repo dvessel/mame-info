@@ -2,6 +2,8 @@ description:Slots (Belgian Cash, Game Card 95-752-008)
 manufacturer:BFM/ELAM
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:sltblgpo

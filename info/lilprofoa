@@ -2,5 +2,7 @@ description:Little Professor (1976 version, rev. A)
 manufacturer:Texas Instruments
 year:1976
 status:good
+emulation:good
+savestate:supported
 romof:lilprof
 cloneof:lilprof

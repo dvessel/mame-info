@@ -2,6 +2,8 @@ description:Blackjack Super Multi (Barcrest) (MPU4) (SM 1.6)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4bjsm

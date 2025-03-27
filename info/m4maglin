@@ -2,5 +2,7 @@ description:Magic Liner (Barcrest) (Dutch) (MPU4) (DMA 2.1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

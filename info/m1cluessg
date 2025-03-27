@@ -2,6 +2,8 @@ description:Cluedo Super Sleuth (Maygay) v7.1 (15GBP Jackpot) (Older) (M1A/B)
 manufacturer:Maygay
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413
 romof:m1cluess

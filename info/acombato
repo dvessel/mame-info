@@ -2,6 +2,8 @@ description:Astro Combat (older, PZ)
 manufacturer:bootleg
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:astrof
 cloneof:astrof

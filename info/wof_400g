@@ -2,6 +2,8 @@ description:Wheel of Fortune v4.0 (German)
 manufacturer:Stern
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:wof_500a
 cloneof:wof_500a

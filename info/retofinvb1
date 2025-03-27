@@ -2,6 +2,8 @@ description:Return of the Invaders (bootleg, without MCU, set 1)
 manufacturer:bootleg
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:retofinv
 cloneof:retofinv

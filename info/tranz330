@@ -2,3 +2,5 @@ description:Tranz 330
 manufacturer:VeriFone
 year:1985
 status:good
+emulation:good
+savestate:unsupported

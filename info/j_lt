@@ -2,6 +2,8 @@ description:Lucky 2's (JPM) (SRU) (revision 9, 10p Stake, £2 Jackpot)
 manufacturer:JPM
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:fruitsamples

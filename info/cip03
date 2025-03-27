@@ -2,5 +2,7 @@ description:CIP-03
 manufacturer:Electronica
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 romof:spectrum
 cloneof:spectrum

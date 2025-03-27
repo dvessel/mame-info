@@ -2,6 +2,8 @@ description:The Speed Rumbler (set 2)
 manufacturer:Capcom
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:srumbler
 cloneof:srumbler

@@ -2,6 +2,8 @@ description:Spectrum (ver 4)
 manufacturer:Bally
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:spectrm

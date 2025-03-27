@@ -2,6 +2,8 @@ description:Chaoji Dou Dizhu (V215CN)
 manufacturer:IGS
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cjddz
 cloneof:cjddz

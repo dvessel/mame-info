@@ -2,6 +2,8 @@ description:Action Fighter (System 16B, FD1089A 317-0018)
 manufacturer:Sega
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:afighter
 cloneof:afighter

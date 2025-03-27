@@ -2,6 +2,8 @@ description:Turbo Out Run (cockpit) (FD1094 317-0106)
 manufacturer:Sega
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:toutrun
 cloneof:toutrun

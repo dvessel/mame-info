@@ -2,8 +2,9 @@ description:beatstage complete MIX (ver KA-B)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bmcompmx
 cloneof:bmcompmx
 disk:858kab11
-disk:858jaa11

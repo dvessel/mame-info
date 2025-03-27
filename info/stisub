@@ -2,6 +2,8 @@ description:Super Treasure Island (Italy, v1.6)
 manufacturer:Subsino
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:stbsub
 cloneof:stbsub

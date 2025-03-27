@@ -2,6 +2,8 @@ description:Olivmandingo (Spanish bootleg of Mandinga on Galaxian hardware, set 
 manufacturer:bootleg (Calfesa)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:amidar
 cloneof:amidar

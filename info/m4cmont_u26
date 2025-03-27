@@ -2,6 +2,8 @@ description:Casino Monte Carlo (Avantime?) (MPU4) (Ukraine, set 26)
 manufacturer:Avantime?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4cmont

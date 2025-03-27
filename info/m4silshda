@@ -2,6 +2,8 @@ description:Silver Shadow (Barcrest) (MPU4) (SH 2.0, set 1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4silshd

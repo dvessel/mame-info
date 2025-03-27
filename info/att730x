@@ -2,3 +2,5 @@ description:730X
 manufacturer:AT&amp;T
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported

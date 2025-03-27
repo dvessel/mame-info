@@ -2,6 +2,8 @@ description:Caveman (Pinball/Video Combo, set 1)
 manufacturer:Gottlieb
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:votrsc01a

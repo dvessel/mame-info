@@ -2,6 +2,8 @@ description:Monopoly Go To Auction (Bellfruit) (Scorpion 5) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5mogta
 cloneof:sc5mogta

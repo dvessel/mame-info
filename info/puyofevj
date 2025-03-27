@@ -2,6 +2,8 @@ description:Puyo Puyo Fever (Japan) (GDS-0031)
 manufacturer:Sega
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:puyofev
 romof:naomigd
 cloneof:puyofev
 disk:gds-0031
-disk:gds-0034

@@ -2,5 +2,7 @@ description:Spot (Arcadia, V 2.0)
 manufacturer:Arcadia Systems
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ar_bios

@@ -2,6 +2,8 @@ description:1942 (Tecfri PCB, bootleg?)
 manufacturer:bootleg
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:1942
 cloneof:1942

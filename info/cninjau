@@ -2,6 +2,8 @@ description:Caveman Ninja (US ver 4)
 manufacturer:Data East Corporation
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:cninja
 cloneof:cninja

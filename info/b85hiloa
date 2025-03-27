@@ -2,6 +2,8 @@ description:Hi-Lo Silver (System 85, set 2)
 manufacturer:BFM
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:b85hilo
 cloneof:b85hilo

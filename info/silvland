@@ -2,6 +2,8 @@ description:Silver Land (hack of River Patrol)
 manufacturer:Falcon
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rpatrol
 cloneof:rpatrol

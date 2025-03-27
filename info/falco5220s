@@ -2,5 +2,7 @@ description:Falco 5220s
 manufacturer:Falco Data Products
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:falco5220e
 cloneof:falco5220e

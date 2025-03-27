@@ -2,4 +2,6 @@ description:Wild Cougar - Power Pay (30214211, ASP)
 manufacturer:Aristocrat
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

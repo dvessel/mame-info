@@ -2,6 +2,8 @@ description:Double Take (BWB) (Release 4, Arcade Data, 20p/25p Stake Key, £5/£
 manufacturer:BWB
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4dbltak
 cloneof:v4dbltak

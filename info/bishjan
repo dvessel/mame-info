@@ -2,4 +2,6 @@ description:Bishou Jan (Japan, Ver. 203)
 manufacturer:Subsino
 year:1999
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop

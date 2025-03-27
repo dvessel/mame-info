@@ -2,6 +2,8 @@ description:Super Marukin-Ban (Japan 901017)
 manufacturer:Yuga
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:marukin

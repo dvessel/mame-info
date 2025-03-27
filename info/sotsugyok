@@ -2,6 +2,8 @@ description:Jor-eop Jeungmyeongseo (Korea)
 manufacturer:Mitchell
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:sotsugyo
 cloneof:sotsugyo

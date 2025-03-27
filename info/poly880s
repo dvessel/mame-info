@@ -2,5 +2,7 @@ description:Poly-Computer 880 (SC1)
 manufacturer:hack
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:poly880
 cloneof:poly880

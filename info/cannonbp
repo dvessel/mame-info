@@ -2,4 +2,6 @@ description:Cannon Ball (Pac-Man Hardware)
 manufacturer:Novomatic
 year:1985
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

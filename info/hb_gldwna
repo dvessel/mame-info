@@ -2,6 +2,8 @@ description:Golden Winner (Fairgames) (set 2)
 manufacturer:Fairgames
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:hb_gldwn
 cloneof:hb_gldwn

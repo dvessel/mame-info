@@ -2,3 +2,5 @@ description:TeleVideo 990
 manufacturer:TeleVideo
 year:1992
 status:good
+emulation:good
+savestate:supported

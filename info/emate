@@ -2,3 +2,5 @@ description:eMate 300
 manufacturer:Apple Computer
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported

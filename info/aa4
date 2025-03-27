@@ -2,6 +2,8 @@ description:Acorn A4
 manufacturer:Acorn Computers
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:archimedes_keyboard
 romof:aa5000
 cloneof:aa5000

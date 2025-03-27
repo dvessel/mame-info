@@ -2,5 +2,7 @@ description:Inca Sun (0100872V, NSW/ACT)
 manufacturer:Aristocrat
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

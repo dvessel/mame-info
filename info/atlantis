@@ -2,4 +2,6 @@ description:Battle of Atlantis (set 1)
 manufacturer:Comsoft
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop

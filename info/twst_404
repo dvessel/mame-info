@@ -2,6 +2,8 @@ description:Twister (CPU 4.04, display A4.00)
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

@@ -2,6 +2,8 @@ description:Wings over Olympus (0252529, US)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wingoly
 romof:aristmk6
 cloneof:wingoly

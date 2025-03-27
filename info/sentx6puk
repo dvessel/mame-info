@@ -2,5 +2,7 @@ description:Vs Maxx Texas Hold'em TV Poker - 6 Player Edition (UK)
 manufacturer:Senario / Play Vision
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:sentx6p
 cloneof:sentx6p

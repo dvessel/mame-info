@@ -2,5 +2,7 @@ description:Cherry Master 2005 (Ver. 0.14H)
 manufacturer:Dyna
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:cm2005
 cloneof:cm2005

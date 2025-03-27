@@ -2,4 +2,6 @@ description:Lethal Crash Race / Bakuretsu Crash Race (set 1)
 manufacturer:Video System Co.
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop

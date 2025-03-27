@@ -2,5 +2,7 @@ description:The Excellence (model EP12, set 2)
 manufacturer:Fidelity International
 year:1985
 status:good
+emulation:good
+savestate:supported
 romof:fexcel
 cloneof:fexcel

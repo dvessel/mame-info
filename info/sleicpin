@@ -2,5 +2,7 @@ description:Sleic Pin Ball
 manufacturer:Sleic
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 sampleof:genpin

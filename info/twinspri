@@ -2,5 +2,7 @@ description:Twinkle Star Sprites
 manufacturer:ADK / SNK
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

@@ -2,6 +2,10 @@ description:Initial D4 (Rev C)
 manufacturer:Sega
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:initiad4
 romof:lindbios
 cloneof:initiad4
+disk:mda-c0004a_revb_lindyellow_v2.4.20_mvl31a_boot_2.01
+disk:dvp-0030c

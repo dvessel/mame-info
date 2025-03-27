@@ -2,6 +2,8 @@ description:Spot Light (Barcrest) (MPU2) (revision 7, 10p Stake, £2 Jackpot)
 manufacturer:Barcrest
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:m2splite

@@ -2,6 +2,8 @@ description:Quiz Olympic (set 2)
 manufacturer:Seoul Coin Corp.
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:quizo
 cloneof:quizo

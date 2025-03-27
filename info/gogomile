@@ -2,4 +2,6 @@ description:Susume! Mile Smile / Go Go! Mile Smile (newer)
 manufacturer:Fuuki
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,4 +2,6 @@ description:PlayCenter Champions Tournament (v9.3, 'Epox' hardware)
 manufacturer:Recreativos Presas / Undergaming
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 disk:playcenter_epox_9.3_tournament

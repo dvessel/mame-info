@@ -2,6 +2,8 @@ description:Fire Barrel (Japan)
 manufacturer:Irem
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:airass
 cloneof:airass

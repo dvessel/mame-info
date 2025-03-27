@@ -2,6 +2,8 @@ description:World Poker Tour v14.00 (German,French)
 manufacturer:Stern
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:wpt_1400
 cloneof:wpt_1400

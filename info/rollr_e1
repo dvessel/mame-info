@@ -2,6 +2,8 @@ description:Rollergames (PU-1)
 manufacturer:Williams
 year:1991
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:rollr_l2

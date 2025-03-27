@@ -2,6 +2,8 @@ description:The Simpsons (2 Players World, set 3)
 manufacturer:Konami
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:simpsons
 cloneof:simpsons

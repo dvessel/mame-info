@@ -2,6 +2,8 @@ description:Espial (Japan)
 manufacturer:Orca / Thunderbolt
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:espial
 cloneof:espial

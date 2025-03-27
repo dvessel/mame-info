@@ -2,5 +2,7 @@ description:Hector HRX + Disc2
 manufacturer:Micronique
 year:1984
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:hec2hrp
 cloneof:hec2hrp

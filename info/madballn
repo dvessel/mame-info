@@ -2,6 +2,8 @@ description:Mad Ball (V2.0, with nudity)
 manufacturer:Yun Sung
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:madball
 cloneof:madball

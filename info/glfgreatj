@@ -2,6 +2,8 @@ description:Golfing Greats (Japan, version J)
 manufacturer:Konami
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:glfgreat
 cloneof:glfgreat

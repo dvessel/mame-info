@@ -2,5 +2,7 @@ description:Circus Circus 2 (Nova?) (MPU4)
 manufacturer:Nova?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

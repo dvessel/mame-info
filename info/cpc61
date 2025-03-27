@@ -2,3 +2,5 @@ description:Zemmix CPC-61 (MSX2, Korea)
 manufacturer:Daewoo
 year:1990
 status:good
+emulation:good
+savestate:unsupported

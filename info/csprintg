@@ -2,6 +2,8 @@ description:Championship Sprint (German, rev 2)
 manufacturer:Atari Games
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:csprint
 cloneof:csprint

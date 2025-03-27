@@ -2,5 +2,7 @@ description:SportStation: NBA Showtime NBA on NBC Gold Edition (ver 3.0, Feb 18 
 manufacturer:Midway Games
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 disk:nbanfl3

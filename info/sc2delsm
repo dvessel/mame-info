@@ -2,6 +2,8 @@ description:Del's Millions (Bellfruit/Mazooma) (DMVMAZ11_N) (Scorpion 2/3)
 manufacturer:BFM/Mazooma
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

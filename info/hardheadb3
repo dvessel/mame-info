@@ -2,6 +2,8 @@ description:Hard Head (bootleg, set 3)
 manufacturer:bootleg
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:hardhead
 cloneof:hardhead

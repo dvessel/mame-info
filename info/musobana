@@ -2,4 +2,6 @@ description:Musoubana (Japan)
 manufacturer:Nichibutsu / Yubis
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

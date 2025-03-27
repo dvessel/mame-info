@@ -2,3 +2,5 @@ description:PDC200 - Pocket Dream Console (VideoJet, France)
 manufacturer:Conny / VideoJet
 year:2012
 status:imperfect
+emulation:good
+savestate:unsupported

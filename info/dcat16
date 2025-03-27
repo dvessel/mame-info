@@ -2,3 +2,5 @@ description:D-CAT16 (Mega Drive handheld)
 manufacturer:Firecore
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

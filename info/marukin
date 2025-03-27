@@ -2,5 +2,7 @@ description:Super Marukin-Ban (Japan 911128)
 manufacturer:Yuga
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413

@@ -2,5 +2,7 @@ description:Iron (SNES bootleg)
 manufacturer:bootleg
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:s_smp

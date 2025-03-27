@@ -2,4 +2,6 @@ description:Flaming 7 (W4 Hardware, Red, White &amp; Blue 7's + Hollywood Nights
 manufacturer:Cyberdyne Systems
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

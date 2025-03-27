@@ -2,6 +2,8 @@ description:Star Light (Dutch) (Barcrest) (MPU2) (revision 07)
 manufacturer:Barcrest
 year:1980?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:fruitsamples

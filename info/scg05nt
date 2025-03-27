@@ -2,6 +2,8 @@ description:Sega Golf Club Network Pro Tour 2005 (Rev C) (GDX-0010C)
 manufacturer:Sega
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

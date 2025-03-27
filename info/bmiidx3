@@ -2,6 +2,8 @@ description:beatmania IIDX 3rd style (GC992 JAC)
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:gq863
 disk:gc992-jac01

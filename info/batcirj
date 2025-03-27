@@ -2,6 +2,8 @@ description:Battle Circuit (Japan 970319)
 manufacturer:Capcom
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:batcir

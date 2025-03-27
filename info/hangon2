@@ -2,6 +2,8 @@ description:Hang-On (Rev A, ride-on)
 manufacturer:Sega
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:hangon
 cloneof:hangon

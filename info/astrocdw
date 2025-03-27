@@ -2,5 +2,7 @@ description:Bally Computer System
 manufacturer:Bally Manufacturing
 year:1977
 status:good
+emulation:good
+savestate:supported
 romof:astrocde
 cloneof:astrocde

@@ -2,6 +2,8 @@ description:Venus (bootleg of Gyruss)
 manufacturer:bootleg
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gyruss
 cloneof:gyruss

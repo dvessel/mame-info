@@ -2,6 +2,8 @@ description:Cash Raider (Ace) (IMPACT) (set 4, Whitbread)
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6cshrd

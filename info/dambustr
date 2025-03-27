@@ -2,4 +2,6 @@ description:Dambusters (US, set 1)
 manufacturer:South West Research
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

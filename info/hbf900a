@@ -2,3 +2,5 @@ description:HB-F900 (alt) (MSX2, Japan)
 manufacturer:Sony
 year:1986
 status:good
+emulation:good
+savestate:unsupported

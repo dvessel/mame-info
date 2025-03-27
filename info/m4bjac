@@ -2,5 +2,7 @@ description:Blackjack Club (Barcrest) (MPU4) (C2J 1.8)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

@@ -2,5 +2,7 @@ description:Hit The Top (Barcrest) (MPU4) (HI4 0.3)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

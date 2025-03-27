@@ -2,6 +2,8 @@ description:Ridge Racer 2 (Japan, RRS1 Ver.B)
 manufacturer:Namco
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc71
 device:namcoc74

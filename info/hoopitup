@@ -2,6 +2,8 @@ description:Hoop it Up World Tour - 3 on 3 (Rev 23)
 manufacturer:Atari Games
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:hd44780

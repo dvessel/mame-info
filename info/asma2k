@@ -2,4 +2,6 @@ description:AlphaSmart 2000
 manufacturer:Intelligent Peripheral Devices
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ks0066

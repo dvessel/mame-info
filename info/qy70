@@ -2,3 +2,5 @@ description:QY70 Music Sequencer
 manufacturer:Yamaha
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported

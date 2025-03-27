@@ -2,4 +2,6 @@ description:Ready To Roll (JPM)
 manufacturer:JPM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

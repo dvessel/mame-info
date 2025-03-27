@@ -2,6 +2,8 @@ description:PC-8801mkIIMR
 manufacturer:NEC
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 device:pc80s31k
 romof:pc8801mk2sr
 cloneof:pc8801mk2sr

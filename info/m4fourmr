@@ -2,5 +2,7 @@ description:Four More (BWB) (MPU4)
 manufacturer:BWB
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

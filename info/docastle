@@ -2,4 +2,6 @@ description:Mr. Do's Castle (set 1)
 manufacturer:Universal
 year:1983
 status:good
+emulation:good
+savestate:supported
 kind:coinop

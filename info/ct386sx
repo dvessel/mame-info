@@ -2,6 +2,8 @@ description:NEAT 386SX (16 MHz, MF2 Keyboard)
 manufacturer:&lt;generic>
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

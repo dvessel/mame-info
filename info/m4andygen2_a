@@ -2,6 +2,8 @@ description:Andy's Great Escape (Barcrest) (MPU4) (AN2 0.3, set 2)
 manufacturer:Barcrest
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4andyge

@@ -2,3 +2,5 @@ description:My Arcade Data East Classics - Pixel Player (308-in-1) (DGUNL-3202)
 manufacturer:dreamGEAR
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

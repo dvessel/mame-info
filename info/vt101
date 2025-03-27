@@ -2,5 +2,7 @@ description:VT101
 manufacturer:Digital Equipment Corporation
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:vt102
 cloneof:vt102

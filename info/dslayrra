@@ -2,5 +2,7 @@ description:Dragon Slayer (Russia, v16.B, 2005/11/10)
 manufacturer:Astro Corp.
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:dslayrr
 cloneof:dslayrr

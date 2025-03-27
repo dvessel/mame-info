@@ -2,6 +2,8 @@ description:Wizard Fire (US v1.1)
 manufacturer:Data East Corporation
 year:1992
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:wizdfire
 cloneof:wizdfire

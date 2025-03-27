@@ -2,5 +2,7 @@ description:Supa Slot (Barcrest) (MPU4) (S4S 1.0)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

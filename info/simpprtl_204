@@ -2,6 +2,8 @@ description:The Simpsons Pinball Party (CPU 2.04, display L2.01, Spain)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

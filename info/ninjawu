@@ -2,6 +2,8 @@ description:The Ninja Warriors (US, Romstar license)
 manufacturer:Taito Corporation America (licensed to Romstar)
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ninjaw
 cloneof:ninjaw

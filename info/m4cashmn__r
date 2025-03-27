@@ -2,6 +2,8 @@ description:Cash Machine (Barcrest) (MPU4) (CMA 0.8 KD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4cashmn

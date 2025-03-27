@@ -2,5 +2,7 @@ description:Thief
 manufacturer:Pacific Novelty
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:thief

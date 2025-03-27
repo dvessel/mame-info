@@ -2,5 +2,7 @@ description:Super Strike Bowling (V1)
 manufacturer:Strata / Incredible Technologies
 year:1990
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop

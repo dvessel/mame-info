@@ -2,6 +2,8 @@ description:Double Wings (Asia)
 manufacturer:Mitchell
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dblewing
 cloneof:dblewing

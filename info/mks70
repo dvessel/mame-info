@@ -2,5 +2,7 @@ description:MKS-70 Super JX Polyphonic Synthesizer
 manufacturer:Roland
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:jx10
 cloneof:jx10

@@ -2,4 +2,6 @@ description:Super Free Kick (set 1)
 manufacturer:Haesung/HJ Corp
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

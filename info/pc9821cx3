@@ -2,6 +2,8 @@ description:PC-9821Cx3 (98MULTi CanBe)
 manufacturer:NEC
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ym2608
 device:upd7220
 romof:pc9821ce2

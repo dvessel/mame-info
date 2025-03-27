@@ -2,6 +2,8 @@ description:Amiga 3000 (NTSC)
 manufacturer:Commodore
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:a2000kbd_us
 romof:a3000
 cloneof:a3000

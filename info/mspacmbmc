@@ -2,6 +2,8 @@ description:Ms. Pac-Man (Marti Colls bootleg)
 manufacturer:bootleg (Marti Colls)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mspacman
 cloneof:mspacman

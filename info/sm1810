@@ -1,4 +1,6 @@
 description:SM1810
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:isbc_215g

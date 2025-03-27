@@ -2,6 +2,8 @@ description:Bugs Bunny Birthday Ball (LU-2) European
 manufacturer:Bally
 year:1990
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:bbnny_l2

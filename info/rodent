@@ -2,4 +2,6 @@ description:Rodent Exterminator
 manufacturer:The Game Room
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

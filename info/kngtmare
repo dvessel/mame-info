@@ -2,4 +2,6 @@ description:Knightmare (prototype)
 manufacturer:Gottlieb
 year:1983
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

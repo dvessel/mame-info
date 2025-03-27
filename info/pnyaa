@@ -2,5 +2,7 @@ description:Pochi and Nyaa (Ver 2.02)
 manufacturer:Aiky / Taito
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

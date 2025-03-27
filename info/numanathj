@@ -2,6 +2,8 @@ description:Numan Athletics (Japan)
 manufacturer:Namco
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc70
 romof:numanath

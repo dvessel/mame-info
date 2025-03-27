@@ -2,3 +2,5 @@ description:HP 64000
 manufacturer:HP
 year:1979
 status:good
+emulation:good
+savestate:unsupported

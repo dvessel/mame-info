@@ -2,4 +2,6 @@ description:Player's Edge Plus (X000508P+XP000038) Loose Deuce Deuces Wild! Poke
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

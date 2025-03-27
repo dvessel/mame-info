@@ -2,5 +2,7 @@ description:Blood Bros. (Modular System)
 manufacturer:bootleg (Gaelco / Ervisa)
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:bloodbro
 cloneof:bloodbro

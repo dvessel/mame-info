@@ -2,3 +2,5 @@ description:Backgammon
 manufacturer:Merkur
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported

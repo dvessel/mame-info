@@ -2,4 +2,6 @@ description:Player's Edge Plus (X002474P+XP000038) Double Double Bonus Plus
 manufacturer:IGT - International Game Technology
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

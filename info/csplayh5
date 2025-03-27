@@ -2,6 +2,8 @@ description:Mahjong Hanafuda Cosplay Tengoku 5 (Japan)
 manufacturer:Nichibutsu
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8004

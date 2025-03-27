@@ -2,5 +2,7 @@ description:Final Lap R (Rev. B)
 manufacturer:Namco
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc75

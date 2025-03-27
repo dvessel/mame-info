@@ -2,6 +2,8 @@ description:Player's Edge Plus (X000013K+XK000011) Keno
 manufacturer:IGT - International Game Technology
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:pex0006k
 cloneof:pex0006k

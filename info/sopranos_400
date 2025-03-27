@@ -2,6 +2,8 @@ description:The Sopranos (CPU 4.00, display A4.00)
 manufacturer:Stern
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:sopranos

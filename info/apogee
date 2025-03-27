@@ -2,5 +2,7 @@ description:Apogee BK-01
 manufacturer:Zavod BRA
 year:1989
 status:good
+emulation:good
+savestate:supported
 romof:radio86
 cloneof:radio86

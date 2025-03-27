@@ -2,4 +2,6 @@ description:Power Kick (Japan)
 manufacturer:Sunwise
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

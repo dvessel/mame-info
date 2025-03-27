@@ -2,4 +2,6 @@ description:Bar Sevens (Bellfruit) (Protocol) (System 85)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

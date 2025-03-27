@@ -2,3 +2,5 @@ description:Metamaquina 2 desktop 3d printer
 manufacturer:Metamaquina
 year:2012
 status:preliminary
+emulation:preliminary
+savestate:unsupported

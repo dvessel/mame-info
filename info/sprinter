@@ -2,6 +2,8 @@ description:Sprinter Sp2000
 manufacturer:Peters Plus, Ivan Mak
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 device:betadisk
 device:kb_ms_natural
 romof:spec128

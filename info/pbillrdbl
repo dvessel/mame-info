@@ -2,6 +2,8 @@ description:Perfect Billiard (bootleg)
 manufacturer:bootleg
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pbillrd
 cloneof:pbillrd

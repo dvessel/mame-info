@@ -2,6 +2,8 @@ description:Rafflesia (not encrypted)
 manufacturer:Coreland / Sega
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:raflesia
 cloneof:raflesia

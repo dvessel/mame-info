@@ -2,6 +2,8 @@ description:New Fruit Bonus '96 Special Edition (v3.54, D PCB)
 manufacturer:Amcoe
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:nfb96
 cloneof:nfb96

@@ -2,6 +2,8 @@ description:Robo Wres 2001 (bootleg)
 manufacturer:bootleg
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:robowres
 cloneof:robowres

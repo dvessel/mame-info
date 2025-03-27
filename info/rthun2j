@@ -2,6 +2,8 @@ description:Rolling Thunder 2 (Japan)
 manufacturer:Namco
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65
 romof:rthun2

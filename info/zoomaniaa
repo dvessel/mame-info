@@ -2,6 +2,8 @@ description:Zoomania (Version 10.04, set 2)
 manufacturer:Industrias Brasileiras
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:zoomania
 cloneof:zoomania

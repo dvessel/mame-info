@@ -2,6 +2,8 @@ description:M.A.C.H. 3 (set 1)
 manufacturer:Mylstar
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:pr8210
 disk:mach3

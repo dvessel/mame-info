@@ -2,6 +2,8 @@ description:Jumping Jack Flash SP98 (PR4607) (Bellfruit) (Scorpion 4) (set 3)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4jjf
 cloneof:sc4jjf

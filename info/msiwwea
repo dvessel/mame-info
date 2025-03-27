@@ -2,5 +2,7 @@ description:WWE Wrestlemania Steel Cage Challenge (Plug &amp; Play) (set 2)
 manufacturer:MSI
 year:2017
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:msiwwe
 cloneof:msiwwe

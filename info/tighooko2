@@ -2,6 +2,8 @@ description:Tiger Hook (Version 1.7)
 manufacturer:Amcoe
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tighook
 cloneof:tighook

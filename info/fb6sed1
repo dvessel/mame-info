@@ -2,6 +2,8 @@ description:Fruit Bonus 2006 Special Edition (Version 1.4R CGA)
 manufacturer:Amcoe
 year:2006
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fb6se
 cloneof:fb6se

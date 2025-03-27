@@ -2,4 +2,6 @@ description:Double Joker Poker (45%-75% payout)
 manufacturer:DellFern Ltd.
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

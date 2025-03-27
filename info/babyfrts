@@ -2,5 +2,7 @@ description:Baby Fruits (100 pts version)
 manufacturer:Recreativos Franco
 year:1981
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop

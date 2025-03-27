@@ -2,4 +2,6 @@ description:Kung-Fu Master (World)
 manufacturer:Irem
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

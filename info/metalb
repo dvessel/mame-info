@@ -2,4 +2,6 @@ description:Metal Black (World)
 manufacturer:Taito Corporation Japan
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Quest of D Oukoku no Syugosya Ver. 3.02 (CDV-10026D)
 manufacturer:Sega
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

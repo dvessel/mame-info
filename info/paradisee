@@ -2,6 +2,8 @@ description:Paradise (Escape)
 manufacturer:Yun Sung (Escape license)
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:paradise
 cloneof:paradise

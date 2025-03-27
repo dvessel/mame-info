@@ -2,3 +2,5 @@ description:CFX-9850G
 manufacturer:Casio
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

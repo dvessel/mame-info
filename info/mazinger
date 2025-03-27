@@ -2,4 +2,6 @@ description:Mazinger Z (World)
 manufacturer:Banpresto / Dynamic Pl. Toei Animation
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

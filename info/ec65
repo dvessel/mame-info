@@ -2,3 +2,5 @@ description:EC-65
 manufacturer:Elektor
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:supported

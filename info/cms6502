@@ -2,5 +2,7 @@ description:CMS 6502 Development System
 manufacturer:Cambridge Microprocessor Systems
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 device:cms_4080term
 device:ef9365

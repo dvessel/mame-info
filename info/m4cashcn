@@ -2,5 +2,7 @@ description:Cash Connect (Barcrest) (MPU4) (CCO 3.2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

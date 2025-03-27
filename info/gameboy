@@ -2,3 +2,5 @@ description:Game Boy
 manufacturer:Nintendo
 year:1990
 status:imperfect
+emulation:good
+savestate:supported

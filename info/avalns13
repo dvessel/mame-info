@@ -2,6 +2,8 @@ description:The Key Of Avalon 1.3 - Chaotic Sabbat (server, Rev C) (GDT-0009C)
 manufacturer:Sega / Hitmaker
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:segadimm
 romof:triforce
 disk:gdt-0009c

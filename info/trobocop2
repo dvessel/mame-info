@@ -2,3 +2,5 @@ description:Robocop 2 (Tiger)
 manufacturer:Tiger Electronics
 year:1990
 status:good
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:Clutch Hitter (Japan) (bootleg of FD1094 317-0175 set)
 manufacturer:bootleg
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cltchitr
 cloneof:cltchitr

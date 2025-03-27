@@ -2,6 +2,8 @@ description:Name Club Ver.4 (J 971202 V1.000)
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

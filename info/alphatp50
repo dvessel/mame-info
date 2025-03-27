@@ -2,6 +2,8 @@ description:Alphatronic P50
 manufacturer:Triumph-Adler
 year:1985
 status:imperfect
+emulation:good
+savestate:unsupported
 device:cga
 device:kb_pcxt83
 romof:ibm5150

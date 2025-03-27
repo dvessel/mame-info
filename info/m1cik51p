@@ -2,6 +2,8 @@ description:Cash Is King (Maygay) v5.1 (Protocol) (M1A/B)
 manufacturer:Maygay
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 device:ym2413
 romof:m1cik

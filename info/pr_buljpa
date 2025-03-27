@@ -2,6 +2,8 @@ description:Bully's Jackpot (Project) (set 2) (PROCONN)
 manufacturer:Project
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:pr_buljp
 cloneof:pr_buljp

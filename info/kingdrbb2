@@ -2,6 +2,8 @@ description:King Derby (bootleg set 2)
 manufacturer:bootleg
 year:198?
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:kingdrby
 cloneof:kingdrby

@@ -2,6 +2,8 @@ description:Great Escape 2 (Maygay) (EPOCH) (2.1, set 2)
 manufacturer:Maygay
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_gesc2
 cloneof:ep_gesc2

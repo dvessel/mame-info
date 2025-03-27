@@ -2,6 +2,8 @@ description:Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special (Kor
 manufacturer:SNK
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:rbffspec
 romof:neogeo

@@ -1,3 +1,5 @@
 description:100 in 1 (D-CAT8 8bit Console, set 1) (v5.01.11-frd, BL 20041217)
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported

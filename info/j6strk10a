@@ -2,6 +2,8 @@ description:Strike 10 (Ace) (IMPACT) (set 2)
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6strk10

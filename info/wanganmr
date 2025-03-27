@@ -2,5 +2,7 @@ description:Wangan Midnight R (WMR1 Ver. A)
 manufacturer:Namco
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys246
 disk:wmr1-a

@@ -2,6 +2,8 @@ description:Test Pilot (set 2) (Pcp) (MPS)
 manufacturer:Pcp
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:j2tstplt
 cloneof:j2tstplt

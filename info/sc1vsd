@@ -2,5 +2,7 @@ description:Vegas Super Deal (Global)
 manufacturer:Global
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

@@ -2,6 +2,8 @@ description:Kaitei Daisensou (Japan)
 manufacturer:Irem
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:inthunt
 cloneof:inthunt

@@ -2,4 +2,6 @@ description:Apollo DN3500
 manufacturer:Apollo
 year:1989
 status:good
+emulation:good
+savestate:unsupported
 device:3c505

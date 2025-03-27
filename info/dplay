@@ -2,4 +2,6 @@ description:Double Play
 manufacturer:Midway
 year:1977
 status:good
+emulation:good
+savestate:supported
 kind:coinop

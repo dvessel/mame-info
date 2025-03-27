@@ -2,6 +2,8 @@ description:Loads A Money (Barcrest) (MPU4) (LA 1.1, set 1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4loadmn

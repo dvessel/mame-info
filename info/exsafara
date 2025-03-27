@@ -2,5 +2,7 @@ description:Safari (Extrema, Ukraine, V. 43.08)
 manufacturer:Extrema
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:exsafar
 cloneof:exsafar

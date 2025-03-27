@@ -2,4 +2,6 @@ description:Vs. T.K.O. Boxing
 manufacturer:Namco / Data East USA
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

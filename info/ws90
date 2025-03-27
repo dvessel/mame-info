@@ -2,6 +2,8 @@ description:Pro Yakyuu World Stadium '90 (Japan)
 manufacturer:Namco
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ws
 cloneof:ws

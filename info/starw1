@@ -2,6 +2,8 @@ description:Star Wars (bootleg of Galaxy Wars, set 2)
 manufacturer:bootleg (Yamashita)
 year:1979
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galxwars
 cloneof:galxwars

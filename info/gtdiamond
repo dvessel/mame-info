@@ -2,6 +2,8 @@ description:Golden Tee Diamond Edition Tournament (v3.05T ELC)
 manufacturer:Incredible Technologies
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gt98
 cloneof:gt98

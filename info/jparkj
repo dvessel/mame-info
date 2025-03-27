@@ -2,6 +2,8 @@ description:Jurassic Park (Japan, Rev A, Deluxe)
 manufacturer:Sega
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:jpark
 cloneof:jpark

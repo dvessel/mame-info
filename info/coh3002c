@@ -2,6 +2,8 @@ description:Capcom ZN-2
 manufacturer:Capcom
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:bios
 kind:coinop
 device:qsound_hle

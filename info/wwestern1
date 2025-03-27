@@ -2,6 +2,8 @@ description:Wild Western (set 2)
 manufacturer:Taito Corporation
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wwestern
 cloneof:wwestern

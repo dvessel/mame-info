@@ -2,6 +2,8 @@ description:Nemo (Japan 901120, 88622B-3 ROM board)
 manufacturer:Capcom
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:nemo
 cloneof:nemo

@@ -2,6 +2,8 @@ description:Thunder Dragon (bootleg with reduced sound system)
 manufacturer:bootleg
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:tdragon
 cloneof:tdragon

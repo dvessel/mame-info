@@ -2,6 +2,8 @@ description:The Big Breakfast (set 1 UK, Single Site, Protocol) (Scorpion 2/3)
 manufacturer:BFM
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

@@ -2,5 +2,7 @@ description:High Spirits (Empire) (IMPACT) (prototype?)
 manufacturer:Empire
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

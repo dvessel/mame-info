@@ -2,5 +2,7 @@ description:HX-20I (MSX1, Italy)
 manufacturer:Toshiba
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 romof:hx20
 cloneof:hx20

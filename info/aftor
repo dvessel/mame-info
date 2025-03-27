@@ -2,6 +2,8 @@ description:Af-Tor
 manufacturer:Wico
 year:1984
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

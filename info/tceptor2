@@ -2,6 +2,8 @@ description:3-D Thunder Ceptor II
 manufacturer:Namco
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:tceptor
 cloneof:tceptor

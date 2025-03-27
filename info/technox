@@ -2,4 +2,6 @@ description:TechnoX
 manufacturer:Quasimidi Musikelektronik GmbH
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:hd44780

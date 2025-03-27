@@ -2,4 +2,6 @@ description:Raccoon World
 manufacturer:Eolith
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

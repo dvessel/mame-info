@@ -2,6 +2,8 @@ description:Mushihime-Sama (2004/10/12 MASTER VER.)
 manufacturer:Cave (AMI license)
 year:2004
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:mushisam
 cloneof:mushisam

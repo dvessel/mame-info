@@ -1,4 +1,6 @@
 description:Super Game III
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

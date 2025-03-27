@@ -2,5 +2,7 @@ description:VG-8000 (MSX1, Europe)
 manufacturer:Philips
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 romof:vg8010
 cloneof:vg8010

@@ -2,6 +2,8 @@ description:Mortal Kombat (Nifty Kombo 666, hack)
 manufacturer:hack
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mk
 cloneof:mk

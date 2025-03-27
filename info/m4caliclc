@@ -2,6 +2,8 @@ description:California Club (Barcrest) (MPU4) (CAL 2.0, set 1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

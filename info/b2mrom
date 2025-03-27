@@ -2,5 +2,7 @@ description:Bashkiria-2M ROM-disk
 manufacturer:BNPO
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:b2m
 cloneof:b2m

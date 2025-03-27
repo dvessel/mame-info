@@ -2,6 +2,8 @@ description:Incan Pyramid (Konami Endeavour, Queensland)
 manufacturer:Konami
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:incanp
 romof:konendev
 cloneof:incanp

@@ -2,6 +2,8 @@ description:Hard Dunk (Japan)
 manufacturer:Sega
 year:1994
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:harddunk
 cloneof:harddunk

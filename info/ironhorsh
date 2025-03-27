@@ -2,6 +2,8 @@ description:Iron Horse (version H)
 manufacturer:Konami
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ironhors
 cloneof:ironhors

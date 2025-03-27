@@ -2,6 +2,8 @@ description:Super Pac-Man (Midway)
 manufacturer:Namco (Bally Midway license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:superpac
 cloneof:superpac

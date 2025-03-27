@@ -2,5 +2,7 @@ description:Skill Trek (v1.1) (MPU4 Video, set 1)
 manufacturer:Barcrest
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4bios

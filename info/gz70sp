@@ -2,3 +2,5 @@ description:GZ-70SP
 manufacturer:Casio
 year:1996
 status:imperfect
+emulation:good
+savestate:supported

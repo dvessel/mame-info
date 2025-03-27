@@ -2,9 +2,10 @@ description:The Keisatsukan: Shinjuku 24-ji (ver JAE)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:p911
 romof:kviper
 cloneof:p911
 disk:a00jac02
-disk:a00uad02

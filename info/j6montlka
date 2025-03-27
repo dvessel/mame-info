@@ -2,6 +2,8 @@ description:Money Talks (JPM) (IMPACT) (MT5 I L17) (set 2)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6montlk

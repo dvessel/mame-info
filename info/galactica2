@@ -2,6 +2,8 @@ description:Galactica-2 (bootleg of Moon Alien Part 2)
 manufacturer:bootleg (Cirsa)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:moonal2
 cloneof:moonal2

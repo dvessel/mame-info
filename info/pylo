@@ -2,3 +2,5 @@ description:Punch Your Lights Out
 manufacturer:Tiger
 year:1988
 status:good
+emulation:good
+savestate:supported

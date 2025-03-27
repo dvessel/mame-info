@@ -2,5 +2,7 @@ description:Gunblade NY (Revision A)
 manufacturer:Sega
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill

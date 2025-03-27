@@ -2,4 +2,6 @@ description:Bare Knuckle (scrambled bootleg of Mega Drive version)
 manufacturer:bootleg
 year:1994
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Scorpion GMX
 manufacturer:Scorpion, Ltd.
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 device:betadisk
 romof:spec128
 cloneof:spec128

@@ -2,4 +2,6 @@ description:Legionnaire (World)
 manufacturer:TAD Corporation
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

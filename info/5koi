@@ -2,4 +2,6 @@ description:5 Koi - Power Pay (10250711, NSW/ACT)
 manufacturer:Aristocrat
 year:2007
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,5 +2,7 @@ description:Game Fighter (bootleg)
 manufacturer:bootleg
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 romof:gameboy
 cloneof:gameboy

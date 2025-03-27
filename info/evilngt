@@ -2,5 +2,7 @@ description:Evil Night (ver UBA)
 manufacturer:Konami
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 disk:810uba02

@@ -2,6 +2,8 @@ description:F-14 Tomcat (L-1)
 manufacturer:Williams
 year:1987
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

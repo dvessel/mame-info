@@ -2,6 +2,8 @@ description:Indian Dreaming (02J01856, Venezuela)
 manufacturer:Aristocrat
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:indrema5
 romof:aristmk5

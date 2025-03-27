@@ -2,3 +2,5 @@ description:Zephyr (00-441-01)
 manufacturer:Zentec
 year:1979
 status:preliminary
+emulation:preliminary
+savestate:unsupported

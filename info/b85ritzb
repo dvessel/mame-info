@@ -2,6 +2,8 @@ description:The Ritz (System 85, set 3)
 manufacturer:BFM
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:b85ritz
 cloneof:b85ritz

@@ -2,6 +2,8 @@ description:System 1 Test prom
 manufacturer:Gottlieb
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:gts1

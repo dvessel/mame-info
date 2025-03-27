@@ -2,6 +2,8 @@ description:Red Hot Poker (Release 2, 1992 copyright, 20p Fixed, Cash+Token) (MP
 manufacturer:BWB
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4redhtp
 cloneof:v4redhtp

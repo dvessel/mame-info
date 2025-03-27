@@ -2,6 +2,8 @@ description:Pot Of Gold (Crystal) (IMPACT) (set 2)
 manufacturer:Crystal
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6pog

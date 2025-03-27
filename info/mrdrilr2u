@@ -2,6 +2,8 @@ description:Mr. Driller 2 (US, DR23 Ver.A)
 manufacturer:Namco
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:mrdrilr2
 cloneof:mrdrilr2

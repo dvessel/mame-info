@@ -2,6 +2,8 @@ description:The Gladiator / Shen Jian Fu Mo Lu / Shen Jian Fengyun (M68k label V
 manufacturer:IGS
 year:2003
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:theglad
 romof:pgm

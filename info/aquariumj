@@ -2,6 +2,8 @@ description:Aquarium (Japan)
 manufacturer:Excellent System
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:aquarium
 cloneof:aquarium

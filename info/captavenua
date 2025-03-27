@@ -2,6 +2,8 @@ description:Captain America and The Avengers (US Rev 1.4)
 manufacturer:Data East Corporation
 year:1991
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:captaven
 cloneof:captaven

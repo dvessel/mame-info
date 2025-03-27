@@ -2,4 +2,6 @@ description:Riding Fight (Ver 1.0O)
 manufacturer:Taito Corporation Japan
 year:1992
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

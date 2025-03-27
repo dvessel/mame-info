@@ -2,5 +2,7 @@ description:Tornado Club (PR1627, 0.1, rv 1, BFGPTORN) (Bellfruit) (Adder 5)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5tornc
 cloneof:ad5tornc

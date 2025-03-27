@@ -2,6 +2,8 @@ description:Cluedo The Usual Suspects (Mazooma) (Scorpion 5) (set 10)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5clus
 cloneof:sc5clus

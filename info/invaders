@@ -2,4 +2,6 @@ description:Space Invaders / Space Invaders M
 manufacturer:Taito / Midway
 year:1978
 status:good
+emulation:good
+savestate:supported
 kind:coinop

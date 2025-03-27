@@ -2,6 +2,8 @@ description:Lord of Gun (USA)
 manufacturer:IGS
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:lordgun
 cloneof:lordgun

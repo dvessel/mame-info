@@ -2,6 +2,8 @@ description:Donkey Kong (Spanish bootleg of Crazy Kong)
 manufacturer:bootleg
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ckong
 cloneof:ckong

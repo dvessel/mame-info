@@ -2,3 +2,5 @@ description:Bill Elliott's NASCAR Racing (handheld)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported

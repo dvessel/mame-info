@@ -2,4 +2,6 @@ description:Fun World Quiz (German)
 manufacturer:Fun World
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

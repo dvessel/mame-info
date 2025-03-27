@@ -2,6 +2,8 @@ description:Alien Syndrome (set 5, System 16A, FD1089B 317-0037)
 manufacturer:Sega
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:aliensyn
 cloneof:aliensyn

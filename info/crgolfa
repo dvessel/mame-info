@@ -2,6 +2,8 @@ description:Crowns Golf (834-5419-03)
 manufacturer:Nasco Japan
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:crgolf
 cloneof:crgolf

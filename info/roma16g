@@ -2,5 +2,7 @@ description:Mephisto Roma 68000 (Glasgow hardware)
 manufacturer:Hegener + Glaser
 year:1987
 status:good
+emulation:good
+savestate:supported
 romof:roma32
 cloneof:roma32

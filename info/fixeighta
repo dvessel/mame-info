@@ -2,6 +2,8 @@ description:FixEight (Southeast Asia)
 manufacturer:Toaplan
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fixeight
 cloneof:fixeight

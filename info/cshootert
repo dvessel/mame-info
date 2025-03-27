@@ -2,6 +2,8 @@ description:Cross Shooter (2 PCB Stack)
 manufacturer:Seibu Kaihatsu (Taito license)
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:m68705p5
 romof:airraid

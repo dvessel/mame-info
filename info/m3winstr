@@ -2,5 +2,7 @@ description:Winstrike (BWB) (MPU3, set 1)
 manufacturer:BWB
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

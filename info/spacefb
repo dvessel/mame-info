@@ -2,5 +2,7 @@ description:Space Firebird (rev. 04-u)
 manufacturer:Nintendo
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:spacefb

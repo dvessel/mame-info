@@ -2,6 +2,8 @@ description:Block Out (set 2)
 manufacturer:Technos Japan / California Dreams
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:blockout
 cloneof:blockout

@@ -2,6 +2,8 @@ description:Mighty Monkey (bootleg on Super Cobra hardware)
 manufacturer:bootleg
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mimonkey
 cloneof:mimonkey

@@ -2,6 +2,8 @@ description:New Cherry '96 Special Edition (v1.32 Texas XT, C2 PCB)
 manufacturer:Amcoe
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:nc96
 cloneof:nc96

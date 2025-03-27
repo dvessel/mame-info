@@ -2,5 +2,7 @@ description:Kasparov Cougar
 manufacturer:Saitek
 year:1998
 status:good
+emulation:good
+savestate:supported
 romof:centurion
 cloneof:centurion

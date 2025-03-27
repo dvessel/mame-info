@@ -2,6 +2,8 @@ description:Deal or No Deal Red Alert (Bellfruit) (Scorpion 5) (set 4)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndra
 cloneof:sc5dndra

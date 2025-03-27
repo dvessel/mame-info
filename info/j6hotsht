@@ -2,5 +2,7 @@ description:Hot Shot (Ace) (IMPACT) (set 1)
 manufacturer:Ace
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

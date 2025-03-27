@@ -2,3 +2,5 @@ description:Elektronika IM-05
 manufacturer:Svetlana
 year:1993
 status:good
+emulation:good
+savestate:supported

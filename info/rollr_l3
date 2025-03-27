@@ -2,6 +2,8 @@ description:Rollergames (LU-3) Europe
 manufacturer:Williams
 year:1990
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:rollr_l2

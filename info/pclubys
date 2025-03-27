@@ -2,4 +2,6 @@ description:Puzzle Club (Yun Sung, set 1)
 manufacturer:Yun Sung
 year:2000
 status:good
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Dr.Who The Timelord (set 8, UK, Arcade, 10GBP Jackpot, Protocol) (Sc
 manufacturer:BFM
 year:1994
 status:preliminary
+emulation:good
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

@@ -2,6 +2,8 @@ description:Thunder Heroes (set 2)
 manufacturer:Primetek Investments
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:theroes
 cloneof:theroes

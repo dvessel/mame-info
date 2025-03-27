@@ -2,4 +2,6 @@ description:Tenchi wo Kurau II: Sekiheki no Tatakai (CPS Changer, Japan 921031)
 manufacturer:Capcom
 year:1994
 status:good
+emulation:good
+savestate:supported
 device:qsound_hle

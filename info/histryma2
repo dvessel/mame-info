@@ -2,6 +2,8 @@ description:The History of Martial Arts (set 2)
 manufacturer:bootleg
 year:199?
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:histryma
 cloneof:histryma

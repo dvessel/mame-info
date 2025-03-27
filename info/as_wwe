@@ -2,6 +2,8 @@ description:Wicked Willy (Astra, V102)
 manufacturer:Astra
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:as_ww
 cloneof:as_ww

@@ -2,5 +2,7 @@ description:Baseball Stars Professional (NGM-002)
 manufacturer:SNK
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

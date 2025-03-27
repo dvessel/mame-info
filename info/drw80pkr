@@ -2,4 +2,6 @@ description:Draw 80 Poker
 manufacturer:IGT - International Game Technology
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

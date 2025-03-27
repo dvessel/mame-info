@@ -2,6 +2,8 @@ description:Let The Good Times Roll (Barcrest) (MPU4) (GTS 0.1 DH)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4goodtm

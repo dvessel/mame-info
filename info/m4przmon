@@ -2,5 +2,7 @@ description:Prize Money (Barcrest) (MPU4) (FP8 0.1)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

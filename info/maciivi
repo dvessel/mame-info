@@ -2,6 +2,8 @@ description:Macintosh IIvi
 manufacturer:Apple Computer
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 device:egret
 romof:maciivx
 cloneof:maciivx

@@ -2,5 +2,7 @@ description:Reel 'Em In (Russian)
 manufacturer:WMS
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:reelemin
 cloneof:reelemin

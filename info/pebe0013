@@ -2,4 +2,6 @@ description:Player's Edge Plus (BE0013) Blackjack
 manufacturer:IGT - International Game Technology
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

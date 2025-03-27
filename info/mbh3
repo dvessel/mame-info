@@ -2,3 +2,5 @@ description:MB-H3 (MSX2, Japan)
 manufacturer:Hitachi
 year:1985
 status:good
+emulation:good
+savestate:unsupported

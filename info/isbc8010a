@@ -2,5 +2,7 @@ description:iSBC 80/10A
 manufacturer:Intel
 year:1977
 status:good
+emulation:good
+savestate:unsupported
 romof:isbc8010
 cloneof:isbc8010

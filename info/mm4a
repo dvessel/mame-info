@@ -2,5 +2,7 @@ description:Mephisto MM IV (v7.00)
 manufacturer:Hegener + Glaser
 year:1987
 status:good
+emulation:good
+savestate:supported
 romof:mm4
 cloneof:mm4

@@ -2,5 +2,7 @@ description:Computerized Arcade (COP421 version, model 60-2159A)
 manufacturer:Tandy Corporation
 year:1981
 status:good
+emulation:good
+savestate:supported
 romof:comparc
 cloneof:comparc

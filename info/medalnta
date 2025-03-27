@@ -2,6 +2,8 @@ description:Medal no Tatsujin Doki! Ooatari-Darake no Sugoroku Matsuri (MTL1 SPR
 manufacturer:Namco
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:medalnt
 cloneof:medalnt

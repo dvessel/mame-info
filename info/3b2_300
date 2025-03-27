@@ -2,3 +2,5 @@ description:3B2/300
 manufacturer:AT&amp;T
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Mahjong Final Bunny (Japan)
 manufacturer:Nichibutsu
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:vanilla
 cloneof:vanilla

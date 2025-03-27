@@ -2,6 +2,8 @@ description:WWF Royal Rumble (USA 1.03, display A1.01)
 manufacturer:Data East
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

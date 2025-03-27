@@ -2,5 +2,7 @@ description:Bubble Trouble - Golly! Ghost! 2 (World, Rev B)
 manufacturer:Namco
 year:1992
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65

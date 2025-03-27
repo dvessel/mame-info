@@ -2,5 +2,7 @@ description:Master System III Compact (Brazil)
 manufacturer:Tec Toy
 year:1992
 status:good
+emulation:good
+savestate:supported
 romof:sms
 cloneof:sms

@@ -2,6 +2,8 @@ description:Virtua Cop 3 (Rev A) (GDX-0003A)
 manufacturer:Sega
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm
@@ -10,4 +12,3 @@ romof:vcop3
 romof:chihiro
 cloneof:vcop3
 disk:gdx-0003a
-disk:gdx-0003b

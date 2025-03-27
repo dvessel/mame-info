@@ -2,5 +2,7 @@ description:Soul Calibur III: Arcade Edition (SC31001-NA-A key, NA-B disc)
 manufacturer:Namco
 year:2006
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:sys246
 disk:sc31001-na-dvd0-b

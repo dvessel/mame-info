@@ -2,5 +2,7 @@ description:No Fear: Dangerous Sports (2.3X)
 manufacturer:Williams
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

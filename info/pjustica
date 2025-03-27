@@ -2,6 +2,8 @@ description:Project Justice / Moero! Justice Gakuen (Rev A)
 manufacturer:Capcom
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

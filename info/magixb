@@ -2,6 +2,8 @@ description:Magix / Rock (no copyright message)
 manufacturer:Yun Sung
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:magix
 cloneof:magix

@@ -2,6 +2,8 @@ description:VF (bootleg of Hang-On)
 manufacturer:bootleg
 year:1985
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:hangon
 cloneof:hangon

@@ -2,6 +2,8 @@ description:Jolly Joker (Solid State module in suicide board)
 manufacturer:Impera
 year:199?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:jolyjokr
 cloneof:jolyjokr

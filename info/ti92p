@@ -2,3 +2,5 @@ description:TI-92 Plus
 manufacturer:Texas Instruments
 year:1999
 status:preliminary
+emulation:good
+savestate:unsupported

@@ -2,4 +2,6 @@ description:Rock'n 3 (Japan)
 manufacturer:Jaleco
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop

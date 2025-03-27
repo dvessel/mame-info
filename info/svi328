@@ -2,3 +2,5 @@ description:SVI-328 (PAL)
 manufacturer:Spectravideo
 year:1983
 status:good
+emulation:good
+savestate:supported

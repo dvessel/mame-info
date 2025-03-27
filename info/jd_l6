@@ -2,6 +2,8 @@ description:Judge Dredd (L-6)
 manufacturer:Bally
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:jd_l7

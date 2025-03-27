@@ -2,6 +2,8 @@ description:Ninja Baseball Bat Man (US)
 manufacturer:Irem America
 year:1993
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:nbbatman
 cloneof:nbbatman

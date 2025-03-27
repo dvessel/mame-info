@@ -2,6 +2,8 @@ description:Fruit Star Bonus (Ver 8.20PIR)
 manufacturer:Webak Elektronik
 year:1997
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fruitstb
 cloneof:fruitstb

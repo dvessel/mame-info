@@ -2,6 +2,8 @@ description:Chihiro Change Region GD USA (611-0028A)
 manufacturer:Sega
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

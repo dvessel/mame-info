@@ -2,6 +2,8 @@ description:Tetris + Cherry Master (Aidonis Games bootleg)
 manufacturer:bootleg (Aidonis Games)
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:cmtetris
 cloneof:cmtetris

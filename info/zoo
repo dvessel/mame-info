@@ -2,4 +2,6 @@ description:Zoo (Ver. ZO.02.D, Aug 27 2004)
 manufacturer:Astro Corp.
 year:2004
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop

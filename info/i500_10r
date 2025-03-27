@@ -2,6 +2,8 @@ description:Indianapolis 500 (1.0R)
 manufacturer:Bally
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:i500_11r

@@ -2,6 +2,8 @@ description:Space Firebird (rev. 03-e set 1)
 manufacturer:Nintendo
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:spacefb
 cloneof:spacefb

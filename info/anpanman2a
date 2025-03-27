@@ -2,6 +2,8 @@ description:Soreike! Anpanman Popcorn Koujou 2 (Rev A)
 manufacturer:Sega
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

@@ -2,3 +2,5 @@ description:Junior Computer
 manufacturer:Elektor
 year:1980
 status:good
+emulation:good
+savestate:supported

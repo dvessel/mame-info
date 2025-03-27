@@ -2,5 +2,7 @@ description:PX-V60 (MSX1, Japan)
 manufacturer:Pioneer
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 romof:piopx7
 cloneof:piopx7

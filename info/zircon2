@@ -2,3 +2,5 @@ description:Zircon II
 manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1995
 status:good
+emulation:good
+savestate:supported

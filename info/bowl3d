@@ -2,5 +2,7 @@ description:3-D Bowling
 manufacturer:Meadows Games, Inc.
 year:1978
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:bowl3d

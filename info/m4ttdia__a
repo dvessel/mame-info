@@ -2,6 +2,8 @@ description:Ten Ten Do It Again (Barcrest) (MPU4) (TDA 0.4 AD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4ttdia

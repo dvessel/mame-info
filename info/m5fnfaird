@@ -2,6 +2,8 @@ description:Funfair (Barcrest - Red Gaming) (MPU5) (Datapak)
 manufacturer:Barcrest / Red Gaming
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5fnfair
 cloneof:m5fnfair

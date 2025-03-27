@@ -2,3 +2,5 @@ description:Intelligent Chess
 manufacturer:Intelligent Games / SciSys
 year:1980
 status:imperfect
+emulation:good
+savestate:supported

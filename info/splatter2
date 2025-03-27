@@ -2,6 +2,8 @@ description:Splatter House (World, old version (SH2))
 manufacturer:Namco
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:splatter
 cloneof:splatter

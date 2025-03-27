@@ -2,6 +2,8 @@ description:Lode Runner (set 2)
 manufacturer:Irem (licensed from Broderbund, Digital Controls Inc. license)
 year:1984
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:ldrun
 cloneof:ldrun

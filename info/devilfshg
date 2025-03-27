@@ -2,6 +2,8 @@ description:Devil Fish (Galaxian hardware)
 manufacturer:Artic
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:devilfsh
 cloneof:devilfsh

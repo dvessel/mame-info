@@ -2,6 +2,8 @@ description:Manhattan 24 Bunsyo (Japan)
 manufacturer:Konami
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:jailbrek
 cloneof:jailbrek

@@ -2,4 +2,6 @@ description:Tokimeki Mahjong Paradise - Dear My Love
 manufacturer:Media / Sonnet
 year:1997
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Tano Dragon 64 (NTSC)
 manufacturer:Dragon Data Ltd / Tano Ltd
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 device:sdtandy_fdc
 romof:dragon32
 cloneof:dragon32

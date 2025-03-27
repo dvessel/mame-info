@@ -2,5 +2,7 @@ description:Fruit Game (Barcrest) (MPU4) (FRU 2.0)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

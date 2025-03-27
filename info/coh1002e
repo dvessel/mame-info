@@ -2,5 +2,7 @@ description:Eighting / Raizing ZN-1
 manufacturer:Eighting / Raizing
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:bios
 kind:coinop

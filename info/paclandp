@@ -2,4 +2,6 @@ description:Pac-Land (United Amusements PC Engine)
 manufacturer:Namco
 year:1989
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,3 +2,5 @@ description:MU10
 manufacturer:Yamaha
 year:1994
 status:good
+emulation:good
+savestate:unsupported

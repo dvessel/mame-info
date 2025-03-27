@@ -2,6 +2,8 @@ description:The Anteater (UK)
 manufacturer:Tago Electronics (Free Enterprise Games license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:anteater
 cloneof:anteater

@@ -2,6 +2,8 @@ description:Golfing Greats (US, version K)
 manufacturer:Konami
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:glfgreat
 cloneof:glfgreat

@@ -2,6 +2,8 @@ description:Moon Base Zeta (set 2)
 manufacturer:Taito / Nichibutsu
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:invadpt2
 cloneof:invadpt2

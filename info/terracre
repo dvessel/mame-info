@@ -2,4 +2,6 @@ description:Terra Cresta (YM3526 set 1)
 manufacturer:Nichibutsu
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop

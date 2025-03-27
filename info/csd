@@ -2,4 +2,6 @@ description:Choy Sun Doa (10104011, NSW/ACT)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

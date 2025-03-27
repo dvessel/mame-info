@@ -2,5 +2,7 @@ description:WMS SetUp/Clear Chips (set 2)
 manufacturer:WMS
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:wms
 cloneof:wms

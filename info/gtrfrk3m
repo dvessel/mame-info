@@ -2,6 +2,8 @@ description:Guitar Freaks 3rd Mix (GE949 VER. JAC)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573mcr

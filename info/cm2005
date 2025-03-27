@@ -2,3 +2,5 @@ description:Cherry Master 2005 (Ver. 1.10U)
 manufacturer:Dyna
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported

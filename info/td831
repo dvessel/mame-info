@@ -2,3 +2,5 @@ description:TD 831
 manufacturer:Burroughs
 year:1976
 status:preliminary
+emulation:preliminary
+savestate:unsupported

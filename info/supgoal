@@ -2,6 +2,8 @@ description:Nerae! Super Goal (J 981218 V1.000)
 manufacturer:Sega
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

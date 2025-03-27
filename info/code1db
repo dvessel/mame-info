@@ -2,9 +2,10 @@ description:Code One Dispatch Ver 1.16 (ver UAB)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:code1d
 romof:kviper
 cloneof:code1d
 disk:922b02
-disk:922d02

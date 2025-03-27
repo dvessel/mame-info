@@ -2,6 +2,8 @@ description:Down Town (Bellfruit) (set 4, UK, 16RM motor, Protocol) (Scorpion 2/
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

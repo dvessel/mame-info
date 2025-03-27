@@ -2,6 +2,8 @@ description:Galaxian Growing Galaxip / Galaxian Nave Creciente (Recreativos Cova
 manufacturer:bootleg (Recreativos Covadonga)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galaxian
 cloneof:galaxian

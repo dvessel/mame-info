@@ -2,5 +2,7 @@ description:Mega-CD (Japan, NTSC)
 manufacturer:Sega
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:segacd
 cloneof:segacd

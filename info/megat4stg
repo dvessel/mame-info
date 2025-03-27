@@ -2,6 +2,8 @@ description:Super Megatouch IV Turnier Version (9255-51-50 R0A, Bi-Lingual GER/E
 manufacturer:Merit
 year:1996
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:megat4

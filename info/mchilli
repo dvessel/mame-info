@@ -2,4 +2,6 @@ description:More Chilli (20248711, NSW/ACT)
 manufacturer:Aristocrat
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

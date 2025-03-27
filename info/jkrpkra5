@@ -2,5 +2,7 @@ description:Joker Poker (0301477V, New Zealand)
 manufacturer:Aristocrat
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:aristmk5

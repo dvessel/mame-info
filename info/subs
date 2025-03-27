@@ -2,4 +2,6 @@ description:Subs
 manufacturer:Atari
 year:1977
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

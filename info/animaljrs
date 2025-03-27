@@ -2,6 +2,8 @@ description:Animalandia Jr. (Spanish)
 manufacturer:Nakanihon / East Technology (Taito license)
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413
 romof:animaljr

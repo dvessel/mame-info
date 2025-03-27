@@ -2,5 +2,7 @@ description:Space Dungeon
 manufacturer:Taito America Corporation
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p3

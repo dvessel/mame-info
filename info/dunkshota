@@ -2,6 +2,8 @@ description:Dunk Shot (Rev A, FD1089A 317-0022)
 manufacturer:Sega
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:dunkshot
 cloneof:dunkshot

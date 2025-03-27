@@ -2,6 +2,8 @@ description:Missile Attack (U.Games bootleg of Missile Command)
 manufacturer:bootleg (U.Games)
 year:1981
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:missile
 cloneof:missile

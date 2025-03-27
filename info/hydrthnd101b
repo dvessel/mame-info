@@ -2,8 +2,9 @@ description:Hydro Thunder (v1.01b)
 manufacturer:Midway Games
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:virge_pci
 romof:hydrthnd
 cloneof:hydrthnd
 disk:hydro_101b
-disk:hydro

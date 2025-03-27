@@ -2,3 +2,5 @@ description:R-Zone: Battle Arena Toshinden
 manufacturer:Tiger Electronics
 year:1996
 status:good
+emulation:good
+savestate:supported

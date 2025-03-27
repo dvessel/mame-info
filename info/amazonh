@@ -2,6 +2,8 @@ description:Amazon Hunt
 manufacturer:Gottlieb
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

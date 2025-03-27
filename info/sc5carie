@@ -2,6 +2,8 @@ description:Caribbean Cash (Qps) (Scorpion 5) (set 6)
 manufacturer:Qps
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5cari
 cloneof:sc5cari

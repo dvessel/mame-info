@@ -2,6 +2,8 @@ description:Air Buster: Trouble Specialty Raid Unit (Japan)
 manufacturer:Kaneko (Namco license)
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:airbustr
 cloneof:airbustr

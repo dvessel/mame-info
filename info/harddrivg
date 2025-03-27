@@ -2,6 +2,8 @@ description:Hard Drivin' (cockpit, German, rev 7)
 manufacturer:Atari Games
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:harddriv
 cloneof:harddriv

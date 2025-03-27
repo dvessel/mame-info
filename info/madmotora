@@ -2,6 +2,8 @@ description:Mad Motor (prototype, set 2)
 manufacturer:Mitchell
 year:1989
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:madmotor
 cloneof:madmotor

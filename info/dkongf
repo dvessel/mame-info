@@ -2,6 +2,8 @@ description:Donkey Kong Foundry (hack)
 manufacturer:hack (Jeff Kulczycki)
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dkong
 cloneof:dkong

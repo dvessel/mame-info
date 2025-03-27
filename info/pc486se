@@ -2,6 +2,8 @@ description:PC-486SE
 manufacturer:Epson
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:pc9801_26
 device:upd7220
 romof:pc486mu

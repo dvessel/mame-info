@@ -2,6 +2,8 @@ description:Ace Of Clubs (Crystal) (IMPACT, GND D 4 P, Protocol)
 manufacturer:Crystal
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6aceclb

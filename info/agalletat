@@ -2,6 +2,8 @@ description:Air Gallet (older, Taiwan)
 manufacturer:Gazelle (Banpresto license)
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:agallet
 cloneof:agallet

@@ -2,5 +2,7 @@ description:Fighting Ice Hockey (DECO Cassette) (US)
 manufacturer:Data East Corporation
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:decocass

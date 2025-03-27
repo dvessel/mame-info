@@ -2,3 +2,5 @@ description:MPC-27 (MSX2, Japan)
 manufacturer:Sanyo
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

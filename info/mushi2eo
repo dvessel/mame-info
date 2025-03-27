@@ -2,6 +2,8 @@ description:Mushiking The King Of Beetles - Mushiking II / III / III+ (Ver. 1.00
 manufacturer:Sega
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

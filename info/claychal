@@ -2,5 +2,7 @@ description:Sega Clay Challenge
 manufacturer:Sega
 year:2008
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:awbios

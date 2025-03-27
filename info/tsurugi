@@ -2,6 +2,8 @@ description:Tsurugi (ver EAB)
 manufacturer:Konami
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:kviper
 disk:a30b02

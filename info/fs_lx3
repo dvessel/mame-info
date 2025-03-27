@@ -2,6 +2,8 @@ description:The Flintstones (LX-3)
 manufacturer:Williams
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:fs_lx5

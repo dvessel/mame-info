@@ -2,6 +2,8 @@ description:Dolphin Treasure - Cash Express (AHG1606, US)
 manufacturer:Aristocrat
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:dolphntr
 romof:aristmk5

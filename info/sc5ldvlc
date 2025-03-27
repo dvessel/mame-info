@@ -2,6 +2,8 @@ description:Little Devil (Mazooma) (Scorpion 5) (set 4)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5ldvl
 cloneof:sc5ldvl

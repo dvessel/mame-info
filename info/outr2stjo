@@ -2,6 +2,8 @@ description:OutRun 2 Special Tours (Japan) (GDX-0011)
 manufacturer:Sega
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 device:jvs13551
 device:segadimm
@@ -10,4 +12,3 @@ romof:outr2st
 romof:chihiro
 cloneof:outr2st
 disk:gdx-0011
-disk:gdx-0014a

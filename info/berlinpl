@@ -2,6 +2,8 @@ description:Mephisto Berlin Professional 68020 (London upgrade)
 manufacturer:Richard Lang
 year:1996
 status:good
+emulation:good
+savestate:supported
 device:hd44780
 romof:berlinp
 cloneof:berlinp

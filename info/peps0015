@@ -2,6 +2,8 @@ description:Player's Edge Plus (PS0015) Super Joker Slots
 manufacturer:IGT - International Game Technology
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:peps0014
 cloneof:peps0014

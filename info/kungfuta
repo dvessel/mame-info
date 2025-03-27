@@ -2,6 +2,8 @@ description:Kung-Fu Taikun (set 2)
 manufacturer:Seibu Kaihatsu
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:kungfut
 cloneof:kungfut

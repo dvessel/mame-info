@@ -2,5 +2,7 @@ description:JoJo's Venture (Europe 990128)
 manufacturer:Capcom
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 disk:cap-jjk-3

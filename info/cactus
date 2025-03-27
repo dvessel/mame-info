@@ -2,6 +2,8 @@ description:Cactus (bootleg of Saboten Bombers)
 manufacturer:bootleg
 year:1992
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:sabotenb
 cloneof:sabotenb

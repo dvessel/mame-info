@@ -2,3 +2,5 @@ description:HP 2100
 manufacturer:Hewlett-Packard
 year:1966
 status:preliminary
+emulation:preliminary
+savestate:unsupported

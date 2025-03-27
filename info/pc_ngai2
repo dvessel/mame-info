@@ -2,5 +2,7 @@ description:Ninja Gaiden Episode II: The Dark Sword of Chaos (PlayChoice-10)
 manufacturer:Tecmo (Nintendo of America license)
 year:1990
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:playch10

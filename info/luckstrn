@@ -2,4 +2,6 @@ description:Lucky Star (newer Z180-based hardware)
 manufacturer:Wing Co., Ltd.
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

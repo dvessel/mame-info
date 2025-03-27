@@ -2,4 +2,6 @@ description:Player's Edge Plus (PP0816) Treasure Chest Poker
 manufacturer:IGT - International Game Technology
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

@@ -2,6 +2,8 @@ description:Garou - Mark of the Wolves (prototype)
 manufacturer:SNK
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:garou
 romof:neogeo

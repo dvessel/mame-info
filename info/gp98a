@@ -2,6 +2,8 @@ description:Grand Prix '98 (V100K, set 2)
 manufacturer:Romtec Co. Ltd
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:ym2413
 romof:gp98

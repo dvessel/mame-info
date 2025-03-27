@@ -2,6 +2,8 @@ description:Bubble &amp; Squeak (Extreme) (EPOCH) (BASQ 0.3, set 4)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_bubsq
 cloneof:ep_bubsq

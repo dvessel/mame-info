@@ -2,5 +2,7 @@ description:Mephisto III (set 2)
 manufacturer:Hegener + Glaser
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:mephisto3
 cloneof:mephisto3

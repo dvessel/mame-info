@@ -2,6 +2,8 @@ description:Puzzli (revision A)
 manufacturer:Metro / Banpresto
 year:1995
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:puzzli
 cloneof:puzzli

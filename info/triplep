@@ -2,4 +2,6 @@ description:Triple Punch (set 1)
 manufacturer:K.K. International
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop

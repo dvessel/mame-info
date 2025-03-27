@@ -2,6 +2,8 @@ description:Super Star Crest
 manufacturer:bootleg (Taito do Brasil)
 year:1980?
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mooncrst
 cloneof:mooncrst

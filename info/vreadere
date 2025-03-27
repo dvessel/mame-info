@@ -2,3 +2,5 @@ description:Reader Laptop E (Germany)
 manufacturer:Video Technology
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported

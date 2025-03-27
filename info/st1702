@@ -2,3 +2,5 @@ description:ST-1702
 manufacturer:Saturn
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

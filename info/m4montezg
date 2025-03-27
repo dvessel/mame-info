@@ -2,6 +2,8 @@ description:Monte Carlo (MC_ 3.0 YD) (BWB) (MPU4)
 manufacturer:BWB
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

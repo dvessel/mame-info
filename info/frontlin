@@ -2,5 +2,7 @@ description:Front Line (AA1, 4 PCB version)
 manufacturer:Taito Corporation
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5

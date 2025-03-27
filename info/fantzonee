@@ -2,6 +2,8 @@ description:Fantasy Zone (FD1089B 317-0016)
 manufacturer:Sega
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:fantzone
 cloneof:fantzone

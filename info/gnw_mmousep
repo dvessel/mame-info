@@ -2,3 +2,5 @@ description:Game &amp; Watch: Mickey Mouse (Panorama Screen)
 manufacturer:Nintendo
 year:1984
 status:good
+emulation:good
+savestate:supported

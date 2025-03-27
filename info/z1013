@@ -2,3 +2,5 @@ description:Z1013 (matrix 8x4)
 manufacturer:VEB Robotron Electronics Riesa
 year:1985
 status:good
+emulation:good
+savestate:supported

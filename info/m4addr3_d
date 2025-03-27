@@ -2,6 +2,8 @@ description:Classic Adders &amp; Ladders (BWB / Barcrest) (MPU4) (ADD 3.0, set 5
 manufacturer:BWB
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

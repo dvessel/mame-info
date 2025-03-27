@@ -2,4 +2,6 @@ description:Goori Goori
 manufacturer:Unico
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

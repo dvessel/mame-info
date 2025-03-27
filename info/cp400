@@ -2,6 +2,8 @@ description:CP400
 manufacturer:Prológica
 year:1983
 status:good
+emulation:good
+savestate:supported
 device:cp450_fdc
 romof:coco
 cloneof:coco

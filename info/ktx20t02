@@ -2,6 +2,8 @@ description:QTC-SXM KT X20T02/HI Rev.3
 manufacturer:Quadtel
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

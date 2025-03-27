@@ -2,6 +2,8 @@ description:Radirgy (Japan) (GDL-0032)
 manufacturer:Milestone
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551
@@ -10,4 +12,3 @@ romof:radirgy
 romof:naomigd
 cloneof:radirgy
 disk:gdl-0032
-disk:gdl-0032a

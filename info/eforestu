@@ -2,6 +2,8 @@ description:Enchanted Forest (12XF528902, US)
 manufacturer:Aristocrat
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:eforest
 cloneof:eforest

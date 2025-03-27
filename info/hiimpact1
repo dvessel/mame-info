@@ -2,6 +2,8 @@ description:High Impact Football (rev LA1 12/16/90)
 manufacturer:Williams
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:hiimpact
 cloneof:hiimpact

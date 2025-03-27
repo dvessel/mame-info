@@ -2,3 +2,5 @@ description:Big Board II
 manufacturer:Digital Research Computers
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported

@@ -2,6 +2,8 @@ description:The Lord Of The Rings (CPU 5.00, display F5.00, France)
 manufacturer:Stern
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:lotr

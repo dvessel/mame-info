@@ -2,6 +2,8 @@ description:Indiana Jones (JPM) (IMPACT) (IJ6 I L11) (set 3)
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6indy

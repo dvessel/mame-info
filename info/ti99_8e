@@ -2,5 +2,7 @@ description:TI-99/8 Computer (Europe)
 manufacturer:Texas Instruments
 year:1983
 status:good
+emulation:good
+savestate:supported
 romof:ti99_8
 cloneof:ti99_8

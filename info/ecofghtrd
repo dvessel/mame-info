@@ -2,6 +2,8 @@ description:Eco Fighters (World 931203 Phoenix Edition) (bootleg)
 manufacturer:bootleg
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:ecofghtr

@@ -2,4 +2,6 @@ description:Touryuumon (V1.1)?
 manufacturer:Yuki Enterprise
 year:2005
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

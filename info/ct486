@@ -2,6 +2,8 @@ description:PC/AT 486 with CS4031 chipset
 manufacturer:&lt;unknown Taiwanese vendor 8029>
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:et4kw32i

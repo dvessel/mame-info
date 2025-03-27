@@ -2,3 +2,5 @@ description:Pac Man (Tomy)
 manufacturer:Tomy
 year:1982
 status:good
+emulation:good
+savestate:supported

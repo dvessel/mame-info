@@ -2,6 +2,8 @@ description:Frogger (Videotron bootleg)
 manufacturer:bootleg (Videotron / Gamepack)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:frogger
 cloneof:frogger

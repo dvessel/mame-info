@@ -2,3 +2,5 @@ description:Mephisto Montreal 68000
 manufacturer:Hegener + Glaser
 year:1993
 status:good
+emulation:good
+savestate:supported

@@ -2,6 +2,8 @@ description:Crystals Colours (Ver 1.01)
 manufacturer:JCD
 year:1998
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:crystalc
 cloneof:crystalc

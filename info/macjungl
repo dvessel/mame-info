@@ -2,6 +2,8 @@ description:MAC Jungle
 manufacturer:MAC S.A.
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

@@ -2,5 +2,7 @@ description:Harley Davidson (L-3)
 manufacturer:Bally
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

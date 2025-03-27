@@ -2,6 +2,8 @@ description:Satan's Hollow (set 2)
 manufacturer:Bally Midway
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:midssio
 romof:shollow

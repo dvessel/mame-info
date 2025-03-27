@@ -2,3 +2,5 @@ description:Informer 207/100
 manufacturer:Informer
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:supported

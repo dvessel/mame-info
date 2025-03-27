@@ -2,3 +2,5 @@ description:HP49G
 manufacturer:Hewlett Packard
 year:1999
 status:good
+emulation:good
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Cops 'n' Robbers Club Deluxe (Bellfruit) (set 5, UK, 250GBP Jackpot)
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

@@ -2,4 +2,6 @@ description:RyuKyu (Rev A, Japan) (FD1094 317-5023A)
 manufacturer:Success / Sega
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

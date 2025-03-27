@@ -2,6 +2,8 @@ description:Paewang Jeonseol / Legend of a Warrior (Korean censored Samurai Shod
 manufacturer:SNK
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:samsho4
 romof:neogeo

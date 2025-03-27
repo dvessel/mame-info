@@ -2,6 +2,8 @@ description:Galaxian (Midway set 1)
 manufacturer:Namco (Midway license)
 year:1979
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galaxian
 cloneof:galaxian

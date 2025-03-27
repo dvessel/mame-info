@@ -2,5 +2,7 @@ description:Interactive TV Games 48-in-1 (PAL)
 manufacturer:TaiKee
 year:200?
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:exsprt48
 cloneof:exsprt48

@@ -2,5 +2,7 @@ description:Chibi Maruko-chan: Maruko Deluxe Quiz
 manufacturer:Takara
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

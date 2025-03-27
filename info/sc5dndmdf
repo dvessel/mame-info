@@ -2,6 +2,8 @@ description:Deal or No Deal Mega Deal or No Deal (PR3411) (Bellfruit) (Scorpion 
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5dndmd
 cloneof:sc5dndmd

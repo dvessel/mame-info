@@ -2,6 +2,8 @@ description:Virtua Fighter Remix (JUETBKAL 950428 V1.000)
 manufacturer:Sega
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

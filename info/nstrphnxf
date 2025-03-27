@@ -2,6 +2,8 @@ description:New Star's Phoenix (French speech)
 manufacturer:Zaccaria
 year:1987
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:nstrphnx

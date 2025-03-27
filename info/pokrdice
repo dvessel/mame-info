@@ -2,4 +2,6 @@ description:Poker Dice (V1.7)
 manufacturer:Strata / Incredible Technologies
 year:1991
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

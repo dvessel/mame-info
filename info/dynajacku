@@ -2,6 +2,8 @@ description:Dynamite Jack (CHG1562, US)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:dynajack
 romof:aristmk5

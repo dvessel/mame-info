@@ -2,4 +2,6 @@ description:U.S. Championship V'ball (US)
 manufacturer:Technos Japan
 year:1988
 status:good
+emulation:good
+savestate:supported
 kind:coinop

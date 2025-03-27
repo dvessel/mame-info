@@ -2,6 +2,8 @@ description:Brix (German) (Nova) (Scorpion 4) (set 3)
 manufacturer:Nova
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:sc4brix
 cloneof:sc4brix

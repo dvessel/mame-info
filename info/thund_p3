@@ -2,6 +2,8 @@ description:Thunderball (P-3)
 manufacturer:Williams
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:thund_p1

@@ -2,3 +2,5 @@ description:Lucky Ball 96 (Ver 4.01)
 manufacturer:Sielcon Games
 year:1999
 status:good
+emulation:good
+savestate:supported

@@ -2,4 +2,6 @@ description:Top XXI (Version 1.2)
 manufacturer:Assogiochi Assago
 year:200?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

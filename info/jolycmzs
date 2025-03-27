@@ -2,5 +2,7 @@ description:Jolly Card Professional 2.0 (MZS Tech)
 manufacturer:MZS Tech
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 romof:jollycrd
 cloneof:jollycrd

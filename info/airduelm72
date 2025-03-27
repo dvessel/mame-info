@@ -2,6 +2,8 @@ description:Air Duel (World, M72 hardware)
 manufacturer:Irem
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:airduel
 cloneof:airduel

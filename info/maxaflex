@@ -2,6 +2,8 @@ description:Max-A-Flex
 manufacturer:Exidy
 year:1984
 status:good
+emulation:good
+savestate:unsupported
 kind:bios
 kind:coinop
 device:m68705p3

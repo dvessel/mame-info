@@ -2,10 +2,10 @@ description:ParaParaParadise 1st Mix Plus
 manufacturer:Konami
 year:2000
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ppp
 cloneof:ppp
 disk:a11jaa01
 disk:a11jaa02
-disk:977jaa01
-disk:977jaa02

@@ -2,6 +2,8 @@ description:Red Hot Fever (BWB) (MPU4) (ver. 1) (5/10p stake / £5/£8 jackpot) 
 manufacturer:BWB
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4rhfev

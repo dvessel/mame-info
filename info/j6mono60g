@@ -2,6 +2,8 @@ description:Monopoly 60th Anniversary Edition (JPM) (IMPACT) (MO11 L22) (set 8, 
 manufacturer:JPM
 year:199?
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6mono60

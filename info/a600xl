@@ -2,5 +2,7 @@ description:Atari 600XL
 manufacturer:Atari
 year:1983
 status:imperfect
+emulation:good
+savestate:unsupported
 romof:a800xl
 cloneof:a800xl

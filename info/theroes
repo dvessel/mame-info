@@ -2,4 +2,6 @@ description:Thunder Heroes (set 1)
 manufacturer:Primetek Investments
 year:2001
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

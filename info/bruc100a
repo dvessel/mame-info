@@ -2,5 +2,7 @@ description:Bruc 100-2 (MSX1, Italy)
 manufacturer:Frael
 year:1988
 status:good
+emulation:good
+savestate:unsupported
 romof:bruc100
 cloneof:bruc100

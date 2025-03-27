@@ -2,6 +2,8 @@ description:Terra Force (Japan, bootleg with additional Z80)
 manufacturer:bootleg
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:terraf
 cloneof:terraf

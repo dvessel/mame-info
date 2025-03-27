@@ -2,5 +2,7 @@ description:Hold On (Barcrest) (Dutch) (MPU4) (DHO 2.5)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

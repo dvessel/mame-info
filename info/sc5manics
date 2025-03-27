@@ -2,6 +2,8 @@ description:Manic Miner (Bellfruit) (Scorpion 5) (set 20)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5manic
 cloneof:sc5manic

@@ -2,6 +2,8 @@ description:Galaga (Midway set 2)
 manufacturer:Namco (Midway license)
 year:1981
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namco51
 device:namco54

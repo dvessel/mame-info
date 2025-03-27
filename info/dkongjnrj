@@ -2,6 +2,8 @@ description:Donkey Kong Junior (Japan set F-1)
 manufacturer:Nintendo
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:dkongjr
 cloneof:dkongjr

@@ -2,6 +2,8 @@ description:48 in 1 MAME bootleg (ver 3.09, HPH-V000)
 manufacturer:bootleg
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:39in1
 cloneof:39in1

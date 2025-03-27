@@ -2,6 +2,7 @@ description:Atronic SetUp/Clear Chips (Russia, set 2)
 manufacturer:Atronic
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:atronic
 cloneof:atronic
-disk:atronic

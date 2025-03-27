@@ -2,3 +2,5 @@ description:Mephisto II (set 1)
 manufacturer:Hegener + Glaser
 year:1981
 status:good
+emulation:good
+savestate:supported

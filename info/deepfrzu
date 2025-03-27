@@ -2,6 +2,8 @@ description:Deep Freeze (0154081, US)
 manufacturer:Aristocrat
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:deepfrz
 romof:aristmk6
 cloneof:deepfrz

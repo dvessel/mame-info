@@ -2,9 +2,10 @@ description:Golden Tee Fore! 2003 (v3.00.09)
 manufacturer:Incredible Technologies
 year:2002
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gtfore03
 romof:iteagle
 cloneof:gtfore03
 disk:golf_fore_2003_v3.00.09
-disk:golf_fore_2003_v3.00.10

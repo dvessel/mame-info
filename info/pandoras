@@ -2,4 +2,6 @@ description:Pandora's Palace
 manufacturer:Konami / Interlogic
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop

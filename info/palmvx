@@ -2,5 +2,7 @@ description:Palm Vx
 manufacturer:3Com
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pilot1k
 cloneof:pilot1k

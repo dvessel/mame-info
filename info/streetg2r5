@@ -2,6 +2,8 @@ description:Street Games II (Revision 5)
 manufacturer:New Image Technologies
 year:1993
 status:preliminary
+emulation:good
+savestate:unsupported
 kind:coinop
 device:microtouch
 romof:streetg2

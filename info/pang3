@@ -2,4 +2,6 @@ description:Pang! 3 (Europe 950601)
 manufacturer:Mitchell
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

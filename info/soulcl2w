@@ -2,8 +2,9 @@ description:Soul Calibur II (SC23 world version)
 manufacturer:Namco
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:soulclb2
 romof:sys246
 cloneof:soulclb2
 disk:sc21-dvd0b
-disk:sc21-dvd0d

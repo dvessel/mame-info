@@ -2,6 +2,8 @@ description:Gnome (bootleg, 070906, VIDEO GAME-1 GN01)
 manufacturer:bootleg
 year:2007
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gnome_9
 cloneof:gnome_9

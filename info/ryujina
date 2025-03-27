@@ -2,6 +2,8 @@ description:Ryu Jin (Japan, ET910000A PCB)
 manufacturer:Taito Corporation
 year:1993
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ryujin
 cloneof:ryujin

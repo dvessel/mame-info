@@ -2,6 +2,8 @@ description:Queen of the Nile (10204311, ASP)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:qnilea6
 romof:aristmk6
 cloneof:qnilea6

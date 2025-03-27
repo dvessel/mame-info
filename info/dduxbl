@@ -2,6 +2,8 @@ description:Dynamite Dux (Datsu bootleg)
 manufacturer:bootleg (Datsu)
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:ddux
 cloneof:ddux

@@ -2,5 +2,7 @@ description:Wild Timer (Barcrest) (Dutch) (MPU4) (DWT 1.3)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

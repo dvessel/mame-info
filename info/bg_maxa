@@ -2,6 +2,8 @@ description:Max A Million (set 2)
 manufacturer:Unidesa/Cirsa/B. Gaming Technology
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:bg_max
 cloneof:bg_max

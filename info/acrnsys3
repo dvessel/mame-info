@@ -2,4 +2,6 @@ description:Acorn System 3 (6502 CPU)
 manufacturer:Acorn Computers
 year:1980
 status:good
+emulation:good
+savestate:supported
 device:saa5050

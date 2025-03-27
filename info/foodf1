@@ -2,6 +2,8 @@ description:Food Fight (rev 1)
 manufacturer:General Computer Corporation (Atari license)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:foodf
 cloneof:foodf

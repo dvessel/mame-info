@@ -2,5 +2,7 @@ description:PC1640 SD
 manufacturer:Amstrad plc
 year:1987
 status:imperfect
+emulation:good
+savestate:supported
 device:pc1512kb
 device:pc1640_iga

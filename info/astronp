@@ -2,6 +2,8 @@ description:Astron Belt (Pioneer LDV1000)
 manufacturer:Sega
 year:1983
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:ldv1000
 romof:astron

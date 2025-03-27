@@ -2,8 +2,9 @@ description:Gauntlet Legends (version 1.2)
 manufacturer:Atari Games
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:gauntleg
 cloneof:gauntleg
 disk:gauntl12
-disk:gauntleg

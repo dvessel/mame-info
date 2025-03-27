@@ -2,4 +2,6 @@ description:AlphaSmart 3000
 manufacturer:AlphaSmart, Inc.
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ks0066

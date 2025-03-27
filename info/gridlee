@@ -2,5 +2,7 @@ description:Gridlee
 manufacturer:Videa
 year:1983
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:gridlee

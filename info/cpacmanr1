@@ -2,5 +2,7 @@ description:Pac-Man (Coleco, rev. 28)
 manufacturer:Coleco
 year:1981
 status:good
+emulation:good
+savestate:supported
 romof:cpacman
 cloneof:cpacman

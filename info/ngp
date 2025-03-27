@@ -2,3 +2,5 @@ description:NeoGeo Pocket
 manufacturer:SNK
 year:1998
 status:good
+emulation:good
+savestate:supported

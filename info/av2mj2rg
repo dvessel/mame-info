@@ -2,4 +2,6 @@ description:AV2Mahjong No.2 Rouge no Kaori (Japan)
 manufacturer:Miki Syouji / AV Japan
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

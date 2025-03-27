@@ -2,6 +2,8 @@ description:Teenage Mutant Ninja Turtles (Japan 2 Players, version 1)
 manufacturer:Konami
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tmnt
 cloneof:tmnt

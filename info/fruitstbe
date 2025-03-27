@@ -2,6 +2,8 @@ description:Fruit Star Bonus (Ver 8.23PSTK, Steiermark)
 manufacturer:Webak Elektronik
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:fruitstb
 cloneof:fruitstb

@@ -2,5 +2,7 @@ description:Mahjong Jong-Tei (Japan, NM532-01)
 manufacturer:Dynax
 year:1999
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

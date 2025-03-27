@@ -1,4 +1,6 @@
 description:unknown Japanese horse gambling game
 year:1981?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

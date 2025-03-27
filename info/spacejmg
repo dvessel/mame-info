@@ -2,6 +2,8 @@ description:Space Jam (CPU 3.00, display G3.00, Germany)
 manufacturer:Sega
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

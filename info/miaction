@@ -2,4 +2,6 @@ description:Missing In Action
 manufacturer:Vegas
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

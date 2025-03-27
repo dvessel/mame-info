@@ -2,4 +2,6 @@ description:Tickee Tickats
 manufacturer:Raster Elite
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop

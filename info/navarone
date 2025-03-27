@@ -2,4 +2,6 @@ description:Navarone
 manufacturer:Namco
 year:1980
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

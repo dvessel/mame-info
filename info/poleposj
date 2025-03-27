@@ -2,6 +2,8 @@ description:Pole Position (Japan)
 manufacturer:Namco
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:namco51
 device:namco52

@@ -2,5 +2,7 @@ description:Garou - Mark of the Wolves (NGM-2530)
 manufacturer:SNK
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:neogeo

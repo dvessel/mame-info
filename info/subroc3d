@@ -2,5 +2,7 @@ description:Subroc-3D
 manufacturer:Sega
 year:1982
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 sampleof:subroc3d

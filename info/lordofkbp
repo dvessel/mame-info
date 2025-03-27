@@ -2,6 +2,8 @@ description:The Lord of King (bootleg, protected)
 manufacturer:bootleg
 year:1989
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:astyanax
 cloneof:astyanax

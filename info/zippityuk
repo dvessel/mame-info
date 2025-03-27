@@ -2,5 +2,7 @@ description:Zippity (UK)
 manufacturer:LeapFrog
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:zippity
 cloneof:zippity

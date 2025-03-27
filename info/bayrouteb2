@@ -2,6 +2,8 @@ description:Bay Route (Datsu bootleg)
 manufacturer:bootleg (Datsu)
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:bayroute
 cloneof:bayroute

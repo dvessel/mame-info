@@ -1,5 +1,7 @@
 description:E-Game! 150-in-1
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:denv150
 cloneof:denv150

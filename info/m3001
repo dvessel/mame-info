@@ -2,3 +2,5 @@ description:M3001
 manufacturer:Sega
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported

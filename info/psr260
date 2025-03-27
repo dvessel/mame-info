@@ -2,4 +2,6 @@ description:PSR-260
 manufacturer:Yamaha
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:ks0066

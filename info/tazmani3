@@ -2,6 +2,8 @@ description:Tazz-Mania (Arfyc / Rodmar bootleg)
 manufacturer:bootleg (Arfyc / Rodmar)
 year:1982
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:tazmania
 cloneof:tazmania

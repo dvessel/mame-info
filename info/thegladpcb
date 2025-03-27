@@ -2,6 +2,8 @@ description:Tougenkyou - Road of the Sword (M68k label V100) (ARM label V101, RO
 manufacturer:IGS (Alta/AMI license)
 year:2003
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:theglad
 romof:pgm

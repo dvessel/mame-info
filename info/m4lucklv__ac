@@ -2,6 +2,8 @@ description:Lucky Las Vegas (Barcrest) (MPU4) (LLU 0.1 R)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4lucklv

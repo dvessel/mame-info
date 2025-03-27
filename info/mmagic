@@ -2,5 +2,7 @@ description:Monkey Magic
 manufacturer:Nintendo
 year:1979
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 sampleof:mmagic

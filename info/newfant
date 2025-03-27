@@ -2,4 +2,6 @@ description:New Fantasia (1995 copyright)
 manufacturer:Comad &amp; New Japan System
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

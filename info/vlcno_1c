@@ -2,6 +2,8 @@ description:Volcano (Sound Only set 1)
 manufacturer:Gottlieb
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

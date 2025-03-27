@@ -2,4 +2,6 @@ description:unknown Cointek game
 manufacturer:Cointek Enterprise Corp
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:ym2413

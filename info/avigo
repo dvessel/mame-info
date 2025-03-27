@@ -2,3 +2,5 @@ description:TI Avigo 10 PDA
 manufacturer:Texas Instruments
 year:1997
 status:good
+emulation:good
+savestate:supported

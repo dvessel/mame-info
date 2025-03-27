@@ -2,5 +2,7 @@ description:IQ Unlimited (Germany)
 manufacturer:VTech / Integrated Systems Inc.
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:iqunlim
 cloneof:iqunlim

@@ -2,6 +2,8 @@ description:Pravetz 8C
 manufacturer:Pravetz
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

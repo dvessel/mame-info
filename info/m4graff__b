@@ -2,6 +2,8 @@ description:Graffiti (Barcrest) (MPU4) (GRA 2.1CX)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

@@ -2,4 +2,6 @@ description:Marvin's Maze
 manufacturer:SNK
 year:1983
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:JoJo's Bizarre Adventure (Europe 990927, NO CD)
 manufacturer:Capcom
 year:1999
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:jojoba
 cloneof:jojoba

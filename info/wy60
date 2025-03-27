@@ -2,3 +2,5 @@ description:WY-60 (RBFNG2)
 manufacturer:Wyse Technology
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:unsupported

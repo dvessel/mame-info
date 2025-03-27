@@ -2,4 +2,6 @@ description:Sweet Life (041220 World)
 manufacturer:Igrosoft
 year:2004
 status:good
+emulation:good
+savestate:supported
 kind:coinop

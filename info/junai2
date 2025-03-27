@@ -2,6 +2,8 @@ description:Junai 2 - White Love Story (Japan)
 manufacturer:Nichibutsu/eic
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8005

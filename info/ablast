@@ -2,6 +2,8 @@ description:Hong Tian Lei (A-Blast) (Japan)
 manufacturer:Subsino
 year:2000
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:penbros
 cloneof:penbros

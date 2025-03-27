@@ -2,6 +2,8 @@ description:Pirate 2 (110311 Entertainment B)
 manufacturer:Igrosoft
 year:2006
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:pirate2
 cloneof:pirate2

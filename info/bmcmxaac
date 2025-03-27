@@ -2,8 +2,9 @@ description:beatmania complete MIX (ver AA-C)
 manufacturer:Konami
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:bmcompmx
 cloneof:bmcompmx
 disk:858aac11
-disk:858jaa11

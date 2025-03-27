@@ -2,6 +2,8 @@ description:STe (France)
 manufacturer:Atari
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:st_kbd
 romof:ste
 cloneof:ste

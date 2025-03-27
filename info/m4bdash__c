@@ -2,6 +2,8 @@ description:Boulder Dash (Barcrest) (MPU4) (BLD 0.7 AD)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4bdash

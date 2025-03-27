@@ -2,6 +2,8 @@ description:DonPachi (Japan, Satsuei version)
 manufacturer:Cave (Atlus license)
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:donpachi
 cloneof:donpachi

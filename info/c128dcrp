@@ -2,6 +2,8 @@ description:Commodore 128DCR (PAL)
 manufacturer:Commodore Business Machines
 year:1987
 status:good
+emulation:good
+savestate:supported
 device:c1571
 romof:c128
 cloneof:c128

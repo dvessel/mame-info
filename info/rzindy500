@@ -2,3 +2,5 @@ description:R-Zone: Indy 500
 manufacturer:Tiger Electronics
 year:1996
 status:good
+emulation:good
+savestate:supported

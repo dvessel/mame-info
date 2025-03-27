@@ -2,3 +2,5 @@ description:Portable Game Player BBL-338 (BaoBaoLong, 48-in-1)
 manufacturer:BaoBaoLong
 year:201?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,5 +2,7 @@ description:Bonanza Bros. (Mega-Tech)
 manufacturer:Sega
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:megatech

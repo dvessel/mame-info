@@ -2,6 +2,8 @@ description:Flyball (rev 1)
 manufacturer:Atari
 year:1976
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:flyball
 cloneof:flyball

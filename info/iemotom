@@ -2,6 +2,8 @@ description:Iemoto (Japan 871118, medal)
 manufacturer:Nichibutsu
 year:1987
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:iemoto
 cloneof:iemoto

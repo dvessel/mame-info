@@ -2,5 +2,7 @@ description:EC-65K
 manufacturer:Elektor
 year:1986
 status:preliminary
+emulation:preliminary
+savestate:supported
 romof:ec65
 cloneof:ec65

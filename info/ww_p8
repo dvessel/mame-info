@@ -2,6 +2,8 @@ description:White Water (P-8)
 manufacturer:Williams
 year:1992
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 romof:ww_l5

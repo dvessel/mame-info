@@ -2,3 +2,5 @@ description:IRIS 3130 (IP2)
 manufacturer:Silicon Graphics Inc
 year:1985
 status:preliminary
+emulation:preliminary
+savestate:unsupported

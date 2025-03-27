@@ -2,6 +2,8 @@ description:Rambo 3 (bootleg of Ikari, Joystick hack)
 manufacturer:bootleg
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:ikari
 cloneof:ikari

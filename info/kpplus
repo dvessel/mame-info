@@ -2,5 +2,7 @@ description:Kasparov Pocket Plus
 manufacturer:SciSys / Heuristic Software
 year:1986
 status:good
+emulation:good
+savestate:supported
 romof:mk12
 cloneof:mk12

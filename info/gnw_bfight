@@ -2,3 +2,5 @@ description:Game &amp; Watch: Balloon Fight (Crystal Screen)
 manufacturer:Nintendo
 year:1986
 status:good
+emulation:good
+savestate:supported

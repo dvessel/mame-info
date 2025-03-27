@@ -1,6 +1,8 @@
 description:Quorum
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:betadisk
 romof:spec128
 cloneof:spec128

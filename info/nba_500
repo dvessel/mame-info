@@ -2,6 +2,8 @@ description:NBA v5.00
 manufacturer:Stern
 year:2009
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:nba_802
 cloneof:nba_802

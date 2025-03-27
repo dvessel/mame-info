@@ -2,6 +2,8 @@ description:MU100 Rackable version
 manufacturer:Yamaha
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:mulcd
 device:hd44780
 romof:mu100

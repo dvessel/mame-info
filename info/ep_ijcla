@@ -2,6 +2,8 @@ description:The Italian Job Club (Maygay) (EPOCH) (2.5, set 2)
 manufacturer:Maygay
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ep_ijcl
 cloneof:ep_ijcl

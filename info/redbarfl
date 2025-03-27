@@ -2,6 +2,8 @@ description:Red Baron - Fast Lane (10160711, Queensland)
 manufacturer:Aristocrat
 year:2003
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:redbara6
 romof:aristmk6
 cloneof:redbara6

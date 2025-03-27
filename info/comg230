@@ -2,3 +2,5 @@ description:Cal Omega - Game 23.0 (FC Bingo (4-card))
 manufacturer:Cal Omega Inc.
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:supported

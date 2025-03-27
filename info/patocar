@@ -2,6 +2,8 @@ description:Hashire Patrol Car (J 990326 V1.000)
 manufacturer:Sega
 year:2001
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

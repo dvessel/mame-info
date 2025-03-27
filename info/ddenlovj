@@ -2,5 +2,7 @@ description:Don Den Lover Vol. 1 - Shiro Kuro Tsukeyo! (Japan)
 manufacturer:Dynax
 year:1995
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:ym2413

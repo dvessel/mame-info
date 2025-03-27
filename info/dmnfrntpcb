@@ -2,6 +2,8 @@ description:Demon Front V1.1 / Moyu Zhanxian V1.1 (68k label V107KR, ROM M107KR 
 manufacturer:IGS
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop
 romof:dmnfrnt
 romof:pgm

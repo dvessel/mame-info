@@ -2,6 +2,8 @@ description:Turbo Reel Gambler (Avantime?) (MPU4) (set 2)
 manufacturer:Avantime?
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4trg

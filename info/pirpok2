@@ -2,4 +2,6 @@ description:Pirate Poker II (Version 2.4E Dual)
 manufacturer:Amcoe
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop

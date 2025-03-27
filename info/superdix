@@ -2,4 +2,6 @@ description:Super Dixieland (Bingo)
 manufacturer:Seeben (Belgium)
 year:19??
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

@@ -2,3 +2,5 @@ description:PC-100
 manufacturer:NEC
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

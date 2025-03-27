@@ -2,6 +2,8 @@ description:Pot Black (BWB) (MPU4) (PO 1.2)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4potblk

@@ -2,3 +2,5 @@ description:Picture Magic
 manufacturer:Sega
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,6 +2,8 @@ description:Cleopatra Fortune Plus (GDL-0012)
 manufacturer:Altron / Taito
 year:2002
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:mie
 device:jvs13551

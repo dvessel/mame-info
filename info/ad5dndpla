@@ -2,5 +2,7 @@ description:Deal or No Deal Platinum (Bellfruit) (Adder 5) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:ad5dndpl
 cloneof:ad5dndpl

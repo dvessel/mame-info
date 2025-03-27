@@ -2,6 +2,8 @@ description:Magical Date / Magical Date - Dokidoki Kokuhaku Daisakusen (Ver 2.02
 manufacturer:Taito
 year:1996
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:mgcldtex
 romof:coh1000t

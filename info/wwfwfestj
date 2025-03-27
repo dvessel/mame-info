@@ -2,6 +2,8 @@ description:WWF WrestleFest (Japan)
 manufacturer:Technos Japan (Tecmo license)
 year:1991
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:wwfwfest
 cloneof:wwfwfest

@@ -2,3 +2,5 @@ description:EC-7915 (EC-7950)
 manufacturer:Mera-Elzab
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported

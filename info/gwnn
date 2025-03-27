@@ -2,4 +2,6 @@ description:The Game With No Name! (0452501, US)
 manufacturer:Aristocrat
 year:2004
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

@@ -2,6 +2,8 @@ description:Locomotion
 manufacturer:Zaccaria
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

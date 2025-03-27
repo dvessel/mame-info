@@ -2,6 +2,8 @@ description:Buggy Boy Junior/Speed Buggy (upright)
 manufacturer:Tatsumi
 year:1986
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:buggyboy
 cloneof:buggyboy

@@ -2,6 +2,8 @@ description:Cash Lab (Qps) (MPU4) (set 10)
 manufacturer:Qps
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4clab

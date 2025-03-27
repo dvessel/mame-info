@@ -2,5 +2,7 @@ description:The Gambler (EHG0916-02, US)
 manufacturer:Aristocrat
 year:1998
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aristmk5

@@ -2,3 +2,5 @@ description:Bashkiria-2M
 manufacturer:BNPO
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:supported

@@ -2,6 +2,8 @@ description:Jack Potten's Poker (set 2)
 manufacturer:bootleg
 year:198?
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pottnpkr
 cloneof:pottnpkr

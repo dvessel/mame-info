@@ -2,4 +2,6 @@ description:Cashman Tonight (30194711, NSW/ACT)
 manufacturer:Aristocrat
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:aristmk6

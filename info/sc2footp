@@ -2,6 +2,8 @@ description:Football Club (Bellfruit) (set 2, UK, 250GBP Jackpot, Protocol) (Sco
 manufacturer:BFM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

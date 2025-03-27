@@ -2,6 +2,8 @@ description:Medieval Madness (0.50)
 manufacturer:Williams
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:mm_10

@@ -2,4 +2,6 @@ description:Cash In The Pan (Maygay) (EPOCH) (1.1, set 1)
 manufacturer:Maygay
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical

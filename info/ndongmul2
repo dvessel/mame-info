@@ -2,4 +2,6 @@ description:New DongmulDongmul 2 (V1.2N)
 manufacturer:Dyna
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

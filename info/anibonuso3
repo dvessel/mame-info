@@ -2,6 +2,8 @@ description:Animal Bonus (Version 1.4, set 2)
 manufacturer:Amcoe
 year:2003
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:anibonus
 cloneof:anibonus

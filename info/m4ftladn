@@ -2,5 +2,7 @@ description:Find the Lady (Nova) (MPU4)
 manufacturer:BWB
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

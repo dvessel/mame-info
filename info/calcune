@@ -2,4 +2,6 @@ description:Calcune (Japan, prototype)
 manufacturer:Yuvo
 year:1996
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

@@ -2,6 +2,8 @@ description:Dai Ressya Goutou (Japan, version K)
 manufacturer:Konami (Kawakusu license)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:ironhors
 cloneof:ironhors

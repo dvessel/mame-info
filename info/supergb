@@ -2,5 +2,7 @@ description:Super Game Boy
 manufacturer:Nintendo
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 romof:gameboy
 cloneof:gameboy

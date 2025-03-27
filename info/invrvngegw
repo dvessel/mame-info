@@ -2,6 +2,8 @@ description:Invader's Revenge (Game World, single PCB)
 manufacturer:Zenitone-Microsec Ltd. (Game World license)
 year:1980?
 status:preliminary
+emulation:good
+savestate:supported
 kind:coinop
 romof:invrvnge
 cloneof:invrvnge

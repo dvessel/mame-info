@@ -2,5 +2,7 @@ description:Boris (rev. 00)
 manufacturer:Applied Concepts
 year:1978
 status:good
+emulation:good
+savestate:supported
 romof:boris
 cloneof:boris

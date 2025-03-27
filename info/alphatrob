@@ -2,5 +2,7 @@ description:Alphatronic PC w/BiCom Graphics
 manufacturer:Triumph-Adler
 year:1984
 status:good
+emulation:good
+savestate:supported
 romof:alphatro
 cloneof:alphatro

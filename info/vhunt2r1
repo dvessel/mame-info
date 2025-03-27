@@ -2,6 +2,8 @@ description:Vampire Hunter 2: Darkstalkers Revenge (Japan 970913)
 manufacturer:Capcom
 year:1997
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:vhunt2

@@ -2,4 +2,6 @@ description:Player's Edge Plus (PS0021) Red White &amp; Blue Slots
 manufacturer:IGT - International Game Technology
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop

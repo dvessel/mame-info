@@ -2,3 +2,5 @@ description:Altos 486
 manufacturer:Altos Computer Systems
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported

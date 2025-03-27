@@ -2,3 +2,5 @@ description:Raise The Devil Pinball
 manufacturer:Entex
 year:1980
 status:good
+emulation:good
+savestate:supported

@@ -2,3 +2,5 @@ description:Space Battle (Entex)
 manufacturer:Entex
 year:1979
 status:good
+emulation:good
+savestate:supported

@@ -2,5 +2,7 @@ description:Palm III
 manufacturer:3Com
 year:1998
 status:good
+emulation:good
+savestate:supported
 romof:pilot1k
 cloneof:pilot1k

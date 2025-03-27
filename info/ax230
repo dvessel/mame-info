@@ -2,3 +2,5 @@ description:AX-230 (MSX1, Arabic)
 manufacturer:Sakhr
 year:1986
 status:imperfect
+emulation:good
+savestate:unsupported

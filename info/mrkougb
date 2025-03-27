@@ -2,6 +2,8 @@ description:Mr. Kougar (German bootleg)
 manufacturer:bootleg (Gross)
 year:1984
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mrkougar
 cloneof:mrkougar

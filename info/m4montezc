@@ -2,6 +2,8 @@ description:Monte Carlo (MC 2.0 C) (BWB) (MPU4)
 manufacturer:BWB
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

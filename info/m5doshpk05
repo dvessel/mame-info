@@ -2,6 +2,8 @@ description:Do$h 'n' Pecks (Barcrest) (MPU5) (set 2)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:m5doshpk
 cloneof:m5doshpk

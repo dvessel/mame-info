@@ -2,6 +2,8 @@ description:Galaxian Growing Galaxip / Galaxian Nave Creciente (Recreativos Fran
 manufacturer:bootleg (Recreativos Franco S.A.)
 year:1980
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:galaxian
 cloneof:galaxian

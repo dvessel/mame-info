@@ -2,5 +2,7 @@ description:US AAF Mustang (25th May. 1990)
 manufacturer:UPL
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 device:nmk004

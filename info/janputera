@@ -2,6 +2,8 @@ description:New Double Bet Mahjong (bootleg of Royal Mahjong, set 2)
 manufacturer:bootleg (Paradise Denshi Ltd. / Ever Denshi)
 year:1981
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:janputer
 cloneof:janputer

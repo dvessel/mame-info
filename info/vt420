@@ -2,3 +2,5 @@ description:VT420 Video Terminal
 manufacturer:Digital Equipment Corporation
 year:1990
 status:preliminary
+emulation:preliminary
+savestate:unsupported

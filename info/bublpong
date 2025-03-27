@@ -2,6 +2,8 @@ description:Bubble Pong Pong
 manufacturer:Top Ltd.
 year:1996
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:missb2
 cloneof:missb2

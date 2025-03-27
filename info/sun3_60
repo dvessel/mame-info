@@ -2,3 +2,5 @@ description:Sun 3/60
 manufacturer:Sun Microsystems
 year:1988
 status:preliminary
+emulation:preliminary
+savestate:unsupported

@@ -2,5 +2,7 @@ description:Cops 'n' Robbers (Dutch) (Bellfruit) (System 85)
 manufacturer:BFM/ELAM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

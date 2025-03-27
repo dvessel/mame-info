@@ -2,6 +2,8 @@ description:Grand Prix (CPU 4.50, display A4.00)
 manufacturer:Stern
 year:2005
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

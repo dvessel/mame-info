@@ -2,5 +2,7 @@ description:Final Lap 2
 manufacturer:Namco
 year:1990
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:namcoc65

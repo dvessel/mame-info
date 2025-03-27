@@ -2,4 +2,6 @@ description:Space Bugger (set 1)
 manufacturer:Game-A-Tron
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:coinop

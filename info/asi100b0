@@ -1,6 +1,8 @@
 description:ASI 100B0, identified as HAM 12 TI 286 Motherboard ZERO WAIT
 year:198?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

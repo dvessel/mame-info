@@ -2,5 +2,7 @@ description:AI-1000
 manufacturer:Casio
 year:1989
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:pb2000c
 cloneof:pb2000c

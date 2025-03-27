@@ -2,6 +2,8 @@ description:Tetris (bootleg set 7, with OKI M5205)
 manufacturer:bootleg
 year:1988
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 romof:atetris
 cloneof:atetris

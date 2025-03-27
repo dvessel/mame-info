@@ -1,4 +1,6 @@
 description:Inca
 year:199?
 status:good
+emulation:good
+savestate:supported
 kind:coinop

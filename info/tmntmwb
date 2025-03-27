@@ -2,5 +2,7 @@ description:Teenage Mutant Ninja Turtles - Mutant Warriors (SNES bootleg)
 manufacturer:bootleg
 year:1997
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 device:s_smp

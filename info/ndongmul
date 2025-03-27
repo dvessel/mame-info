@@ -2,4 +2,6 @@ description:New DongmulDongmul
 manufacturer:Hyoja Game
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop

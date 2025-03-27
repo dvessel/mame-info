@@ -2,6 +2,8 @@ description:Super Muscle Bomber: The International Blowout (Japan 940831)
 manufacturer:Capcom
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 device:qsound_hle
 romof:ringdest

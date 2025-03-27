@@ -2,4 +2,6 @@ description:Endless Riches (Ver 1.21)
 manufacturer:E.N.Tiger
 year:1999
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop

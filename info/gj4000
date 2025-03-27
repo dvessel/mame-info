@@ -2,3 +2,5 @@ description:Genius Junior 4000 (Germany)
 manufacturer:VTech
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported

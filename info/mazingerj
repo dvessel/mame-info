@@ -2,6 +2,8 @@ description:Mazinger Z (Japan)
 manufacturer:Banpresto / Dynamic Pl. Toei Animation
 year:1994
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:mazinger
 cloneof:mazinger

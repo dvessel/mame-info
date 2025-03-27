@@ -2,6 +2,8 @@ description:JuJu Densetsu (Playmark bootleg)
 manufacturer:bootleg (Playmark)
 year:1990
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:toki
 cloneof:toki

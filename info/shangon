@@ -2,4 +2,6 @@ description:Super Hang-On (sitdown/upright) (unprotected)
 manufacturer:Sega
 year:1987
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop

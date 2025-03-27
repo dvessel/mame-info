@@ -2,6 +2,8 @@ description:Octopussy
 manufacturer:Covielsa
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:mastcrane
 cloneof:mastcrane

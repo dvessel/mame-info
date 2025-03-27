@@ -2,3 +2,5 @@ description:AIM 65
 manufacturer:Rockwell
 year:1977
 status:good
+emulation:good
+savestate:supported

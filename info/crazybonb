@@ -2,5 +2,7 @@ description:Crazy Bonus 2002 (Ver. 1, set 3)
 manufacturer:bootleg (TV Games)
 year:1997
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:crazybon
 cloneof:crazybon

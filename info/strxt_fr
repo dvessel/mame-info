@@ -2,6 +2,8 @@ description:Striker Xtreme (CPU 1.02, display F1.03, France)
 manufacturer:Stern
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

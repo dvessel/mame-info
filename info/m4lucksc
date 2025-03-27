@@ -2,5 +2,7 @@ description:Lucky Strike Club (Barcrest) (MPU4) (CLU 1.4)
 manufacturer:Barcrest
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

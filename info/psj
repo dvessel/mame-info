@@ -2,4 +2,6 @@ description:Sony PlayStation (Japan)
 manufacturer:Sony Computer Entertainment Inc
 year:1994
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:psx_cd

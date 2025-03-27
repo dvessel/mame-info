@@ -1,5 +1,7 @@
 description:Orion Pro
 year:1994
 status:good
+emulation:good
+savestate:supported
 romof:orion128
 cloneof:orion128

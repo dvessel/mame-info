@@ -2,5 +2,7 @@ description:The Shadow (LX-5)
 manufacturer:Bally
 year:1995
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop

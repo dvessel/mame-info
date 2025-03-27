@@ -2,11 +2,12 @@ description:Guitar Freaks 3rd Mix (GE949 VER. JAB)
 manufacturer:Konami
 year:2000
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 device:k573_dio
 device:k573mcr
 romof:gtrfrk3m
 romof:sys573
 cloneof:gtrfrk3m
-disk:949jac01
 disk:949jab02

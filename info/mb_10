@@ -2,5 +2,7 @@ description:Monster Bash (1.0)
 manufacturer:Williams
 year:1998
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop

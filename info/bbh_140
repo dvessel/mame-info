@@ -2,6 +2,8 @@ description:Big Buck Hunter Pro v1.40
 manufacturer:Stern
 year:2010
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:bbh_160
 cloneof:bbh_160

@@ -2,6 +2,8 @@ description:New HUNTer (bootleg, set 3)
 manufacturer:bootleg
 year:1993
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:tisub
 cloneof:tisub

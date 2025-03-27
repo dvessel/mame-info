@@ -2,5 +2,7 @@ description:Tequila Sunrise (1VXFC613, NSW)
 manufacturer:Aristocrat
 year:1993
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 sampleof:3bagfull

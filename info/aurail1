@@ -2,6 +2,8 @@ description:Aurail (set 2, World) (FD1089B 317-0168)
 manufacturer:Sega / Westone
 year:1990
 status:good
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:aurail
 cloneof:aurail

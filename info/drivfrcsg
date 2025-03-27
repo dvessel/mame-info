@@ -2,6 +2,8 @@ description:Driving Force (Galaxian conversion, Seatongrove UK, E-0010)
 manufacturer:Shinkai Inc. (Seatongrove UK, Ltd. license)
 year:1985
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:drivfrcp
 cloneof:drivfrcp

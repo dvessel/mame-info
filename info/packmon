@@ -2,3 +2,5 @@ description:Packri Monster
 manufacturer:Bandai
 year:1981
 status:good
+emulation:good
+savestate:supported

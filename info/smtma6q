@@ -2,6 +2,8 @@ description:Show Me The Money (10015711, Queensland)
 manufacturer:Aristocrat
 year:2001
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 romof:smtma6
 romof:aristmk6
 cloneof:smtma6

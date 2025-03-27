@@ -2,6 +2,8 @@ description:Spain '82
 manufacturer:Playmatic
 year:1982
 status:preliminary
+emulation:preliminary
+savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

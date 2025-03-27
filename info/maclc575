@@ -2,6 +2,8 @@ description:Macintosh LC/Performa 575
 manufacturer:Apple Computer
 year:1994
 status:imperfect
+emulation:good
+savestate:supported
 device:cuda
 romof:macqd605
 cloneof:macqd605

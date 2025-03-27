@@ -2,6 +2,8 @@ description:The FairyLand Story (earlier)
 manufacturer:Taito
 year:1985
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop
 device:m68705p5
 romof:flstory

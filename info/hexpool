@@ -2,6 +2,8 @@ description:Hex Pool (Shinkai)
 manufacturer:Senko Industries (Shinkai Inc. license)
 year:1986
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:racknrol
 cloneof:racknrol

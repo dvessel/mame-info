@@ -2,3 +2,5 @@ description:Datamax 8000
 manufacturer:Datamax
 year:1981
 status:preliminary
+emulation:preliminary
+savestate:supported

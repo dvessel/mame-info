@@ -2,6 +2,8 @@ description:Piccadilly Night (Nova, German) (set 2) (MPU4 Video)
 manufacturer:BWB (Nova license)
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:coinop
 romof:v4picdil
 cloneof:v4picdil

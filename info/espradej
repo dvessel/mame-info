@@ -2,6 +2,8 @@ description:ESP Ra.De. (Japan, 1998 4/21 Master Ver.)
 manufacturer:Cave (Atlus license)
 year:1998
 status:good
+emulation:good
+savestate:supported
 kind:coinop
 romof:esprade
 cloneof:esprade

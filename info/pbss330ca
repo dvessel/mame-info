@@ -2,6 +2,8 @@ description:Pit Boss Superstar III 30 (9233-00-06 R0A, California version)
 manufacturer:Merit
 year:1993
 status:imperfect
+emulation:good
+savestate:unsupported
 kind:coinop
 romof:pbss330
 cloneof:pbss330

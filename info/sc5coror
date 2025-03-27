@@ -2,6 +2,8 @@ description:Coronation Street Single (PR2252) (Mazooma) (Scorpion 5) (set 6)
 manufacturer:Mazooma
 year:200?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:sc5coro
 cloneof:sc5coro

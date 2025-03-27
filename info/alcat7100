@@ -2,3 +2,5 @@ description:Terminal 7100
 manufacturer:Alcatel
 year:1984
 status:preliminary
+emulation:preliminary
+savestate:unsupported

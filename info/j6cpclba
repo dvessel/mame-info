@@ -2,6 +2,8 @@ description:Caesar's Palace Club (JPM) (IMPACT) (set 2)
 manufacturer:Crystal / JPM
 year:199?
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6cpclb

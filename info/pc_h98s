@@ -2,5 +2,7 @@ description:PC-H98S model 8/U8
 manufacturer:NEC
 year:1991
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 device:pc9801_26
 device:upd7220

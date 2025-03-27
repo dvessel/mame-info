@@ -2,4 +2,6 @@ description:Player's Edge Plus (PP0818 A5W-A6F) Joker Poker (Aces or Better)
 manufacturer:IGT - International Game Technology
 year:1995
 status:good
+emulation:good
+savestate:supported
 kind:coinop

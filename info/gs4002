@@ -2,4 +2,6 @@ description:Selection (Version 40.02TMB, set 1)
 manufacturer:Greyhound Electronics
 year:1982
 status:imperfect
+emulation:good
+savestate:supported
 kind:coinop

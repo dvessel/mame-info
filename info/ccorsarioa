@@ -2,6 +2,8 @@ description:Corsarios (Cirsa slot machine, V5.10D, Catalonia)
 manufacturer:Unidesa/Cirsa
 year:1999
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 romof:ccorsario
 cloneof:ccorsario

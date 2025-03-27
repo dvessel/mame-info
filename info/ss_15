@@ -2,5 +2,7 @@ description:Scared Stiff (1.5)
 manufacturer:Bally
 year:1996
 status:preliminary
+emulation:preliminary
+savestate:unsupported
 kind:mechanical
 kind:coinop
