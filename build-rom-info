@@ -1,0 +1,188 @@
+#!/usr/bin/env zsh
+
+function main {
+  zparseopts -D -E -F - \
+    {v,-version}:=version \
+    {r,-reset}=reset || return 1
+
+  version=${${version[-1]/./}:-`mame-version`}
+  tempdir=${TMPDIR}oemame/cache-$version
+  hashdir=$tempdir/hashes # TODO: very expensive to build. needs work.
+  scanlog=$__self:h/scan.log
+
+  if [[ -z $version ]]; then
+    print "Could not determine MAME version. Use --version <number>" >&2
+    return 1
+  fi
+
+  infodir=$__self:h/info
+  if [[ -n $reset ]]; then
+    rm -rf $infodir
+    self-log info "resetting info files."
+  fi
+  mkdir -p $hashdir $infodir
+
+  xmlb-get
+  [[ -f $xmlb ]] || return 1
+
+  self-log info "initiating info build:$scandir"
+
+  local current{,info,tmp}
+
+  mame -listfull | awk -F\" 'NR>1,!x[$0]++ { print $1 }' | while read -r current; do
+    # current's scope extends to other functions.
+    __current=$current
+
+    currentinfo=$infodir/$current
+
+    if [[ ! -s $currentinfo ]]; then
+
+      if ! (( `xpath-query "boolean(machine/rom/@sha1)"` )); then
+        self-log warning "$current not dumped. skipping.."
+        continue
+      fi
+
+      currenttmp=$tempdir/.`uuidgen`
+
+      while read -r info; do
+        # holds key:value. ignore empty values.
+        if [[ -n ${info/*:} ]]; then
+          print -- $info >> $currenttmp
+        fi
+      done < <(
+        while read -r info; do
+          # omit unknown values.
+          print -- ${${info/&lt;*>}//&amp;/&}
+        done < <(
+          print -- description:`xpath-query "machine/description/text()"`
+          print -- manufacturer:`xpath-query "machine/manufacturer/text()"`
+          print -- year:`xpath-query "machine/year/text()"`
+        )
+
+        # status:good|imperfect|preliminary
+        print -- status:`xpath-query "string(machine/driver/@status)"`
+        # emulation:good|imperfect|preliminary
+        print -- emulation:`xpath-query "string(machine/driver/@emulation)"`
+
+        # kind:bios|device|mechanical,coinop
+        for kind in bios device mechanical; \
+          (( `xpath-query "boolean(machine[@is$kind='yes'])"` )) && \
+            print -- kind:$kind
+        # kind to differentiate coin-operated machines, i.e., arcade machines.
+        (( `xpath-query "boolean(machine/input/@coins)"` )) && \
+          print -- kind:coinop
+
+        # get device dependencies. rom sha1 means it's been dumped.
+        while read -r device; do
+          (( `xpath-query "boolean(machine/rom/@sha1)" $device` )) && \
+            print -- device:$device
+        # awk removes attribute names. we only want unique values.
+        done < <( xpath-query "machine/device_ref/@name" | awk -F\" '!x[$0]++ { print $2 }' )
+
+        # get rom dependencies. clone->parent->bios
+        romof=`xpath-query "string(machine/@romof)" $current`
+        while (( #romof )); do
+          (( `xpath-query "boolean(machine/rom/@sha1)" $romof` )) && \
+            print -- romof:$romof
+          romof=`xpath-query "string(machine/@romof)" $romof`
+        done
+
+        # only two levels here. clone->parent
+        parent=`xpath-query "string(machine/@cloneof)"`
+        (( #parent )) && \
+          print -- cloneof:$parent
+
+        # dependent audio samples.
+        sampleof=`xpath-query "string(machine/@sampleof)"`
+        (( #sampleof )) && \
+          print -- sampleof:$sampleof
+
+        # dependent chds.
+        while read -r disk; do
+          print -- disk:$disk
+        done < <( xpath-query "machine/disk[@sha1]/@name" | awk -F\" '{ print $2 }' )
+      )
+
+      mv -f $currenttmp $currentinfo
+      self-log info \
+        "new info file created: [$current] \"`xpath-query "machine/description/text()"`\""
+    fi
+  done
+}
+
+function mame-version {
+  local version=`mame -version`
+  # Remove decimals and truncate. MAME version 0.250.0.1 results in 0250.
+  print -- ${${${${version}/./}%%.*}%% *}
+}
+
+# 1 xpath query string
+# 2 machine name, defaults to $__current
+function xpath-query {
+  local result h=`md5 -qs "${2:-$__current}/$1"`
+
+  if [[ -f $hashdir/$h ]]; then
+    cat $hashdir/$h
+    return
+  fi
+
+  if result=`xb-tool query $xmlb "mame/machine[@name='${2:-$__current}']" 1`; then
+    # redirects to hash file and stdout. stderr goes nowhere but stderr.
+    print -- ${result/RESULT:/} | xpath -q -n -e $1 >&1 >> $hashdir/$h
+  elif [[ $result =~ "^no results" ]]; then
+    self-log warning "${2:-$__current} was not recognized."
+    return 1
+  else
+    self-log error "xb-tool query failed for ${2:-$__current}"
+    return 1
+  fi
+}
+
+function xmlb-get {
+  local work_path=$tempdir:h
+  local xml_path=$work_path/mame${version}.xml
+  local xmlb_path=$work_path/mame${version}.xmlb
+  typeset -g xmlb=$xmlb_path
+
+  [[ ! -f $xmlb_path ]] || return
+
+  if [[ ! -f $xml_path ]]; then
+    print "Getting xml file for ver.${version}…"
+    if type mame &>/dev/null && [[ `mame-version` == $version ]]; then
+      mame -listxml > $xml_path
+    else
+      local url=https://github.com/mamedev/mame/releases/download/mame${version}/mame${version}lx.zip
+      local archive=$work_path/mame${version}lx.zip
+      # Check for existing archive and make sure it's not corrupt.
+      if test ! -f $archive || ! unzip -tqq $archive &>/dev/null; then
+        if ! curl -o /dev/null --silent --head --fail $url || ! curl -#Lo $archive $url; then
+          print "Failed to download 'mame${version}lx.zip'. Check version number and try again." >&2
+          return 1
+        fi
+      fi
+      unzip -oq $archive -d $work_path
+    fi
+  fi
+  print "Compiling mame${version}.xmlb…\n"
+  if xb-tool -t machine compile $xmlb_path $xml_path; then
+    rm $xml_path
+  else
+    rm -f $xmlb_path
+    print "Failed to compile mame${version}.xmlb." >&2
+    return 1
+  fi
+}
+
+function self-log {
+  local category=$1; shift
+  printf "%s\t%s\t%s\n" "`date -u +%Y-%m-%dT%H:%M:%SZ`" $category "$@" >> $scanlog
+}
+
+for dep in mame libxmlb:xb-tool; if ! type ${dep/*:} &>/dev/null; then
+  print "${dep/:*} is required to build rom info." >&2
+  return 1
+fi
+
+__self=`realpath $0`
+
+main $@
