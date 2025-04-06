@@ -3,7 +3,6 @@ manufacturer:bootleg (NYWA)
 year:1988
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:sranger
 cloneof:sranger

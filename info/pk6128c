@@ -2,6 +2,5 @@ description:PK-6128c
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:vector06
 cloneof:vector06

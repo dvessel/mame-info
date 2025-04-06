@@ -3,7 +3,6 @@ manufacturer:Promat
 year:1994
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:wiggie
 cloneof:wiggie

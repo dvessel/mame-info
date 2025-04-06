@@ -3,7 +3,6 @@ manufacturer:Promat (Tuning license)
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:maddonna
 cloneof:maddonna

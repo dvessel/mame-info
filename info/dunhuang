@@ -3,6 +3,5 @@ manufacturer:Spirit
 year:1995
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:ym2413

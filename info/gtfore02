@@ -3,7 +3,6 @@ manufacturer:Incredible Technologies
 year:2001
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:iteagle
 disk:golf_fore_2002_v2.01.06

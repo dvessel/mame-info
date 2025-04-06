@@ -3,7 +3,6 @@ manufacturer:IGT - International Game Technology
 year:1995
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pex0002p
 cloneof:pex0002p

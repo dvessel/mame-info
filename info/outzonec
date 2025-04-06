@@ -3,7 +3,6 @@ manufacturer:Toaplan
 year:1990
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:outzone
 cloneof:outzone

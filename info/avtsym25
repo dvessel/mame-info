@@ -3,7 +3,6 @@ manufacturer:Advanced Video Technology
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:avtsym14
 cloneof:avtsym14

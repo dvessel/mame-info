@@ -3,7 +3,6 @@ manufacturer:NMK (Tecmo license)
 year:1991
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:nmk004
 romof:tdragon

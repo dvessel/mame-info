@@ -3,7 +3,6 @@ manufacturer:Sega / M2
 year:2008
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:fantzn2x
 cloneof:fantzn2x

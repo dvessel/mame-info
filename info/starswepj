@@ -3,7 +3,6 @@ manufacturer:Axela / Namco
 year:1997
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:namcoc76
 romof:starswep

@@ -3,7 +3,6 @@ manufacturer:Commodore Business Machines
 year:1986
 status:good
 emulation:good
-savestate:supported
 device:c1563
 romof:c128
 cloneof:c128

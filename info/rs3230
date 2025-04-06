@@ -3,6 +3,5 @@ manufacturer:MIPS
 year:1990
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:kb_ms_natural
 device:at_keybc

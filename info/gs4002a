@@ -3,7 +3,6 @@ manufacturer:Greyhound Electronics
 year:1982
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:gs4002
 cloneof:gs4002

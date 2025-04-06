@@ -3,6 +3,5 @@ manufacturer:National Semiconductor
 year:1979
 status:good
 emulation:good
-savestate:supported
 romof:qkracer
 cloneof:qkracer

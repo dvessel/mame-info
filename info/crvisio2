@@ -3,6 +3,5 @@ manufacturer:Video Technology
 year:1983
 status:good
 emulation:good
-savestate:supported
 romof:crvision
 cloneof:crvision

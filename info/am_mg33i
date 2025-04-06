@@ -3,7 +3,6 @@ manufacturer:Amatic Trading GmbH
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:am_mg35i
 cloneof:am_mg35i

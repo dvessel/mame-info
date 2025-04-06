@@ -3,7 +3,6 @@ manufacturer:Mylstar
 year:1984
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:3stooges
 cloneof:3stooges

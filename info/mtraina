@@ -3,7 +3,6 @@ manufacturer:Subsino
 year:1996
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:mtrain
 cloneof:mtrain

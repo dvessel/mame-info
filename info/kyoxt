@@ -3,7 +3,6 @@ manufacturer:Kyocera
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:cga
 device:kb_pcxt83
 romof:ibm5150

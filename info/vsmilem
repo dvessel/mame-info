@@ -3,6 +3,5 @@ manufacturer:VTech
 year:2008
 status:imperfect
 emulation:good
-savestate:unsupported
 romof:vsmile
 cloneof:vsmile

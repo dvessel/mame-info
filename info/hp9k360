@@ -3,7 +3,6 @@ manufacturer:Hewlett-Packard
 year:1988
 status:preliminary
 emulation:preliminary
-savestate:supported
 device:human_interface
 device:hp9122c
 device:dio98550

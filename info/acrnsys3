@@ -3,5 +3,4 @@ manufacturer:Acorn Computers
 year:1980
 status:good
 emulation:good
-savestate:supported
 device:saa5050

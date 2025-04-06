@@ -3,7 +3,6 @@ manufacturer:British Telecom Business Systems
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:electron_m2105
 romof:electron
 cloneof:electron

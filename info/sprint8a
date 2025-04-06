@@ -1,9 +1,8 @@
-description:Sprint 8 (play tag &amp; chase)
+description:Sprint 8 (play tag & chase)
 manufacturer:Atari
 year:1977
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:sprint8
 cloneof:sprint8

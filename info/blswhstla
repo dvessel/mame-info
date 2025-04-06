@@ -1,9 +1,8 @@
-description:Bells &amp; Whistles (Asia, version M)
+description:Bells & Whistles (Asia, version M)
 manufacturer:Konami
 year:1991
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:blswhstl
 cloneof:blswhstl

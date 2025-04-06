@@ -3,7 +3,6 @@ manufacturer:BFM/Mirage
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:tms32031
 romof:rotr

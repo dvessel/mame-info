@@ -3,7 +3,6 @@ manufacturer:Yona Tech
 year:2000
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:spec2k
 cloneof:spec2k

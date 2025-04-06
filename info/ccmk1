@@ -3,6 +3,5 @@ manufacturer:bootleg (Novag Industries)
 year:1978
 status:good
 emulation:good
-savestate:supported
 romof:cmpchess
 cloneof:cmpchess

@@ -3,5 +3,4 @@ manufacturer:Makerbot
 year:2012
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:hd44780

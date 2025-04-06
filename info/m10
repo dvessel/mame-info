@@ -3,6 +3,5 @@ manufacturer:Olivetti
 year:1983
 status:good
 emulation:good
-savestate:supported
 romof:kc85
 cloneof:kc85

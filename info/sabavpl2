@@ -3,6 +3,5 @@ manufacturer:SABA
 year:1978
 status:good
 emulation:good
-savestate:unsupported
 romof:channlf2
 cloneof:channlf2

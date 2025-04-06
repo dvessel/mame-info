@@ -1,9 +1,8 @@
-description:Kings &amp; Queens (Barcrest) (MPU4) (EE 1.0 K / EE 1.0)
+description:Kings & Queens (Barcrest) (MPU4) (EE 1.0 K / EE 1.0)
 manufacturer:BWB
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4kingq

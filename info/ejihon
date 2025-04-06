@@ -3,7 +3,6 @@ manufacturer:Sega
 year:1995
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

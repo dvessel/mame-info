@@ -3,7 +3,6 @@ manufacturer:IGS
 year:199?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:goldstar
 cloneof:goldstar

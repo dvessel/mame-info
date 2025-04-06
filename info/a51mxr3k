@@ -3,7 +3,6 @@ manufacturer:Atari Games
 year:1998
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:area51mx
 cloneof:area51mx

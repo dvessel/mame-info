@@ -3,7 +3,6 @@ manufacturer:bootleg (Electrocoin)
 year:1980
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

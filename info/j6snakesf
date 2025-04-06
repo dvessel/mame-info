@@ -1,9 +1,8 @@
-description:Snakes &amp; Ladders (JPM) (IMPACT) (SL10 C13) (set 7)
+description:Snakes & Ladders (JPM) (IMPACT) (SL10 C13) (set 7)
 manufacturer:JPM
 year:199?
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6snakes

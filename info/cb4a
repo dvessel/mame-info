@@ -3,6 +3,5 @@ manufacturer:Dyna
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:cb4
 cloneof:cb4

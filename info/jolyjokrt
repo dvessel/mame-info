@@ -3,7 +3,6 @@ manufacturer:Impera
 year:199?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:jolyjokr
 cloneof:jolyjokr

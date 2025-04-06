@@ -3,7 +3,6 @@ manufacturer:Facit
 year:1981
 status:good
 emulation:good
-savestate:supported
 device:abc830
 device:abc800kb
 romof:abc800c

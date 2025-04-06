@@ -3,6 +3,5 @@ manufacturer:Toshiba
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:hx34
 cloneof:hx34

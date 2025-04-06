@@ -3,7 +3,6 @@ manufacturer:Subsino
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:queenbee
 cloneof:queenbee

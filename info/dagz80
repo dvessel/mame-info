@@ -3,6 +3,5 @@ manufacturer:DAG
 year:1988
 status:good
 emulation:good
-savestate:supported
 romof:selz80
 cloneof:selz80

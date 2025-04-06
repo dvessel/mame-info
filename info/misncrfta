@@ -3,7 +3,6 @@ manufacturer:Sun
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:misncrft
 cloneof:misncrft

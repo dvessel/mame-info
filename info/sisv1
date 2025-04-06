@@ -3,7 +3,6 @@ manufacturer:Taito
 year:1978
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

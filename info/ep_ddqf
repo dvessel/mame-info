@@ -1,9 +1,8 @@
-description:Dungeons &amp; Drag Queens (Global) (EPOCH) (2.4, set 7)
+description:Dungeons & Drag Queens (Global) (EPOCH) (2.4, set 7)
 manufacturer:Global
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:ep_ddq
 cloneof:ep_ddq

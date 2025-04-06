@@ -3,7 +3,6 @@ manufacturer:Leland Corporation
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:aafb
 cloneof:aafb

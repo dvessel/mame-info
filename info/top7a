@@ -3,6 +3,5 @@ manufacturer:bootleg (UTech)
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:top7
 cloneof:top7

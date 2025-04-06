@@ -3,6 +3,5 @@ manufacturer:Dave Nutting Associates / Midway
 year:1980
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:votrsc01

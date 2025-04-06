@@ -3,7 +3,6 @@ manufacturer:Amcoe
 year:2000
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:nc96
 cloneof:nc96

@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:2012
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:ddp3
 cloneof:ddp3

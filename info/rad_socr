@@ -3,6 +3,5 @@ manufacturer:Radica / Epoch / SSD Company LTD
 year:2002
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:epo_strk
 cloneof:epo_strk

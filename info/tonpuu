@@ -3,6 +3,5 @@ manufacturer:ANES
 year:1997
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:ym2413

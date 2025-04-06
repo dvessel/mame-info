@@ -3,6 +3,5 @@ manufacturer:Unies Corporation
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:ym2413

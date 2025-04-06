@@ -3,5 +3,4 @@ manufacturer:Sperry Univac
 year:1980
 status:preliminary
 emulation:preliminary
-savestate:supported
 device:uts_extw

@@ -3,6 +3,5 @@ manufacturer:Ecico Electronics
 year:198?
 status:good
 emulation:good
-savestate:unsupported
 romof:aquarius
 cloneof:aquarius

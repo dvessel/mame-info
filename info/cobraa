@@ -3,7 +3,6 @@ manufacturer:Data East
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:cobra
 cloneof:cobra

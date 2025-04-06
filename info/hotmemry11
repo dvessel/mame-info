@@ -3,7 +3,6 @@ manufacturer:Incredible Technologies (Tuning license)
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pairs
 cloneof:pairs

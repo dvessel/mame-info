@@ -3,6 +3,5 @@ manufacturer:California Computer Systems
 year:1981
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:ccs2810
 cloneof:ccs2810

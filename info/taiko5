@@ -3,6 +3,5 @@ manufacturer:Namco
 year:2003
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 disk:tk-5

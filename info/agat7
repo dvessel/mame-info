@@ -3,7 +3,6 @@ manufacturer:Agat
 year:1983
 status:imperfect
 emulation:good
-savestate:unsupported
 device:agat7_flop
 device:d2fdc
 romof:apple2

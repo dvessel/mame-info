@@ -3,7 +3,6 @@ manufacturer:Simutrek
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:simutrek
 disk:cubeqst

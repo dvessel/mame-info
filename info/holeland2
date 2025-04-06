@@ -3,7 +3,6 @@ manufacturer:Tecfri
 year:1984
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:holeland
 cloneof:holeland

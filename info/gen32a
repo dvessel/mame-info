@@ -3,7 +3,6 @@ manufacturer:Hegener + Glaser
 year:1993
 status:imperfect
 emulation:good
-savestate:supported
 device:hd44780
 romof:gen32
 cloneof:gen32

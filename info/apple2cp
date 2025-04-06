@@ -3,6 +3,5 @@ manufacturer:Apple Computer
 year:1988
 status:good
 emulation:good
-savestate:supported
 romof:apple2c
 cloneof:apple2c

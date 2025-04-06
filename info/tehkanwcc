@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:tehkanwc
 cloneof:tehkanwc

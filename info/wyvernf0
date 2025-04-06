@@ -3,6 +3,5 @@ manufacturer:Taito Corporation
 year:1985
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:m68705p5

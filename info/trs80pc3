@@ -3,6 +3,5 @@ manufacturer:Tandy Radio Shack
 year:1983
 status:preliminary
 emulation:good
-savestate:unsupported
 romof:pc1250
 cloneof:pc1250

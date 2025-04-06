@@ -3,7 +3,6 @@ manufacturer:bootleg? (Elcon)
 year:19??
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:spcforce
 cloneof:spcforce

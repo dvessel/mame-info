@@ -3,7 +3,6 @@ manufacturer:Amusement World
 year:19??
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:spcforce
 cloneof:spcforce

@@ -3,6 +3,5 @@ manufacturer:Fidelity Electronics
 year:1979
 status:good
 emulation:good
-savestate:supported
 romof:cc7
 cloneof:cc7

@@ -3,6 +3,5 @@ manufacturer:Amuse World
 year:1999
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:coh1002m

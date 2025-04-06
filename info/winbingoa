@@ -3,7 +3,6 @@ manufacturer:Astro Corp.
 year:2006
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:winbingo
 cloneof:winbingo

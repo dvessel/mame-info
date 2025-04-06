@@ -3,7 +3,6 @@ manufacturer:Dyna
 year:1991
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:eldoradd
 cloneof:eldoradd

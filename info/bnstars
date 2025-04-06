@@ -3,7 +3,6 @@ manufacturer:Jaleco
 year:1997
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:bnstars1
 cloneof:bnstars1

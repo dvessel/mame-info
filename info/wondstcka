@@ -3,7 +3,6 @@ manufacturer:Yun Sung
 year:????
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:wondstck
 cloneof:wondstck

@@ -3,7 +3,6 @@ manufacturer:Olivetti
 year:198?
 status:imperfect
 emulation:good
-savestate:unsupported
 device:cga
 device:kb_pcxt83
 romof:ibm5150

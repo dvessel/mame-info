@@ -3,7 +3,6 @@ manufacturer:Olivetti
 year:1987
 status:imperfect
 emulation:good
-savestate:unsupported
 device:saa5050
 romof:bbcmc
 cloneof:bbcmc

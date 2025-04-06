@@ -1,9 +1,8 @@
-description:Snow Bros. - Nick &amp; Tom (set 3)
+description:Snow Bros. - Nick & Tom (set 3)
 manufacturer:Toaplan
 year:1990
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:snowbros
 cloneof:snowbros

@@ -3,6 +3,5 @@ manufacturer:OSCOM Oy
 year:1980
 status:preliminary
 emulation:good
-savestate:supported
 romof:tmc2000
 cloneof:tmc2000

@@ -1,9 +1,8 @@
-description:Hearts &amp; Spades
+description:Hearts & Spades
 manufacturer:Allied Leisure
 year:1978
 status:preliminary
 emulation:good
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:allied

@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:2010
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:werewild
 romof:aristmk6
 cloneof:werewild

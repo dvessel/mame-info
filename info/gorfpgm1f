@@ -3,7 +3,6 @@ manufacturer:Dave Nutting Associates / Midway
 year:1981
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:votrsc01
 romof:gorf

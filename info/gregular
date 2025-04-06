@@ -3,7 +3,6 @@ manufacturer:bootleg (Playmark)
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:goldstar
 cloneof:goldstar

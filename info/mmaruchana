@@ -3,7 +3,6 @@ manufacturer:Capcom
 year:2004
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:mmaruchan
 cloneof:mmaruchan

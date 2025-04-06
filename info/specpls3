@@ -3,6 +3,5 @@ manufacturer:Amstrad plc
 year:1987
 status:good
 emulation:good
-savestate:unsupported
 romof:specpl2a
 cloneof:specpl2a

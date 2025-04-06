@@ -3,6 +3,5 @@ manufacturer:Multitech
 year:1982
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:tk2000
 cloneof:tk2000

@@ -1,9 +1,8 @@
-description:Cat &amp; Mouse (Bellfruit) (set 5, Protocol) (Scorpion 2/3)
+description:Cat & Mouse (Bellfruit) (set 5, Protocol) (Scorpion 2/3)
 manufacturer:BFM
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

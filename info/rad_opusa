@@ -1,8 +1,7 @@
-description:Plug &amp; Play Opus (NTSC)
+description:Plug & Play Opus (NTSC)
 manufacturer:Radica / SSD Company LTD
 year:2000
 status:imperfect
 emulation:good
-savestate:unsupported
 romof:rad_opus
 cloneof:rad_opus

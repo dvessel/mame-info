@@ -1,9 +1,8 @@
-description:Cloak &amp; Dagger (French)
+description:Cloak & Dagger (French)
 manufacturer:Atari
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:cloak
 cloneof:cloak

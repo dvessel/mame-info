@@ -3,7 +3,6 @@ manufacturer:Excellent System (New Ways Trading Co. license)
 year:1995
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:vmetal
 cloneof:vmetal

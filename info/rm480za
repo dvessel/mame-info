@@ -3,7 +3,6 @@ manufacturer:Research Machines
 year:1981
 status:good
 emulation:good
-savestate:unsupported
 device:rm_mq2
 romof:rm480z
 cloneof:rm480z

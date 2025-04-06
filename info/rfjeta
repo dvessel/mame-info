@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu (Dream Island license)
 year:1998
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:rfjet
 cloneof:rfjet

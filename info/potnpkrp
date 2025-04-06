@@ -3,7 +3,6 @@ manufacturer:bootleg (PED)
 year:1987
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:pottnpkr
 cloneof:pottnpkr

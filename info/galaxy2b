@@ -3,6 +3,5 @@ manufacturer:Epoch
 year:1981
 status:good
 emulation:good
-savestate:supported
 romof:galaxy2
 cloneof:galaxy2

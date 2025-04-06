@@ -3,7 +3,6 @@ manufacturer:Eolith
 year:2001
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:fort2b
 cloneof:fort2b

@@ -3,6 +3,5 @@ manufacturer:Sega
 year:2010
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:segasp

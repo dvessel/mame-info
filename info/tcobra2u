@@ -3,7 +3,6 @@ manufacturer:Taito America Corporation
 year:1995
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:tcobra2
 cloneof:tcobra2

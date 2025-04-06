@@ -3,6 +3,5 @@ manufacturer:Tandy Radio Shack
 year:1988
 status:good
 emulation:good
-savestate:unsupported
 romof:ibm5150
 cloneof:ibm5150

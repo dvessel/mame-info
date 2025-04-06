@@ -3,6 +3,5 @@ manufacturer:IGS (Metro license)
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:pgm

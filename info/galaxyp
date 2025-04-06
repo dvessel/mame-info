@@ -3,6 +3,5 @@ manufacturer:Nenad Dunjic
 year:1985
 status:good
 emulation:good
-savestate:supported
 romof:galaxy
 cloneof:galaxy

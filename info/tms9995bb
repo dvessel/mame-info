@@ -3,6 +3,5 @@ manufacturer:Stuart Conner
 year:19??
 status:good
 emulation:good
-savestate:supported
 romof:evmbug
 cloneof:evmbug

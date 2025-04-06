@@ -3,7 +3,6 @@ manufacturer:Midway
 year:1977
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:desertgu
 cloneof:desertgu

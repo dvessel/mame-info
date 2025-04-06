@@ -3,5 +3,4 @@ manufacturer:Apple Computer
 year:1980
 status:good
 emulation:good
-savestate:supported
 device:a3fdc

@@ -1,9 +1,8 @@
-description:Track &amp; Field (NZ bootleg?)
+description:Track & Field (NZ bootleg?)
 manufacturer:bootleg? (Goldberg Enterprizes Inc.)
 year:1982
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:trackfld
 cloneof:trackfld

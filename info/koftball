@@ -3,5 +3,4 @@ manufacturer:BMC
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:supported
 device:ym2413

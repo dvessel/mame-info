@@ -3,5 +3,4 @@ manufacturer:BASF
 year:1982
 status:preliminary
 emulation:good
-savestate:supported
 device:basf7100_kbd

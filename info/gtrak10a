@@ -3,6 +3,5 @@ manufacturer:Atari/Kee
 year:1974
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:gtrak10
 cloneof:gtrak10

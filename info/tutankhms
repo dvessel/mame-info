@@ -3,7 +3,6 @@ manufacturer:Konami (Stern Electronics license)
 year:1982
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:tutankhm
 cloneof:tutankhm

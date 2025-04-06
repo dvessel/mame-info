@@ -3,7 +3,6 @@ manufacturer:bootleg (Recreativos Franco S.A. license, Tecfri)
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:spyhunt
 cloneof:spyhunt

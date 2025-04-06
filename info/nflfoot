@@ -3,6 +3,5 @@ manufacturer:Bally Midway
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:midssio

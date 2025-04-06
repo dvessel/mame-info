@@ -3,7 +3,6 @@ manufacturer:bootleg (Playmark)
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:badlands
 cloneof:badlands

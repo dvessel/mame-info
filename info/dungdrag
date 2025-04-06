@@ -1,9 +1,8 @@
-description:Dungeons &amp; Dragons
+description:Dungeons & Dragons
 manufacturer:Bally
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

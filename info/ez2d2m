@@ -3,6 +3,5 @@ manufacturer:Amuse World
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:rivatnt2_m64
 disk:ez2d2m

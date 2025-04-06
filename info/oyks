@@ -3,7 +3,6 @@ manufacturer:Cave
 year:2009
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:fstgfish
 cloneof:fstgfish
 disk:oyks

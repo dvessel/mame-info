@@ -3,7 +3,6 @@ manufacturer:Video Klein
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:wtchjack
 cloneof:wtchjack

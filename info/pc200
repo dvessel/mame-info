@@ -3,7 +3,6 @@ manufacturer:Sinclair Research Ltd
 year:1988
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:isa_aga_pc200
 romof:ibm5150
 cloneof:ibm5150

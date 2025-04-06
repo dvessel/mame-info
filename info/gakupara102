@@ -3,7 +3,6 @@ manufacturer:NMK
 year:1991
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:gakupara
 cloneof:gakupara

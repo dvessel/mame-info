@@ -3,7 +3,6 @@ manufacturer:NEC
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:pc80s31k
 device:ym2608
 romof:pc8801ma

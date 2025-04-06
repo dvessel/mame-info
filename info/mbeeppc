@@ -3,6 +3,5 @@ manufacturer:Microbee Systems
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:mbee
 cloneof:mbee

@@ -3,7 +3,6 @@ manufacturer:Kaneko
 year:1999
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:galpans2
 romof:skns

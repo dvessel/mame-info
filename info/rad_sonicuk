@@ -1,8 +1,7 @@
-description:Super Sonic Gold (Radica Plug &amp; Play) (UK)
+description:Super Sonic Gold (Radica Plug & Play) (UK)
 manufacturer:Radica / Sega
 year:2004
 status:good
 emulation:good
-savestate:unsupported
 romof:rad_sonic
 cloneof:rad_sonic

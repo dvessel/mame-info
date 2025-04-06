@@ -3,6 +3,5 @@ manufacturer:Nintendo / BPS
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:s_smp
 romof:sfcbox

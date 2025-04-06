@@ -3,7 +3,6 @@ manufacturer:Min Corp.
 year:1994
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:mspuzzle
 cloneof:mspuzzle

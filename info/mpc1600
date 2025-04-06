@@ -3,7 +3,6 @@ manufacturer:Columbia Data Products
 year:1982
 status:imperfect
 emulation:good
-savestate:unsupported
 device:cga
 device:kb_pcxt83
 romof:ibm5150

@@ -3,6 +3,5 @@ manufacturer:Nova?
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:alg_bios

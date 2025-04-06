@@ -3,6 +3,5 @@ manufacturer:Thaler
 year:1982
 status:good
 emulation:good
-savestate:unsupported
 romof:mps65
 cloneof:mps65

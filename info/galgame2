@@ -1,8 +1,7 @@
 description:Galaxy Games StarPak 2
-manufacturer:Creative Electronics &amp; Software / Namco
+manufacturer:Creative Electronics & Software / Namco
 year:1998
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:galgbios

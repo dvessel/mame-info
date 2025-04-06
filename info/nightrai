@@ -3,7 +3,6 @@ manufacturer:Takumi
 year:2001
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:coh3002t
 disk:nightrai

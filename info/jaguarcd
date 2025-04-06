@@ -3,6 +3,5 @@ manufacturer:Atari
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:jaguar
 cloneof:jaguar

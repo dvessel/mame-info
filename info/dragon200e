@@ -3,7 +3,6 @@ manufacturer:Eurohard S.A.
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 device:dragon_fdc
 romof:dragon32
 cloneof:dragon32

@@ -3,7 +3,6 @@ manufacturer:BFM
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:sc4bar7
 cloneof:sc4bar7

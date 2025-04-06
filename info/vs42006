@@ -3,7 +3,6 @@ manufacturer:Sega
 year:2006
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:segadimm
 romof:triforce
 disk:gdt-0020d

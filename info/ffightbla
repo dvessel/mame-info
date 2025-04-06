@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1990
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:ffight
 cloneof:ffight

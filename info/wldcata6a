@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:2007
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:wldcata6
 romof:aristmk6
 cloneof:wldcata6

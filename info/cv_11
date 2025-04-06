@@ -3,7 +3,6 @@ manufacturer:Bally
 year:1997
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:cv_14

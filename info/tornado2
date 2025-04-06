@@ -3,7 +3,6 @@ manufacturer:bootleg (Jeutel)
 year:1980
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:defender
 cloneof:defender

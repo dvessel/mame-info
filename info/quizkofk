@@ -3,7 +3,6 @@ manufacturer:Saurus / Viccom (SNK license)
 year:1996
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:quizkof
 romof:neogeo

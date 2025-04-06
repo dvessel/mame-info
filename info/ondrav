@@ -3,6 +3,5 @@ manufacturer:ViLi
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:ondrat
 cloneof:ondrat

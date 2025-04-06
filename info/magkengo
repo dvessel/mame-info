@@ -3,6 +3,5 @@ manufacturer:Herb Home
 year:2005
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:ym2413

@@ -3,6 +3,5 @@ manufacturer:Svetlana
 year:1991
 status:good
 emulation:good
-savestate:supported
 romof:im01
 cloneof:im01

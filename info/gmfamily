@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:ps2_keybc
 device:kb_ms_natural
 device:sis900_eth

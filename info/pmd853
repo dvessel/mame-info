@@ -3,6 +3,5 @@ manufacturer:Tesla
 year:1988
 status:good
 emulation:good
-savestate:supported
 romof:pmd851
 cloneof:pmd851

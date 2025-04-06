@@ -3,6 +3,5 @@ manufacturer:bootleg (Elektronika)
 year:19??
 status:good
 emulation:good
-savestate:supported
 romof:gnw_mmouse
 cloneof:gnw_mmouse

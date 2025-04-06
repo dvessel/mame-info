@@ -3,7 +3,6 @@ manufacturer:Cosmo Denshi
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:royalmj
 cloneof:royalmj

@@ -3,6 +3,5 @@ manufacturer:Victor
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 romof:hc7
 cloneof:hc7

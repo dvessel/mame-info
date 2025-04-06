@@ -3,7 +3,6 @@ manufacturer:bootleg?
 year:1986
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:ironhors
 cloneof:ironhors

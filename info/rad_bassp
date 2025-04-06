@@ -3,6 +3,5 @@ manufacturer:Radica / SSD Company LTD
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:rad_bass
 cloneof:rad_bass

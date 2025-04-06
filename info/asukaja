@@ -1,9 +1,8 @@
-description:Asuka &amp; Asuka (Japan)
+description:Asuka & Asuka (Japan)
 manufacturer:Taito Corporation
 year:1988
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:asuka
 cloneof:asuka

@@ -1,8 +1,7 @@
 description:Scrabble Lexor: Computer Word Game (MN1405 version)
-manufacturer:Selchow &amp; Righter
+manufacturer:Selchow & Righter
 year:1980
 status:good
 emulation:good
-savestate:supported
 romof:scrablex
 cloneof:scrablex

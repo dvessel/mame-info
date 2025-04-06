@@ -3,6 +3,5 @@ manufacturer:bootleg (ISG)
 year:2006
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:isgsm

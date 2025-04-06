@@ -3,7 +3,6 @@ manufacturer:Valadon Automation (Itisa license)
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:bagman
 cloneof:bagman

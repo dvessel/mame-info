@@ -3,6 +3,5 @@ manufacturer:Nuova Elettronica
 year:1980
 status:good
 emulation:good
-savestate:supported
 romof:z80ne
 cloneof:z80ne

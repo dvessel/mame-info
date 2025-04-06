@@ -3,7 +3,6 @@ manufacturer:Project
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:pr_btwar
 cloneof:pr_btwar

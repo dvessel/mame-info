@@ -3,7 +3,6 @@ manufacturer:Namco
 year:2002
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:netchu02c
 romof:sys246
 cloneof:netchu02c

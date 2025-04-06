@@ -3,7 +3,6 @@ manufacturer:JPM
 year:2002
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6rh6

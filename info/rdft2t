@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu
 year:1997
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:rdft2
 cloneof:rdft2

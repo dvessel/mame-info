@@ -3,6 +3,5 @@ manufacturer:Radica
 year:2006
 status:imperfect
 emulation:good
-savestate:unsupported
 romof:rad_skat
 cloneof:rad_skat

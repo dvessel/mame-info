@@ -3,6 +3,5 @@ manufacturer:Roland
 year:1990
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:r8
 cloneof:r8

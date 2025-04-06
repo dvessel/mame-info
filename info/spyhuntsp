@@ -3,7 +3,6 @@ manufacturer:Recreativos Franco S.A. (Bally Midway license)
 year:1985
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:spyhunt
 cloneof:spyhunt

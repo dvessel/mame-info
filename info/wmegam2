@@ -3,6 +3,5 @@ manufacturer:Victor
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:xeye
 cloneof:xeye

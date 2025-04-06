@@ -3,5 +3,4 @@ manufacturer:Unisonic
 year:1977
 status:good
 emulation:good
-savestate:unsupported
 device:gic

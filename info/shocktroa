@@ -3,7 +3,6 @@ manufacturer:Saurus
 year:1997
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:shocktro
 romof:neogeo

@@ -3,6 +3,5 @@ manufacturer:U.S. Robotics
 year:1996
 status:good
 emulation:good
-savestate:supported
 romof:pilot1k
 cloneof:pilot1k

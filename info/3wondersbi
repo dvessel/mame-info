@@ -3,7 +3,6 @@ manufacturer:bootleg (Electronic Devices)
 year:1991
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:3wonders
 cloneof:3wonders

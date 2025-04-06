@@ -3,7 +3,6 @@ manufacturer:Sigma Enterprises Inc. (Gottlieb license)
 year:1980
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:nyny
 cloneof:nyny

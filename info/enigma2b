@@ -3,7 +3,6 @@ manufacturer:Zilec Electronics
 year:1981
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:enigma2
 cloneof:enigma2

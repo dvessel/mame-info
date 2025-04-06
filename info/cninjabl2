@@ -1,9 +1,8 @@
-description:Tatakae Genshizin Joe &amp; Mac (Japan, bootleg)
+description:Tatakae Genshizin Joe & Mac (Japan, bootleg)
 manufacturer:bootleg
 year:1991
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:cninja
 cloneof:cninja

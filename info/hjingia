@@ -3,7 +3,6 @@ manufacturer:Dynax
 year:1990
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:ym2413
 romof:hjingi

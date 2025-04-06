@@ -3,7 +3,6 @@ manufacturer:Alpha Denshi Co.
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:m68705p3
 romof:champbb2

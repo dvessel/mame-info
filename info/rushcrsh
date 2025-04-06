@@ -1,9 +1,8 @@
-description:Rush &amp; Crash (Japan)
+description:Rush & Crash (Japan)
 manufacturer:Capcom
 year:1986
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:srumbler
 cloneof:srumbler

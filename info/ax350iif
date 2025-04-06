@@ -3,6 +3,5 @@ manufacturer:Sakhr
 year:1987
 status:good
 emulation:good
-savestate:unsupported
 romof:ax350ii
 cloneof:ax350ii

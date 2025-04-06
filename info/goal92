@@ -3,7 +3,6 @@ manufacturer:bootleg (Electronic Devices)
 year:1992
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:cupsoc
 cloneof:cupsoc

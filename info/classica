@@ -3,6 +3,5 @@ manufacturer:Fidelity International
 year:1985
 status:good
 emulation:good
-savestate:supported
 romof:classic
 cloneof:classic

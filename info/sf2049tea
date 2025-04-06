@@ -3,7 +3,6 @@ manufacturer:Atari Games
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:sf2049te
 cloneof:sf2049te

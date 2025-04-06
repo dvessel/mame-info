@@ -3,5 +3,4 @@ manufacturer:Atari
 year:1989
 status:imperfect
 emulation:good
-savestate:supported
 device:hd61830

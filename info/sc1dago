@@ -3,6 +3,5 @@ manufacturer:ELAM
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop

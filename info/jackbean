@@ -1,9 +1,8 @@
-description:Jack &amp; The Beanstalk (Doyle &amp; Assoc.?)
-manufacturer:Doyle &amp; Assoc.
+description:Jack & The Beanstalk (Doyle & Assoc.?)
+manufacturer:Doyle & Assoc.
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 device:hd44780

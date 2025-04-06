@@ -3,6 +3,5 @@ manufacturer:Panasonic
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 romof:cf2700uk
 cloneof:cf2700uk

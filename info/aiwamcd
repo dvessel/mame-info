@@ -3,6 +3,5 @@ manufacturer:AIWA
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:segacd2
 cloneof:segacd2

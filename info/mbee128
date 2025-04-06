@@ -3,6 +3,5 @@ manufacturer:Applied Technology
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:mbee
 cloneof:mbee

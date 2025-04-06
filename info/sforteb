@@ -3,7 +3,6 @@ manufacturer:Novag Industries / Intelligent Heuristic Programming
 year:1988
 status:good
 emulation:good
-savestate:supported
 device:hd44780
 romof:sfortea
 cloneof:sfortea

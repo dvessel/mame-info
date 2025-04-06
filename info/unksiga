@@ -2,7 +2,6 @@ description:unknown 'Space Invaders' gambling game (encrypted, set 2)
 year:199?
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:unksig
 cloneof:unksig

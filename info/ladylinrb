@@ -3,7 +3,6 @@ manufacturer:TAB Austria
 year:198?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:ladylinr
 cloneof:ladylinr

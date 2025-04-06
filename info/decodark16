@@ -3,7 +3,6 @@ manufacturer:bootleg (Darksoft)
 year:2022
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:decodark
 romof:decocass

@@ -3,6 +3,5 @@ manufacturer:Chrysler
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:eva24
 cloneof:eva24

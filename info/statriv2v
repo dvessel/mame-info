@@ -3,7 +3,6 @@ manufacturer:Status Games
 year:1985
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:statriv2
 cloneof:statriv2

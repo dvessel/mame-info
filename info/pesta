@@ -3,6 +3,5 @@ manufacturer:Konami
 year:2002
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:kpython
 disk:pes_c18_ea_a03

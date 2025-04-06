@@ -3,6 +3,5 @@ manufacturer:SABA
 year:1977
 status:good
 emulation:good
-savestate:unsupported
 romof:channelf
 cloneof:channelf

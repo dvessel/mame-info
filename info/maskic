@@ -3,6 +3,5 @@ manufacturer:Extrema
 year:2003
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:maski
 cloneof:maski

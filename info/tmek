@@ -3,6 +3,5 @@ manufacturer:Atari Games
 year:1994
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 device:tms32031

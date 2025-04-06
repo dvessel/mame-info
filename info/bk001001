@@ -3,6 +3,5 @@ manufacturer:Elektronika
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:bk0010
 cloneof:bk0010

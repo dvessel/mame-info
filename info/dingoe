@@ -3,7 +3,6 @@ manufacturer:Ashby Computers and Graphics Ltd.
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:dingo
 cloneof:dingo

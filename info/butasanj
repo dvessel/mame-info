@@ -3,7 +3,6 @@ manufacturer:NMK (Jaleco license)
 year:1987
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:butasan
 cloneof:butasan

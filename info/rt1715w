@@ -3,6 +3,5 @@ manufacturer:Robotron
 year:1986
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:rt1715
 cloneof:rt1715

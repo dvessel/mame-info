@@ -3,7 +3,6 @@ manufacturer:bootleg (Ri.Bi)
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:ampoker2
 cloneof:ampoker2

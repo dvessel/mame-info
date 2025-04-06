@@ -3,6 +3,5 @@ manufacturer:Sega
 year:1981
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop

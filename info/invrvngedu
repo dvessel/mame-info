@@ -3,7 +3,6 @@ manufacturer:Zenitone-Microsec Ltd. (Dutchford license)
 year:1980?
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:invrvnge
 cloneof:invrvnge

@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu (Dream Soft license)
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:zeroteam
 cloneof:zeroteam

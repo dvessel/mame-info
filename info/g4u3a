@@ -3,6 +3,5 @@ manufacturer:Novotech
 year:2002?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:g4u3
 cloneof:g4u3

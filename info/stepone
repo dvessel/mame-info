@@ -3,6 +3,5 @@ manufacturer:Ericsson
 year:1984
 status:good
 emulation:good
-savestate:unsupported
 romof:myb3k
 cloneof:myb3k

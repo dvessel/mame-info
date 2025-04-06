@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:dbz2
 cloneof:dbz2

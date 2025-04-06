@@ -3,6 +3,5 @@ manufacturer:Mattel Electronics
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 romof:aquarius
 cloneof:aquarius

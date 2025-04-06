@@ -3,6 +3,5 @@ manufacturer:Fidelity International
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:fexcelp
 cloneof:fexcelp

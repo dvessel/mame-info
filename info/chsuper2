@@ -2,7 +2,6 @@ description:Champion Super 2 (V0.13)
 year:1999
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:chsuper3
 cloneof:chsuper3

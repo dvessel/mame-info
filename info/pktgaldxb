@@ -3,7 +3,6 @@ manufacturer:bootleg (Data West)
 year:1993
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:pktgaldx
 cloneof:pktgaldx

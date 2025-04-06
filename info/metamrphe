@@ -3,7 +3,6 @@ manufacturer:Konami
 year:1993
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:metamrph
 cloneof:metamrph

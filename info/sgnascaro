@@ -3,7 +3,6 @@ manufacturer:Sega / Electronic Arts
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:sgnascar
 romof:hikaru
 cloneof:sgnascar

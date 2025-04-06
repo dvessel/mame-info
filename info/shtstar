@@ -3,5 +3,4 @@ manufacturer:Nova
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop

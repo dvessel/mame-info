@@ -3,6 +3,5 @@ manufacturer:Didaktik Skalica
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:pmd851
 cloneof:pmd851

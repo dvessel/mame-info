@@ -1,9 +1,8 @@
-description:Mahjong Electron Base (parts 2 &amp; 3, Japan bootleg)
+description:Mahjong Electron Base (parts 2 & 3, Japan bootleg)
 manufacturer:bootleg
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:ym2413
 romof:mjelctrn

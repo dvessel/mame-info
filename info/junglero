@@ -3,7 +3,6 @@ manufacturer:Konami (Olympia license)
 year:1981
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:jungler
 cloneof:jungler

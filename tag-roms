@@ -72,7 +72,6 @@ return
 
   scanlog=$__self:h/scan.log
   infodir=$__self:h/info
-  mkdir -p $scanlog:h $infodir
 
   self-log info "initiating scan:$scandir"
 

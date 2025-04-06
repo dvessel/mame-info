@@ -3,7 +3,6 @@ manufacturer:Tinsley Medical Instruments
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:saa5050
 romof:bbcbp
 cloneof:bbcbp

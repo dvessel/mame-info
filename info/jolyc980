@@ -3,6 +3,5 @@ manufacturer:Spale Soft
 year:2000
 status:good
 emulation:good
-savestate:unsupported
 romof:jollycrd
 cloneof:jollycrd

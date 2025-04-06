@@ -3,7 +3,6 @@ manufacturer:Epos Corporation
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:bwcasino
 cloneof:bwcasino

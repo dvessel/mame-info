@@ -3,5 +3,4 @@ manufacturer:Visual Technology
 year:1983
 status:imperfect
 emulation:good
-savestate:supported
 device:v50_kbd

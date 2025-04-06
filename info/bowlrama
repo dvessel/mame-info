@@ -1,7 +1,6 @@
 description:Bowl-O-Rama (Rev 1.0)
-manufacturer:P&amp;P Marketing
+manufacturer:P&P Marketing
 year:1991
 status:good
 emulation:good
-savestate:supported
 kind:coinop

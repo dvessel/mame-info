@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1987
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:arknoid2
 cloneof:arknoid2

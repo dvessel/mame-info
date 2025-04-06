@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1992
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:xmen
 cloneof:xmen

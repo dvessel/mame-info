@@ -1,9 +1,8 @@
 description:Piggy Pass (version 04.40)
-manufacturer:Doyle &amp; Assoc.
+manufacturer:Doyle & Assoc.
 year:1992
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 device:hd44780

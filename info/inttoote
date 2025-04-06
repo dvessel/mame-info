@@ -3,6 +3,5 @@ manufacturer:bootleg (Coinmaster)
 year:1998
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:jockeyc
 cloneof:jockeyc

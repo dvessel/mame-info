@@ -3,7 +3,6 @@ manufacturer:Namco
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:rrvac
 romof:sys246
 cloneof:rrvac

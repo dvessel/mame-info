@@ -3,6 +3,5 @@ manufacturer:Fidelity Deutschland
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:feag
 cloneof:feag

@@ -3,7 +3,6 @@ manufacturer:Nichibutsu
 year:1985
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:cop01
 cloneof:cop01

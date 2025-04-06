@@ -3,5 +3,4 @@ manufacturer:Micro Craft
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:supported
 device:dim68k_kbd

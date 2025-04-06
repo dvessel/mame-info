@@ -3,6 +3,5 @@ manufacturer:Hiradastechnika Szovetkezet
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:eg3003
 cloneof:eg3003

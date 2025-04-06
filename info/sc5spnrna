@@ -3,7 +3,6 @@ manufacturer:Mazooma
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:sc5spnrn
 cloneof:sc5spnrn

@@ -3,7 +3,6 @@ manufacturer:Konami
 year:1996
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:sexyparo
 romof:konamigx

@@ -3,7 +3,6 @@ manufacturer:hack (Uchida)
 year:1984
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:namco51
 device:namco54

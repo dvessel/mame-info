@@ -3,7 +3,6 @@ manufacturer:Taito America Corporation (Romstar license)
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:m68705p5
 romof:arkatour

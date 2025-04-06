@@ -3,7 +3,6 @@ manufacturer:Jaleco
 year:1988
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:lomakai
 cloneof:lomakai

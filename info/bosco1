@@ -3,7 +3,6 @@ manufacturer:Namco
 year:1981
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:namco50
 device:namco51

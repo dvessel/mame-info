@@ -3,7 +3,6 @@ manufacturer:ESD
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:spec2k
 cloneof:spec2k

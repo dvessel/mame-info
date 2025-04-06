@@ -1,9 +1,8 @@
-description:Puzzle &amp; Action: Ichidant-R (World) (bootleg)
+description:Puzzle & Action: Ichidant-R (World) (bootleg)
 manufacturer:bootleg
 year:1994
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:ichir
 cloneof:ichir

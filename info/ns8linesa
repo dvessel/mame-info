@@ -3,7 +3,6 @@ manufacturer:Yamate (bootleg)
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:ns8lines
 cloneof:ns8lines

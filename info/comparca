@@ -3,6 +3,5 @@ manufacturer:Tandy Corporation
 year:1981
 status:good
 emulation:good
-savestate:supported
 romof:comparc
 cloneof:comparc

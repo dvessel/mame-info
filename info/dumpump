@@ -1,9 +1,8 @@
 description:Dump The Ump
-manufacturer:Doyle &amp; Assoc.
+manufacturer:Doyle & Assoc.
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 device:hd44780

@@ -3,6 +3,5 @@ manufacturer:Konami
 year:1999
 status:good
 emulation:good
-savestate:unsupported
 kind:bios
 kind:coinop

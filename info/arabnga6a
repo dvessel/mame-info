@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:arabnga6
 romof:aristmk6
 cloneof:arabnga6

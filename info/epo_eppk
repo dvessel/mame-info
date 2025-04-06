@@ -3,6 +3,5 @@ manufacturer:Epoch / SSD Company LTD / Sonokong
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:epo_epp
 cloneof:epo_epp

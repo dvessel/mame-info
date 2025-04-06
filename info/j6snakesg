@@ -1,9 +1,8 @@
-description:Snakes &amp; Ladders (JPM) (IMPACT) (SL8P C11) (set 8)
+description:Snakes & Ladders (JPM) (IMPACT) (SL8P C11) (set 8)
 manufacturer:JPM
 year:199?
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6snakes

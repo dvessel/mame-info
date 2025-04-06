@@ -3,7 +3,6 @@ manufacturer:Tandy Radio Shack
 year:19??
 status:good
 emulation:good
-savestate:supported
 device:coco_fdc
 romof:coco
 cloneof:coco

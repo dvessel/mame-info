@@ -3,7 +3,6 @@ manufacturer:Irem (Data East Corporation license)
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:dsoccr94
 cloneof:dsoccr94

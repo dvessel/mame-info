@@ -3,7 +3,6 @@ manufacturer:Jaleco
 year:1994
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:hayaosi3
 cloneof:hayaosi3

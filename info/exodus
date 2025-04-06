@@ -3,7 +3,6 @@ manufacturer:bootleg? (Subelectro)
 year:19??
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:redufo
 cloneof:redufo

@@ -1,9 +1,8 @@
-description:Dough &amp; Arrow (Qps) (Scorpion 4) (set 2)
+description:Dough & Arrow (Qps) (Scorpion 4) (set 2)
 manufacturer:Qps
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:sc4darw
 cloneof:sc4darw

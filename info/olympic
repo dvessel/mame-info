@@ -3,7 +3,6 @@ manufacturer:Jeutel
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:2008
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:kovshp
 romof:pgm

@@ -3,6 +3,5 @@ manufacturer:Fidelity Electronics
 year:1983
 status:good
 emulation:good
-savestate:supported
 romof:fpres
 cloneof:fpres

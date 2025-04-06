@@ -3,7 +3,6 @@ manufacturer:hack (Chris White)
 year:2014
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:outrun
 cloneof:outrun

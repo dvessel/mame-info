@@ -3,7 +3,6 @@ manufacturer:Data East Corporation (I-Vics license)
 year:1990
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pcktgal
 cloneof:pcktgal

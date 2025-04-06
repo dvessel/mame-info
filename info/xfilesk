@@ -3,7 +3,6 @@ manufacturer:dgPIX Entertainment Inc.
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:xfiles
 cloneof:xfiles

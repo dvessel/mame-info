@@ -3,7 +3,6 @@ manufacturer:Stern
 year:2004
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 device:bsmt2000

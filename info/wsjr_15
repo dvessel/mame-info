@@ -3,7 +3,6 @@ manufacturer:American Laser Games
 year:1991
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:wsjr
 romof:alg_bios

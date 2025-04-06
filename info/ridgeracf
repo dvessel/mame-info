@@ -3,7 +3,6 @@ manufacturer:Namco
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:namcoc71
 device:namcoc74

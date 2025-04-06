@@ -3,6 +3,5 @@ manufacturer:Sharp
 year:1990
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:x68000
 cloneof:x68000

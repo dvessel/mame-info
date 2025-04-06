@@ -3,7 +3,6 @@ manufacturer:Qps
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:sc4polic
 cloneof:sc4polic

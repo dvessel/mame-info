@@ -3,7 +3,6 @@ manufacturer:BFM/ELAM
 year:1993
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:ym2413
 romof:qntoond

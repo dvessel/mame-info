@@ -3,7 +3,6 @@ manufacturer:bootleg (Playmark)
 year:1990
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:hharry
 cloneof:hharry

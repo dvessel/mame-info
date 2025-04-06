@@ -1,9 +1,8 @@
-description:Zip &amp; Zap (Less Explicit)
+description:Zip & Zap (Less Explicit)
 manufacturer:Barko Corp
 year:1995
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:zipzap
 cloneof:zipzap

@@ -3,7 +3,6 @@ manufacturer:PolyMorphic Systems
 year:1977
 status:preliminary
 emulation:preliminary
-savestate:supported
 device:polyvti
 romof:poly88
 cloneof:poly88

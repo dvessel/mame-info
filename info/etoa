@@ -3,7 +3,6 @@ manufacturer:Visco
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:eto
 cloneof:eto

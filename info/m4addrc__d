@@ -1,9 +1,8 @@
-description:Classic Adders &amp; Ladders (Barcrest) (MPU4) (A6L 0.1, set 2)
+description:Classic Adders & Ladders (Barcrest) (MPU4) (A6L 0.1, set 2)
 manufacturer:Barcrest
 year:199?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413
 romof:m4addr

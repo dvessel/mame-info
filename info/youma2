@@ -3,7 +3,6 @@ manufacturer:Nichibutsu
 year:1986
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:ninjemak
 cloneof:ninjemak

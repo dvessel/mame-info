@@ -3,6 +3,5 @@ manufacturer:NEC
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:pcfx
 cloneof:pcfx

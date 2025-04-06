@@ -3,7 +3,6 @@ manufacturer:bootleg (Orio)
 year:1980
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:phoenix
 cloneof:phoenix

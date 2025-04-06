@@ -2,7 +2,6 @@ description:MAT286 Rev.D
 year:19??
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:at_keybc
 device:cga
 device:kb_pcat84

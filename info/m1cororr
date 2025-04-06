@@ -3,6 +3,5 @@ manufacturer:Maygay
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 device:ym2413

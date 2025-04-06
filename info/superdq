@@ -3,6 +3,5 @@ manufacturer:Universal
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 device:ldv1000

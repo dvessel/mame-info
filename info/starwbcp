@@ -3,6 +3,5 @@ manufacturer:Kenner
 year:1979
 status:good
 emulation:good
-savestate:supported
 romof:starwbc
 cloneof:starwbc

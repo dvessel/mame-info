@@ -3,7 +3,6 @@ manufacturer:BWB / Barcrest
 year:1991
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:v4psi
 cloneof:v4psi

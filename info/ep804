@@ -3,6 +3,5 @@ manufacturer:Wavetek/Digelec, Inc
 year:1982
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:digel804
 cloneof:digel804

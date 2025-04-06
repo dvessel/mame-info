@@ -3,7 +3,6 @@ manufacturer:JPM
 year:1998
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:hngmnjpm
 cloneof:hngmnjpm

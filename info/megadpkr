@@ -3,6 +3,5 @@ manufacturer:Blitz System
 year:1990
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:m68705p5

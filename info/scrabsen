@@ -1,6 +1,5 @@
 description:Scrabble Sensor: Electronic Word Game
-manufacturer:Selchow &amp; Righter
+manufacturer:Selchow & Righter
 year:1978
 status:good
 emulation:good
-savestate:supported

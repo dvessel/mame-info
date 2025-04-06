@@ -3,7 +3,6 @@ manufacturer:Acorn Computers
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:saa5050
 romof:bbcbp
 cloneof:bbcbp

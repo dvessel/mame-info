@@ -3,6 +3,5 @@ manufacturer:Tektronix
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:tek410x_kbd
 device:tek_msu_fdc

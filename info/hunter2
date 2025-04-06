@@ -3,5 +3,4 @@ manufacturer:Husky Computers Ltd
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:hd61830

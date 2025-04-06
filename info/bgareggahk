@@ -3,7 +3,6 @@ manufacturer:Raizing / Eighting
 year:1996
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:bgaregga
 cloneof:bgaregga

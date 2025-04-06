@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:19??
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:scorpion
 cloneof:scorpion

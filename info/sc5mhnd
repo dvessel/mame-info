@@ -1,9 +1,8 @@
-description:Monopoly Here &amp; Now (Mazooma) (Scorpion 5) (set 5)
+description:Monopoly Here & Now (Mazooma) (Scorpion 5) (set 5)
 manufacturer:Mazooma
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:sc5mhn
 cloneof:sc5mhn

@@ -1,9 +1,8 @@
-description:Thunder &amp; Lightning (set 2)
+description:Thunder & Lightning (set 2)
 manufacturer:Seta
 year:1990
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:thunderl
 cloneof:thunderl

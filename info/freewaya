@@ -3,6 +3,5 @@ manufacturer:NVC Electronica
 year:1997
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:freeway
 cloneof:freeway

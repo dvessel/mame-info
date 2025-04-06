@@ -3,7 +3,6 @@ manufacturer:Gremlin
 year:1976
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:comotion
 cloneof:comotion

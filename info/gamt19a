@@ -3,6 +3,5 @@ manufacturer:Novotech
 year:2002?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:gamt19
 cloneof:gamt19

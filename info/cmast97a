@@ -3,7 +3,6 @@ manufacturer:Dyna
 year:1996
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:cmast97
 cloneof:cmast97

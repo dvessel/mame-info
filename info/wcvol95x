@@ -3,7 +3,6 @@ manufacturer:Data East Corporation
 year:1995
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:wcvol95
 cloneof:wcvol95

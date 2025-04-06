@@ -3,6 +3,5 @@ manufacturer:MGA
 year:1985
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:mechanical
 kind:coinop

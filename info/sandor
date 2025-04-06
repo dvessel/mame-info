@@ -1,9 +1,8 @@
-description:Puzzle &amp; Action: Sando-R (J 951114 V1.000)
+description:Puzzle & Action: Sando-R (J 951114 V1.000)
 manufacturer:Sega
 year:1995
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

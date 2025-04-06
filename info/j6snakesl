@@ -1,9 +1,8 @@
-description:Snakes &amp; Ladders (JPM) (SLB C2) (IMPACT) (set 13)
+description:Snakes & Ladders (JPM) (SLB C2) (IMPACT) (set 13)
 manufacturer:JPM / Crystal
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6snakes

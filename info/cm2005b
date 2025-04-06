@@ -3,6 +3,5 @@ manufacturer:Dyna
 year:2005
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:cm2005
 cloneof:cm2005

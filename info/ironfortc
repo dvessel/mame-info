@@ -3,7 +3,6 @@ manufacturer:Eolith (Excellent Competence Ltd. license)
 year:1998
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:ironfort
 cloneof:ironfort

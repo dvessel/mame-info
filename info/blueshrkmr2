@@ -3,7 +3,6 @@ manufacturer:bootleg (Model Racing)
 year:1978
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:blueshrk
 cloneof:blueshrk

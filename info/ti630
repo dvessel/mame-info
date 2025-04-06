@@ -3,5 +3,4 @@ manufacturer:Intelbras
 year:1999
 status:preliminary
 emulation:good
-savestate:unsupported
 device:hd44780

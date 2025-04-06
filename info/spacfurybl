@@ -3,7 +3,6 @@ manufacturer:bootleg (Rumiano)
 year:1981
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:spacfury
 cloneof:spacfury

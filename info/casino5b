@@ -3,7 +3,6 @@ manufacturer:Merit
 year:1984
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:casino5
 cloneof:casino5

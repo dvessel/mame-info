@@ -3,7 +3,6 @@ manufacturer:Sunsoft
 year:1988
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:shanghai
 cloneof:shanghai

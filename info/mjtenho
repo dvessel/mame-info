@@ -3,6 +3,5 @@ manufacturer:Techno-Top
 year:2002
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 device:ym2413

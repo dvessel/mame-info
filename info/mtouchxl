@@ -3,7 +3,6 @@ manufacturer:Merit Industries
 year:1997
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:dm_clgd5430
 device:microtouch

@@ -3,7 +3,6 @@ manufacturer:Jaleco
 year:1991
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:64street
 cloneof:64street

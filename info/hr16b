@@ -3,7 +3,6 @@ manufacturer:Alesis
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:hd44780
 romof:hr16
 cloneof:hr16

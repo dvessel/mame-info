@@ -3,7 +3,6 @@ manufacturer:Metro / Enix / Namco
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:coh1002e
 disk:bam2

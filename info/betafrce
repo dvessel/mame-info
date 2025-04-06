@@ -3,7 +3,6 @@ manufacturer:bootleg (Omni)
 year:1980?
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:kamikaze
 cloneof:kamikaze

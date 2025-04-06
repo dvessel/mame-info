@@ -3,7 +3,6 @@ manufacturer:Incredible Technologies
 year:1999
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:gt99
 cloneof:gt99

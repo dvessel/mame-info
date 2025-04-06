@@ -3,7 +3,6 @@ manufacturer:Amstrad plc
 year:1987
 status:imperfect
 emulation:good
-savestate:supported
 device:pc1512kb
 device:isa_hdc
 device:pc1640_iga

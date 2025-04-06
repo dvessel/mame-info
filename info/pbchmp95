@@ -3,7 +3,6 @@ manufacturer:Veltmeijer Automaten
 year:1995
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:witch
 cloneof:witch

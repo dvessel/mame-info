@@ -3,7 +3,6 @@ manufacturer:Oriental Soft / Promat
 year:2000
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:x2222
 cloneof:x2222

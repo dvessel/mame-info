@@ -3,7 +3,6 @@ manufacturer:bootleg (Cleco)
 year:1988
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:lucky8
 cloneof:lucky8

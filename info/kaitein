@@ -3,7 +3,6 @@ manufacturer:K.K. Tokki (Namco license)
 year:1980
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:kaitei
 cloneof:kaitei

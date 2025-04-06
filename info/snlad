@@ -1,7 +1,6 @@
-description:Snake &amp; Ladders
+description:Snake & Ladders
 manufacturer:JPM
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop

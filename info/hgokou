@@ -3,6 +3,5 @@ manufacturer:Dynax (Alba license)
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 device:ym2413

@@ -3,7 +3,6 @@ manufacturer:Fun World
 year:1991
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:multiwin
 cloneof:multiwin

@@ -3,6 +3,5 @@ manufacturer:NPO Microprocessor
 year:1989
 status:imperfect
 emulation:good
-savestate:unsupported
 device:cga_mc1502
 device:mc1502_rom

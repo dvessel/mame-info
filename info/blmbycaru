@@ -1,9 +1,8 @@
 description:Blomby Car (Version 1P0, not encrypted)
-manufacturer:ABM &amp; Gecas
+manufacturer:ABM & Gecas
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:blmbycar
 cloneof:blmbycar

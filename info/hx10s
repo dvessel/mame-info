@@ -3,6 +3,5 @@ manufacturer:Toshiba
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 romof:hx10
 cloneof:hx10

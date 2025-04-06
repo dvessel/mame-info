@@ -3,6 +3,5 @@ manufacturer:Nintendo
 year:1986
 status:imperfect
 emulation:good
-savestate:supported
 romof:nesm8
 cloneof:nesm8

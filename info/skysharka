@@ -3,7 +3,6 @@ manufacturer:Toaplan / Taito America Corporation (Romstar license)
 year:1987
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:fshark
 cloneof:fshark

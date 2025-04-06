@@ -3,5 +3,4 @@ manufacturer:Elektor
 year:2009
 status:good
 emulation:good
-savestate:supported
 device:hd44780u

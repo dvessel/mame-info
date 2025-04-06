@@ -3,6 +3,5 @@ manufacturer:SciSys / Heuristic Software
 year:1987
 status:good
 emulation:good
-savestate:supported
 romof:stratos
 cloneof:stratos

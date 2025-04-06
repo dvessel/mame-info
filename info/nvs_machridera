@@ -3,7 +3,6 @@ manufacturer:Nintendo
 year:1985
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:nvs_machrider
 cloneof:nvs_machrider

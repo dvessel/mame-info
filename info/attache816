@@ -3,6 +3,5 @@ manufacturer:Otrona
 year:1983
 status:imperfect
 emulation:good
-savestate:unsupported
 romof:attache
 cloneof:attache

@@ -3,7 +3,6 @@ manufacturer:Taito do Brasil
 year:1979
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:invadpt2
 cloneof:invadpt2

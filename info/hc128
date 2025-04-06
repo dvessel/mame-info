@@ -3,6 +3,5 @@ manufacturer:ICE-Felix
 year:1991
 status:good
 emulation:good
-savestate:unsupported
 romof:spec128
 cloneof:spec128

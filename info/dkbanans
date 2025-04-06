@@ -3,7 +3,6 @@ manufacturer:Capcom
 year:2007
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:dkbanana
 cloneof:dkbanana

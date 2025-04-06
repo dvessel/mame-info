@@ -3,7 +3,6 @@ manufacturer:Sega
 year:2019
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:segasp
 disk:tsb0-sega00001

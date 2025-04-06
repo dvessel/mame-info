@@ -3,7 +3,6 @@ manufacturer:Century II (GDI license)
 year:1982
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:slither
 cloneof:slither

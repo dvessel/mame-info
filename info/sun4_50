@@ -3,7 +3,6 @@ manufacturer:Sun Microsystems
 year:1991
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:turbogx
 romof:sun4_300
 cloneof:sun4_300

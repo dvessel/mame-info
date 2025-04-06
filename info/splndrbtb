@@ -3,7 +3,6 @@ manufacturer:Alpha Denshi Co.
 year:1985
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:splndrbt
 cloneof:splndrbt

@@ -3,7 +3,6 @@ manufacturer:Mylstar
 year:1983
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:votrsc01a
 sampleof:qbert

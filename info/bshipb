@@ -3,6 +3,5 @@ manufacturer:Milton Bradley
 year:1978
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:bship
 cloneof:bship

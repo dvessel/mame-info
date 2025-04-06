@@ -3,6 +3,5 @@ manufacturer:Sony
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:hbg900p
 cloneof:hbg900p

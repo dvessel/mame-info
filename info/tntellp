@@ -1,8 +1,7 @@
-description:Touch &amp; Tell (US, patent)
+description:Touch & Tell (US, patent)
 manufacturer:Texas Instruments
 year:1980
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:tntell
 cloneof:tntell

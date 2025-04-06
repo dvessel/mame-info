@@ -3,6 +3,5 @@ manufacturer:Apple Computer
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:lisa2
 cloneof:lisa2

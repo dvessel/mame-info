@@ -3,6 +3,5 @@ manufacturer:Kupidon
 year:2004
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:tsarevna
 cloneof:tsarevna

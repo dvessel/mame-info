@@ -3,7 +3,6 @@ manufacturer:Bally Pond / Nasco
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:royalmj
 cloneof:royalmj

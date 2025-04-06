@@ -3,6 +3,5 @@ manufacturer:Yamaha
 year:1984
 status:good
 emulation:good
-savestate:unsupported
 romof:yis503
 cloneof:yis503

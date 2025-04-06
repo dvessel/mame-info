@@ -3,7 +3,6 @@ manufacturer:Roland
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:hd44780
 romof:s10
 cloneof:s10

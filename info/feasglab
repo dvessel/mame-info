@@ -3,6 +3,5 @@ manufacturer:Fidelity Electronics
 year:1984
 status:good
 emulation:good
-savestate:supported
 romof:feas
 cloneof:feas

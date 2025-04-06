@@ -3,7 +3,6 @@ manufacturer:Comus Instruments Ltd.
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:saa5050
 device:bbc_tube_65c102
 romof:bbcm

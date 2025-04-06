@@ -3,6 +3,5 @@ manufacturer:Apple Computer
 year:1991
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:apple2gs
 cloneof:apple2gs

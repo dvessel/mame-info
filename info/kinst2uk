@@ -3,7 +3,6 @@ manufacturer:Rare (Midway license)
 year:1996
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:kinst2
 cloneof:kinst2

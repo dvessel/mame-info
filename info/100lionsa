@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:2006
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:100lions
 romof:aristmk6
 cloneof:100lions

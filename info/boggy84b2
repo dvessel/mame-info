@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:boggy84
 cloneof:boggy84

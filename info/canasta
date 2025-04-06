@@ -3,7 +3,6 @@ manufacturer:Inder
 year:1986
 status:preliminary
 emulation:good
-savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

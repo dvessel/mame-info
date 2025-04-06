@@ -2,7 +2,6 @@ description:NAT48PV-1.00 VL
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

@@ -3,7 +3,6 @@ manufacturer:Cinematronics (Sega license)
 year:1978
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:spacewar
 cloneof:spacewar

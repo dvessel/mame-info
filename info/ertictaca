@@ -3,7 +3,6 @@ manufacturer:Sisteme
 year:1990
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:ertictac
 cloneof:ertictac

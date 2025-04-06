@@ -3,7 +3,6 @@ manufacturer:IGS
 year:2008
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:kov2nl
 cloneof:kov2nl

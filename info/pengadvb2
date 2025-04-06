@@ -3,7 +3,6 @@ manufacturer:bootleg (Comet)
 year:1988
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pengadvb
 cloneof:pengadvb

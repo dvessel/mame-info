@@ -3,7 +3,6 @@ manufacturer:Sega
 year:2007
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 device:jvs13551
 device:segadimm

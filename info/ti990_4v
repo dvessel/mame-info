@@ -3,6 +3,5 @@ manufacturer:Texas Instruments
 year:1976
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:ti990_4
 cloneof:ti990_4

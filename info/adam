@@ -3,7 +3,6 @@ manufacturer:Coleco
 year:1982
 status:good
 emulation:good
-savestate:supported
 device:adam_kb
 device:adam_prn
 device:adam_ddp

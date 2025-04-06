@@ -3,7 +3,6 @@ manufacturer:bootleg (Falcom?)
 year:1980
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

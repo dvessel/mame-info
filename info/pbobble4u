@@ -3,7 +3,6 @@ manufacturer:Taito Corporation
 year:1997
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:pbobble4
 cloneof:pbobble4

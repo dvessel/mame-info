@@ -3,6 +3,5 @@ manufacturer:Southwest Technical Products Corporation
 year:1975
 status:good
 emulation:good
-savestate:unsupported
 romof:swtpc
 cloneof:swtpc

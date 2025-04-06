@@ -3,7 +3,6 @@ manufacturer:bootleg (J.T.)
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:carrera
 cloneof:carrera

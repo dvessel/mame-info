@@ -3,7 +3,6 @@ manufacturer:hack (Negro Torino)
 year:1991
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:sci
 cloneof:sci

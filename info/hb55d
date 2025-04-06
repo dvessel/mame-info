@@ -3,6 +3,5 @@ manufacturer:Sony
 year:1984
 status:good
 emulation:good
-savestate:unsupported
 romof:hb55p
 cloneof:hb55p

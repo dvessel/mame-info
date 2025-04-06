@@ -3,7 +3,6 @@ manufacturer:Amcoe
 year:1999
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:act2000
 cloneof:act2000

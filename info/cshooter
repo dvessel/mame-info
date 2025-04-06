@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu (J.K.H. license)
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:airraid
 cloneof:airraid

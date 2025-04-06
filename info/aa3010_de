@@ -3,7 +3,6 @@ manufacturer:Acorn Computers
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:archimedes_keyboard
 romof:aa3010
 cloneof:aa3010

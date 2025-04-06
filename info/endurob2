@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1986
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:enduror
 cloneof:enduror

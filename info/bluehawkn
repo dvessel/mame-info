@@ -3,7 +3,6 @@ manufacturer:Dooyong (NTC license)
 year:1993
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:bluehawk
 cloneof:bluehawk

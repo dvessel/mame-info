@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1982
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:bagman
 cloneof:bagman

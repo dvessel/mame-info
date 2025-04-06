@@ -3,7 +3,6 @@ manufacturer:Electronic Projects
 year:1998
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:spool99
 cloneof:spool99

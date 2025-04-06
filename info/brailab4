@@ -3,6 +3,5 @@ manufacturer:Jozsef and Endre Lukacs
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:homelab2
 cloneof:homelab2

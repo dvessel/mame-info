@@ -3,7 +3,6 @@ manufacturer:Kaneko (American Sammy license)
 year:1990
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:djboy
 cloneof:djboy

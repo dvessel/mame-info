@@ -3,7 +3,6 @@ manufacturer:Dooyong (Media Shoji license)
 year:1991
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:gulfstrm
 cloneof:gulfstrm

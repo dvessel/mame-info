@@ -3,6 +3,5 @@ manufacturer:Tangerine
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:oric1
 cloneof:oric1

@@ -1,8 +1,7 @@
 description:New Super 3D Golf Simulation - Waialae no Kiseki / Super Mahjong 2 (Super Famicom Box)
-manufacturer:T&amp;E Soft / I'Max
+manufacturer:T&E Soft / I'Max
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:s_smp
 romof:sfcbox

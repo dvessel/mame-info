@@ -3,7 +3,6 @@ manufacturer:Metro / Able Corp.
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:ym2413
 romof:poitto

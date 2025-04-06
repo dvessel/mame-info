@@ -3,7 +3,6 @@ manufacturer:Armaly Labs
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:3cdpoker
 cloneof:3cdpoker

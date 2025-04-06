@@ -3,6 +3,5 @@ manufacturer:Konami
 year:2000
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:sys573

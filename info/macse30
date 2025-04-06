@@ -3,7 +3,6 @@ manufacturer:Apple Computer
 year:1989
 status:imperfect
 emulation:good
-savestate:supported
 device:adbmodem
 romof:mac2fdhd
 cloneof:mac2fdhd

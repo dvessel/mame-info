@@ -3,7 +3,6 @@ manufacturer:Nippon Data Kiki / Star Fish
 year:1993
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:dfruit
 cloneof:dfruit

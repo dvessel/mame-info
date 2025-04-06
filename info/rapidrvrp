@@ -3,7 +3,6 @@ manufacturer:Namco
 year:1997
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:namco_asca1
 romof:rapidrvr

@@ -3,6 +3,5 @@ manufacturer:RAL
 year:199?
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:mechanical
 kind:coinop

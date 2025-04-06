@@ -3,7 +3,6 @@ manufacturer:Kaneko
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:bonkadv
 cloneof:bonkadv

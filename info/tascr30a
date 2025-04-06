@@ -3,7 +3,6 @@ manufacturer:Tasc
 year:1993
 status:imperfect
 emulation:good
-savestate:supported
 device:lm24014h
 romof:tascr30
 cloneof:tascr30

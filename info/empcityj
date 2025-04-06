@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu (Taito license)
 year:1986
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:m68705p5
 romof:empcity

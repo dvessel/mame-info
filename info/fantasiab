@@ -1,9 +1,8 @@
 description:Fantasia (940429 PCB, set 2)
-manufacturer:Comad &amp; New Japan System
+manufacturer:Comad & New Japan System
 year:1994
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:fantasia
 cloneof:fantasia

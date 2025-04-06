@@ -3,7 +3,6 @@ manufacturer:Falcon
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:falcnwld
 cloneof:falcnwld

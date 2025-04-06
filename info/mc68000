@@ -3,5 +3,4 @@ manufacturer:mc / Franzis Verlag
 year:1984
 status:preliminary
 emulation:good
-savestate:supported
 device:kb_pcxt83

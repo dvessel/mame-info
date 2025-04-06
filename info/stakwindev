@@ -3,7 +3,6 @@ manufacturer:Saurus
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:stakwin
 romof:neogeo

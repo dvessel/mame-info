@@ -3,5 +3,4 @@ manufacturer:Electrocoin
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop

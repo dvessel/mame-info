@@ -3,7 +3,6 @@ manufacturer:Hack Inc.
 year:1998
 status:preliminary
 emulation:good
-savestate:unsupported
 device:virge_pci
 romof:pcipc
 cloneof:pcipc

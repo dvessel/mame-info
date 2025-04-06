@@ -3,6 +3,5 @@ manufacturer:SciSys / Philidor Software
 year:1982
 status:good
 emulation:good
-savestate:supported
 romof:ccmk5
 cloneof:ccmk5

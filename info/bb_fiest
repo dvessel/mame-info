@@ -3,7 +3,6 @@ manufacturer:Associated Leisure
 year:1981?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:bb_firec

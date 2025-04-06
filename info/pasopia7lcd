@@ -3,6 +3,5 @@ manufacturer:Toshiba
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:pasopia7
 cloneof:pasopia7

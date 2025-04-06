@@ -3,6 +3,5 @@ manufacturer:Panasonic
 year:1982
 status:good
 emulation:good
-savestate:unsupported
 romof:myb3k
 cloneof:myb3k

@@ -3,7 +3,6 @@ manufacturer:Sega / Hitmaker
 year:2004
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:segadimm
 romof:avalnc13
 romof:triforce

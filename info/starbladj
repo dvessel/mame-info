@@ -3,7 +3,6 @@ manufacturer:Namco
 year:1991
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:namcoc68
 device:namcoc67

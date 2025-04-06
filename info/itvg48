@@ -3,6 +3,5 @@ manufacturer:TaiKee
 year:200?
 status:imperfect
 emulation:good
-savestate:unsupported
 romof:exsprt48
 cloneof:exsprt48

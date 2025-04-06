@@ -3,6 +3,5 @@ manufacturer:Olympia International
 year:1981
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:olybossd
 cloneof:olybossd

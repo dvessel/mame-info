@@ -3,5 +3,4 @@ manufacturer:Mattel Electronics
 year:1979
 status:good
 emulation:good
-savestate:supported
 device:stic

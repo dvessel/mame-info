@@ -1,7 +1,6 @@
-description:Speak &amp; Rescue
+description:Speak & Rescue
 manufacturer:Sun Electronics
 year:1980
 status:good
 emulation:good
-savestate:supported
 kind:coinop

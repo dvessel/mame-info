@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:1996
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:wamazon
 romof:aristmk5

@@ -3,7 +3,6 @@ manufacturer:IGS / Tai Tin Amusement
 year:1996
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:vbowl
 cloneof:vbowl

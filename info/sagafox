@@ -3,6 +3,5 @@ manufacturer:Sistemi Avanzati Gestione Aziendale
 year:1980
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:sbrain
 cloneof:sbrain

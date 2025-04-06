@@ -2,7 +2,6 @@ description:Genie (ICP-1, set 2)
 year:198?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:genie
 cloneof:genie

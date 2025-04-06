@@ -3,6 +3,5 @@ manufacturer:Novarmatic
 year:1990
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:filetto_cga

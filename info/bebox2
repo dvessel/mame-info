@@ -3,6 +3,5 @@ manufacturer:Be Inc
 year:1996
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:bebox
 cloneof:bebox

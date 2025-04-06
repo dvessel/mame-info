@@ -3,6 +3,5 @@ manufacturer:Sharp
 year:1985
 status:imperfect
 emulation:good
-savestate:unsupported
 romof:mz2500
 cloneof:mz2500

@@ -3,6 +3,5 @@ manufacturer:L/F Technologies
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:lft1510
 cloneof:lft1510

@@ -3,7 +3,6 @@ manufacturer:JK Amusement
 year:1995
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:royalcrd
 cloneof:royalcrd

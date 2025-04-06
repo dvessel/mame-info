@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:2008
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:fateulc
 romof:sys246
 cloneof:fateulc

@@ -3,7 +3,6 @@ manufacturer:Apple Computer
 year:1993
 status:imperfect
 emulation:good
-savestate:supported
 device:m68hc05pge
 romof:macpd210
 cloneof:macpd210

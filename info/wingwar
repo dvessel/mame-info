@@ -3,7 +3,6 @@ manufacturer:Sega
 year:1994
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:model1io2
 device:hd44780

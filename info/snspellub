@@ -1,8 +1,7 @@
-description:Speak &amp; Spell (US, 1981 version)
+description:Speak & Spell (US, 1981 version)
 manufacturer:Texas Instruments
 year:1981
 status:imperfect
 emulation:good
-savestate:supported
 romof:snspell
 cloneof:snspell

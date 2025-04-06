@@ -3,6 +3,5 @@ manufacturer:Fisher-Price
 year:2009
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:smartfp
 cloneof:smartfp

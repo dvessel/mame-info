@@ -3,7 +3,6 @@ manufacturer:Gremlin
 year:1977
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:safari
 cloneof:safari

@@ -3,7 +3,6 @@ manufacturer:Data East Corporation
 year:1996
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:stadhr96
 cloneof:stadhr96

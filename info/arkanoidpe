@@ -3,7 +3,6 @@ manufacturer:Taito Corporation (Phoenix Electronics Co. license)
 year:1986
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:m68705p5
 romof:arkanoid

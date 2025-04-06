@@ -3,7 +3,6 @@ manufacturer:TAB Austria
 year:1996
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:cdibios
 disk:quizardff

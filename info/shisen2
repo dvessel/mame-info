@@ -3,7 +3,6 @@ manufacturer:Tamtex
 year:1993
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:matchit2
 cloneof:matchit2

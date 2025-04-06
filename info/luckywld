@@ -1,8 +1,7 @@
-description:Lucky &amp; Wild
+description:Lucky & Wild
 manufacturer:Namco
 year:1992
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:namcoc68

@@ -3,6 +3,5 @@ manufacturer:AGT
 year:2009
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:microtouch

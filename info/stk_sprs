@@ -3,7 +3,6 @@ manufacturer:Bally
 year:1978
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 sampleof:genpin

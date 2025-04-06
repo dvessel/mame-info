@@ -3,6 +3,5 @@ manufacturer:IGS
 year:1992
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:ym2413

@@ -3,7 +3,6 @@ manufacturer:Tatsumi
 year:1983
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:tx1
 cloneof:tx1

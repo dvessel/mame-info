@@ -3,7 +3,6 @@ manufacturer:Success
 year:2001
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:zokuoten
 romof:coh3002t

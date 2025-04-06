@@ -3,6 +3,5 @@ manufacturer:Yubis / T.System
 year:1999
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:macsbios

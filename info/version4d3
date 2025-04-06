@@ -3,7 +3,6 @@ manufacturer:Amcoe
 year:2006
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:version4
 cloneof:version4

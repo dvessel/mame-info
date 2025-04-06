@@ -3,7 +3,6 @@ manufacturer:hack (Chris Covell)
 year:2016
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:dotrikun
 cloneof:dotrikun

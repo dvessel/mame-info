@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1999
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:jjsquawk
 cloneof:jjsquawk

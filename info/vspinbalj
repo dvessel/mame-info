@@ -3,7 +3,6 @@ manufacturer:Nintendo Co., Ltd.
 year:1984
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:vspinbal
 cloneof:vspinbal

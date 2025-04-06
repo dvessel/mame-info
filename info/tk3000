@@ -3,7 +3,6 @@ manufacturer:Microdigital
 year:1986
 status:good
 emulation:good
-savestate:supported
 device:votrsc01a
 device:a2diskiing
 device:d2fdc

@@ -3,7 +3,6 @@ manufacturer:Konami
 year:2000
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:xt446
 disk:gq974-ja c01

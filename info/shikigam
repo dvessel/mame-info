@@ -3,7 +3,6 @@ manufacturer:Alfa System / Taito
 year:2001
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:coh3002t
 disk:shikigam

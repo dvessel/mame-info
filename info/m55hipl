@@ -3,7 +3,6 @@ manufacturer:Micronics
 year:1990
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:et4000
 romof:ibm5170
 cloneof:ibm5170

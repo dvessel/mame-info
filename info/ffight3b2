@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:199?
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 device:s_smp
 romof:ffight3b

@@ -3,7 +3,6 @@ manufacturer:Irem (licensed from Broderbund)
 year:1985
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:ldrun3
 cloneof:ldrun3

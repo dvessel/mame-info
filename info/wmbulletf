@@ -3,6 +3,5 @@ manufacturer:Wave Mate
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:wmbullet
 cloneof:wmbullet

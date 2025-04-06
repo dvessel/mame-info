@@ -3,6 +3,5 @@ manufacturer:Seibu Kaihatsu / CATS
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 disk:trap zone sktp-00009

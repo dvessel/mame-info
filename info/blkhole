@@ -1,7 +1,6 @@
 description:Black Hole
-manufacturer:TDS &amp; MINTS
+manufacturer:TDS & MINTS
 year:1981
 status:good
 emulation:good
-savestate:supported
 kind:coinop

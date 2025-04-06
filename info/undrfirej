@@ -3,7 +3,6 @@ manufacturer:Taito Corporation
 year:1993
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:undrfire
 cloneof:undrfire

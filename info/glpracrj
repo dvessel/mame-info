@@ -3,7 +3,6 @@ manufacturer:Tecmo
 year:1996
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:qsound_hle
 romof:glpracr

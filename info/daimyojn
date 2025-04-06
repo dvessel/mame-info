@@ -3,6 +3,5 @@ manufacturer:Dynax / Techno-Top / Techno-Planning
 year:2002
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413

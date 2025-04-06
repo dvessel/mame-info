@@ -3,6 +3,5 @@ manufacturer:Yamaha
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 romof:cx7m128
 cloneof:cx7m128

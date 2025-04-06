@@ -3,7 +3,6 @@ manufacturer:Merit
 year:1990
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:pitbosss
 cloneof:pitbosss

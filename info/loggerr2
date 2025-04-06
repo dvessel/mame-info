@@ -3,7 +3,6 @@ manufacturer:Century Electronics (Enter-Tech, Ltd. license)
 year:1982
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:logger
 cloneof:logger

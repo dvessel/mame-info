@@ -3,6 +3,5 @@ manufacturer:Sega / SNK Playmore
 year:2006
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:awbios

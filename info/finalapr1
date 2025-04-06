@@ -3,7 +3,6 @@ manufacturer:Namco
 year:1994
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:namcoc75
 romof:finalapr

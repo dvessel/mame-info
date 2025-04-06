@@ -3,6 +3,5 @@ manufacturer:Sinclair Research Ltd
 year:1985
 status:good
 emulation:good
-savestate:supported
 romof:ql
 cloneof:ql

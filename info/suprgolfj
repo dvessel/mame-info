@@ -3,7 +3,6 @@ manufacturer:Nasco
 year:1989
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:suprgolf
 cloneof:suprgolf

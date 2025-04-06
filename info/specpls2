@@ -3,6 +3,5 @@ manufacturer:Amstrad plc
 year:1986
 status:good
 emulation:good
-savestate:unsupported
 romof:spec128
 cloneof:spec128

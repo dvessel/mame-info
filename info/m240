@@ -3,7 +3,6 @@ manufacturer:Olivetti
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:cga_m24
 device:m24_kbd
 device:m24_z8000

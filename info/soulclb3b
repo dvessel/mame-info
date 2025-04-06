@@ -3,7 +3,6 @@ manufacturer:Namco
 year:2006
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:soulclb3
 romof:sys246
 cloneof:soulclb3

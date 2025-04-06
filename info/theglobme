@@ -3,7 +3,6 @@ manufacturer:Epos Corporation (Magic Electronics Inc. license)
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:suprglob
 cloneof:suprglob

@@ -3,7 +3,6 @@ manufacturer:Elitegroup
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:et4000

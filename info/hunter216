@@ -3,7 +3,6 @@ manufacturer:Husky Computers Ltd
 year:1990
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:hd61830
 romof:hunter16
 cloneof:hunter16

@@ -3,6 +3,5 @@ manufacturer:Microtrol
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:eurocom2
 cloneof:eurocom2

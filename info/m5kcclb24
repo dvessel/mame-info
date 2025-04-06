@@ -3,7 +3,6 @@ manufacturer:Empire
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:m5kcclb
 cloneof:m5kcclb

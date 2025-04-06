@@ -3,7 +3,6 @@ manufacturer:Atari Games
 year:1998
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:a51site4
 cloneof:a51site4

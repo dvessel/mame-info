@@ -3,6 +3,5 @@ manufacturer:NEC
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:pc8201
 cloneof:pc8201

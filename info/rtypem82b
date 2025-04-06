@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:2009
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:rtype
 cloneof:rtype

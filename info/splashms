@@ -3,7 +3,6 @@ manufacturer:Gaelco
 year:1992
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:splash
 cloneof:splash

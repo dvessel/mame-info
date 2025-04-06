@@ -3,7 +3,6 @@ manufacturer:IGS / Alta
 year:1998
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:ym2413
 romof:lhb2

@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu (Tecmo license)
 year:1991
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:goodejan
 cloneof:goodejan

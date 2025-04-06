@@ -3,7 +3,6 @@ manufacturer:Konami
 year:2007
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:kpython2
 disk:gdj_jaa_2007100800

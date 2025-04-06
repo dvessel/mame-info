@@ -3,7 +3,6 @@ manufacturer:Afega (Hae Dong Corp license)
 year:1997
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:stagger1
 cloneof:stagger1

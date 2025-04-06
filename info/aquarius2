@@ -3,6 +3,5 @@ manufacturer:Radofin
 year:1984
 status:good
 emulation:good
-savestate:unsupported
 romof:aquarius
 cloneof:aquarius

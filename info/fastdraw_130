@@ -3,7 +3,6 @@ manufacturer:American Laser Games
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:fastdraw
 romof:alg_bios

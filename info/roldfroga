@@ -3,7 +3,6 @@ manufacturer:Microhard
 year:1993
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:roldfrog
 cloneof:roldfrog

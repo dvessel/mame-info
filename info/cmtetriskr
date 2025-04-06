@@ -2,7 +2,6 @@ description:Tetris + Global Money Fever (Corsica, v8.01, Korean bootleg)
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:cmtetris
 cloneof:cmtetris

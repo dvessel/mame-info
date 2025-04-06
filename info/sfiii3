@@ -3,6 +3,5 @@ manufacturer:Capcom
 year:1999
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 disk:cap-33s-2

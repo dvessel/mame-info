@@ -2,6 +2,5 @@ description:NtCash (set 2)
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:ntcash
 cloneof:ntcash

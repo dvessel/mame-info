@@ -3,6 +3,5 @@ manufacturer:MIPS
 year:1992
 status:preliminary
 emulation:good
-savestate:unsupported
 device:kb_ms_natural
 device:ps2_keybc

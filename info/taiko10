@@ -3,6 +3,5 @@ manufacturer:Namco
 year:2007
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:sys256
 disk:tk10100-1-na-dvd0-a

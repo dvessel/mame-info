@@ -3,7 +3,6 @@ manufacturer:IGS
 year:1998
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:drgw3
 romof:pgm

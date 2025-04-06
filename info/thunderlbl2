@@ -1,9 +1,8 @@
-description:Thunder &amp; Lightning (bootleg with Tetris sound, set 2)
+description:Thunder & Lightning (bootleg with Tetris sound, set 2)
 manufacturer:bootleg
 year:1990
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:thunderl
 cloneof:thunderl

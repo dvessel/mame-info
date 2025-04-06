@@ -3,6 +3,5 @@ manufacturer:Corvus Systems
 year:1982
 status:good
 emulation:good
-savestate:unsupported
 device:concept_kbd
 device:crvfdc01

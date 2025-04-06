@@ -3,6 +3,5 @@ manufacturer:Robotron
 year:1986
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:z9001
 cloneof:z9001

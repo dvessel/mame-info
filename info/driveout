@@ -3,7 +3,6 @@ manufacturer:bootleg (Electronic Devices)
 year:1991
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:driftout
 cloneof:driftout

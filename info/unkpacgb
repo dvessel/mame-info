@@ -2,7 +2,6 @@ description:unknown 'Pac-Man' gambling game (set 2)
 year:199?
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:unkpacg
 cloneof:unkpacg

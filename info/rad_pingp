@@ -3,6 +3,5 @@ manufacturer:Radica / SSD Company LTD / Simmer Technology
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:rad_ping
 cloneof:rad_ping

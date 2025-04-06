@@ -3,7 +3,6 @@ manufacturer:ABM Games
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:mcolors
 cloneof:mcolors

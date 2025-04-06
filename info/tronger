@@ -3,7 +3,6 @@ manufacturer:Bally Midway
 year:1982
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:midssio
 romof:tron

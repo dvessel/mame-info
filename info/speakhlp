@@ -1,9 +1,8 @@
-description:Speak &amp; Help
+description:Speak & Help
 manufacturer:bootleg
 year:1980
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:speakres
 cloneof:speakres

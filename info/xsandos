@@ -1,9 +1,8 @@
-description:X's &amp; O's
+description:X's & O's
 manufacturer:Bally
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

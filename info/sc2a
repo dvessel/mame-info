@@ -3,6 +3,5 @@ manufacturer:VEB Funkwerk Erfurt
 year:1981
 status:good
 emulation:good
-savestate:supported
 romof:sc2
 cloneof:sc2

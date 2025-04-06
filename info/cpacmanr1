@@ -3,6 +3,5 @@ manufacturer:Coleco
 year:1981
 status:good
 emulation:good
-savestate:supported
 romof:cpacman
 cloneof:cpacman

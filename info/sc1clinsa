@@ -3,7 +3,6 @@ manufacturer:BFM/PCP
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:sc1clins

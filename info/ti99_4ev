@@ -3,7 +3,6 @@ manufacturer:Texas Instruments
 year:1994
 status:good
 emulation:good
-savestate:supported
 device:ti99_evpc
 romof:ti99_4a
 cloneof:ti99_4a

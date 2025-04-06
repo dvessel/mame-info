@@ -3,6 +3,5 @@ manufacturer:Ohio Scientific
 year:1980
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:sb2m600b
 cloneof:sb2m600b

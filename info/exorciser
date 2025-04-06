@@ -3,5 +3,4 @@ manufacturer:Motorola
 year:1975
 status:good
 emulation:good
-savestate:unsupported
 device:exorterm155_device

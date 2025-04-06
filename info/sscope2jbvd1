@@ -3,7 +3,6 @@ manufacturer:Konami
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:sscope2
 cloneof:sscope2

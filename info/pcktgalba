@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:pcktgal
 cloneof:pcktgal

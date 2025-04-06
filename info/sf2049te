@@ -3,6 +3,5 @@ manufacturer:Atari Games
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 disk:sf2049te

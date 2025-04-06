@@ -3,6 +3,5 @@ manufacturer:Transam
 year:1980
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:triton72
 cloneof:triton72

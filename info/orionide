@@ -2,6 +2,5 @@ description:Orion 128 + Z80 Card II + IDE
 year:1990
 status:good
 emulation:good
-savestate:supported
 romof:orion128
 cloneof:orion128

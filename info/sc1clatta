@@ -3,7 +3,6 @@ manufacturer:BFM
 year:1990
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:sc1clatt

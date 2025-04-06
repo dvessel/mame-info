@@ -3,6 +3,5 @@ manufacturer:VEB Robotron
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:a5120
 cloneof:a5120

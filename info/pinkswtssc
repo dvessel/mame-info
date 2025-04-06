@@ -3,7 +3,6 @@ manufacturer:bootleg (Four Horsemen)
 year:2017
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:pinkswts
 cloneof:pinkswts

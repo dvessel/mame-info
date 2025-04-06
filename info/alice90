@@ -1,8 +1,7 @@
 description:Alice 90
-manufacturer:Matra &amp; Hachette
+manufacturer:Matra & Hachette
 year:1985
 status:imperfect
 emulation:good
-savestate:supported
 romof:alice32
 cloneof:alice32

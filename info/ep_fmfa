@@ -3,7 +3,6 @@ manufacturer:Global
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:ep_fmf
 cloneof:ep_fmf

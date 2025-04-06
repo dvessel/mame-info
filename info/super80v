@@ -3,7 +3,6 @@ manufacturer:Dick Smith Electronics
 year:1981
 status:good
 emulation:good
-savestate:supported
 romof:super80
 cloneof:super80
 sampleof:relay

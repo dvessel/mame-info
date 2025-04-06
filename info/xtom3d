@@ -3,6 +3,5 @@ manufacturer:Andamiro / Jamie System Development
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 device:banshee_x86

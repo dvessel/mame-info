@@ -3,7 +3,6 @@ manufacturer:Sammy Industries
 year:1995
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:zombraid
 cloneof:zombraid

@@ -3,6 +3,5 @@ manufacturer:Commodore Business Machines
 year:1980
 status:good
 emulation:good
-savestate:supported
 device:c8050
 device:c8050fdc

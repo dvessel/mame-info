@@ -3,7 +3,6 @@ manufacturer:Falcon
 year:199?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:witchcrd
 cloneof:witchcrd

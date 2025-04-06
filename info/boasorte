@@ -2,7 +2,6 @@ description:Boa Sorte! (Golden Poker prequel HW)
 year:198?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:bchanceq
 cloneof:bchanceq

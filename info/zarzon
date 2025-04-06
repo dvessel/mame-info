@@ -3,7 +3,6 @@ manufacturer:SNK (Taito America license)
 year:1981
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:satansat
 cloneof:satansat

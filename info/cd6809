@@ -3,7 +3,6 @@ manufacturer:Codimex
 year:1983
 status:good
 emulation:good
-savestate:supported
 device:cd6809_fdc
 romof:coco
 cloneof:coco

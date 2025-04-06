@@ -3,6 +3,5 @@ manufacturer:Timex Sinclair
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 romof:zx81
 cloneof:zx81

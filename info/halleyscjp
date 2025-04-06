@@ -3,7 +3,6 @@ manufacturer:Taito Corporation
 year:1985
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:halleysc
 cloneof:halleysc

@@ -3,7 +3,6 @@ manufacturer:IGT - International Game Technology
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:peke0004
 cloneof:peke0004

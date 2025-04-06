@@ -1,9 +1,8 @@
-description:Kings &amp; Queens Classic (Barcrest) (MPU4) (CNT, CN4 1.0 YD)
+description:Kings & Queens Classic (Barcrest) (MPU4) (CNT, CN4 1.0 YD)
 manufacturer:BWB
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:m4kingqc

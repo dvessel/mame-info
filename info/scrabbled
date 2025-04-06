@@ -3,7 +3,6 @@ manufacturer:JPM
 year:1997
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:scrabble
 cloneof:scrabble

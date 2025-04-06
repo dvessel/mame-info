@@ -3,7 +3,6 @@ manufacturer:Namco / Cosmodog
 year:2005
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:25pacman
 cloneof:25pacman

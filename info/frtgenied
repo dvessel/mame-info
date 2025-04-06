@@ -3,7 +3,6 @@ manufacturer:Winnin World
 year:2002
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:frtgenie
 cloneof:frtgenie

@@ -3,7 +3,6 @@ manufacturer:Xerox
 year:1981
 status:good
 emulation:good
-savestate:unsupported
 device:x820kb
 romof:bigboard
 cloneof:bigboard

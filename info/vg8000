@@ -3,6 +3,5 @@ manufacturer:Philips
 year:1984
 status:good
 emulation:good
-savestate:unsupported
 romof:vg8010
 cloneof:vg8010

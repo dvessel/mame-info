@@ -3,6 +3,5 @@ manufacturer:ROLM Systems, Inc.
 year:1988
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:rolm_smioc
 device:rolm_pdc

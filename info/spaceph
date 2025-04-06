@@ -3,7 +3,6 @@ manufacturer:bootleg? (Zilec Games)
 year:1979
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:ozmawars
 cloneof:ozmawars

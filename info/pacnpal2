@@ -1,9 +1,8 @@
-description:Pac &amp; Pal (older)
+description:Pac & Pal (older)
 manufacturer:Namco
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pacnpal
 cloneof:pacnpal

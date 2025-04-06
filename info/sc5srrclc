@@ -3,7 +3,6 @@ manufacturer:BFM
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:sc5srrcl
 cloneof:sc5srrcl

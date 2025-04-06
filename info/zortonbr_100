@@ -3,7 +3,6 @@ manufacturer:Picmatic
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:zortonbr
 romof:alg_bios

@@ -3,5 +3,4 @@ manufacturer:TeleVideo
 year:1981
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:tv950kb

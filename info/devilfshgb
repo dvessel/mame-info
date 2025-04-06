@@ -3,7 +3,6 @@ manufacturer:bootleg (Vision)
 year:1984
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:devilfsh
 cloneof:devilfsh

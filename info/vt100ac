@@ -3,6 +3,5 @@ manufacturer:Digital Equipment Corporation
 year:1979
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:vt100
 cloneof:vt100

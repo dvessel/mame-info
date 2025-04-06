@@ -3,7 +3,6 @@ manufacturer:bootleg (TAB Austria)
 year:1990
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:mustang
 cloneof:mustang

@@ -3,6 +3,5 @@ manufacturer:Samsung
 year:19??
 status:good
 emulation:good
-savestate:supported
 romof:sms
 cloneof:sms

@@ -3,7 +3,6 @@ manufacturer:ACE International
 year:1997
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pgalvip
 cloneof:pgalvip

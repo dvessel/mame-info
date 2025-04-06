@@ -3,6 +3,5 @@ manufacturer:Microbee Systems
 year:1986
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:mbee
 cloneof:mbee

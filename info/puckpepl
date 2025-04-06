@@ -3,7 +3,6 @@ manufacturer:Microhard
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:funystrp
 cloneof:funystrp

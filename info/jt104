@@ -3,7 +3,6 @@ manufacturer:UPL (United Amusements license)
 year:1987
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:ninjakd2
 cloneof:ninjakd2

@@ -3,7 +3,6 @@ manufacturer:Mattel Electronics
 year:1983
 status:good
 emulation:good
-savestate:supported
 device:stic
 device:intv_ecs
 romof:intv

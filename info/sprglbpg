@@ -3,7 +3,6 @@ manufacturer:bootleg (Software Labor)
 year:1984
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:suprglob
 cloneof:suprglob

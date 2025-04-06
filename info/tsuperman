@@ -3,6 +3,5 @@ manufacturer:Tiger Electronics
 year:1996
 status:good
 emulation:good
-savestate:supported
 romof:tgargnf
 cloneof:tgargnf

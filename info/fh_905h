@@ -3,7 +3,6 @@ manufacturer:Williams
 year:1996
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:fh_l9

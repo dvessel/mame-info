@@ -3,7 +3,6 @@ manufacturer:Barcrest
 year:197?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:fruitsamples

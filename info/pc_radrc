@@ -3,6 +3,5 @@ manufacturer:Square
 year:1987
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:playch10

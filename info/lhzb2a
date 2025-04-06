@@ -3,7 +3,6 @@ manufacturer:IGS
 year:1998
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:lhzb2
 cloneof:lhzb2

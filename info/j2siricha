@@ -3,7 +3,6 @@ manufacturer:JPM
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:j2sirich
 cloneof:j2sirich

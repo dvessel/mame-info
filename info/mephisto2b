@@ -3,6 +3,5 @@ manufacturer:Hegener + Glaser
 year:1981
 status:good
 emulation:good
-savestate:supported
 romof:mephisto2
 cloneof:mephisto2

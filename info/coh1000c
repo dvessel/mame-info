@@ -3,7 +3,6 @@ manufacturer:Capcom
 year:1995
 status:imperfect
 emulation:good
-savestate:supported
 kind:bios
 kind:coinop
 device:qsound_hle

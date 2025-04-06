@@ -3,7 +3,6 @@ manufacturer:Atari Games
 year:1996
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:maxforce
 cloneof:maxforce

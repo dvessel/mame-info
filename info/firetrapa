@@ -3,7 +3,6 @@ manufacturer:Woodplace Inc. (Data East USA license)
 year:1986
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:firetrap
 cloneof:firetrap

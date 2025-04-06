@@ -3,7 +3,6 @@ manufacturer:Alex Zhabin
 year:2005
 status:good
 emulation:good
-savestate:unsupported
 device:betadisk
 romof:spec128
 cloneof:spec128

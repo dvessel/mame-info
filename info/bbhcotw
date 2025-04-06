@@ -3,7 +3,6 @@ manufacturer:Incredible Technologies
 year:2006
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:iteagle
 disk:bbhcotw_v3.02.05_cf

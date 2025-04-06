@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:ncb3
 cloneof:ncb3

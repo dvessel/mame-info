@@ -3,7 +3,6 @@ manufacturer:Saitek
 year:1996
 status:good
 emulation:good
-savestate:supported
 device:hd44780
 romof:lond32
 cloneof:lond32

@@ -3,6 +3,5 @@ manufacturer:Yamaha
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:y805256
 cloneof:y805256

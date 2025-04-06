@@ -2,5 +2,4 @@ description:unknown 'Pac-Man' gambling game (set 1)
 year:199?
 status:good
 emulation:good
-savestate:supported
 kind:coinop

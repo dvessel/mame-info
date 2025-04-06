@@ -3,6 +3,5 @@ manufacturer:Chunichi
 year:19??
 status:good
 emulation:good
-savestate:supported
 romof:tk80
 cloneof:tk80

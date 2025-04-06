@@ -3,7 +3,6 @@ manufacturer:Astra
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:as_colmn
 cloneof:as_colmn

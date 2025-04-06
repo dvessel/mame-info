@@ -3,7 +3,6 @@ manufacturer:hack (Two Bit Score)
 year:1991
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:1942
 cloneof:1942

@@ -3,7 +3,6 @@ manufacturer:Tecmo
 year:1989
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:ym2608
 romof:twcup90

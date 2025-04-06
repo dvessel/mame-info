@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1985
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:onna34ro
 cloneof:onna34ro

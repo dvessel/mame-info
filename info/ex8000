@@ -3,6 +3,5 @@ manufacturer:Korg
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:dw8000
 cloneof:dw8000

@@ -3,5 +3,4 @@ manufacturer:Intel
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 device:isbc_215g

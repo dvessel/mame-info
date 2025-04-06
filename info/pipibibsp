@@ -1,9 +1,8 @@
-description:Pipi &amp; Bibis / Whoopee!! (prototype)
+description:Pipi & Bibis / Whoopee!! (prototype)
 manufacturer:Toaplan
 year:1991
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pipibibs
 cloneof:pipibibs

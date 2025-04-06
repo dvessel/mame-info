@@ -3,7 +3,6 @@ manufacturer:Namco
 year:2000
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:ptblank3
 cloneof:ptblank3

@@ -1,9 +1,8 @@
-description:Adders &amp; Ladders Classic Club (Barcrest) (MPU4) (ADC 0.5)
+description:Adders & Ladders Classic Club (Barcrest) (MPU4) (ADC 0.5)
 manufacturer:Barcrest
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop
 device:ym2413

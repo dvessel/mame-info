@@ -1,9 +1,8 @@
-description:Ant &amp; Dec's Jiggy Bank (Bellfruit) (Scorpion 5) (set 10)
+description:Ant & Dec's Jiggy Bank (Bellfruit) (Scorpion 5) (set 10)
 manufacturer:BFM
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:sc5adjb
 cloneof:sc5adjb

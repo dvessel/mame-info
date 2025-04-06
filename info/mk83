@@ -3,7 +3,6 @@ manufacturer:Scomar
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:x820kb
 romof:bigboard
 cloneof:bigboard

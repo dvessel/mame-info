@@ -3,6 +3,5 @@ manufacturer:Ericsson Information System
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 device:eispc_kb
 device:isa_epc_mda

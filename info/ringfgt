@@ -3,7 +3,6 @@ manufacturer:Kaneko (Taito license)
 year:1984
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:vsgongf
 cloneof:vsgongf

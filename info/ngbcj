@@ -3,7 +3,6 @@ manufacturer:Sammy / SNK Playmore
 year:2005
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:ngbc
 romof:awbios

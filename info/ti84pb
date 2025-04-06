@@ -3,6 +3,5 @@ manufacturer:Texas Instruments
 year:20??
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:ti84p
 cloneof:ti84p

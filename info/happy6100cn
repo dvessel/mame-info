@@ -3,7 +3,6 @@ manufacturer:IGS
 year:2004
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:happy6
 romof:pgm

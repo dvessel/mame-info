@@ -3,6 +3,5 @@ manufacturer:Sega
 year:1993
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:mechanical
 kind:coinop

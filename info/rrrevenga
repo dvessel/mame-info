@@ -3,7 +3,6 @@ manufacturer:Atari Games
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:rrreveng
 cloneof:rrreveng

@@ -3,7 +3,6 @@ manufacturer:Dave Nutting Associates / Midway
 year:1975
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:gunfight
 cloneof:gunfight

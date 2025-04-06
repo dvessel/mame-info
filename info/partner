@@ -3,6 +3,5 @@ manufacturer:SAM SKB VM
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:radio86
 cloneof:radio86

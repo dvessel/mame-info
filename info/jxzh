@@ -3,6 +3,5 @@ manufacturer:BMC
 year:1996
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:ym2413

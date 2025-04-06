@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:pengpay
 romof:aristmk5

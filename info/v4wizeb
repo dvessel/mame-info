@@ -3,7 +3,6 @@ manufacturer:Barcrest
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:v4wize
 romof:v4bios

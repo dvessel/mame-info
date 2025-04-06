@@ -3,7 +3,6 @@ manufacturer:TAD Corporation (Fabtek license)
 year:1990
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:bloodbro
 cloneof:bloodbro

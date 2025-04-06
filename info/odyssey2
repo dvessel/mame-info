@@ -3,7 +3,6 @@ manufacturer:Magnavox
 year:1979
 status:good
 emulation:good
-savestate:supported
 device:i8244
 romof:videopac
 cloneof:videopac

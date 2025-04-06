@@ -3,7 +3,6 @@ manufacturer:Taito
 year:1981
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:colony7
 cloneof:colony7

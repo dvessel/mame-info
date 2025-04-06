@@ -3,6 +3,5 @@ manufacturer:Acorn Computers
 year:1992
 status:imperfect
 emulation:good
-savestate:supported
 romof:psion3
 cloneof:psion3

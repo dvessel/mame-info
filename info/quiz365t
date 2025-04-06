@@ -1,9 +1,8 @@
-description:Quiz 365 (Hong Kong &amp; Taiwan)
+description:Quiz 365 (Hong Kong & Taiwan)
 manufacturer:Nakanihon / Taito
 year:1994
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413
 romof:quiz365

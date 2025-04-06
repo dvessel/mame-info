@@ -3,6 +3,5 @@ manufacturer:Osborne/Nuevo
 year:1984
 status:good
 emulation:good
-savestate:supported
 romof:osborne1
 cloneof:osborne1

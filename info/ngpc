@@ -3,6 +3,5 @@ manufacturer:SNK
 year:1999
 status:good
 emulation:good
-savestate:supported
 romof:ngp
 cloneof:ngp

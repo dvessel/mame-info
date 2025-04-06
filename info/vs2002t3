@@ -3,7 +3,6 @@ manufacturer:Sega / Amusement Vision
 year:2004
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:segadimm
 romof:triforce
 disk:gdt-0012

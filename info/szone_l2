@@ -3,7 +3,6 @@ manufacturer:Williams/United
 year:1984
 status:preliminary
 emulation:good
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:szone_l5

@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1984
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:40love
 cloneof:40love

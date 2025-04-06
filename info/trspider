@@ -3,6 +3,5 @@ manufacturer:Tronica
 year:1982
 status:good
 emulation:good
-savestate:supported
 romof:trspacmis
 cloneof:trspacmis

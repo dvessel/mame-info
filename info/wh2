@@ -3,6 +3,5 @@ manufacturer:ADK
 year:1993
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:neogeo

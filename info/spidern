@@ -3,7 +3,6 @@ manufacturer:Buena Vision
 year:1994
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:spider
 cloneof:spider

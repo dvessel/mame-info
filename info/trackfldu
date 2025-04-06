@@ -1,9 +1,8 @@
-description:Track &amp; Field (Centuri, unencrypted)
+description:Track & Field (Centuri, unencrypted)
 manufacturer:Konami (Centuri license)
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:trackfld
 cloneof:trackfld

@@ -1,9 +1,8 @@
 description:Mahjong Mania - Kairakukan e Youkoso (Japan)
-manufacturer:Sphinx/Just&amp;Just
+manufacturer:Sphinx/Just&Just
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:nichidvd
 disk:nb8007

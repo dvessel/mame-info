@@ -3,7 +3,6 @@ manufacturer:K7 Kursaal / NMI Electronics
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:k7_olym
 cloneof:k7_olym

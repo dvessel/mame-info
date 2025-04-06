@@ -3,7 +3,6 @@ manufacturer:M.P.
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:jollycrd
 cloneof:jollycrd

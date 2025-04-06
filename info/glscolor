@@ -3,6 +3,5 @@ manufacturer:VTech
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:glcolor
 cloneof:glcolor

@@ -3,5 +3,4 @@ manufacturer:Tasc
 year:1995
 status:imperfect
 emulation:good
-savestate:supported
 device:lm24014h

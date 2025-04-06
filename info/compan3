@@ -3,6 +3,5 @@ manufacturer:SciSys / Heuristic Software
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:turbo16k
 cloneof:turbo16k

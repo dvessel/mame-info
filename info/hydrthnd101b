@@ -3,7 +3,6 @@ manufacturer:Midway Games
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:virge_pci
 romof:hydrthnd
 cloneof:hydrthnd

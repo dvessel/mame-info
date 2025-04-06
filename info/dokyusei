@@ -3,6 +3,5 @@ manufacturer:Make Software / Elf / Media Trading
 year:1995
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:ym2413

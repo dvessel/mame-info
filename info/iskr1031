@@ -2,7 +2,6 @@ description:Iskra 1031
 year:1989
 status:imperfect
 emulation:good
-savestate:unsupported
 device:cga_iskr1031
 device:kb_ec1841
 romof:ibm5150

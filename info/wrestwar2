@@ -3,7 +3,6 @@ manufacturer:Sega
 year:1989
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:wrestwar
 cloneof:wrestwar

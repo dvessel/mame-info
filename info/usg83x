@@ -3,7 +3,6 @@ manufacturer:U.S. Games, Inc.
 year:1988
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:superten
 cloneof:superten

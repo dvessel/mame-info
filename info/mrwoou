@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:mrwoo
 romof:aristmk6
 cloneof:mrwoo

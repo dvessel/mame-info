@@ -3,6 +3,5 @@ manufacturer:Philips
 year:1986
 status:good
 emulation:good
-savestate:unsupported
 romof:nms8280
 cloneof:nms8280

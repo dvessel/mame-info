@@ -3,7 +3,6 @@ manufacturer:Cyberdyne Systems
 year:199?
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:fl7_50
 cloneof:fl7_50

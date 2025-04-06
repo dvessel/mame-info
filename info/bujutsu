@@ -3,6 +3,5 @@ manufacturer:Konami
 year:1997
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 disk:645c04

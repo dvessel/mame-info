@@ -2,6 +2,5 @@ description:Orion 128 (MS7007)
 year:1990
 status:good
 emulation:good
-savestate:supported
 romof:orion128
 cloneof:orion128

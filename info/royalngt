@@ -3,7 +3,6 @@ manufacturer:Royal Denshi
 year:1984
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:ngtbunny
 cloneof:ngtbunny

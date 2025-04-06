@@ -3,7 +3,6 @@ manufacturer:Dyna
 year:1997
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:scherrymp
 cloneof:scherrymp

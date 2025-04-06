@@ -3,7 +3,6 @@ manufacturer:Schetmash
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:cga_mc1502
 device:kb_pcxt83
 romof:ibm5150

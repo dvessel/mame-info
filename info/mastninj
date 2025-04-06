@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:shadoww
 cloneof:shadoww

@@ -3,6 +3,5 @@ manufacturer:bootleg
 year:199?
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:s_smp

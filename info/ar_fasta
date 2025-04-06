@@ -3,7 +3,6 @@ manufacturer:Arcadia Systems
 year:1988
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:ar_fast
 romof:ar_bios

@@ -3,7 +3,6 @@ manufacturer:Noise Factory / SNK
 year:2001
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:sengoku3
 romof:neogeo

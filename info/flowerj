@@ -3,7 +3,6 @@ manufacturer:Clarue (Sega / Alpha Denshi Co. license)
 year:1986
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:flower
 cloneof:flower

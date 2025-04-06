@@ -3,6 +3,5 @@ manufacturer:Micronique
 year:1983
 status:imperfect
 emulation:good
-savestate:unsupported
 romof:hec2hrp
 cloneof:hec2hrp

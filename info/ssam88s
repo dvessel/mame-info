@@ -3,7 +3,6 @@ manufacturer:Samsung
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:cga
 device:kb_pcxt83
 romof:ibm5150

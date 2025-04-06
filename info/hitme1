@@ -3,7 +3,6 @@ manufacturer:Ramtek
 year:1976
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:hitme
 cloneof:hitme

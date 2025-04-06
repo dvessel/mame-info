@@ -3,7 +3,6 @@ manufacturer:Nakanihon (Activision license)
 year:1994
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413
 romof:rongrong

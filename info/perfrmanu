@@ -3,7 +3,6 @@ manufacturer:Toaplan / Data East USA
 year:1985
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:perfrman
 cloneof:perfrman

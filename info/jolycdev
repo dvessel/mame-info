@@ -3,7 +3,6 @@ manufacturer:TAB Austria / Evona Electronic
 year:1998
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:jollycrd
 cloneof:jollycrd

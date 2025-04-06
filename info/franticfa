@@ -3,7 +3,6 @@ manufacturer:ICE / The Game Room
 year:1996
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:franticf
 cloneof:franticf

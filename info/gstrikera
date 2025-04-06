@@ -3,7 +3,6 @@ manufacturer:Human
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:gstriker
 cloneof:gstriker

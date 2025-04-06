@@ -3,6 +3,5 @@ manufacturer:Talent
 year:1986
 status:good
 emulation:good
-savestate:unsupported
 romof:dpc200
 cloneof:dpc200

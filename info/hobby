@@ -3,6 +3,5 @@ manufacturer:BP EVM
 year:1987
 status:good
 emulation:good
-savestate:supported
 romof:vesta
 cloneof:vesta

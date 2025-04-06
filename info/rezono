@@ -3,7 +3,6 @@ manufacturer:Allumer
 year:1991
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:rezon
 cloneof:rezon

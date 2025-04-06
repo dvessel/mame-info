@@ -3,6 +3,5 @@ manufacturer:PPG
 year:1982
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:eurocom2
 cloneof:eurocom2

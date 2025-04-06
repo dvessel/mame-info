@@ -3,7 +3,6 @@ manufacturer:Williams
 year:1980
 status:preliminary
 emulation:good
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:scrpn_l1

@@ -3,6 +3,5 @@ manufacturer:Space Computer
 year:1988
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:m68705p5

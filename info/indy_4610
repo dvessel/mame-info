@@ -3,6 +3,5 @@ manufacturer:Silicon Graphics Inc
 year:1993
 status:imperfect
 emulation:good
-savestate:unsupported
 device:kb_ms_natural
 device:ps2_keybc

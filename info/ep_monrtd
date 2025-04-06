@@ -3,7 +3,6 @@ manufacturer:Global
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:ep_monrt
 cloneof:ep_monrt

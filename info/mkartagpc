@@ -3,7 +3,6 @@ manufacturer:Namco / Nintendo
 year:2006
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:mkartagp
 romof:triforce
 cloneof:mkartagp

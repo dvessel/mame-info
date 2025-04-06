@@ -3,7 +3,6 @@ manufacturer:Tecnoplay
 year:1988
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 sampleof:genpin

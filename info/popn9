@@ -3,6 +3,5 @@ manufacturer:Konami
 year:2003
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:kpython
 disk:c00jab

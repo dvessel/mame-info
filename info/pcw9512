@@ -3,6 +3,5 @@ manufacturer:Amstrad plc
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:pcw8256
 cloneof:pcw8256

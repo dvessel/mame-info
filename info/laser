@@ -3,7 +3,6 @@ manufacturer:bootleg (Leisure Time Electronics)
 year:1980
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:spcewarl
 cloneof:spcewarl

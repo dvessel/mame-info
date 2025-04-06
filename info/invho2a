@@ -3,7 +3,6 @@ manufacturer:Sega
 year:1979
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:invho2
 cloneof:invho2

@@ -1,9 +1,8 @@
-description:Joe &amp; Mac Returns (Japan, Version 1.2, 1994.06.06)
+description:Joe & Mac Returns (Japan, Version 1.2, 1994.06.06)
 manufacturer:Data East Corporation
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:joemacr
 cloneof:joemacr

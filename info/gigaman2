@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1996
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:megaman2
 cloneof:megaman2

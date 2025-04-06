@@ -3,7 +3,6 @@ manufacturer:Vic Tokai (Sega license)
 year:1992
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:witch
 cloneof:witch

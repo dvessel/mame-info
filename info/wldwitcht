@@ -3,7 +3,6 @@ manufacturer:Video Klein
 year:1999
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:wldwitch
 cloneof:wldwitch

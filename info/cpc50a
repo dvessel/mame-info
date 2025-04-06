@@ -3,6 +3,5 @@ manufacturer:Daewoo
 year:1986
 status:good
 emulation:good
-savestate:unsupported
 romof:cpc51
 cloneof:cpc51

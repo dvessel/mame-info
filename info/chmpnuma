@@ -2,7 +2,6 @@ description:Champion Number (V0.67)
 year:1999
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:chsuper3
 cloneof:chsuper3

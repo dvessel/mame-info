@@ -3,6 +3,5 @@ manufacturer:bootleg (SGS)
 year:199?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413

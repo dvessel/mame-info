@@ -1,9 +1,8 @@
-description:Hold &amp; Spin II (Version 2.8R, set 2)
+description:Hold & Spin II (Version 2.8R, set 2)
 manufacturer:Amcoe
 year:2000
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:hldspin2
 cloneof:hldspin2

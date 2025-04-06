@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:2002
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:mslug4
 romof:neogeo

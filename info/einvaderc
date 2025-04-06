@@ -3,6 +3,5 @@ manufacturer:Entex
 year:1981
 status:good
 emulation:good
-savestate:supported
 romof:einvader
 cloneof:einvader

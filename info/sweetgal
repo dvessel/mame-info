@@ -3,7 +3,6 @@ manufacturer:Nichibutsu
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:sexygal
 cloneof:sexygal

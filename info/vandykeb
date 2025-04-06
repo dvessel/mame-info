@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1990
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:vandyke
 cloneof:vandyke

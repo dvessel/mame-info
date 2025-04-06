@@ -3,7 +3,6 @@ manufacturer:Namco
 year:1996
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:ncv2
 cloneof:ncv2

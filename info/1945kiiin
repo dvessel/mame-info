@@ -3,7 +3,6 @@ manufacturer:Oriental Soft
 year:2000
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:1945kiii
 cloneof:1945kiii

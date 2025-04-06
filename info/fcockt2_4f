@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:2008
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:fcockt2
 cloneof:fcockt2

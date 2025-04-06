@@ -3,7 +3,6 @@ manufacturer:Kaneko
 year:1992
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:brapboys
 cloneof:brapboys

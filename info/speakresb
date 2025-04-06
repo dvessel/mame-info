@@ -1,9 +1,8 @@
-description:Speak &amp; Rescue (bootleg)
+description:Speak & Rescue (bootleg)
 manufacturer:bootleg
 year:1980
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:speakres
 cloneof:speakres

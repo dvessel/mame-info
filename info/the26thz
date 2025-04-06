@@ -3,7 +3,6 @@ manufacturer:Ed Co., Ltd. (Taito license)
 year:1986
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:alphaxz
 cloneof:alphaxz

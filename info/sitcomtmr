@@ -1,8 +1,7 @@
 description:SITCOM Timer
-manufacturer:San Bergmans &amp; Izabella Malcolm
+manufacturer:San Bergmans & Izabella Malcolm
 year:2002
 status:good
 emulation:good
-savestate:supported
 romof:sitcom
 cloneof:sitcom

@@ -3,7 +3,6 @@ manufacturer:Afega (Pandora license)
 year:1998
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:bubl2000
 cloneof:bubl2000

@@ -3,7 +3,6 @@ manufacturer:bootleg (Petaco S.A.)
 year:1979
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:galaxian
 cloneof:galaxian

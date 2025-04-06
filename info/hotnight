@@ -3,7 +3,6 @@ manufacturer:Bulldog Amusements Inc.
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:newfant
 cloneof:newfant

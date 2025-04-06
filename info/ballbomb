@@ -3,6 +3,5 @@ manufacturer:Taito
 year:1980
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 sampleof:invaders

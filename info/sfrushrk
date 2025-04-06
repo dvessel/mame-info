@@ -3,7 +3,6 @@ manufacturer:Atari Games
 year:1997
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:tms32031
 disk:sfrushrk

@@ -3,6 +3,5 @@ manufacturer:Sord
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 romof:m5
 cloneof:m5

@@ -3,7 +3,6 @@ manufacturer:OMK / Gaelco
 year:1993
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:glass
 cloneof:glass

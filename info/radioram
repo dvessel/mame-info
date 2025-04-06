@@ -2,6 +2,5 @@ description:Radio-86RK (ROM/RAM Disk)
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:radio86
 cloneof:radio86

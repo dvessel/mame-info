@@ -3,7 +3,6 @@ manufacturer:Taito / Zenitone-Microsec Ltd.
 year:1980?
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

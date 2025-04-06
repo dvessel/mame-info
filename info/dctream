@@ -2,6 +2,5 @@ description:Treamcast
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:dcjp
 cloneof:dcjp

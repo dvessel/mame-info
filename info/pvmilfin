@@ -3,6 +3,5 @@ manufacturer:Play Vision
 year:2005
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:pvmil8
 cloneof:pvmil8

@@ -3,6 +3,5 @@ manufacturer:Aristocrat
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:aristmk7
 disk:l88

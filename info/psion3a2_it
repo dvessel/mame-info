@@ -3,6 +3,5 @@ manufacturer:Psion
 year:1995
 status:good
 emulation:good
-savestate:supported
 romof:psion3a
 cloneof:psion3a

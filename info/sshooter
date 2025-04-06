@@ -1,8 +1,7 @@
 description:Sharpshooter (Rev 1.9)
-manufacturer:P&amp;P Marketing
+manufacturer:P&P Marketing
 year:1998
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:bsmt2000

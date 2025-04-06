@@ -3,7 +3,6 @@ manufacturer:SNK
 year:1996
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:kof96
 romof:neogeo

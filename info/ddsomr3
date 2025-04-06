@@ -1,9 +1,8 @@
-description:Dungeons &amp; Dragons: Shadow over Mystara (Europe 960208)
+description:Dungeons & Dragons: Shadow over Mystara (Europe 960208)
 manufacturer:Capcom
 year:1996
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:qsound_hle
 romof:ddsom

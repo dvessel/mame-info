@@ -3,6 +3,5 @@ manufacturer:Research Machines
 year:1978
 status:good
 emulation:good
-savestate:unsupported
 romof:rm380z
 cloneof:rm380z

@@ -3,7 +3,6 @@ manufacturer:Wood Place Co. Ltd. (Taito Corporation license)
 year:1986
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:m660
 cloneof:m660

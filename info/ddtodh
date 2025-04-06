@@ -1,9 +1,8 @@
-description:Dungeons &amp; Dragons: Tower of Doom (Hispanic 940412)
+description:Dungeons & Dragons: Tower of Doom (Hispanic 940412)
 manufacturer:Capcom
 year:1993
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:qsound_hle
 romof:ddtod

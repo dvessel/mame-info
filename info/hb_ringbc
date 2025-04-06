@@ -3,7 +3,6 @@ manufacturer:JPM
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:hb_ringb
 cloneof:hb_ringb

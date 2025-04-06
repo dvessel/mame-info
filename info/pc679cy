@@ -3,7 +3,6 @@ manufacturer:IGT - International Game Technology
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:pc644vz
 cloneof:pc644vz

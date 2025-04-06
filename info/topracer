@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1984
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:namco51
 device:namco52

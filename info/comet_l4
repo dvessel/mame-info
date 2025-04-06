@@ -3,7 +3,6 @@ manufacturer:Williams
 year:1985
 status:preliminary
 emulation:good
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:comet_l5

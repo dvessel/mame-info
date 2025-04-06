@@ -3,7 +3,6 @@ manufacturer:Warashi
 year:1997
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:segabill
 romof:stvbios

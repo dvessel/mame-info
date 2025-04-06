@@ -3,7 +3,6 @@ manufacturer:Sure Milano
 year:2000
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:mil4000
 cloneof:mil4000

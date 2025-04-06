@@ -3,7 +3,6 @@ manufacturer:Amcoe
 year:2005
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:moneymac
 cloneof:moneymac

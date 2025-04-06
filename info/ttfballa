@@ -3,6 +3,5 @@ manufacturer:Toytronic
 year:1979
 status:good
 emulation:good
-savestate:supported
 romof:ttfball
 cloneof:ttfball

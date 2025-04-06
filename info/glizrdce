@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:2001
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:kgalah
 romof:aristmk5

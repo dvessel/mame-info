@@ -3,5 +3,4 @@ manufacturer:Icatel
 year:1995
 status:preliminary
 emulation:good
-savestate:unsupported
 device:hd44780

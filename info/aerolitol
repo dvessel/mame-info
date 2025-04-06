@@ -3,7 +3,6 @@ manufacturer:bootleg (Pasatiempos Laguna)
 year:1980
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:asteroid
 cloneof:asteroid

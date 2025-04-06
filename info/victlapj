@@ -3,7 +3,6 @@ manufacturer:Namco
 year:1996
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:namcoc71
 device:namcoc74

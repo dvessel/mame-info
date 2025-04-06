@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu (Zhongguo Shantou Yihuang license)
 year:1997
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:zeroteam
 cloneof:zeroteam

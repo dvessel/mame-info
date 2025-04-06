@@ -3,7 +3,6 @@ manufacturer:Freetech
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:at_keybc
 device:kb_ms_natural
 device:wd90c31_lr

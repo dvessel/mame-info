@@ -3,6 +3,5 @@ manufacturer:Hegener + Glaser / Tasc
 year:1994
 status:good
 emulation:good
-savestate:supported
 device:chessmachine
 device:hd44780

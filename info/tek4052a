@@ -3,6 +3,5 @@ manufacturer:Tektronix
 year:1978
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:tek4051
 cloneof:tek4051

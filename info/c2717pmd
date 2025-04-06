@@ -3,6 +3,5 @@ manufacturer:Zbrojovka Brno
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:pmd851
 cloneof:pmd851

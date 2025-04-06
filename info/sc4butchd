@@ -1,9 +1,8 @@
-description:Butch Cashidy &amp; The Sundance Quid (Bellfruit) (Scorpion 4) (set 5)
+description:Butch Cashidy & The Sundance Quid (Bellfruit) (Scorpion 4) (set 5)
 manufacturer:BFM
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:sc4butch
 cloneof:sc4butch

@@ -3,7 +3,6 @@ manufacturer:IGS (Alta license)
 year:2007
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:orleg2
 cloneof:orleg2

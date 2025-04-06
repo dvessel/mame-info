@@ -3,7 +3,6 @@ manufacturer:Taito
 year:1995
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:psyforce
 romof:coh1000t

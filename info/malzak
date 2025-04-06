@@ -3,6 +3,5 @@ manufacturer:Kitronix
 year:19??
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:saa5050

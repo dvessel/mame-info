@@ -3,6 +3,5 @@ manufacturer:Nakanihon
 year:1994
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413

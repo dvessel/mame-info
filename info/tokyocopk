@@ -3,7 +3,6 @@ manufacturer:Gaelco
 year:2003
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:tokyocop
 cloneof:tokyocop
 disk:tokyocopk

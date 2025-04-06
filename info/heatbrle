@@ -3,7 +3,6 @@ manufacturer:TAD Corporation (Electronic Devices license)
 year:1992
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:heatbrl
 cloneof:heatbrl

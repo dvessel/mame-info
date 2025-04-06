@@ -3,6 +3,5 @@ manufacturer:Toshiba
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:hx23f
 cloneof:hx23f

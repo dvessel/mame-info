@@ -1,8 +1,7 @@
 description:Cosmo
-manufacturer:TDS &amp; MINTS
+manufacturer:TDS & MINTS
 year:1979
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 sampleof:invaders

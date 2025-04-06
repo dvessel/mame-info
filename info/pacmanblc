@@ -3,7 +3,6 @@ manufacturer:bootleg (Calfesa)
 year:1981
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:puckman
 cloneof:puckman

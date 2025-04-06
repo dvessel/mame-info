@@ -3,7 +3,6 @@ manufacturer:bootleg (Electronic Devices)
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:powerins
 cloneof:powerins

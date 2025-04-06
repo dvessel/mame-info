@@ -1,8 +1,7 @@
 description:MMD-2 Mini-Micro Designer
-manufacturer:E&amp;L Instruments Inc
+manufacturer:E&L Instruments Inc
 year:1976
 status:good
 emulation:good
-savestate:supported
 romof:mmd1
 cloneof:mmd1

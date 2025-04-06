@@ -3,6 +3,5 @@ manufacturer:Jeutel
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:jlasvegas
 cloneof:jlasvegas

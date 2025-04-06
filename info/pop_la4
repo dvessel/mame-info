@@ -3,7 +3,6 @@ manufacturer:Bally
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:pop_lx5

@@ -3,6 +3,5 @@ manufacturer:Fidelity International
 year:1988
 status:good
 emulation:good
-savestate:supported
 romof:fdes2100d
 cloneof:fdes2100d

@@ -3,6 +3,5 @@ manufacturer:International Business Machines
 year:1983
 status:imperfect
 emulation:good
-savestate:unsupported
 romof:ibm5150
 cloneof:ibm5150

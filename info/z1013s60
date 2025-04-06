@@ -3,6 +3,5 @@ manufacturer:VEB Robotron Electronics Riesa
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:z1013
 cloneof:z1013

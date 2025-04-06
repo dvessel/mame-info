@@ -3,7 +3,6 @@ manufacturer:Pcp
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 device:ace_sp_reelctrl_pcp
 device:m68705p3

@@ -3,6 +3,5 @@ manufacturer:Coinmaster-Gaming, Ltd.
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:cmkenosp
 cloneof:cmkenosp

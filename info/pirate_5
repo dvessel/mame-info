@@ -3,7 +3,6 @@ manufacturer:Igrosoft
 year:2005
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pirate_3
 cloneof:pirate_3

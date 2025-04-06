@@ -3,7 +3,6 @@ manufacturer:Stern Electronics
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:pr8210
 romof:cliffhgr

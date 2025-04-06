@@ -3,7 +3,6 @@ manufacturer:Polycorp
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:saa5050
 romof:poly1
 cloneof:poly1

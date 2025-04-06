@@ -3,7 +3,6 @@ manufacturer:Bordun International
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:sstar97
 cloneof:sstar97

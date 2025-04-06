@@ -3,7 +3,6 @@ manufacturer:Namco / Nintendo
 year:2007
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:mkartag2
 romof:triforce
 cloneof:mkartag2

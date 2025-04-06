@@ -3,7 +3,6 @@ manufacturer:Kaypro Corporation
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:supported
 device:kaypro10kbd
 romof:kaypro484
 cloneof:kaypro484

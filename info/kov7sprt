@@ -3,6 +3,5 @@ manufacturer:IGS / Sammy
 year:2003
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:awbios

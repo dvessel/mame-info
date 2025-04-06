@@ -3,7 +3,6 @@ manufacturer:Atari (Kee Games)
 year:1976
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:tank8
 cloneof:tank8

@@ -3,7 +3,6 @@ manufacturer:Hi-max Technology Inc.
 year:1995
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:newfant
 cloneof:newfant

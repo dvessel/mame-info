@@ -3,7 +3,6 @@ manufacturer:Psikyo
 year:1998
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:sbomber
 cloneof:sbomber

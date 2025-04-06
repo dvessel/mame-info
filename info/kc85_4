@@ -3,6 +3,5 @@ manufacturer:VEB Mikroelektronik "Wilhelm Pieck" Mühlhausen
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:kc85_2
 cloneof:kc85_2

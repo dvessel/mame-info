@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:199?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:jollycrd
 cloneof:jollycrd

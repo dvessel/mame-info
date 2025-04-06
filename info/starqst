@@ -3,7 +3,6 @@ manufacturer:Aristocrat
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:followst
 romof:aristmk6
 cloneof:followst

@@ -3,7 +3,6 @@ manufacturer:Epos Corporation
 year:1984
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:revngr84
 cloneof:revngr84

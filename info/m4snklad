@@ -1,8 +1,7 @@
-description:Snakes &amp; Ladders (Mdm) (MPU4)
+description:Snakes & Ladders (Mdm) (MPU4)
 manufacturer:Mdm
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 kind:coinop

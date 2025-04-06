@@ -3,7 +3,6 @@ manufacturer:Small Systems Engineering
 year:1981
 status:good
 emulation:good
-savestate:unsupported
 device:c8050
 device:c8050fdc
 device:imi5000h

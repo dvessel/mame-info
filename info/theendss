@@ -3,7 +3,6 @@ manufacturer:bootleg (Sonic)
 year:1981
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:theend
 cloneof:theend

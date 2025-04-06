@@ -3,7 +3,6 @@ manufacturer:Sakhr
 year:1986
 status:good
 emulation:good
-savestate:unsupported
 device:msx_cart_sfg05
 romof:ax200
 cloneof:ax200

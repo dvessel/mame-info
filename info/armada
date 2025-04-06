@@ -3,7 +3,6 @@ manufacturer:Zaccaria / I.G.R.
 year:1980
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:seabattl
 cloneof:seabattl

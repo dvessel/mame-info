@@ -3,7 +3,6 @@ manufacturer:MYAB
 year:198?
 status:imperfect
 emulation:good
-savestate:supported
 device:abc80kb
 device:abc830
 device:sn74s263

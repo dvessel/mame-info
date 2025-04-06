@@ -3,6 +3,5 @@ manufacturer:Canon
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 romof:canonv20
 cloneof:canonv20

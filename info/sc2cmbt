@@ -1,9 +1,8 @@
-description:Cat &amp; Mouse &amp; Bonzo Too (Bellfruit) (set 1, UK) (Scorpion 2/3)
+description:Cat & Mouse & Bonzo Too (Bellfruit) (set 1, UK) (Scorpion 2/3)
 manufacturer:BFM
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 device:ym2413

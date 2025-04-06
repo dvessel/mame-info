@@ -1,8 +1,7 @@
-description:Jack &amp; Vera (Maygay M2, set 2)
+description:Jack & Vera (Maygay M2, set 2)
 manufacturer:Maygay
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:mg_jv
 cloneof:mg_jv

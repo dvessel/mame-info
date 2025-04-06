@@ -3,7 +3,6 @@ manufacturer:bootleg (Unitron)
 year:1985
 status:good
 emulation:good
-savestate:supported
 device:mackbd_m0110a
 romof:macplus
 cloneof:macplus

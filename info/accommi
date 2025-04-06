@@ -3,7 +3,6 @@ manufacturer:Acorn Computers
 year:1988
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:saa5240b
 romof:accomm
 cloneof:accomm

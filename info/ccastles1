@@ -3,7 +3,6 @@ manufacturer:Atari
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:ccastles
 cloneof:ccastles

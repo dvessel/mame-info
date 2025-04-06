@@ -3,7 +3,6 @@ manufacturer:Sega / Wow Entertainment
 year:2003
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:segadimm
 romof:gekpurya
 romof:triforce

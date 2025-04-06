@@ -3,6 +3,5 @@ manufacturer:VEB Robotron
 year:1986
 status:preliminary
 emulation:preliminary
-savestate:supported
 device:robotron_k7070
 device:isbc_215g

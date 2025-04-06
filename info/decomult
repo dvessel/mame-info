@@ -3,6 +3,5 @@ manufacturer:bootleg (David Widel)
 year:2008
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:decocass

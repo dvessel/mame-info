@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:s1945iii
 cloneof:s1945iii

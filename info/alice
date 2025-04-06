@@ -1,8 +1,7 @@
 description:Alice
-manufacturer:Matra &amp; Hachette
+manufacturer:Matra & Hachette
 year:1983
 status:good
 emulation:good
-savestate:supported
 romof:mc10
 cloneof:mc10

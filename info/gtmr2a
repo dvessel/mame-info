@@ -3,7 +3,6 @@ manufacturer:Kaneko
 year:1995
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:gtmr2
 cloneof:gtmr2

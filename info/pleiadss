@@ -3,7 +3,6 @@ manufacturer:bootleg (Famaresa)
 year:1981
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pleiads
 cloneof:pleiads

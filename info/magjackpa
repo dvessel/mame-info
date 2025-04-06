@@ -3,7 +3,6 @@ manufacturer:Global
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:magjackp
 cloneof:magjackp

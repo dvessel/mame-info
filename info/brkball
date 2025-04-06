@@ -3,6 +3,5 @@ manufacturer:BFM/ATOD
 year:1994
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413

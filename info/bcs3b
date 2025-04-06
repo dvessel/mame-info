@@ -3,6 +3,5 @@ manufacturer:Eckhard Schiller
 year:1986
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:bcs3
 cloneof:bcs3

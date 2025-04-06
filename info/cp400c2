@@ -3,7 +3,6 @@ manufacturer:Prológica
 year:1985
 status:good
 emulation:good
-savestate:supported
 device:cp450_fdc
 romof:coco
 cloneof:coco

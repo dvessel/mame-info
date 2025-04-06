@@ -3,6 +3,5 @@ manufacturer:Osborne
 year:1983
 status:good
 emulation:good
-savestate:supported
 romof:osborne1
 cloneof:osborne1

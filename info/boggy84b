@@ -3,7 +3,6 @@ manufacturer:bootleg (Eddie's Games)
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:boggy84
 cloneof:boggy84

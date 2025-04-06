@@ -1,8 +1,7 @@
 description:Galaxy Games BIOS
-manufacturer:Creative Electronics &amp; Software
+manufacturer:Creative Electronics & Software
 year:1998
 status:good
 emulation:good
-savestate:unsupported
 kind:bios
 kind:coinop

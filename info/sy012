@@ -2,7 +2,6 @@ description:SY-012 16/25 386MB VER: 5.2
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:at_keybc
 device:et4000
 device:kb_ms_natural

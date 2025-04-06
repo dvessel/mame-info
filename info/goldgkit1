@@ -3,7 +3,6 @@ manufacturer:Splin
 year:19??
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:goldgame
 cloneof:goldgame

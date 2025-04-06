@@ -3,6 +3,5 @@ manufacturer:Compukit
 year:1979
 status:good
 emulation:good
-savestate:supported
 romof:sb2m600b
 cloneof:sb2m600b

@@ -3,7 +3,6 @@ manufacturer:Incredible Technologies
 year:2004
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:gtfore05
 romof:iteagle

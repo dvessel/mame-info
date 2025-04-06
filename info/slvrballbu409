@@ -3,7 +3,6 @@ manufacturer:TAB Austria
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:virge_pci
 romof:slvrball806
 cloneof:slvrball806

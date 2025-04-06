@@ -3,7 +3,6 @@ manufacturer:Sun Electronics
 year:1984
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:banbam
 cloneof:banbam

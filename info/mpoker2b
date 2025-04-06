@@ -3,6 +3,5 @@ manufacturer:PAL Systems
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:mpoker2
 cloneof:mpoker2

@@ -3,7 +3,6 @@ manufacturer:bootleg (Elsys Software)
 year:1985
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:suprglob
 cloneof:suprglob

@@ -3,6 +3,5 @@ manufacturer:Namco
 year:2002
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:sys246
 disk:npy1cd0c

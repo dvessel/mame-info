@@ -1,9 +1,8 @@
-description:Dough &amp; Arrow Club (Qps, set 5)
+description:Dough & Arrow Club (Qps, set 5)
 manufacturer:Qps
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:hb_dac
 cloneof:hb_dac

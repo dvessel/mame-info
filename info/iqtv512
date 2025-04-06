@@ -3,6 +3,5 @@ manufacturer:Video Technology
 year:1998
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:pcunlim
 cloneof:pcunlim

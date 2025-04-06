@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu (International Games license)
 year:1987
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:t5182
 romof:mustache

@@ -3,7 +3,6 @@ manufacturer:bootleg (Videa System)
 year:19??
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pisces
 cloneof:pisces

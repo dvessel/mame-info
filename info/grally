@@ -3,7 +3,6 @@ manufacturer:bootleg (Niemer)
 year:1984
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:namco51
 romof:polepos2

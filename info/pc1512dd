@@ -3,7 +3,6 @@ manufacturer:Amstrad plc
 year:1986
 status:good
 emulation:good
-savestate:supported
 device:pc1512kb
 romof:pc1512
 cloneof:pc1512

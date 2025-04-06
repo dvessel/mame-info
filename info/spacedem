@@ -3,7 +3,6 @@ manufacturer:Nintendo (Fortrek license)
 year:1980
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:spacefb
 cloneof:spacefb

@@ -1,7 +1,6 @@
-description:Reaktor (Track &amp; Field conversion)
+description:Reaktor (Track & Field conversion)
 manufacturer:Zilec
 year:1987
 status:good
 emulation:good
-savestate:supported
 kind:coinop

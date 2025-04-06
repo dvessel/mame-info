@@ -3,7 +3,6 @@ manufacturer:Bally Midway
 year:1986
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:rampage
 cloneof:rampage

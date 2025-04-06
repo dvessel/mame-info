@@ -3,7 +3,6 @@ manufacturer:Noraut Ltd.
 year:198?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:norautua
 cloneof:norautua

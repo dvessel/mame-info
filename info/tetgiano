@@ -3,7 +3,6 @@ manufacturer:Sega
 year:2009
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:tetgiant
 romof:segasp

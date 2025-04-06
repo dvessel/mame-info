@@ -3,6 +3,5 @@ manufacturer:Digital Equipment Corporation
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:vt220
 cloneof:vt220

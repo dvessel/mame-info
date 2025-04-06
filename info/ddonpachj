@@ -3,7 +3,6 @@ manufacturer:Cave (Atlus license)
 year:1997
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:ddonpach
 cloneof:ddonpach

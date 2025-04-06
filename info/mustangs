@@ -3,7 +3,6 @@ manufacturer:UPL (Seoul Trading license)
 year:1990
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:nmk004
 romof:mustang

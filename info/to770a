@@ -3,6 +3,5 @@ manufacturer:Thomson
 year:1984
 status:good
 emulation:good
-savestate:unsupported
 romof:to770
 cloneof:to770

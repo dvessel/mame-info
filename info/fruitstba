@@ -3,7 +3,6 @@ manufacturer:Webak Elektronik
 year:199?
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:fruitstb
 cloneof:fruitstb

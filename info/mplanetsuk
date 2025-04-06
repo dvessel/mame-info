@@ -3,7 +3,6 @@ manufacturer:Gottlieb (Taitel license)
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:mplanets
 cloneof:mplanets

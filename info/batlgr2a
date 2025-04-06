@@ -3,7 +3,6 @@ manufacturer:Taito
 year:2000
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:batlgr2
 romof:taitotz

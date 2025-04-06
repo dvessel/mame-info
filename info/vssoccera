@@ -3,7 +3,6 @@ manufacturer:Nintendo
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:vssoccer
 cloneof:vssoccer

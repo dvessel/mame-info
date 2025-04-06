@@ -3,5 +3,4 @@ manufacturer:Mindset Corporation
 year:1984
 status:good
 emulation:good
-savestate:supported
 device:mindset_sound_module

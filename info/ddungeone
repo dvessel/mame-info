@@ -3,7 +3,6 @@ manufacturer:East Coast Coin Company
 year:1992
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:m68705p3
 romof:ddungeon

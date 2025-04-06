@@ -3,6 +3,5 @@ manufacturer:Takumi (Capcom license)
 year:1999
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:qsound_hle

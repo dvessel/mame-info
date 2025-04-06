@@ -3,7 +3,6 @@ manufacturer:bootleg (mpatou)
 year:2009
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:wbml
 cloneof:wbml

@@ -3,6 +3,5 @@ manufacturer:Luxor
 year:197?
 status:good
 emulation:good
-savestate:unsupported
 romof:channelf
 cloneof:channelf

@@ -3,7 +3,6 @@ manufacturer:Acorn Computers
 year:1989
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:archimedes_keyboard
 device:arc_ether1_aka25
 romof:aa310

@@ -3,6 +3,5 @@ manufacturer:Yamaha
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:mks3
 device:ks0066

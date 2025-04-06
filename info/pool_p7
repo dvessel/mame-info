@@ -3,7 +3,6 @@ manufacturer:Bally
 year:1989
 status:preliminary
 emulation:good
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:pool_l7

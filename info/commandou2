@@ -3,7 +3,6 @@ manufacturer:Capcom (Data East USA license)
 year:1985
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:commando
 cloneof:commando

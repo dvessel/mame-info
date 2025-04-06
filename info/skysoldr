@@ -3,6 +3,5 @@ manufacturer:Alpha Denshi Co. (SNK of America/Romstar license)
 year:1988
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 device:ym2413

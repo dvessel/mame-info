@@ -3,6 +3,5 @@ manufacturer:Visual Technology
 year:1982
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:upd7220
 device:v550_kbd

@@ -1,9 +1,8 @@
-description:Joe &amp; Mac Returns (World, Version 1.0, 1994.05.19)
+description:Joe & Mac Returns (World, Version 1.0, 1994.05.19)
 manufacturer:Data East Corporation
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:joemacr
 cloneof:joemacr

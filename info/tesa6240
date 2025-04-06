@@ -3,7 +3,6 @@ manufacturer:Tesa Etikett
 year:1984
 status:good
 emulation:good
-savestate:supported
 device:sx1541
 romof:c64
 cloneof:c64

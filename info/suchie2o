@@ -3,7 +3,6 @@ manufacturer:Jaleco
 year:1994
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:suchie2
 cloneof:suchie2

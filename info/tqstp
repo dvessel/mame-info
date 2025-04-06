@@ -3,7 +3,6 @@ manufacturer:Ace
 year:1996
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:tqst
 cloneof:tqst

@@ -3,7 +3,6 @@ manufacturer:BFM
 year:2005
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:sc5potp
 cloneof:sc5potp

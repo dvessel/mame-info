@@ -3,7 +3,6 @@ manufacturer:bootleg (Conny Co Ltd.)
 year:1996
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:tdragon2
 cloneof:tdragon2

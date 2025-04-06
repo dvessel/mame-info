@@ -3,6 +3,5 @@ manufacturer:Hegener + Glaser
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:dallas32
 cloneof:dallas32

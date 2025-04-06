@@ -3,7 +3,6 @@ manufacturer:Iskra Delta
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:partner_gdp
 device:ef9365
 romof:partnerw

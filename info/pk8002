@@ -2,6 +2,5 @@ description:PK8002 Elf
 year:1987
 status:preliminary
 emulation:preliminary
-savestate:supported
 romof:vesta
 cloneof:vesta

@@ -3,6 +3,5 @@ manufacturer:National
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 romof:fs4000
 cloneof:fs4000

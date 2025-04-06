@@ -3,6 +3,5 @@ manufacturer:Consumenta Computer / Loproc
 year:1982
 status:good
 emulation:good
-savestate:supported
 romof:conc
 cloneof:conc

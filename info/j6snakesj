@@ -1,9 +1,8 @@
-description:Snakes &amp; Ladders (JPM) (SL11P CA4) (IMPACT) (set 11, Protocol)
+description:Snakes & Ladders (JPM) (SL11P CA4) (IMPACT) (set 11, Protocol)
 manufacturer:JPM
 year:199?
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6snakes

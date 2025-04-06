@@ -3,7 +3,6 @@ manufacturer:Epos Corporation
 year:1984
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:drakton
 cloneof:drakton

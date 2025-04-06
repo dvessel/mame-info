@@ -3,6 +3,5 @@ manufacturer:IVL Technologies
 year:2002
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:karatvst
 cloneof:karatvst

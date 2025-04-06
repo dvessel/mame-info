@@ -3,5 +3,4 @@ manufacturer:Tandy Radio Shack
 year:1980
 status:good
 emulation:good
-savestate:supported
 device:coco_fdc

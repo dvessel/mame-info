@@ -3,6 +3,5 @@ manufacturer:Gaelco (Atari license)
 year:1997
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:tms32031

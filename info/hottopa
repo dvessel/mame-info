@@ -3,6 +3,5 @@ manufacturer:WMS
 year:2001
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:hottop
 cloneof:hottop

@@ -3,7 +3,6 @@ manufacturer:Barcrest
 year:1993
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:v4cmaze
 romof:v4bios

@@ -3,7 +3,6 @@ manufacturer:Incredible Technologies
 year:2000
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:iteagle
 disk:bbh_v1.00.14

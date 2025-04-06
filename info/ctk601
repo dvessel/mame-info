@@ -3,5 +3,4 @@ manufacturer:Casio
 year:1997
 status:imperfect
 emulation:good
-savestate:supported
 device:hd44780

@@ -3,6 +3,5 @@ manufacturer:Fidelity Deutschland
 year:1983
 status:good
 emulation:good
-savestate:supported
 romof:fscc9
 cloneof:fscc9

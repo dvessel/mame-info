@@ -3,6 +3,5 @@ manufacturer:Spectravideo
 year:1983
 status:good
 emulation:good
-savestate:supported
 romof:svi318
 cloneof:svi318

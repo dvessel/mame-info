@@ -3,6 +3,5 @@ manufacturer:CXG Systems / Newcrest Technology / LogiSoft
 year:1986
 status:good
 emulation:good
-savestate:supported
 romof:senterp
 cloneof:senterp

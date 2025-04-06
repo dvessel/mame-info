@@ -3,7 +3,6 @@ manufacturer:Gottlieb (Konami license)
 year:1982
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:votrsc01a
 romof:qbert

@@ -3,7 +3,6 @@ manufacturer:Seibu Kaihatsu (Liang HWA Electronics license)
 year:1990
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:raiden
 cloneof:raiden

@@ -3,6 +3,5 @@ manufacturer:Memotech Ltd
 year:1983
 status:good
 emulation:good
-savestate:unsupported
 romof:mtx512
 cloneof:mtx512

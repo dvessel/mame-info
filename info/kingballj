@@ -1,9 +1,8 @@
-description:King &amp; Balloon (Japan)
+description:King & Balloon (Japan)
 manufacturer:Namco
 year:1980
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:kingball
 cloneof:kingball

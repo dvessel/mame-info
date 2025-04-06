@@ -3,7 +3,6 @@ manufacturer:Zaccaria (Bally Midway license)
 year:1981
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:laserbat
 cloneof:laserbat

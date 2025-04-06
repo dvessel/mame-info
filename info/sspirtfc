@@ -3,7 +3,6 @@ manufacturer:Sega
 year:1988
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:sspirits
 cloneof:sspirits

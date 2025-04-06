@@ -3,7 +3,6 @@ manufacturer:Namco
 year:1993
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:namcoc68
 romof:suzuk8h2

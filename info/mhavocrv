@@ -3,7 +3,6 @@ manufacturer:hack (JMA)
 year:2006
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:mhavoc
 cloneof:mhavoc

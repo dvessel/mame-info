@@ -3,7 +3,6 @@ manufacturer:Comad (American Sammy license)
 year:1990
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 device:m68705r3
 romof:pushman

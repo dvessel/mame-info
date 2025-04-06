@@ -3,6 +3,5 @@ manufacturer:Sony
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 romof:hb10p
 cloneof:hb10p

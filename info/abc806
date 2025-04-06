@@ -3,6 +3,5 @@ manufacturer:Luxor Datorer AB
 year:1983
 status:good
 emulation:good
-savestate:supported
 device:abc832
 device:abc77

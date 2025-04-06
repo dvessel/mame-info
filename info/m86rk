@@ -2,6 +2,5 @@ description:Mikrosha-86RK
 year:1987
 status:good
 emulation:good
-savestate:supported
 romof:radio86
 cloneof:radio86

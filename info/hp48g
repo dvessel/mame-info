@@ -3,6 +3,5 @@ manufacturer:Hewlett Packard
 year:1993
 status:good
 emulation:good
-savestate:unsupported
 romof:hp48gx
 cloneof:hp48gx

@@ -3,7 +3,6 @@ manufacturer:Gaelco / Zeus
 year:1994
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:biomtoy
 cloneof:biomtoy

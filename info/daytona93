@@ -3,7 +3,6 @@ manufacturer:Sega
 year:1993
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 device:model1io
 romof:daytona

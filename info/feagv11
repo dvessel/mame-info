@@ -3,6 +3,5 @@ manufacturer:hack (Wilfried Bucke)
 year:2001
 status:imperfect
 emulation:good
-savestate:supported
 romof:feagv4
 cloneof:feagv4

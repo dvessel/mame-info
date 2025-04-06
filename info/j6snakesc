@@ -1,9 +1,8 @@
-description:Snakes &amp; Ladders (JPM) (IMPACT) (SL18 C22) (set 4, Whitbread)
+description:Snakes & Ladders (JPM) (IMPACT) (SL18 C22) (set 4, Whitbread)
 manufacturer:JPM
 year:199?
 status:preliminary
 emulation:good
-savestate:unsupported
 kind:mechanical
 kind:coinop
 romof:j6snakes

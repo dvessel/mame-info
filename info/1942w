@@ -3,7 +3,6 @@ manufacturer:Capcom (Williams Electronics license)
 year:1985
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:1942
 cloneof:1942

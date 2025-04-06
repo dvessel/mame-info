@@ -3,6 +3,5 @@ manufacturer:Grundy Business Systems Ltd
 year:1981
 status:preliminary
 emulation:preliminary
-savestate:supported
 device:newbrain_eim
 device:newbrain_fdc

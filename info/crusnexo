@@ -3,6 +3,5 @@ manufacturer:Midway
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 device:tms32032

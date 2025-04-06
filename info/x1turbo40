@@ -3,6 +3,5 @@ manufacturer:Sharp
 year:1985
 status:good
 emulation:good
-savestate:unsupported
 romof:x1
 cloneof:x1

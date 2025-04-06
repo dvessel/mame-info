@@ -3,7 +3,6 @@ manufacturer:bootleg (Macro)
 year:199?
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 device:ym2608
 romof:puckman

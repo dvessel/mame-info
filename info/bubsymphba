@@ -3,7 +3,6 @@ manufacturer:bootleg (SOFTV)
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:bublbob2
 cloneof:bublbob2

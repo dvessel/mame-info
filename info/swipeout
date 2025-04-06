@@ -3,7 +3,6 @@ manufacturer:bootleg (Beyer and Brown)
 year:1978
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:invaders
 cloneof:invaders

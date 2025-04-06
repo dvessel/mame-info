@@ -3,6 +3,5 @@ manufacturer:Financial Products Corp.
 year:1991
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 romof:ngen
 cloneof:ngen

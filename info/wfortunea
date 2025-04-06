@@ -3,7 +3,6 @@ manufacturer:GameTek
 year:1989
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:wfortune
 cloneof:wfortune

@@ -1,8 +1,7 @@
-description:Game &amp; Watch: Helmet (version CN-07)
+description:Game & Watch: Helmet (version CN-07)
 manufacturer:Nintendo
 year:1981
 status:good
 emulation:good
-savestate:supported
 romof:gnw_helmet
 cloneof:gnw_helmet

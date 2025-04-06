@@ -3,6 +3,5 @@ manufacturer:Jaleco
 year:1995
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop

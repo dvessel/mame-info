@@ -3,7 +3,6 @@ manufacturer:Zenith Data Systems
 year:1981
 status:good
 emulation:good
-savestate:supported
 device:heath_tlb
 device:mm5740
 device:h89bus

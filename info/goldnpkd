@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:198?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:goldnpkr
 cloneof:goldnpkr

@@ -3,6 +3,5 @@ manufacturer:Atari Europe
 year:1977
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop

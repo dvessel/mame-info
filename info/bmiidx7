@@ -3,7 +3,6 @@ manufacturer:Konami
 year:2002
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:gq863
 disk:b44jab01

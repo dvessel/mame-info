@@ -3,7 +3,6 @@ manufacturer:Epson
 year:1983
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:epson_tf20
 romof:ehx20
 cloneof:ehx20

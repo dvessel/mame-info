@@ -3,7 +3,6 @@ manufacturer:hack (trap15)
 year:2015
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:fireshrk
 cloneof:fireshrk

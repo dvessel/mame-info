@@ -3,7 +3,6 @@ manufacturer:Visco
 year:1996
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:stmblade
 cloneof:stmblade

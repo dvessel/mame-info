@@ -3,7 +3,6 @@ manufacturer:Triangle Service
 year:2002
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:coh3002t
 disk:xiistag

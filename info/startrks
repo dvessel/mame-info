@@ -3,7 +3,6 @@ manufacturer:bootleg (Sidam)
 year:198?
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:nostromo
 cloneof:nostromo

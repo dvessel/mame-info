@@ -1,9 +1,8 @@
-description:Super Diamonds &amp; Rubies SP98 (PR6921) (Bellfruit) (Scorpion 4) (set 2)
+description:Super Diamonds & Rubies SP98 (PR6921) (Bellfruit) (Scorpion 4) (set 2)
 manufacturer:BFM
 year:200?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:coinop
 romof:sc4sdr
 cloneof:sc4sdr

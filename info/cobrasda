@@ -3,7 +3,6 @@ manufacturer:TourVisión
 year:1997
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:cobrasd
 cloneof:cobrasd

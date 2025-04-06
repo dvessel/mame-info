@@ -3,7 +3,6 @@ manufacturer:Stern
 year:2006
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:skc_105
 cloneof:skc_105

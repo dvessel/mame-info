@@ -3,7 +3,6 @@ manufacturer:bootleg (Arcade MOD BIOS)
 year:2011
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:coh3002t
 disk:flamegun

@@ -3,7 +3,6 @@ manufacturer:IGS / Idea Factory (AMI license)
 year:2005
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:svg
 romof:pgm

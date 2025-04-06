@@ -3,7 +3,6 @@ manufacturer:Taito
 year:2000
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:coh1002t
 disk:e83-01__

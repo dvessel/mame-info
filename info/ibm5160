@@ -3,7 +3,6 @@ manufacturer:International Business Machines
 year:1982
 status:imperfect
 emulation:good
-savestate:unsupported
 device:cga
 device:isa_hdc
 device:kb_pcxt83

@@ -3,7 +3,6 @@ manufacturer:Gaelco
 year:1995
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:wrally2
 cloneof:wrally2

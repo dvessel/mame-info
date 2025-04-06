@@ -3,6 +3,5 @@ manufacturer:Spectravideo
 year:1984
 status:good
 emulation:good
-savestate:unsupported
 romof:svi728
 cloneof:svi728

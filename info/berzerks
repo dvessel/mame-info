@@ -3,7 +3,6 @@ manufacturer:Stern Electronics (Sonic License)
 year:1980
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:berzerk
 cloneof:berzerk

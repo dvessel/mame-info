@@ -3,6 +3,5 @@ manufacturer:ADP
 year:1997
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:microtouch

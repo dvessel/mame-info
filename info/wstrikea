@@ -3,7 +3,6 @@ manufacturer:Video Klein
 year:1992
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 romof:wstrike
 cloneof:wstrike

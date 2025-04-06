@@ -3,6 +3,5 @@ manufacturer:Yamaha
 year:1994
 status:imperfect
 emulation:good
-savestate:supported
 romof:psr180
 cloneof:psr180

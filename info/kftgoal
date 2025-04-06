@@ -3,7 +3,6 @@ manufacturer:Jaleco
 year:1994
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:wpksoc

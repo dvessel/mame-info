@@ -3,7 +3,6 @@ manufacturer:Digital Equipment Corporation
 year:197?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:rx01
 romof:pdp11ub
 cloneof:pdp11ub

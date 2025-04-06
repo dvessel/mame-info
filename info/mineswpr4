@@ -3,7 +3,6 @@ manufacturer:Amutech
 year:1977
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:mineswpr
 cloneof:mineswpr

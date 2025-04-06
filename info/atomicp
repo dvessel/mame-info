@@ -3,6 +3,5 @@ manufacturer:Philko
 year:1990
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413

@@ -3,7 +3,6 @@ manufacturer:Yamaha
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 device:mulcd
 device:hd44780
 romof:mu500

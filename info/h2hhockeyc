@@ -3,6 +3,5 @@ manufacturer:Coleco
 year:1980
 status:good
 emulation:good
-savestate:supported
 romof:h2hhockey
 cloneof:h2hhockey

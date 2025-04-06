@@ -3,7 +3,6 @@ manufacturer:bootleg (CTA Corporation)
 year:19??
 status:preliminary
 emulation:good
-savestate:supported
 kind:coinop
 romof:beaminv
 cloneof:beaminv

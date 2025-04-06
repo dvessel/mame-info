@@ -3,7 +3,6 @@ manufacturer:Ace Enterprise
 year:1998
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:3x3puzzl
 cloneof:3x3puzzl

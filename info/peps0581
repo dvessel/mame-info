@@ -1,9 +1,8 @@
-description:Player's Edge Plus (PS0581) Red White &amp; Blue Slots
+description:Player's Edge Plus (PS0581) Red White & Blue Slots
 manufacturer:IGT - International Game Technology
 year:1996
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:peps0021
 cloneof:peps0021

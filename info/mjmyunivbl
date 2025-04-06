@@ -3,7 +3,6 @@ manufacturer:bootleg
 year:1995
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413
 romof:mjmyuniv

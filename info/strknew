@@ -3,7 +3,6 @@ manufacturer:Stern
 year:1999
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:mechanical
 kind:coinop
 romof:strikext

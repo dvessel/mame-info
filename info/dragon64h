@@ -3,7 +3,6 @@ manufacturer:Dragon Data Ltd
 year:19??
 status:good
 emulation:good
-savestate:unsupported
 device:dragon_fdc
 romof:dragon32
 cloneof:dragon32

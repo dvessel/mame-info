@@ -3,6 +3,5 @@ manufacturer:Atari
 year:1979
 status:good
 emulation:good
-savestate:unsupported
 romof:a400
 cloneof:a400

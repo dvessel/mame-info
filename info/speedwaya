@@ -3,7 +3,6 @@ manufacturer:hack
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:supported
 kind:coinop
 romof:speedway
 cloneof:speedway

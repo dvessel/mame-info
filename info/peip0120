@@ -3,7 +3,6 @@ manufacturer:IGT - International Game Technology
 year:1987
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:peip0031
 cloneof:peip0031

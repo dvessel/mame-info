@@ -1,9 +1,8 @@
-description:Pac-Man &amp; Chomp Chomp
+description:Pac-Man & Chomp Chomp
 manufacturer:Namco
 year:1983
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:pacnpal
 cloneof:pacnpal

@@ -3,6 +3,5 @@ manufacturer:Dynax / Shinwhajin
 year:1997
 status:good
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413

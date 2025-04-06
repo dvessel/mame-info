@@ -3,7 +3,6 @@ manufacturer:KM Korea Co, Ltd (official license)
 year:1993
 status:imperfect
 emulation:good
-savestate:unsupported
 kind:coinop
 device:ym2413
 romof:quizchq

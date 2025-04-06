@@ -3,7 +3,6 @@ manufacturer:Electronic Devices Italy
 year:1990
 status:imperfect
 emulation:good
-savestate:supported
 kind:coinop
 romof:galaxygn
 cloneof:galaxygn

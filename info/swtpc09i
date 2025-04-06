@@ -3,6 +3,5 @@ manufacturer:SWTPC
 year:1980
 status:good
 emulation:good
-savestate:unsupported
 romof:swtpc09
 cloneof:swtpc09

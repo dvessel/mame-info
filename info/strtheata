@@ -3,7 +3,6 @@ manufacturer:Epos Corporation
 year:1985
 status:good
 emulation:good
-savestate:supported
 kind:coinop
 romof:strtheat
 cloneof:strtheat

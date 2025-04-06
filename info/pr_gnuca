@@ -3,7 +3,6 @@ manufacturer:Coinworld
 year:199?
 status:preliminary
 emulation:preliminary
-savestate:unsupported
 kind:mechanical
 romof:pr_gnuc
 cloneof:pr_gnuc
