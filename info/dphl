@@ -1,7 +1,7 @@
 description:Draw Poker HI-LO (M.Kramer)
 manufacturer:M.Kramer Manufacturing.
-year:1983
-status:preliminary
-emulation:preliminary
+year:1982
+status:imperfect
+emulation:good
 savestate:unsupported
 kind:coinop

@@ -1,0 +1,9 @@
+description:Xingyun Manguan (China, V651C, set 2)
+manufacturer:IGS
+year:1996
+status:good
+emulation:good
+savestate:supported
+kind:coinop
+romof:xymg
+cloneof:xymg

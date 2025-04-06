@@ -1,6 +1,6 @@
-description:Draw Poker HI-LO (Alt)
+description:Joker Poker (Kramer, alt)
 year:1983
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 savestate:unsupported
 kind:coinop

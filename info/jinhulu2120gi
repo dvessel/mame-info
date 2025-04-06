@@ -1,0 +1,9 @@
+description:Jin Hu Lu II (v120GI)
+manufacturer:IGS
+year:1995
+status:preliminary
+emulation:preliminary
+savestate:supported
+kind:coinop
+romof:jinhulu2
+cloneof:jinhulu2

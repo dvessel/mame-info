@@ -1,0 +1,9 @@
+description:Shanghai Shoryu Sairin (V2.03J 2000/05/26 12:45:28)
+manufacturer:Warashi
+year:2000
+status:imperfect
+emulation:good
+savestate:supported
+kind:coinop
+romof:coh3002t
+disk:shanghss

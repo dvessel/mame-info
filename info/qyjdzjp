@@ -1,0 +1,10 @@
+description:Que You Ji - Dian Zi Ji Pan Jiaqiang Ban (v201)
+manufacturer:bootleg (Hom Inn)
+year:1997
+status:good
+emulation:good
+savestate:supported
+kind:coinop
+device:ym2413
+romof:mjelctrn
+cloneof:mjelctrn

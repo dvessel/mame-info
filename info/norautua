@@ -1,7 +1,7 @@
 description:Noraut Joker Poker (console, set 1)
 manufacturer:Noraut Ltd.
 year:198?
-status:preliminary
-emulation:preliminary
+status:imperfect
+emulation:good
 savestate:unsupported
 kind:coinop

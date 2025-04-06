@@ -1,0 +1,10 @@
+description:Sexy Parodius (ver EAA, bootleg)
+manufacturer:Konami
+year:1996
+status:preliminary
+emulation:preliminary
+savestate:unsupported
+kind:coinop
+romof:sexyparo
+romof:konamigx
+cloneof:sexyparo

@@ -1,0 +1,9 @@
+description:Huahua Shijie II (v100FI, set 2)
+manufacturer:IGS
+year:1995
+status:preliminary
+emulation:preliminary
+savestate:supported
+kind:coinop
+romof:huahuas2
+cloneof:huahuas2

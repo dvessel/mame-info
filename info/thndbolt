@@ -1,0 +1,10 @@
+description:Thunderbolt
+manufacturer:Allied Leisure
+year:1977
+status:preliminary
+emulation:good
+savestate:supported
+kind:mechanical
+kind:coinop
+romof:allied
+sampleof:genpin

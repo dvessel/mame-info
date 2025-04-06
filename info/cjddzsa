@@ -1,0 +1,9 @@
+description:Chaoji Dou Dizhu (V219CN) / Chaoji Dou Dizhu Jianan Ban (V405CN)
+manufacturer:bootleg (WDF)
+year:2009
+status:preliminary
+emulation:preliminary
+savestate:unsupported
+kind:coinop
+romof:cjddzs
+cloneof:cjddzs

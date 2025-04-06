@@ -1,0 +1,10 @@
+description:Foxy Lady
+manufacturer:Game Plan
+year:1978
+status:preliminary
+emulation:good
+savestate:supported
+kind:mechanical
+kind:coinop
+romof:gp_110
+sampleof:genpin

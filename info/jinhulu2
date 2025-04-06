@@ -1,8 +1,7 @@
-description:Jin Hu Lu 2 (v412GS)
+description:Jin Hu Lu II (v412GS)
 manufacturer:IGS
 year:1995
 status:preliminary
 emulation:preliminary
 savestate:supported
 kind:coinop
-device:ym2413

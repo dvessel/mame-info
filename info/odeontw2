@@ -1,0 +1,10 @@
+description:Odeon Twister 2 (v202.19)
+manufacturer:CD Express
+year:1998
+status:preliminary
+emulation:preliminary
+savestate:unsupported
+kind:coinop
+device:microtouch
+romof:cubo
+disk:odeontw2

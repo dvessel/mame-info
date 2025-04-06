@@ -1,0 +1,9 @@
+description:Shikigami no Shiro - internal build (V1.02J 2001/09/27 18:45)
+manufacturer:Alfa System / Taito
+year:2001
+status:imperfect
+emulation:good
+savestate:supported
+kind:coinop
+romof:coh3002t
+disk:shikigama

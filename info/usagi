@@ -1,0 +1,9 @@
+description:Usagi (V2.02J 2001/10/02 12:41:19)
+manufacturer:Warashi / Mahjong Kobo / Taito
+year:2001
+status:imperfect
+emulation:good
+savestate:supported
+kind:coinop
+romof:coh3002t
+disk:usagi

@@ -1,0 +1,9 @@
+description:Tumble Pop (Electronic Devices bootleg)
+manufacturer:bootleg (Electronic Devices)
+year:1991
+status:preliminary
+emulation:preliminary
+savestate:supported
+kind:coinop
+romof:tumblep
+cloneof:tumblep

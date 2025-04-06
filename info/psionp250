@@ -1,0 +1,9 @@
+description:Organiser II P 250
+manufacturer:Psion
+year:1986
+status:imperfect
+emulation:good
+savestate:supported
+device:hd44780
+romof:psioncm
+cloneof:psioncm

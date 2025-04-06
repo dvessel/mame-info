@@ -1,0 +1,10 @@
+description:Flame of Athens
+manufacturer:Allied Leisure
+year:1978
+status:preliminary
+emulation:good
+savestate:supported
+kind:mechanical
+kind:coinop
+romof:allied
+sampleof:genpin

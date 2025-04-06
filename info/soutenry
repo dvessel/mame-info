@@ -1,0 +1,9 @@
+description:Soutenryu (V2.07J 2000/12/14 11:13:02)
+manufacturer:Warashi
+year:2000
+status:imperfect
+emulation:good
+savestate:supported
+kind:coinop
+romof:coh3002t
+disk:soutenry

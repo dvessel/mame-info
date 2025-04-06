@@ -1,9 +1,9 @@
-description:Organiser II LZ64S
+description:Organiser II Alpha POS 200
 manufacturer:Psion
-year:1989
+year:1986
 status:imperfect
 emulation:good
 savestate:supported
 device:hd44780
-romof:psionlz
-cloneof:psionlz
+romof:psioncm
+cloneof:psioncm

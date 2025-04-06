@@ -1,7 +1,7 @@
-description:Draw Poker HI-LO (unknown, rev 2)
+description:Draw Poker HI-LO (alt GFX)
 manufacturer:SMS Manufacturing Corp.
 year:198?
-status:preliminary
-emulation:preliminary
+status:imperfect
+emulation:good
 savestate:unsupported
 kind:coinop

@@ -1,0 +1,10 @@
+description:Mahjong Reach (Ver. 1.00, set 2)
+manufacturer:Dynax
+year:1994
+status:good
+emulation:good
+savestate:supported
+kind:coinop
+device:ym2413
+romof:mjreach
+cloneof:mjreach

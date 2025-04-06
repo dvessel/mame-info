@@ -1,0 +1,9 @@
+description:Flame Gunner (VER 1.40G)
+manufacturer:bootleg (Arcade MOD BIOS)
+year:2011
+status:imperfect
+emulation:good
+savestate:supported
+kind:coinop
+romof:coh3002t
+disk:flamegun

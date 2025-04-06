@@ -1,0 +1,10 @@
+description:Eros One
+manufacturer:Fascination Int.
+year:1979
+status:preliminary
+emulation:good
+savestate:supported
+kind:mechanical
+kind:coinop
+romof:allied
+sampleof:genpin

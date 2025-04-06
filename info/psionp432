@@ -1,0 +1,9 @@
+description:Organiser II P 432
+manufacturer:Psion
+year:1989
+status:imperfect
+emulation:good
+savestate:supported
+device:hd44780
+romof:psionlz
+cloneof:psionlz

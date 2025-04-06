@@ -1,0 +1,12 @@
+description:World Club Champion Football Serie A 2002-2003 Drive Checker (CDV-10007)
+manufacturer:Hitmaker / Sega
+year:2004
+status:preliminary
+emulation:preliminary
+savestate:unsupported
+kind:coinop
+device:mie
+device:jvs13551
+device:segadimm
+romof:naomigd
+disk:cdv-10007

@@ -1,0 +1,9 @@
+description:Otenki Kororin (V2.01J 2001/07/02 10:00)
+manufacturer:Takumi
+year:2001
+status:imperfect
+emulation:good
+savestate:supported
+kind:coinop
+romof:coh3002t
+disk:otenki

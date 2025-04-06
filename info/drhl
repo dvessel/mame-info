@@ -1,7 +1,7 @@
 description:Drews Revenge (v.2.89, set 1)
 manufacturer:Drews Inc.
 year:1986
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 savestate:unsupported
 kind:coinop

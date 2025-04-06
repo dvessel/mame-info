@@ -1,5 +1,6 @@
 description:5-Aces Poker
 year:198?
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 savestate:unsupported
+kind:coinop

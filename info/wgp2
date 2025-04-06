@@ -1,9 +1,7 @@
-description:World Grand Prix 2 (Japan)
+description:WGP 2: Real Race Feeling (Japan)
 manufacturer:Taito Corporation
 year:1990
 status:preliminary
 emulation:preliminary
 savestate:supported
 kind:coinop
-romof:wgp
-cloneof:wgp

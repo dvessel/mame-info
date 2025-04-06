@@ -1,0 +1,9 @@
+description:CD-ROM Drive Updater 2.0 (700B04)
+manufacturer:Konami
+year:1999
+status:imperfect
+emulation:good
+savestate:unsupported
+kind:coinop
+romof:sys573
+disk:700b04

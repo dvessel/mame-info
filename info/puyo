@@ -5,3 +5,5 @@ status:good
 emulation:good
 savestate:unsupported
 kind:coinop
+device:m50dass
+device:ym2413

@@ -1,7 +1,7 @@
-description:Draw 80 Poker
+description:Draw 80 Poker (Minn)
 manufacturer:IGT - International Game Technology
-year:1982
-status:preliminary
-emulation:preliminary
+year:1983
+status:good
+emulation:good
 savestate:unsupported
 kind:coinop

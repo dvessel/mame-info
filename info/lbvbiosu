@@ -1,0 +1,9 @@
+description:VBIOS updater
+manufacturer:Sega
+year:200?
+status:preliminary
+emulation:preliminary
+savestate:unsupported
+romof:lindbios
+disk:mda-c0004a_revb_lindyellow_v2.4.20_mvl31a_boot_2.01
+disk:dvp-0021b

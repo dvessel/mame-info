@@ -1,0 +1,10 @@
+description:Chuck-A-Luck
+manufacturer:Game Plan
+year:1978
+status:preliminary
+emulation:good
+savestate:supported
+kind:mechanical
+kind:coinop
+romof:gp_110
+sampleof:genpin

@@ -1,7 +1,7 @@
-description:Videotronics Draw Poker
+description:Challenger Draw Poker
 manufacturer:Videotronics, Inc.
 year:198?
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 savestate:unsupported
 kind:coinop

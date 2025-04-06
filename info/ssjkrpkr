@@ -1,7 +1,7 @@
 description:Southern Systems Joker Poker
 manufacturer:Southern Systems &amp; Assembly
 year:1982
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 savestate:unsupported
 kind:coinop

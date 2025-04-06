@@ -1,0 +1,10 @@
+description:Gaishi Xingxiong Tebie Ban (bootleg of Knights of Valour Super Heroes Plus, V302CN, Dec 29 2010 16:31:32)
+manufacturer:bootleg (WDF)
+year:2010
+status:preliminary
+emulation:preliminary
+savestate:supported
+kind:coinop
+romof:kovshp
+romof:pgm
+cloneof:kovshp

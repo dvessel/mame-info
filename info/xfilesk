@@ -1,8 +1,8 @@
-description:The X-Files (Censored, Korea)
+description:The X-Files (censored, Korea)
 manufacturer:dgPIX Entertainment Inc.
 year:1999
-status:imperfect
-emulation:good
+status:preliminary
+emulation:preliminary
 savestate:supported
 kind:coinop
 romof:xfiles

@@ -1,0 +1,9 @@
+description:Mahjong Oh (V2.06J 1999/11/23 08:52:22)
+manufacturer:Warashi / Mahjong Kobo / Taito
+year:1999
+status:imperfect
+emulation:good
+savestate:supported
+kind:coinop
+romof:coh3002t
+disk:mahjngoh

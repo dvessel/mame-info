@@ -1,0 +1,9 @@
+description:Heart of Antony (0252526, US)
+manufacturer:Aristocrat
+year:2005
+status:preliminary
+emulation:preliminary
+savestate:unsupported
+romof:antcleo
+romof:aristmk6
+cloneof:antcleo

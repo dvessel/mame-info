@@ -1,0 +1,8 @@
+description:Lian Huan Pao - ATT II
+manufacturer:Bordun
+year:200?
+status:imperfect
+emulation:good
+savestate:supported
+kind:coinop
+device:ym2413

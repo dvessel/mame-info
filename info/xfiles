@@ -1,7 +1,7 @@
 description:The X-Files
 manufacturer:dgPIX Entertainment Inc.
 year:1999
-status:imperfect
-emulation:good
+status:preliminary
+emulation:preliminary
 savestate:supported
 kind:coinop

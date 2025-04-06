@@ -1,7 +1,7 @@
-description:Fast Draw (poker conversion kit)?
-manufacturer:Stern Electronics?
+description:Fast Draw (poker conversion kit)
+manufacturer:Stern Electronics
 year:198?
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 savestate:unsupported
 kind:coinop
