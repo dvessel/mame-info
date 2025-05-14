@@ -1,8 +1,8 @@
 description:Animal House (set 4)
 manufacturer:bootleg
 year:1994
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 kind:coinop
 romof:scmaster
 cloneof:scmaster

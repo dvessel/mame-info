@@ -1,7 +1,7 @@
-description:Chess-Master (set 2)
+description:Chess-Master (model G-5003-500)
 manufacturer:VEB Mikroelektronik "Karl Marx" Erfurt
 year:1984
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 romof:chessmst
 cloneof:chessmst

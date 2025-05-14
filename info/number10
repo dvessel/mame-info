@@ -1,7 +1,6 @@
 description:Number Dieci (Poker)
-manufacturer:PlayMark SRL
+manufacturer:Playmark
 year:2000
 status:good
 emulation:good
 kind:coinop
-device:ym2413

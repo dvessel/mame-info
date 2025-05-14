@@ -1,0 +1,9 @@
+description:Ichi Ban Jyan (Ver 2.35)
+manufacturer:Excel
+year:1993
+status:preliminary
+emulation:preliminary
+kind:coinop
+device:ym2413
+romof:ichiban
+cloneof:ichiban

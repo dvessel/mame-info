@@ -1,9 +1,0 @@
-description:Maque Caihui Ying (Taiwan, ver 2.20)
-manufacturer:bootleg
-year:1996
-status:good
-emulation:good
-kind:coinop
-device:ym2413
-romof:mjmyuniv
-cloneof:mjmyuniv

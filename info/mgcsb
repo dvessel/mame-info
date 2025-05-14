@@ -1,0 +1,8 @@
+description:Manguan Caishen (China, V110C)
+manufacturer:IGS
+year:1998
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:mgcs
+cloneof:mgcs

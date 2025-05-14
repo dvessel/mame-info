@@ -1,5 +1,5 @@
-description:unknown poker game PKII/DM
+description:Draw Poker HI-LO (PKII/DM)
 year:198?
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 kind:coinop

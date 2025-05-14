@@ -4,6 +4,5 @@ year:1995
 status:preliminary
 emulation:preliminary
 device:ym2608
-device:upd7220
 romof:pc9821ce2
 cloneof:pc9821ce2

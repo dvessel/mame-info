@@ -1,5 +1,6 @@
-description:Lucky Bar (W-4 with mc68705 MCU)
+description:Lucky Bar (W-4 with MC68705 MCU)
 year:198?
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 kind:coinop
+device:m68705p5

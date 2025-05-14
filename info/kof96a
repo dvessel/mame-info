@@ -1,0 +1,9 @@
+description:The King of Fighters '96 (bug fix revision)
+manufacturer:SNK
+year:1996
+status:good
+emulation:good
+kind:coinop
+romof:kof96
+romof:neogeo
+cloneof:kof96

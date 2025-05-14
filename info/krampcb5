@@ -1,0 +1,8 @@
+description:Draw Poker HI-LO (bootleg, set 2)
+manufacturer:bootleg
+year:198?
+status:good
+emulation:good
+kind:coinop
+romof:krampcb2
+cloneof:krampcb2

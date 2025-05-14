@@ -1,0 +1,9 @@
+description:Mahjong Electron Base (parts 2 & 3, Japan set 3)
+manufacturer:Dynax
+year:1990
+status:good
+emulation:good
+kind:coinop
+device:ym2413
+romof:mjelctrn
+cloneof:mjelctrn

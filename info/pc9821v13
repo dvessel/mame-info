@@ -1,8 +1,0 @@
-description:PC-9821V13 (98MATE VALUESTAR)
-manufacturer:NEC
-year:1998
-status:preliminary
-emulation:preliminary
-device:pc9801_86
-device:ym2608
-device:upd7220

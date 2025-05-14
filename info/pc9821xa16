@@ -5,6 +5,5 @@ status:preliminary
 emulation:preliminary
 device:pc9801_86
 device:ym2608
-device:upd7220
 romof:pc9821xs
 cloneof:pc9821xs

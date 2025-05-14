@@ -1,0 +1,9 @@
+description:Rail Chase 2
+manufacturer:Sega
+year:1994
+status:imperfect
+emulation:good
+kind:coinop
+device:segabill
+romof:rchase2
+cloneof:rchase2

@@ -1,0 +1,9 @@
+description:PC-9801UV2
+manufacturer:NEC
+year:1986
+status:preliminary
+emulation:preliminary
+device:pc9801_26
+device:upd7220
+romof:pc9801vm
+cloneof:pc9801vm

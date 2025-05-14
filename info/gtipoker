@@ -1,6 +1,6 @@
-description:GTI Poker
-manufacturer:GTI Inc
+description:GTI Double or Nothing Draw Poker
+manufacturer:Game Technology Inc.
 year:1983
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 kind:coinop

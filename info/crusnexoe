@@ -1,0 +1,9 @@
+description:Cruis'n Exotica (version 1.0, build 8643)
+manufacturer:Midway
+year:1999
+status:preliminary
+emulation:preliminary
+kind:coinop
+device:tms32032
+romof:crusnexo
+cloneof:crusnexo

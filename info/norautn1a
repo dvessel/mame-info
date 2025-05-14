@@ -1,0 +1,8 @@
+description:Noraut Joker Poker (N1A)
+manufacturer:Noraut Ltd.
+year:1988
+status:good
+emulation:good
+kind:coinop
+romof:norautp
+cloneof:norautp

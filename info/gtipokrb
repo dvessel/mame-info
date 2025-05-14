@@ -1,0 +1,8 @@
+description:GTI Double or Nothing Draw Poker (Cleco)
+manufacturer:Game Technology Inc.
+year:1983
+status:good
+emulation:good
+kind:coinop
+romof:gtipoker
+cloneof:gtipoker

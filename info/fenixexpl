@@ -1,0 +1,8 @@
+description:Fenix (Explomatic, Spanish bootleg of Phoenix)
+manufacturer:bootleg (Explomatic)
+year:1980
+status:good
+emulation:good
+kind:coinop
+romof:phoenix
+cloneof:phoenix

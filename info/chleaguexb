@@ -1,0 +1,9 @@
+description:Champion League (v220I, dual program, set 2)
+manufacturer:Playmark
+year:1998
+status:good
+emulation:good
+kind:coinop
+device:ym2413
+romof:chleague
+cloneof:chleague

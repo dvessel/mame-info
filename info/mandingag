@@ -1,0 +1,8 @@
+description:Mandinga (bootleg of Amidar)
+manufacturer:bootleg
+year:1982
+status:good
+emulation:good
+kind:coinop
+romof:amidar
+cloneof:amidar

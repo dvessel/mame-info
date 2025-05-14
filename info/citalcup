@@ -4,6 +4,5 @@ year:199?
 status:good
 emulation:good
 kind:coinop
-device:ym2413
 romof:cpokerpk
 cloneof:cpokerpk
