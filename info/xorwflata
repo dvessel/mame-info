@@ -1,0 +1,8 @@
+description:Xor World (different hardware, ver 1.1, checksum 333462, prototype)
+manufacturer:Gaelco
+year:1990
+status:imperfect
+emulation:good
+kind:coinop
+romof:xorwflat
+cloneof:xorwflat

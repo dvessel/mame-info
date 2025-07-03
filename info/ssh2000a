@@ -1,0 +1,8 @@
+description:Super Shanghai 2000 (set 2, green board)
+manufacturer:bootleg
+year:2000
+status:good
+emulation:good
+kind:coinop
+romof:ssh2000
+cloneof:ssh2000

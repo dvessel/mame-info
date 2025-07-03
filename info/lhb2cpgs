@@ -1,0 +1,9 @@
+description:Long Hu Bang II: Cuo Pai Gaoshou (China, V127C)
+manufacturer:IGS
+year:1996
+status:preliminary
+emulation:preliminary
+kind:coinop
+device:ym2413
+romof:lhb2
+cloneof:lhb2

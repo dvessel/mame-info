@@ -2,8 +2,5 @@ description:Kaimen Hu
 manufacturer:BMC
 year:1996
 status:preliminary
-emulation:preliminary
-kind:coinop
+emulation:good
 device:ym2413
-romof:jxzh
-cloneof:jxzh

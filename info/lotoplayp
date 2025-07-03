@@ -1,0 +1,7 @@
+description:Loto-Play (PIC16C54)
+manufacturer:Gaelco / Covielsa
+year:1990?
+status:preliminary
+emulation:preliminary
+romof:lotoplay
+cloneof:lotoplay

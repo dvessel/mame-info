@@ -1,0 +1,8 @@
+description:Big Karnak (ver. 1.0, checksum 1e38b94)
+manufacturer:Gaelco
+year:1991
+status:good
+emulation:good
+kind:coinop
+romof:bigkarnk
+cloneof:bigkarnk

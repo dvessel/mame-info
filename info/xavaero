@@ -3,3 +3,5 @@ manufacturer:SSD Company LTD
 year:2005
 status:preliminary
 emulation:preliminary
+romof:xavjmat
+cloneof:xavjmat

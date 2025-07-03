@@ -1,0 +1,8 @@
+description:Happy Farm (Ver. IN.01.02.B)
+manufacturer:Astro Corp.
+year:2011
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:hapfarm
+cloneof:hapfarm

@@ -1,0 +1,9 @@
+description:Radikal Bikers (prototype)
+manufacturer:Gaelco
+year:1998
+status:preliminary
+emulation:preliminary
+kind:coinop
+device:tms32031
+romof:radikalb
+cloneof:radikalb

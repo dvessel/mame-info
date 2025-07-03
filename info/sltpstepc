@@ -1,0 +1,7 @@
+description:Pro Stepper Tele Cardioline (Salter fitness stepper, older hardware, ver. 1.0, checksum 8BF3)
+manufacturer:Salter Fitness / Gaelco
+year:199?
+status:preliminary
+emulation:preliminary
+romof:sltpstep
+cloneof:sltpstep

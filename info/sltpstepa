@@ -1,0 +1,7 @@
+description:Pro Stepper Tele Cardioline (Salter fitness stepper, V.1.0, checksum F208)
+manufacturer:Salter Fitness / Gaelco
+year:1997
+status:good
+emulation:good
+romof:sltpstep
+cloneof:sltpstep

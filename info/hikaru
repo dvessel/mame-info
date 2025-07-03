@@ -4,3 +4,6 @@ year:2000
 status:preliminary
 emulation:preliminary
 kind:bios
+kind:coinop
+device:mie
+device:jvs13551

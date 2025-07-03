@@ -1,0 +1,9 @@
+description:Knights of Valour / Sanguo Zhan Ji / Sangoku Senki (bootleg, ver. 112CN?)
+manufacturer:bootleg
+year:199?
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:kov
+romof:pgm
+cloneof:kov

@@ -1,6 +1,6 @@
-description:Goldart (Portugal)
-manufacturer:Covielsa / Gaelco
-year:1994
+description:Goldart (PIC16C54, Spain)
+manufacturer:Gaelco / Covielsa
+year:199?
 status:preliminary
 emulation:preliminary
 romof:goldart

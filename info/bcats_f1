@@ -1,0 +1,10 @@
+description:Bad Cats (LF-1)
+manufacturer:Williams
+year:1989
+status:preliminary
+emulation:good
+kind:mechanical
+kind:coinop
+romof:bcats_l5
+cloneof:bcats_l5
+sampleof:genpin

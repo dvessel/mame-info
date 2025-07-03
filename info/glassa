@@ -1,0 +1,8 @@
+description:Glass (ver 1.1, Break Edition, checksum 49D5E66B, Version 1994, set 2)
+manufacturer:OMK / Gaelco
+year:1994
+status:imperfect
+emulation:good
+kind:coinop
+romof:glass
+cloneof:glass

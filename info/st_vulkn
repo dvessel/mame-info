@@ -1,6 +1,8 @@
-description:Vulkan (Stella)
+description:Vulkan
 manufacturer:Stella
-year:199?
+year:1994
 status:preliminary
 emulation:preliminary
 kind:mechanical
+romof:action
+cloneof:action

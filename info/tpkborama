@@ -3,5 +3,6 @@ manufacturer:Boram
 year:1998
 status:preliminary
 emulation:preliminary
+kind:coinop
 romof:tpkboram
 cloneof:tpkboram

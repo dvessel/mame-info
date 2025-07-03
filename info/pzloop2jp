@@ -1,0 +1,9 @@
+description:Puzz Loop 2 (Japan 010201 Publicity)
+manufacturer:Mitchell (Capcom license)
+year:2001
+status:good
+emulation:good
+kind:coinop
+device:qsound_hle
+romof:pzloop2
+cloneof:pzloop2

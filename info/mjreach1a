@@ -1,0 +1,9 @@
+description:Mahjong Reach Ippatsu (Japan, NM526-01)
+manufacturer:Nihon System
+year:1998
+status:good
+emulation:good
+kind:coinop
+device:ym2413
+romof:mjreach1
+cloneof:mjreach1

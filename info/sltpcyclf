@@ -1,0 +1,7 @@
+description:Pro Cycle Tele Cardioline (Salter fitness bike, older hardware, ver. 1.0, checksum 1AF9)
+manufacturer:Salter Fitness / Gaelco
+year:199?
+status:preliminary
+emulation:preliminary
+romof:sltpcycl
+cloneof:sltpcycl

@@ -3,4 +3,7 @@ manufacturer:Sega
 year:2000
 status:preliminary
 emulation:preliminary
+kind:coinop
+device:mie
+device:jvs13551
 romof:hikaru

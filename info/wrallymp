@@ -1,0 +1,8 @@
+description:World Rallye Championship (prototype on Modular System, 23 Nov 1992)
+manufacturer:Gaelco
+year:1992
+status:good
+emulation:good
+kind:coinop
+romof:wrally
+cloneof:wrally

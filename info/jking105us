@@ -1,0 +1,9 @@
+description:Jungle King (V105US)
+manufacturer:IGS
+year:2000?
+status:good
+emulation:good
+kind:coinop
+device:ym2413
+romof:starzan
+cloneof:starzan

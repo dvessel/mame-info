@@ -1,0 +1,8 @@
+description:Master Boy (Italy, test version)
+manufacturer:Gaelco
+year:1991
+status:good
+emulation:good
+kind:coinop
+romof:mastboy
+cloneof:mastboy

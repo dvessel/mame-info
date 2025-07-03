@@ -1,0 +1,7 @@
+description:Goldart (PIC16C54, France, Covielsa license)
+manufacturer:Gaelco / Jeutel
+year:199?
+status:preliminary
+emulation:preliminary
+romof:goldart
+cloneof:goldart

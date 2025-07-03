@@ -1,6 +1,6 @@
-description:Bandit (US)
-manufacturer:Data East USA
+description:Bandit (US prototype)
+manufacturer:Data East USA / Incredible Technologies
 year:1989
-status:preliminary
-emulation:preliminary
+status:imperfect
+emulation:good
 kind:coinop

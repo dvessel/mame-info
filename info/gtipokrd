@@ -1,0 +1,8 @@
+description:GTI Double or Nothing Draw Poker (GoT PCB, set 3)
+manufacturer:Game Technology Inc.
+year:1983
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:gtipoker
+cloneof:gtipoker

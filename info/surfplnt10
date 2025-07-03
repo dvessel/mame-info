@@ -1,0 +1,9 @@
+description:Surf Planet (version 1.0)
+manufacturer:Gaelco
+year:1997
+status:imperfect
+emulation:good
+kind:coinop
+device:tms32031
+romof:surfplnt
+cloneof:surfplnt

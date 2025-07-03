@@ -1,0 +1,8 @@
+description:Double Axle (US, Rev 1, set 2)
+manufacturer:Taito America Corporation
+year:1991
+status:imperfect
+emulation:good
+kind:coinop
+romof:dblaxle
+cloneof:dblaxle

@@ -3,5 +3,6 @@ manufacturer:IGS
 year:2005
 status:preliminary
 emulation:preliminary
+kind:coinop
 romof:crzybugs
 cloneof:crzybugs

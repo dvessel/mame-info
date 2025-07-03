@@ -1,7 +1,7 @@
 description:ZX Spectrum Next: TBBlue
 manufacturer:SpecNext Ltd., Victor Trucco, Fabio Belavenuto
 year:2017
-status:imperfect
+status:good
 emulation:good
 romof:spec128
 cloneof:spec128

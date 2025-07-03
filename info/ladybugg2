@@ -1,0 +1,8 @@
+description:Lady Bug (bootleg on Galaxian hardware, encrypted)
+manufacturer:bootleg (TAI / DLI)
+year:1983
+status:good
+emulation:good
+kind:coinop
+romof:ladybug
+cloneof:ladybug

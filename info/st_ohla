@@ -1,6 +1,8 @@
-description:Oh La La (Stella)
+description:Oh La La
 manufacturer:Stella
-year:199?
+year:1996
 status:preliminary
 emulation:preliminary
 kind:mechanical
+romof:action
+cloneof:action

@@ -1,0 +1,9 @@
+description:Football Power (version 1.4)
+manufacturer:Gaelco
+year:1999
+status:imperfect
+emulation:good
+kind:coinop
+device:tms32031
+romof:footbpow
+cloneof:footbpow

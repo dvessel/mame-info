@@ -1,0 +1,8 @@
+description:EuroBEEB-3M (CU-Graph monochrome)
+manufacturer:Control Universal
+year:1984
+status:imperfect
+emulation:good
+device:ef9365
+romof:eurocube65
+cloneof:eurocube65

@@ -1,0 +1,8 @@
+description:Turbo Poker 1 (set 2)
+manufacturer:Micro Manufacturing
+year:1990
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:tpoker1
+cloneof:tpoker1

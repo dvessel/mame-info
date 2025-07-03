@@ -1,0 +1,8 @@
+description:Glass (ver 1.1, Break Edition, checksum 3D8A724F, Version 1994, unprotected, Korea)
+manufacturer:OMK / Gaelco (Promat license)
+year:1994
+status:imperfect
+emulation:good
+kind:coinop
+romof:glass
+cloneof:glass

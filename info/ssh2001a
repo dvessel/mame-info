@@ -1,0 +1,8 @@
+description:Super Shanghai 2001 (set 2, red board)
+manufacturer:bootleg
+year:2001
+status:good
+emulation:good
+kind:coinop
+romof:ssh2001
+cloneof:ssh2001

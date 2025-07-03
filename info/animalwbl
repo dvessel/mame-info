@@ -1,0 +1,8 @@
+description:Animal Wonders (ver A900, bootleg)
+manufacturer:bootleg
+year:199?
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:animalw
+cloneof:animalw

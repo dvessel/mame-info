@@ -1,0 +1,8 @@
+description:Xor World (ver 1.2, checksum DB5D10, prototype)
+manufacturer:Gaelco
+year:1990
+status:good
+emulation:good
+kind:coinop
+romof:xorworld
+cloneof:xorworld

@@ -1,0 +1,7 @@
+description:Goldart (PIC16C54, Germany)
+manufacturer:Gaelco / Covielsa
+year:199?
+status:preliminary
+emulation:preliminary
+romof:goldart
+cloneof:goldart

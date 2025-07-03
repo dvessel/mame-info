@@ -1,5 +1,6 @@
-description:MIUCHIZ Virtual Companions
+description:Miuchiz Virtual Companions common BIOS
 manufacturer:MGA Entertainment
 year:2006
 status:preliminary
 emulation:preliminary
+kind:bios

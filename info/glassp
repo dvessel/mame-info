@@ -1,0 +1,8 @@
+description:Glass (development PCB)
+manufacturer:OMK / Gaelco
+year:1993
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:glass
+cloneof:glass

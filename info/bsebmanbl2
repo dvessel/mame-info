@@ -1,8 +1,8 @@
 description:Bomberman (Version 6.6, J.T. bootleg)
 manufacturer:bootleg (J.T.)
 year:1999
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 kind:coinop
 romof:carrera
 cloneof:carrera

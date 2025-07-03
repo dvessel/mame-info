@@ -1,8 +1,8 @@
-description:Master Boy Version II (Italian, rev A)
+description:Master Boy Version II (Italy, set 1, checksum 618F)
 manufacturer:Gaelco (Playmark license)
 year:1992
-status:preliminary
-emulation:preliminary
+status:good
+emulation:good
 kind:coinop
 romof:mastboy
 cloneof:mastboy

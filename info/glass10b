@@ -1,0 +1,8 @@
+description:Glass (ver 1.0, Break Edition, checksum EBCB0BFE, 22 Nov 1993)
+manufacturer:OMK / Gaelco
+year:1993
+status:imperfect
+emulation:good
+kind:coinop
+romof:glass
+cloneof:glass

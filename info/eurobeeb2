@@ -1,0 +1,8 @@
+description:EuroBEEB-2 (Teletext)
+manufacturer:Control Universal
+year:1984
+status:good
+emulation:good
+device:saa5050
+romof:eurocube65
+cloneof:eurocube65

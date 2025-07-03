@@ -1,0 +1,8 @@
+description:Master Boy (1987, Z80 hardware)
+manufacturer:Gaelco
+year:1987
+status:good
+emulation:good
+kind:coinop
+romof:mastboyo
+cloneof:mastboyo

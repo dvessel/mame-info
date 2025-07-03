@@ -1,6 +1,6 @@
 description:Qiji 6 (V118CN)
 manufacturer:IGS
 year:2002
-status:preliminary
-emulation:preliminary
+status:imperfect
+emulation:good
 kind:coinop

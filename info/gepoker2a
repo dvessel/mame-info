@@ -1,0 +1,8 @@
+description:Poker (Version 50.02 ICB, set 3 alt)
+manufacturer:Greyhound Electronics
+year:1984
+status:imperfect
+emulation:good
+kind:coinop
+romof:gepoker
+cloneof:gepoker

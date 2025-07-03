@@ -1,0 +1,9 @@
+description:Speed Up (version 2.00, checksum 491B)
+manufacturer:Gaelco
+year:1996
+status:imperfect
+emulation:good
+kind:coinop
+device:tms32031
+romof:speedup
+cloneof:speedup

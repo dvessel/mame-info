@@ -1,0 +1,8 @@
+description:Lucky Star (newer Z180-based hardware, set 2)
+manufacturer:Wing Co., Ltd.
+year:1991
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:luckstrn
+cloneof:luckstrn

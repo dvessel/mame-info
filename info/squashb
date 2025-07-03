@@ -1,0 +1,8 @@
+description:Squash (newer PCB)
+manufacturer:Gaelco
+year:199?
+status:preliminary
+emulation:preliminary
+kind:coinop
+romof:squash
+cloneof:squash
